@@ -9,4 +9,4 @@ use-site-title: true
 # Notes
 * ## [Math](https://somphene.github.io/notes/math/)  
 * ## [Engineering](https://somphene.github.io/notes/engineering/)
-## [Talks](https://somphene.github.io/notes/talks/)   
+# [Talks](https://somphene.github.io/notes/talks/)   
