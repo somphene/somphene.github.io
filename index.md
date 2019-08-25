@@ -5,6 +5,8 @@ subtitle:
 use-site-title: true
 ---
 
-## [Math](https://somphene.github.io/notes/math)  
-## [Engineering](https://somphene.github.io/notes/engineering)  
-## [Talks](https://somphene.github.io/notes/talks)   
+# [Research](https://somphene.github.io/research/)
+# Notes
+* ## [Math](https://somphene.github.io/notes/math/)  
+* ## [Engineering](https://somphene.github.io/notes/engineering/)  
+## [Talks](https://somphene.github.io/notes/talks/)   
