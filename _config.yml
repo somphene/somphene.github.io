@@ -4,7 +4,7 @@
 title: Som Phene
 
 # Short description of your site
-description: Math and Engineering
+description: Mathematics and Engineering
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,7 @@ description: Math and Engineering
 navbar-links:
   Research: "research"
   Notes: 
-    - Math: "notes/math"
+    - Math: "notes/mathematics"
     - Engineering: "notes/engineering"
   Talks: "talks"
   
