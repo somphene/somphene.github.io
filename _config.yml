@@ -22,7 +22,8 @@ description: Mathematics and Engineering
 navbar-links:
   Research: "research"
   Notes: 
-    - Mathematics: "notes/math" and Engineering: "notes/engineering"
+    - Mathematics: "notes/math" 
+    - Engineering: "notes/engineering"
   Talks: "talks"
   
 
