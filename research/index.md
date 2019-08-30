@@ -24,7 +24,7 @@ use-site-title: true
 * Construction of Parametrix for constant coefficient elliptic operators. Prof. Melrose's [notes](http://math.mit.edu/~rbm/18-155-F13/GradAnal.pdf) were used as my primary reference   
 ### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion)
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
-[Jupyter Notebook](/kitaevpython.jpynb)
+[Jupyter Notebook](/kitaevpython.jpynb) was constructed after studying and using the following notebooks: 
 
 ### [Mie Scattering](/miescattering.pdf)     
 #### Electromagnetic Theory 1(PH308), Prof. Archana Pai, Dept. of Physics, IITB	
