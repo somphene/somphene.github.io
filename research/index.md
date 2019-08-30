@@ -21,8 +21,7 @@ use-site-title: true
 
 ### Hypoellipticity of Elliptic operators 
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
-* Construction of Parametrix for constant coefficient elliptic operators.
-   
+* Construction of Parametrix for constant coefficient elliptic operators. Prof. Melrose's [notes](http://math.mit.edu/~rbm/18-155-F13/GradAnal.pdf) were used as my primary reference   
 ### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion)
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
 [Jupyter Notebook](/kitaevpython.jpynb)
