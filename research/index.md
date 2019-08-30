@@ -22,7 +22,7 @@ Here's some of the course projects done by me at IIT Bombay. All of these requir
 
 ### Hypoellipticity of Elliptic operators 
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
-* Presented proof following Prof. Richard Melrose’s Notes on Graduate Analysis.
+* Construction of Parametrix for constant coefficient elliptic operators.
    
 ### Kitaev Model & Majorana Femions                                                                                                     
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
