@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Home
 subtitle: 
 use-site-title: true
 image: img/me.jpg
