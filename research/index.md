@@ -35,7 +35,7 @@ use-site-title: true
 ### Solitons and Solitary Waves ([Slides](soliton.pdf))                                                                                              
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented a review of KdV equation, simulated collision of multiple solitary waves in Mathematica.
-* Mathematica for simulations of [Chemical Kinetics](/chemicalkinetics.nb), [soliton collision](/solitoncollision.nb) 
+* Mathematica for simulations of [Chemical Kinetics](/chemicalkinetics.nb), [soliton collision](/solitoncollision.nb), dynamic plots of [solitons](/soliton.nb)  
 
 ### Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology      
 #### Introduction to Philosophy (HS301), Professor Amrita Banerjee, Dept. of HSS, IITB
