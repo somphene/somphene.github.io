@@ -10,6 +10,6 @@ use-site-title: true
 # [Linear Algebra](https://somphene.github.io/teaching/linearalgebra)
 # [Ordinary Differential Equations](https://somphene.github.io/teaching/odes)
 # [Quantum Physics](https://somphene.github.io/teaching/quantumphysics)
-# [Symmetry and Structure of Crystals](https://somphene.github.io/teaching/symmetry)   
+# [Symmetry and Structure of Crystals](https://somphene.github.io/teaching/symmetrystructurecrystal)   
  
 
