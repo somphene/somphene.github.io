@@ -5,7 +5,6 @@ subtitle:
 use-site-title: true
 
 ---
-Here's some of the course projects done by me at IIT Bombay. All of these required extensive reading of literature and devotion of significant time throughout the semester(s). In fact some of them turned out as products of thinking and working on similar ideas over a year or more. 
 
 ### Plasmonics
 * Extraordinary transmission in Plasmonic Microlens.
