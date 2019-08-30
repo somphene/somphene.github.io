@@ -12,5 +12,5 @@ use-site-title: true
 ### [Quantum Physics](https://somphene.github.io/teaching/quantumphysics)
 ### [Symmetry and Structure of Crystals](https://somphene.github.io/teaching/symmetrystructurecrystal)   
 
-## [Mentor (Summer of Science, Maths and Physics Club, IIT Bombay)](https://somphene.github.io/teaching/sos)
+## [Mentor (Summer of Science, Maths and Physics Club, IIT Bombay)](https://somphene.github.io/teaching/summer_of_science)
 
