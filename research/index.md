@@ -24,8 +24,8 @@ use-site-title: true
 * Construction of Parametrix for constant coefficient elliptic operators.
    
 ### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion)
-[Jupyter Notebook](/kitaevpython.jpynb)
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
+[Jupyter Notebook](/kitaevpython.jpynb)
 
 ### Mie Scattering     
 #### Electromagnetic Theory 1(PH308), Prof. Archana Pai, Dept. of Physics, IITB	
