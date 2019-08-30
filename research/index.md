@@ -36,9 +36,9 @@ use-site-title: true
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented a review of KdV equation, simulated collision of multiple solitary waves in Mathematica.
 
-### Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology 
-[Term Paper](https://drive.google.com/file/d/1AvQK7grQ3P8iAi-hHU9qaCMXh5bFXT94/view?usp=sharing)     
+### Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology      
 #### Introduction to Philosophy (HS301), Professor Amrita Banerjee, Dept. of HSS, IITB
+* [Term Paper](https://drive.google.com/file/d/1AvQK7grQ3P8iAi-hHU9qaCMXh5bFXT94/view?usp=sharing)
 
 ### SPPs on thin films and Leakage Radiation Microscopy (Slides)                                                   
 #### Physics of Nanostructures and Nanodevices (EP 432), Professor Anshuman Kumar, Department of Physics, IITB
