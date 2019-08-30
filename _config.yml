@@ -24,6 +24,7 @@ description: Mathematics and Engineering
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
+  Teaching : "teaching"
   Notes: 
     - Mathematics: "notes/math" 
     - Engineering: "notes/engineering"
