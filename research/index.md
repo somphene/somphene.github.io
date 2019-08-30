@@ -30,7 +30,7 @@ use-site-title: true
 ### [Mie Scattering](/miescattering.pdf)     
 #### Electromagnetic Theory 1(PH308), Prof. Archana Pai, Dept. of Physics, IITB	
                                              
-### Poincare-Hopf Index Theory (Notes) 
+### Poincare-Hopf Index Theory [Notes](/poincarehopfindex.pdf)
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 
 ### Solitons and Solitary Waves ([Slides](Soliton.pdf))                                                                                              
