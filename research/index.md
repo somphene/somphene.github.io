@@ -32,7 +32,7 @@ use-site-title: true
 ### Poincare-Hopf Index Theory (Notes) 
 #### Course: Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 
-### Solitons and Solitary Waves (Slides)                                                                                              
+### Solitons and Solitary Waves ([Slides](soliton.pdf)                                                                                              
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented a review of KdV equation, simulated collision of multiple solitary waves in Mathematica.
 
