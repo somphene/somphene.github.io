@@ -32,12 +32,12 @@ use-site-title: true
 ### Poincare-Hopf Index Theory (Notes) 
 #### Course: Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 
-### Solitons and Solitary Waves ([Slides](soliton.pdf)                                                                                              
+### Solitons and Solitary Waves ([Slides](soliton.pdf))                                                                                              
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented a review of KdV equation, simulated collision of multiple solitary waves in Mathematica.
 
 ### Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology 
-[Term Paper]()     
+[Term Paper](https://drive.google.com/file/d/1AvQK7grQ3P8iAi-hHU9qaCMXh5bFXT94/view?usp=sharing)     
 #### Introduction to Philosophy (HS301), Professor Amrita Banerjee, Dept. of HSS, IITB
 
 ### SPPs on thin films and Leakage Radiation Microscopy (Slides)                                                   
