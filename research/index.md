@@ -27,7 +27,7 @@ use-site-title: true
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
 [Jupyter Notebook](/kitaevpython.jpynb)
 
-### Mie Scattering     
+### [Mie Scattering](/miescattering.pdf)     
 #### Electromagnetic Theory 1(PH308), Prof. Archana Pai, Dept. of Physics, IITB	
                                              
 ### Poincare-Hopf Index Theory (Notes) 
