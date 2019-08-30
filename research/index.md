@@ -30,7 +30,7 @@ use-site-title: true
 #### Electromagnetic Theory 1(PH308), Prof. Archana Pai, Dept. of Physics, IITB	
                                              
 ### Poincare-Hopf Index Theory (Notes) 
-#### Course: Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
+#### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 
 ### Solitons and Solitary Waves ([Slides](soliton.pdf))                                                                                              
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
