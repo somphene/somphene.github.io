@@ -23,7 +23,7 @@ use-site-title: true
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
 * Construction of Parametrix for constant coefficient elliptic operators.
    
-### Kitaev Model & Majorana Femions                                                                                                     
+### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion)                                                                                                     
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
 
 ### Mie Scattering     
