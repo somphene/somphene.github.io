@@ -37,7 +37,8 @@ Here's some of the course projects done by me at IIT Bombay. All of these requir
 ### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented a review of KdV equation, simulated collision of multiple solitary waves in Mathematica.
 
-## Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology [Term Paper]()     
+## Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology 
+[Term Paper]()     
 ### Introduction to Philosophy (HS301), Professor Amrita Banerjee, Dept. of HSS, IITB
 
 ## SPPs on thin films and Leakage Radiation Microscopy (Slides)                                                   
