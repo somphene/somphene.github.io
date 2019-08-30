@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Home
+title: 
 subtitle: 
 use-site-title: true
+image: img/me.jpg
 ---
-![M] (https://somphene.github.io/img/me.jpg)
+
 # [Research](https://somphene.github.io/research/)
 # [Teaching](https://somphene.github.io/teaching/)   
 # Notes
