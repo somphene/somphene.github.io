@@ -21,6 +21,7 @@ use-site-title: true
 
 ### Philosophy and what not
 * [Nirvana and anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
+* Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing),[Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in UG info Booklet
 * Rant on being asked for [motivation](https://docs.google.com/document/d/e/2PACX-1vTymgoOYIjo7wfOnVziT746o_TaHlJiDZ7CehCD1U1RcLqotVZtcuog5YJJYHImLtTPk8sahhGY4IMh/pub) to apply for a job
 
 ### GRE Practice Essays 
