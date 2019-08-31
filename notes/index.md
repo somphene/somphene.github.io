@@ -13,6 +13,8 @@ use-site-title: true
 
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub) 
 
+### Matlab [code](https://drive.google.com/file/d/1DdeXEk0Os07tEyuYCMminoUKwGveoMbY/view?usp=sharing) for principal stress calculations
+
 ### Philosophy and what not
 
 * Rant on being asked for [motivation](https://docs.google.com/document/d/e/2PACX-1vTymgoOYIjo7wfOnVziT746o_TaHlJiDZ7CehCD1U1RcLqotVZtcuog5YJJYHImLtTPk8sahhGY4IMh/pub) to apply for a job
