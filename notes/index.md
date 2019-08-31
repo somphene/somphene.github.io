@@ -1,1 +1,3 @@
-# Hi
+# Notes
+
+Dynamical Systems 
