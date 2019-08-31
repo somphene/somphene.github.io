@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Symmetry and Structure of Crystals
-subtitle: 
+title: 
+subtitle: Symmetry and Structure of Crystals
 
 ---
 
