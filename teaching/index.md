@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Teaching & Outreach
-subtitle: 
+title: T & O
+subtitle: Teaching & Outreach
 use-site-title: false
 
 ---
-# Teaching & Outreach
+
 
 ### It requires no effort to see something new, the difficulty in learning lies in unlearning the biases that block our vision.
 
