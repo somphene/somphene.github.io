@@ -9,6 +9,7 @@ Students in my tutorial batch may please refer to the live [document](https://do
 
 This is the document from past year [Linear Algebra, MA 106](https://docs.google.com/document/d/e/2PACX-1vQT5-M2Gg4yGKblm7CBXUswg-9XiKuYwl4ibBLjfzmfwQtnTDVuBmxjFYGeg-1PF883Qozthtb88cGO/pub). 
 Last year, TAs were given independence to set the grading for 5 marks, I decided to take a test every week and three group activities for which the following papers were prepared by me.
-[Quiz 1](https://drive.google.com/file/d/1rdlOvk7hmwlYTpHAJUlpsq6PD57BO6Wj/view?usp=sharing)
+* [Test 1](https://drive.google.com/file/d/1rdlOvk7hmwlYTpHAJUlpsq6PD57BO6Wj/view?usp=sharing)
+* [Test 2](https://docs.google.com/document/d/1UsHpznehHm3jG4kRLUeBBshVk-cMNUEwowi8WLr2pe0/edit?usp=sharing)
 
 
