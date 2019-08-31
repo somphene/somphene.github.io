@@ -1,4 +1,10 @@
-# Notes
+---
+layout: page
+title: Notes
+subtitle: 
+use-site-title: true
+
+---
 
 ### Dynamical Systems 
 
