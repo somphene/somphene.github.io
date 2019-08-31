@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminars and Talks
+title: Seminars & Talks
 subtitle: 
 use-site-title: true
 
