@@ -5,6 +5,7 @@ subtitle:
 use-site-title: true
 
 ---
+#### It requieres no effort to see something new, the difficulty in learning lies in unlearning the biases that block our vision.
 ## Teaching Assistant for Courses at IIT Bombay
 ### [Calculus](https://somphene.github.io/teaching/calculus)
 ### [Linear Algebra](https://somphene.github.io/teaching/linearalgebra)
