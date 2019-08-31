@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Ordinary Differential Equations
-subtitle: 
+title: MA 108 IITB
+subtitle: Ordinary Differential Equations
 use-site-title: true
 
 ---
