@@ -2,7 +2,6 @@
 layout: page
 title: Teaching & Outreach
 subtitle: 
-use-site-title: true
 
 ---
 #### It requieres no effort to see something new, the difficulty in learning lies in unlearning the biases that block our vision.
