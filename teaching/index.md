@@ -18,7 +18,7 @@ use-site-title: true
 * Conducted Help sessions (concept review and problem solving) for PH 107 Quantum Physics and Applications, MA 106 Linear Algebra for the freshmen batch.
 * Please follow the [Student Support Services](https://www.facebook.com/sss.iitb/) page for announcements regarding further sessions.
 
-## TEACHING ASSISTANT (DEPARTMENT ACADEMIC MENTORSHIP PROGRAM)
+## Teaching Assistant (Department Academic Mentorship Program)
 * Conducted help (concept review and problem solving) sessions on many department courses for the junior batches of the deparmtent on demand. 
 * Class Representatives may contact DAMP team or send me an email (somphene1@gmail.com) for requesting a help session.
 
