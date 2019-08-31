@@ -15,7 +15,7 @@ description: Homepage of Som Phene
 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: imag/me.jpg
+#avatar: imag/me.jpg
 # baseurl should be an empty string
 #baseurl: ""
 
@@ -24,9 +24,9 @@ avatar: imag/me.jpg
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Teaching : "teaching"
+  Teaching \& Outreach : "teaching"
   Notes: "notes"
-  Talks: "talks"
+  Seminars \& Talks: "talks"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
