@@ -12,3 +12,5 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 * Midsem 16-20 Sept
 * Quiz 2 October 25
 
+### References:
+* Prof. Ghorpade's (Course Instructor) [page](http://www.math.iitb.ac.in/~srg/courses/autumn2019/MA105-D1/index.html)
