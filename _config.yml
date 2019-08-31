@@ -24,9 +24,9 @@ description: Homepage of Som Phene
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  Teaching and Outreach : "teaching"
+  Teaching & Outreach : "teaching"
   Notes: "notes"
-  Seminars and Talks: "talks"
+  Seminars & Talks: "talks"
   
 
 # Image to show in the navigation bar - image must be a square (width = height)
