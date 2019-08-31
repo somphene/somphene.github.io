@@ -4,7 +4,7 @@ title: MM 201 IITB
 subtitle: Symmetry and Structure of Crystals
 
 ---
-### X Ray Diffraction (XRD)
+### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub) (XRD)
 
 ### Crystallography (Bragg's Law)
 * [tutorial questions](https://docs.google.com/document/d/e/2PACX-1vTogJSfHCfKzlU1-TobYx6BvvW94SlSoxTw7lXiI-sYdYuNVTNaxiaAyLznlJxVvuFQ_gD78J09oyMP/pub)
