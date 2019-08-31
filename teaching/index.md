@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching
+title: Teaching and Outreach
 subtitle: 
 use-site-title: true
 
