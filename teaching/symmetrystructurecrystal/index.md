@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MM 201 IIT Bombay
+title: MM 201 IITB
 subtitle: Symmetry and Structure of Crystals
 
 ---
