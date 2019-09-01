@@ -1,3 +1,10 @@
+---
+layout: page
+title: SOS, MnP Club IITB
+subtitle: Summer of Science
+use-site-title: true
+
+---
 I have been a mentor for Summer of Science (SOS) of Maths and Physics Club, IIT Bombay for the last three summers.
 
 I was fortunate to interact with many bright students who were extremely committed to their project throughout the summer. Here are some of the best project reports:
