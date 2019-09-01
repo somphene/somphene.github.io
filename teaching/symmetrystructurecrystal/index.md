@@ -23,4 +23,4 @@ subtitle: Symmetry and Structure of Crystals
 * Elements of X-Ray Diffraction- Cullity
 
 ### Extra Reading (beyond this course) for those interested in the subject
-* [Notes](https://github.com/somphene/somphene.github.io/blob/master/notes/index.md#group-theory-and-symmetry)
+* [Notes](https://somphene.github.io/blob/master/notes/index.md#group-theory-and-symmetry)
