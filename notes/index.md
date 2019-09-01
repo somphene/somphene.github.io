@@ -17,6 +17,9 @@ use-site-title: true
 * [Lie Groups and Lie ALgebras](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 
+### Differential Geometry 
+* [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
+
 ### Analysis 
 * [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
 
