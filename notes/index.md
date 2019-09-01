@@ -29,6 +29,7 @@ use-site-title: true
 
 ### Nanoscience and Nanotechnology
 * [Graphene and Carbon Nanotube  Tight Binding derivation of Bandstructure](https://drive.google.com/file/d/1EepxJw4uoPgwE1xcrx9P8QBzgCrdMjNc/view?usp=sharing)
+* [Quantum Dots](https://drive.google.com/file/d/1EitUQpKcDribrRzXyuWGZcYL8_Rdy05P/view?usp=sharing)
 
 ### Computational Many Body Physics
 * [Time Evolving Block Decimation (TEBD)](https://drive.google.com/file/d/1EMDJc_GmBiT_YyEiSGTfKXB7W8LIkdtF/view?usp=sharing) based on PH 513, IITB by Prof. Soumya Bera.
