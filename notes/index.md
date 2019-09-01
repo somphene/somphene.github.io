@@ -11,7 +11,7 @@ use-site-title: true
 
 ### Group Theory and Symmetry 
 * [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing), I wrote these notes based on the lecture series given by Prof. Dipendra Prasad at IIT Bombay and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
-* [Lie Groups and Lie ALgebras](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing) based on MA 5108, IIT Bombay by Prof. Sudarshan Gurjar.
+* [Lie Groups and Lie ALgebras](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing) based on MA 5108, IIT Bombay by Prof. Sudarshan Gurjar. References followed include Hall and Chevalley.
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 
 
@@ -30,7 +30,7 @@ use-site-title: true
 
 ### Systems and Control
 * [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IIT Bombay by Prof. N. K. Khosla.
-* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing) based on SC 701, by Prof. Navin Khaneja
+* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), based on SC 701, by Prof. Navin Khaneja
 
 ### Philosophy and what not
 * [Nirvana and anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
