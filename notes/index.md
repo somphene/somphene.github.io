@@ -18,7 +18,7 @@ use-site-title: true
 
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
 
-### Mie Scattering Theory (https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
+### [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
 
 ### Matlab [code](https://drive.google.com/file/d/1DdeXEk0Os07tEyuYCMminoUKwGveoMbY/view?usp=sharing) for principal stress calculations.
 
