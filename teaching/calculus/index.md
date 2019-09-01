@@ -19,7 +19,7 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 * Stewart
 * Apostol
 
-## Further Reading (Beyond the scope of this course):
+## Further Reading (beyond the scope of this course):
 * Walter Rudin- Principles of Mathematical Analysis
 * Lang- Undergraduate Analysis
 * Tao- Analysis
