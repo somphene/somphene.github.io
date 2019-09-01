@@ -34,6 +34,8 @@ use-site-title: true
 * [Second Quantization, Optical Absorption in low dimensions](https://drive.google.com/file/d/1EqkfVCGT-jhSJfzcqN5HhIobJGA_IyjZ/view?usp=sharing)
 * [Nanolasers](https://drive.google.com/file/d/1F4CCSQ4QRkQITNqp-IofsZLGgHRSCZYz/view?usp=sharing)
 * [Mie Scattering Frohlich Condition](https://drive.google.com/file/d/1F4bCI3x1gaF0QPNnCmKmNm_-dezuLEiV/view?usp=sharing)
+* [Maxwell's Equations and Lasing](https://drive.google.com/file/d/1FAn4XjztKgQly8WO_OJO0A-ub4P6Hsnp/view?usp=sharing)
+
 ### Computational Many Body Physics
 * [Time Evolving Block Decimation (TEBD)](https://drive.google.com/file/d/1EMDJc_GmBiT_YyEiSGTfKXB7W8LIkdtF/view?usp=sharing) based on PH 513, IITB by Prof. Soumya Bera.
 * [Kitaev Model and Majorana Fermions](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view?usp=sharing)
