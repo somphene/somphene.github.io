@@ -46,3 +46,6 @@ use-site-title: true
 #### Physics of Nanostructures and Nanodevices (EP 432), Professor Anshuman Kumar, Department of Physics, IITB
 * Presented analysis of SPPs in thin lossy films, application to LRM  and reproduced dispersion plots (Ref.1,2).
 
+### Geometric Spectral Theory 
+* Reading the following [resources](https://drive.google.com/file/d/1DtQNvEjlCHVOs2aDuuZgZvHBln7l7thH/view?usp=sharing)
+
