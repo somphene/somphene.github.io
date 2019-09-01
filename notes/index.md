@@ -18,7 +18,7 @@ use-site-title: true
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 
 ### Analysis 
-* [Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
+* [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
 
 ### Micahel Atiyah's Work and Atiyah Singer Index Theorem
 * [Notes](https://drive.google.com/file/d/1ETN0-awXoA4YKi2LY7byqzaFiRHKLa3V/view?usp=sharing) based on lectures by Prof. MS. Raghunathan at IITB.
