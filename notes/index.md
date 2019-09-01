@@ -6,6 +6,11 @@ use-site-title: true
 
 ---
 
+### Partial Differential Equations 
+* [Modern Theory of Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1FWOGTAEcn1HyhrJeVET-pIALWU0H93u1/view?usp=sharing) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/).
+* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) primary reference was Prof. Richard Melrose's notes on Differential Analysis.
+* [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by Prof. Kirill Cherednichenko at IITB. 
+
 ### Ordinary Differential Equations and Dynamical Systems 
 * [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by Prof. Gopal Krishna Srinivasan. Coddington and Levinson, Brauer and Nohel, Lefschetz are standard references but none of them cover the breadth that he covers in this course. 
 * [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan.
