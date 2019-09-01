@@ -23,6 +23,4 @@ subtitle: Symmetry and Structure of Crystals
 * Elements of X-Ray Diffraction- Cullity
 
 ### Extra Reading (beyond this course) for those interested in the subject
-* Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) (based on PH 520, Prof. Ramadevi and other online resources), standard refernces for which are Hammermesh and Georgi.
-* [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on Lectures by Prof. Dipendra Prasad at IIT Bombay.
-
+* [Notes](https://github.com/somphene/somphene.github.io/blob/master/notes/index.md#group-theory-and-symmetry)
