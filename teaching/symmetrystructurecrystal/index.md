@@ -4,7 +4,7 @@ title: MM 201 IITB
 subtitle: Symmetry and Structure of Crystals
 
 ---
-### Doc
+### Live Document
 * Please use this [doc](https://docs.google.com/document/d/1LolvOTlQXjgoUoAa9VXdlVlFPrW_xnmf8abs0Jyk9_Y/edit?usp=sharing) maintained by me as a common platform to discuss doubts, problems and communicate.
 
 ### Notes
