@@ -4,6 +4,9 @@ title: MM 201 IITB
 subtitle: Symmetry and Structure of Crystals
 
 ---
+### Doc
+* Please use this [doc](https://docs.google.com/document/d/1LolvOTlQXjgoUoAa9VXdlVlFPrW_xnmf8abs0Jyk9_Y/edit?usp=sharing) maintained by me as a common platform to discuss doubts, problems and communicate.
+
 ### Notes
 * [Basic Terms to describe symmetries (groups) and Examples](https://drive.google.com/file/d/1DKfjXo2nxufEqZzxlnJnxpQClZsUjRS9/view?usp=sharing)
 * Lagrange Theorem, equivalence classes (partitions) by conjugacy and coset relations, symmetries of the plane, group actions, stabilizer, construction of dihedral group of symmetries for the regular n- gons [Tut 1](https://drive.google.com/file/d/1DNbJpA5fVLLn3Y-YrIxud18_d3xGr86a/view?usp=sharing)
