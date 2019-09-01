@@ -16,7 +16,8 @@ subtitle: Symmetry and Structure of Crystals
 ### Crystallography (Bragg's Law)
 * [tutorial questions](https://docs.google.com/document/d/e/2PACX-1vTogJSfHCfKzlU1-TobYx6BvvW94SlSoxTw7lXiI-sYdYuNVTNaxiaAyLznlJxVvuFQ_gD78J09oyMP/pub)
 
-
+### Extra Reading (beyond the course) for those interested in the subject
+* Advanced notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) (based on PH 520, Prof. Ramadevi and other online resources)
 
 ### References: 
 * MIT 3.60 Symmetry, Structure, Tensor Properties of Materials by Prof. Bernhardt Wuensch [youtube videos](https://youtu.be/vT_6DlaHcWQ), [MIT-OCW page](http://ocw.mit.edu/3-60F05)
