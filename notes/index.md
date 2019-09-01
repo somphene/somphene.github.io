@@ -28,6 +28,7 @@ use-site-title: true
 
 ### Systems and Control
 * [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IIT Bombay by Prof. N. K. Khosla.
+* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing) based on SC 701, by Prof. Navin Khaneja
 
 ### Philosophy and what not
 * [Nirvana and anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
