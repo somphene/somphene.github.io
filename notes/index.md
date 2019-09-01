@@ -7,7 +7,7 @@ use-site-title: true
 ---
 
 ### Dynamical Systems 
-
+[Lecture notes](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) from Prof. Muthusamy Vanninathan's course at IIT Bombay.
 ### Lie Groups, Symmetry and Shimura Varieties 
 * I wrote these [notes](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on the lecture series given by Prof. Dipendra Prasad at IIT Bombay and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
 
