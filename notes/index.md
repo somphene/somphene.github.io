@@ -26,6 +26,9 @@ use-site-title: true
 
 ### Matlab [code](https://drive.google.com/file/d/1DdeXEk0Os07tEyuYCMminoUKwGveoMbY/view?usp=sharing) for principal stress calculations.
 
+### Systems and Control
+* [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IIT Bombay by Prof. N. K. Khosla.
+
 ### Philosophy and what not
 * [Nirvana and anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
 * Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing), [Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in UG info Booklet
