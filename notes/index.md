@@ -20,6 +20,9 @@ use-site-title: true
 ### Micahel Atiyah's Work and Atiyah Singer Index Theorem
 * [Notes](https://drive.google.com/file/d/1ETN0-awXoA4YKi2LY7byqzaFiRHKLa3V/view?usp=sharing) based on lectures by Prof. MS. Raghunathan at IITB.
 
+### Numerical Analysis
+* [Topics in Numerical Analysis](https://drive.google.com/file/d/1EbgzWcE4cF5prpgku563FfM4rJdyQ7sH/view?usp=sharing) based on MA 856, IIT Bombay by Prof. A.K. Pani.
+
 ### Electromagnetic Theory
 * [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
 * [Final](https://drive.google.com/file/d/1EDYu5q_zY287isZAGDiZ_NALFI35nAve/view?usp=sharing), [BVP long hollow cylinder](https://drive.google.com/file/d/1EXFzHE2E-SYlHhniZ1v9OFOWqEI8ACNY/view?usp=sharing)
