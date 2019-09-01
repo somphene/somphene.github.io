@@ -26,7 +26,7 @@ use-site-title: false
 * Conducted help (concept review and problem solving) sessions on many department courses for the junior batches of the deparmtent on demand. 
 * Class Representatives may contact DAMP team or send me an email (somphene1@gmail.com) for requesting a help session.
 
-## Mentor (Summer of Science, Maths and Physics Club, IIT Bombay)
+## Mentor for Summer of Science (Maths and Physics Club, IIT Bombay)
 [SOS reports](https://somphene.github.io/teaching/summer_of_science)
 
 ## Course Reviewer (Institure Academic Council)
