@@ -13,7 +13,7 @@ use-site-title: true
 ### Density Functional Theory (DFT) 
 * Understanding First Principles approach to simulating materials.
 * Performing Density Functional Theory based IR and Raman spectrum calculations using Quantum Espresso.
-* Thermoelectric Properties of Doped Mg2Si using VASP, BoltzTrap.
+* Thermoelectric Properties of Doped Semiconductors using VASP, BoltzTrap.
 
 ### Rashba Spin Orbit Coupling in Graphene and Zigzag Nanoribbons 
 #### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
