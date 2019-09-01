@@ -14,24 +14,29 @@ use-site-title: true
 * [Lie Groups and Lie ALgebras](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing) based on MA 5108, IIT Bombay by Prof. Sudarshan Gurjar. References followed include Hall and Chevalley.
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 
-
 ### Analysis 
 * [Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
+
+### Micahel Atiyah's Work and Atiyah Singer Index Theorem
+* [Notes](https://drive.google.com/file/d/1ETN0-awXoA4YKi2LY7byqzaFiRHKLa3V/view?usp=sharing) based on lectures by Prof. MS. Raghunathan at IITB.
+
+### Electromagnetic Theory
+* [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
+* [Final](https://drive.google.com/file/d/1EDYu5q_zY287isZAGDiZ_NALFI35nAve/view?usp=sharing)
+
+### Computational Many Body Physics
+* [Time Evolving Block Decimation (TEBD)](https://drive.google.com/file/d/1EMDJc_GmBiT_YyEiSGTfKXB7W8LIkdtF/view?usp=sharing) based on PH 513, IITB by Prof. Soumya Bera.
+* [Kitaev Model and Majorana Fermions](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view?usp=sharing)
+
+### Systems and Control
+* [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IIT Bombay by Prof. N. K. Khosla.
+* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing),[Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, by Prof. Navin Khaneja
 
 ### Phase Transformations
 * Lecture notes, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written in [notes](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing).
 * My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing)
 
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
-
-### Electromagnetic Theory
-* [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
-* [Final](https://drive.google.com/file/d/1EDYu5q_zY287isZAGDiZ_NALFI35nAve/view?usp=sharing)
-### Matlab [code](https://drive.google.com/file/d/1DdeXEk0Os07tEyuYCMminoUKwGveoMbY/view?usp=sharing) for principal stress calculations.
-
-### Systems and Control
-* [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IIT Bombay by Prof. N. K. Khosla.
-* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing),[Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, by Prof. Navin Khaneja
 
 ### Philosophy and what not
 * [Nirvana and anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
