@@ -16,7 +16,9 @@ use-site-title: true
 * Lecture notes, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written in [notes](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing).
 * My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing)
 
-### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub) 
+### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
+
+### Mie Scattering Theory (https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
 
 ### Matlab [code](https://drive.google.com/file/d/1DdeXEk0Os07tEyuYCMminoUKwGveoMbY/view?usp=sharing) for principal stress calculations.
 
