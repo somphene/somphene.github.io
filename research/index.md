@@ -15,20 +15,20 @@ use-site-title: true
 * Performing Density Functional Theory based IR and Raman spectrum calculations using Quantum Espresso.
 * Thermoelectric Properties of Doped Semiconductors using VASP, BoltzTrap.
 
-### Rashba Spin Orbit Coupling in Graphene and Zigzag Nanoribbons 
-#### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
-* Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http://home.iitb.ac.in/~15d110001/RashbaSOCZigzag.pdf)) their analysis.
-
 ### Hypoellipticity of Elliptic operators 
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
 * Construction of Parametrix for constant coefficient elliptic operators. Prof. Melrose's [notes](http://math.mit.edu/~rbm/18-155-F13/GradAnal.pdf) were used as my primary reference   
+
+### Rashba Spin Orbit Coupling in Graphene and Zigzag Nanoribbons 
+#### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
+* Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http://home.iitb.ac.in/~15d110001/RashbaSOCZigzag.pdf)) their analysis.
 
 ### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion)
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
 [Jupyter Notebook](/kitaevpython.jpynb) was constructed after studying and using the following notebooks: 
 
-### [Mie Scattering](/miescattering.pdf)     
-#### Electromagnetic Theory 1(PH308), Prof. Archana Pai, Dept. of Physics, IITB	
+### [Mie Scattering](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)     
+#### Electromagnetic Theory 1 (PH308), Prof. Archana Pai, Dept. of Physics, IITB	
                                              
 ### Poincare-Hopf Index Theory [Notes](/poincarehopfindex.pdf)
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
