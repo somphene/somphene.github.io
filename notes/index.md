@@ -8,7 +8,7 @@ use-site-title: true
 
 ### Partial Differential Equations 
 * [Modern Theory of Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1FWOGTAEcn1HyhrJeVET-pIALWU0H93u1/view?usp=sharing) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/).
-* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) primary reference was [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
+* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) for which my primary reference is [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
 * [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by [Prof. Kirill Cherednichenko](http://people.bath.ac.uk/kc525/) at IITB. 
 
 ### Ordinary Differential Equations and Dynamical Systems 
