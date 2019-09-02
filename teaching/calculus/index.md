@@ -23,7 +23,7 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
 * [Walter Rudin- Principles of Mathematical Analysis](https://www.amazon.in/Principles-Mathematical-Analysis-Walter-Rudin/dp/1259064786)
-* Lang- Undergraduate Analysis
+* [Lang- Undergraduate Analysis](https://www.springer.com/gp/book/9780387948416)
 * Modern Master's exposition [Tao- Analysis](https://terrytao.wordpress.com/books/analysis-i/)
-* Munkres- Analysis on Manifolds 
+* [Munkres- Analysis on Manifolds](https://www.amazon.com/Analysis-Manifolds-Advanced-Books-Classics/dp/0201315963) 
 
