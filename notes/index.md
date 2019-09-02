@@ -8,17 +8,17 @@ use-site-title: true
 
 ### Partial Differential Equations 
 * [Modern Theory of Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1FWOGTAEcn1HyhrJeVET-pIALWU0H93u1/view?usp=sharing) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/).
-* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) primary reference was Prof. Richard Melrose's notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
+* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) primary reference was [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
 * [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by [Prof. Kirill Cherednichenko](http://people.bath.ac.uk/kc525/) at IITB. 
 
 ### Ordinary Differential Equations and Dynamical Systems 
-* [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by Prof. Gopal Krishna Srinivasan. Coddington and Levinson, Brauer and Nohel, Lefschetz are standard references but none of them cover the breadth that he covers in this course. 
+* [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). Coddington and Levinson, Brauer and Nohel, Lefschetz are standard references but none of them cover the breadth that he covers in this course. 
 * [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan.
 * [Index Theory](https://somphene.github.io/research/poincarehopfindex.pdf)
 
 
 ### Group Theory
-* [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing), I wrote these notes based on the lecture series given by Prof. Dipendra Prasad at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
+* [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing), I wrote these notes based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
 * [Lie Groups and Lie ALgebras](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 
