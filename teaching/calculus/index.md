@@ -17,8 +17,8 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 ### References:
 * Prof. Ghorpade's (Course Instructor) [page](http://www.math.iitb.ac.in/~srg/courses/autumn2019/MA105-D1/index.html)
 * Co-TA Aryaman Maithani's [MA 105 page](https://aryamanmaithani.github.io/tuts/ma-105/), also thanks to his tech savviness without which this page would not have existed either.
-* Stewart
-* Apostol
+* [Stewart](https://www.amazon.com/Calculus-7th-James-Stewart/dp/0538497815)
+* [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
 
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
