@@ -12,7 +12,7 @@ use-site-title: true
 * [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by [Prof. Kirill Cherednichenko](http://people.bath.ac.uk/kc525/) at IITB. 
 
 ### Ordinary Differential Equations and Dynamical Systems 
-* [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). Coddington and Levinson, Brauer and Nohel, Lefschetz are standard references but none of them cover the breadth that he covers in this course. 
+* [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). Coddington and Levinson, Brauer and Nohel, Lefschetz are the references but none of them cover the breadth that he covers in this course. 
 * [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan.
 * [Index Theory](https://somphene.github.io/research/poincarehopfindex.pdf)
 
