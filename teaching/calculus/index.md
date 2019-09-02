@@ -22,8 +22,8 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
-* Walter Rudin- Principles of Mathematical Analysis
+* [Walter Rudin- Principles of Mathematical Analysis](https://www.amazon.in/Principles-Mathematical-Analysis-Walter-Rudin/dp/1259064786)
 * Lang- Undergraduate Analysis
-* Tao- Analysis
+* Modern Master's exposition [Tao- Analysis](https://terrytao.wordpress.com/books/analysis-i/)
 * Munkres- Analysis on Manifolds 
 
