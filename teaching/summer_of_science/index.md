@@ -1,7 +1,7 @@
 ---
 layout: page
-title: SOS, MnP Club IITB
-subtitle: Summer of Science
+title: SOS
+subtitle: Summer of Science, MnP Club IITB
 use-site-title: true
 
 ---
