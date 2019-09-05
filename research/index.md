@@ -45,7 +45,7 @@ use-site-title: true
 
 ### SPPs on thin films and Leakage Radiation Microscopy (Slides)                                                   
 #### Physics of Nanostructures and Nanodevices (EP 432), Professor Anshuman Kumar, Department of Physics, IITB
-* Presented analysis of SPPs in thin lossy films, application to LRM  and reproduced dispersion plots (Ref.1,2).
+* Presented ([slides](http://home.iitb.ac.in/~15d110001/spplrm.pdf)) analysis of SPPs in thin lossy films, application to Leakage Radiation Microscopy and reproduced dispersion plots from the [paper](http://dsl.nju.edu.cn/litao/res/Plasmonic review/Review-Leakage radiation microscopy of surface plasmon polaritons.pdf) [Burke et.al.](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.33.5186).
 
 ### Geometric Spectral Theory 
 * Reading the following [references](https://drive.google.com/file/d/1DtQNvEjlCHVOs2aDuuZgZvHBln7l7thH/view?usp=sharing)
