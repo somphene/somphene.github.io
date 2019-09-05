@@ -7,10 +7,10 @@ use-site-title: true
 ---
 Students in my tutorial batch may refer to the live [document](https://docs.google.com/document/d/10l6oqrUJ1mfamFQIl7sz8On1pi-cwkyVZKzeHKpMflk/edit) which I maintain for this course. This document is constructed almost entirely out of interactions with students in my tutorial batch: their doubts and from discussing approaches to solving the tutorial sheets of MA 105. Other students may consult their own Teaching Assistants before refering to the above document. Those who are here just to learn the subject, may proceed as they wish.  
 
-[Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will be uploaded as the course proceeds.
+[Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will keep updating as the course proceeds.
 
 * Short Quiz every week at the start of tutorial Wednesday 2pm, this will be graded and returned to you every week by the next tutrial session.
-* Quiz 1 Sept 6
+* Quiz 1 Sept 11
 * Midsem Sept 16-21
 * Quiz 2 October 25
 
@@ -24,6 +24,6 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 * [Size of infinities](http://www.gardensofinfinity.com/)
 * [Walter Rudin- Principles of Mathematical Analysis](https://www.amazon.in/Principles-Mathematical-Analysis-Walter-Rudin/dp/1259064786)
 * [Lang- Undergraduate Analysis](https://www.springer.com/gp/book/9780387948416)
-* Modern Master's exposition [Tao- Analysis](https://terrytao.wordpress.com/books/analysis-i/)
+* Modern Master gives his exposition [Tao- Analysis](https://terrytao.wordpress.com/books/analysis-i/)
 * [Munkres- Analysis on Manifolds](https://www.amazon.com/Analysis-Manifolds-Advanced-Books-Classics/dp/0201315963) 
 
