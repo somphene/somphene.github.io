@@ -23,7 +23,7 @@ use-site-title: true
 #### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
 * Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http://home.iitb.ac.in/~15d110001/RashbaSOCZigzag.pdf)) their analysis.
 
-### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion)
+### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion.pdf)
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
 [Jupyter Notebook](/kitaevpython.jpynb) was constructed after studying and using the following notebooks: 
 
