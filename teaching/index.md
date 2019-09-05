@@ -29,7 +29,7 @@ use-site-title: false
 ## Mentor for Summer of Science (Maths and Physics Club, IIT Bombay)
 [SOS reports](https://somphene.github.io/teaching/summer_of_science)
 
-## Course Reviewer (Institure Academic Council)
+## Course Reviewer (Institute Academic Council)
 * Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing), [Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in [UG info Booklet](https://gymkhana.iitb.ac.in/~ugacademics/Docs/CourseInfo_Booklet.pdf), reviewed course content for HS 202 [Introduction to Philosophy of Science](https://drive.google.com/file/d/1XIBB8aamIRW9M7W35IGIdtmjhcuJzMZJ/view?usp=sharing)
 
 
