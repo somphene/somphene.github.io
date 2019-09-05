@@ -21,7 +21,7 @@ use-site-title: true
 
 ### Rashba Spin Orbit Coupling in Graphene and Zigzag Nanoribbons 
 #### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
-* Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http://home.iitb.ac.in/~15d110001/RashbaSOCZigzag.pdf)) their analysis.
+* Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http:/.pdf)) their analysis.
 
 ### Kitaev Model & Majorana Femions
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
