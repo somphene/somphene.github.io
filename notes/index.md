@@ -6,11 +6,11 @@ use-site-title: true
 
 ---
 
-### Partial Differential Equations 
+### Partial Differential Equations and Homogenization
 * [Modern Theory of Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1FWOGTAEcn1HyhrJeVET-pIALWU0H93u1/view?usp=sharing) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/).
 * [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) for which my primary reference is [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
 * [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by [Prof. Kirill Cherednichenko](http://people.bath.ac.uk/kc525/) at IITB. 
-
+* [Hille-Yosida, Holder Regularity of Laplacian, Radon Transforms, Perron's Method](https://drive.google.com/file/d/1nKG0bSbi872hfLrdOGGOHrCC3Km73ZMq/view?usp=sharing) based on course projects done by Vaibhav Kumar, Soumyajit Saha, Ankur Pandey and Soham Chatterjee in MA 534, IITB. 
 ### Ordinary Differential Equations and Dynamical Systems 
 * [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). Coddington and Levinson, Brauer and Nohel, Lefschetz are the references but none of them cover the breadth that he covers in this course. 
 * [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan.
@@ -29,7 +29,7 @@ use-site-title: true
 ### Analysis 
 * [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
 
-### Micahel Atiyah's Work and Atiyah Singer Index Theorem
+### Michael Atiyah's Work (Highlight- the Atiyah Singer Index Theorem)
 * [Notes](https://drive.google.com/file/d/1ETN0-awXoA4YKi2LY7byqzaFiRHKLa3V/view?usp=sharing) based on lectures by Prof. MS. Raghunathan at IITB.
 
 ### Numerical Analysis
@@ -62,7 +62,7 @@ use-site-title: true
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
 
 ### Philosophy and what not
-* [Nirvana and anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
+* [Nirvana and Anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
 * Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing), [Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in UG info Booklet
 * Rant on being asked for [motivation](https://docs.google.com/document/d/e/2PACX-1vTymgoOYIjo7wfOnVziT746o_TaHlJiDZ7CehCD1U1RcLqotVZtcuog5YJJYHImLtTPk8sahhGY4IMh/pub) to apply for a job
 
