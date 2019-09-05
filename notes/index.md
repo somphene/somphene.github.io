@@ -24,7 +24,7 @@ use-site-title: true
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 
 ### Differential Geometry 
-* [Differential Geomtric methods in Control](https://drive.google.com/file/d/1xAMVUd-FP0LARCA502kGICQn8q4VBORd/view?usp=drivesdk) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
+* [Differential Geomtric methods in Control](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
 
 ### Analysis 
