@@ -6,6 +6,7 @@ use-site-title: true
 
 ---
 
-Please visit Prof. Gopal Krishna Srinivasan's [homepage](http://www.math.iitb.ac.in/~gopal/) for the updated version of the [notes](). I was the teaching assistant for this course when he was the instructor and the effort he has put into creating these notes is unparalleled. I mostly followed the notes while teaching, including some applications more pertinent to engineers time and again.
+Please visit Prof. Gopal Krishna Srinivasan's [homepage](http://www.math.iitb.ac.in/~gopal/) for the updated version of the [notes](http://www.math.iitb.ac.in/~gopal/MA108/ma108_handwritten_notes_2008.pdf). When he was the instructor, the effort he put into creating these notes is unparalleled. I mostly followed the notes while teaching, including some applications more pertinent to engineers time and again.
 
-
+### References:
+* 
