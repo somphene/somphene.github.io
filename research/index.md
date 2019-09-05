@@ -23,9 +23,10 @@ use-site-title: true
 #### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
 * Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http://home.iitb.ac.in/~15d110001/RashbaSOCZigzag.pdf)) their analysis.
 
-### [Kitaev Model & Majorana Femions](/kitaevmodelmajoranafermion.pdf)
+### Kitaev Model & Majorana Femions
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
-[Jupyter Notebook](/kitaevpython.jpynb) was constructed after studying and using the following notebooks: 
+* Presented [slides](https://somphene.github.io/research/kitaevmodelmajoranafermion.pdf) and [code](/kitaevmodelmajoranafermion.pdf) covering Kitaev Model on Honeycomb lattice, Majorana Fermions, Jordan Wigner Transformations, Quantum Statistics, Topological Phase based on my [notes](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view) from Prof. Diptiman Sen's lectures at TIFR. 
+* [Jupyter Notebook](/kitaevpython.jpynb) was constructed after studying the following notebooks: [Ising ED](/IsingExactDiagonalization-checkpoint.ipynb), [Anderson Localization](/AndersonLocalization-checkpoint.ipynb) and [Right MPS](/ConstructingRightNormalizedMPS-checkpoint.ipynb).
 
 ### [Mie Scattering](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)     
 #### Electromagnetic Theory 1 (PH308), Prof. Archana Pai, Dept. of Physics, IITB	
