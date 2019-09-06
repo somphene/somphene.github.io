@@ -11,6 +11,7 @@ subtitle: Symmetry and Structure of Crystals
 * [Basic Terms to describe symmetries (groups) and Examples](https://drive.google.com/file/d/1DKfjXo2nxufEqZzxlnJnxpQClZsUjRS9/view?usp=sharing)
 * [Tut 1](https://drive.google.com/file/d/1DNbJpA5fVLLn3Y-YrIxud18_d3xGr86a/view?usp=sharing) Lagrange Theorem, equivalence classes (partitions) by conjugacy and coset relations, symmetries of the plane, group actions, stabilizer, construction of dihedral group of symmetries for the regular n- gons.
 * [2D projections for point group identification](https://pubs.acs.org/doi/pdf/10.1021/ed500898p)
+* [Determining Point groups](https://en.m.wikibooks.org/wiki/Advanced_Inorganic_Chemistry/Molecular_Point_Group)
 
 ### Quiz 
 * [Quiz 1 Discussion](https://drive.google.com/file/d/1GYEL5Oj8wSHT3Sld20eb2RQG34EPvZYO/view?usp=drivesdk)
