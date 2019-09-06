@@ -6,14 +6,13 @@ use-site-title: true
 
 ---
 
-### [Plasmonics](/plasmonics_metamaterials.pdf)
-* Extraordinary transmission in Plasmonic Microlens.
-* Analyzing transmission of plasmonic microlens in square gold plate using Lumerical FDTD simulations.
+### Plasmonics
+* Presented [Literature Review](/plasmonics_metamaterials.pdf).
+* Analyzed extraordinary transmission of plasmonic microlens in square gold plate using Lumerical FDTD simulations.
 
 ### Density Functional Theory (DFT) 
-* Understanding First Principles approach to simulating materials.
-* Performing Density Functional Theory based IR and Raman spectrum calculations using Quantum Espresso.
-* Thermoelectric Properties of Doped Semiconductors using VASP, BoltzTrap.
+* Performed Density Functional Theory based IR and Raman spectrum calculations using Quantum Espresso.
+* DFT Calculations for Thermoelectric Properties of Doped Semiconductors using VASP, BoltzTrap.
 
 ### Hypoellipticity of Elliptic operators 
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
@@ -36,8 +35,7 @@ use-site-title: true
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented ([Slides](https://docs.google.com/presentation/d/e/2PACX-1vS9bgRcnedoBFPlIKGGn7Vn-VtkNfd1HfeDI4B3rZNtzoVMwqg_RK--rt9ikXZjoFbAGC4cewGlUFRY/pub?start=false&loop=false&delayms=60000)) on Index theory and applications to Alegebraic Topology. [Preparatory Notes](/poincarehopfindex.pdf).
 
-### Solitons and Solitary Waves ([Slides](Soliton.pdf))                                                                                              
-#### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
+### Solitons and Solitary Waves ([Slides](Soliton.pdf))                                                                                 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented a review of KdV equation, demonstrated Mathematica Notebooks for simulations of [Chemical Kinetics](/chemicalkinetics.nb), [soliton collision](/solitoncollision.nb), dynamic plots of [solitons](/Soliton.nb). Notebooks may be run online on [CoCalc Jupyter](https://cocalc.com/doc/jupyter-notebook.html).
 
 ### Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology      
