@@ -28,7 +28,7 @@ Soon to come:
 * Frank Hoffman and Michael Sartor (Universitat Hamburg) have made a brilliant youtube video series on [symmetry in crystals](https://youtu.be/aB7PUoPxjAM), slides and pdfs on this [site](https://crystalsymmetry.wordpress.com/yt/)
 * Cotton Chemical applications of group theory
 * Elements of X-Ray Diffraction- Cullity
-* M. Artin Algebra Chaoter 6 Symmetry
+* M. Artin Algebra Chapter 6 Symmetry
 
 ### Extra Reading (beyond this course) for those interested in the subject
 * [Notes](https://somphene.github.io/notes) Section on Group Theory and Symmetry
