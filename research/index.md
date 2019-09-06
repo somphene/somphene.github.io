@@ -32,8 +32,9 @@ use-site-title: true
 #### Electromagnetic Theory 1 (PH308), Prof. Archana Pai, Dept. of Physics, IITB	
 * Presented [Slides](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing) on Mie theory and scattering by a dielectric sphere, solution of scalar Helmholtz equation by wave vector formalism.
                                              
-### Poincare-Hopf Index Theory [Notes](/poincarehopfindex.pdf)
+### Poincare-Hopf Index Theory 
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
+* Presented ([Slides](https://docs.google.com/presentation/d/e/2PACX-1vS9bgRcnedoBFPlIKGGn7Vn-VtkNfd1HfeDI4B3rZNtzoVMwqg_RK--rt9ikXZjoFbAGC4cewGlUFRY/pub?start=false&loop=false&delayms=60000)) on Index theory and applications to Alegebraic Topology. [Preparatory Notes](/poincarehopfindex.pdf).
 
 ### Solitons and Solitary Waves ([Slides](Soliton.pdf))                                                                                              
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
