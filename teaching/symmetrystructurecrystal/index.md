@@ -15,7 +15,10 @@ subtitle: Symmetry and Structure of Crystals
 
 ### Quiz 
 * [Quiz 1 Discussion](https://drive.google.com/file/d/1GYEL5Oj8wSHT3Sld20eb2RQG34EPvZYO/view?usp=drivesdk)
-
+Marking Scheme:
+* 1. Computing the conjugacy classes correctly -3.
+* 2. Final answer-1, Find Multiplicative Identity-1, Show that an inverse element may not exist-1.  
+* 3. Showing all symmetry operations:{E, C2x,C2y,C2z,v,v',h,S2} -2, Inversion i=S2 and hence not listed separately-1, point group-1.
 Soon to come:
 
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub) (XRD)
@@ -29,6 +32,9 @@ Soon to come:
 * Cotton Chemical applications of group theory
 * Elements of X-Ray Diffraction- Cullity
 * M. Artin Algebra Chapter 6 Symmetry
+
+### Extra Questions
+* Find out the relationship between Quaternion Group and rotational isometries of the cube. Use this to find the Automorphism group of Q8.
 
 ### Extra Reading (beyond this course) for those interested in the subject
 * [Notes](https://somphene.github.io/notes) Section on Group Theory and Symmetry
