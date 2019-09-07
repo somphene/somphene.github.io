@@ -7,12 +7,12 @@ use-site-title: true
 ---
 
 ### Plasmonics
-* Presented [Literature Review](/plasmonics_metamaterials.pdf).
-* Analyzed extraordinary transmission of plasmonic microlens in square gold plate using Lumerical FDTD simulations.
+* [Literature Review (Slides)](/plasmonics_metamaterials.pdf).
+* Analysis of Extraordinary transmission of plasmonic microlens in square gold plate using [Lumerical FDTD](https://www.lumerical.com/products/fdtd/) simulations.
 
 ### Density Functional Theory (DFT) 
-* Performed Density Functional Theory based IR and Raman spectrum calculations using Quantum Espresso.
-* DFT Calculations for Thermoelectric Properties of Doped Semiconductors using VASP, BoltzTrap.
+* Density Functional Theory based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/).
+* DFT Calculations for Thermoelectric Properties of Doped Semiconductors using [VASP](https://www.vasp.at/), [BoltzTrap](https://www.imc.tuwien.ac.at//forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
 
 ### Hypoellipticity of Elliptic operators 
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
