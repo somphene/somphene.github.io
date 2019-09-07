@@ -18,10 +18,6 @@ use-site-title: true
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
 * Presented [Proof](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view), including the construction of Parametrix for constant coefficient elliptic operators. Prof. Melrose's [notes](http://math.mit.edu/~rbm/18-155-F13/GradAnal.pdf) were my primary reference.   
 
-### Rashba Spin Orbit Coupling in Graphene and Zigzag Nanoribbons 
-#### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
-* Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http:/.pdf)) their analysis.
-
 ### Kitaev Model & Majorana Femions
 #### Computational Many Body Physics (PH513), Prof. Soumya Bera, Dept. of Physics, IITB
 * Presented [slides](https://somphene.github.io/research/kitaevmodelmajoranafermion.pdf) and [code](/kitaevpresent.ipynb) covering Kitaev Model on Honeycomb lattice, Majorana Fermions, Jordan Wigner Transformations, Quantum Statistics, Topological Phase based on my [notes](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view) from Prof. Diptiman Sen's lectures at TIFR. 
@@ -30,6 +26,10 @@ use-site-title: true
 ### Mie Scattering     
 #### Electromagnetic Theory 1 (PH308), Prof. Archana Pai, Dept. of Physics, IITB	
 * Presented [Slides](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing) on Mie theory and scattering by a dielectric sphere, solution of scalar Helmholtz equation by wave vector formalism.
+
+### Rashba Spin Orbit Coupling in Graphene and Zigzag Nanoribbons 
+#### Introduction to Nanoscience and Nanotechnology (EP 425), Prof. Anshuman Kumar, Dept. of Physics 
+* Reproduced plots from [this paper](https://arxiv.org/pdf/0901.0160.pdf) using  Matlab and presented ([Slides](http:/.pdf)) their analysis.
                                              
 ### Poincare-Hopf Index Theory 
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
