@@ -36,15 +36,15 @@ use-site-title: true
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
 * Presented ([Slides](https://docs.google.com/presentation/d/e/2PACX-1vS9bgRcnedoBFPlIKGGn7Vn-VtkNfd1HfeDI4B3rZNtzoVMwqg_RK--rt9ikXZjoFbAGC4cewGlUFRY/pub?start=false&loop=false&delayms=60000)) on Index theory and applications to Alegebraic Topology. [Preparatory Notes](/poincarehopfindex.pdf).
 
-### Solitons and Solitary Waves ([Slides](Soliton.pdf))                                                                            
+### Solitons and Solitary Waves                                                                             
 #### Nonlinear Dynamics (PH542), Prof. Punit Parmananda, Dept. of Physics, IITB
-* Presented a review of KdV equation, demonstrated Mathematica Notebooks for simulations of [Chemical Kinetics](/chemicalkinetics.nb), [soliton collision](/solitoncollision.nb), dynamic plots of [solitons](/Soliton.nb). Notebooks may be run online on [CoCalc Jupyter](https://cocalc.com/doc/jupyter-notebook.html).
+* Presented a review ([Slides](/Soliton.pdf)) of KdV equation, demonstrated Mathematica Notebooks for simulations of [Chemical Kinetics](/chemicalkinetics.nb), [soliton collision](/solitoncollision.nb), dynamic plots of [solitons](/Soliton.nb). Notebooks may be run online on [CoCalc Jupyter](https://cocalc.com/doc/jupyter-notebook.html).
 
 ### Nirvana and Anattavada (No-Self theory) in Buddhist Philosophy via Topology      
 #### Introduction to Philosophy (HS301), Professor Amrita Banerjee, Dept. of HSS, IITB
 * [Term Paper](https://drive.google.com/file/d/1AvQK7grQ3P8iAi-hHU9qaCMXh5bFXT94/view?usp=sharing) relating Jordan Brouwer Separation Theorem to Anattavada in Buddhist philosophy, Buddha’s logic to Topos theory.
 
-### SPPs on thin films and Leakage Radiation Microscopy (Slides)                                                   
+### SPPs on thin films and Leakage Radiation Microscopy                                                   
 #### Physics of Nanostructures and Nanodevices (EP 432), Professor Anshuman Kumar, Department of Physics, IITB
 * Presented ([slides](/spplrm.pdf)) analysis of SPPs in thin lossy films, application to Leakage Radiation Microscopy and reproduced dispersion plots from [Drezet et.al.](http://202.119.32.195/cache/3/03/dsl.nju.edu.cn/3b74d77e24802eecef15fa91d4733a2c/Review-Leakage%20radiation%20microscopy%20of%20surface%20plasmon%20polaritons.pdf) and [Burke et.al.](https://journals.aps.org/prb/pdf/10.1103/PhysRevB.33.5186).
 
