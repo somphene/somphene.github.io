@@ -6,7 +6,7 @@ use-site-title: true
 
 ---
 
-### B.Tech Seminar: Applied Photonics in Metamaterials [Report](/applied_photonics_in_metamaterials.pdf) and [Slides](/applied_photonics_in_metamaterials.pptx)
+### B.Tech Seminar: Applied Photonics in Metamaterials [Report](research/applied_photonics_in_metamaterials.pdf) and [Slides](/applied_photonics_in_metamaterials.pptx)
 
 ### Manufacturing Processes Seminar [BJT Manufacturing](/bjt_manufacturing.pdf)
 
