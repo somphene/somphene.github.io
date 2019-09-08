@@ -11,7 +11,7 @@ use-site-title: true
 * [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) for which my primary reference is [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
 * [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by [Prof. Kirill Cherednichenko](http://people.bath.ac.uk/kc525/) at IITB. 
 * [Hille-Yosida, Holder Regularity of Laplacian, Radon Transform for Wave Equation, Perron's Method](https://drive.google.com/file/d/1nKG0bSbi872hfLrdOGGOHrCC3Km73ZMq/view?usp=sharing) based on course projects done by Vaibhav Kumar, Soumyajit Saha, Ankur Pandey and Soham Chatterjee in MA 534, IITB. 
-* [Numerical Methods for Partial Differential Equations](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by Prof. Harsha Hutridurga.
+* [Numerical Methods for Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by Prof. Harsha Hutridurga.
 
 ### Ordinary Differential Equations and Dynamical Systems 
 * [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). Coddington and Levinson, Brauer and Nohel, Lefschetz are the references but none of them cover the breadth that he covers in this course. 
