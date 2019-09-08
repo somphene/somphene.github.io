@@ -6,9 +6,10 @@ use-site-title: true
 
 ---
 
-### Plasmonics
+### Plasmonics and Metamaterials
 * [Literature Review (Slides)](/plasmonics_metamaterials.pdf).
 * Analysis of Extraordinary transmission of plasmonic microlens in square gold plate using [Lumerical FDTD](https://www.lumerical.com/products/fdtd/) simulations.
+* Applied photonics in Metamaterials [Seminar report](/applied_photonics_in_metamaterials.pdf).
 
 ### Density Functional Theory (DFT) 
 * Density Functional Theory based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/).
