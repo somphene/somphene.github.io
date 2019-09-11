@@ -19,7 +19,7 @@ use-site-title: true
 * [Index Theory](https://somphene.github.io/research/poincarehopfindex.pdf)
 
 ### Steklov Eigenvalues
-* Studied literature, specifically extremal eigenvalue problems in connection to minimal surfaces. [Notes](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
+* [Extremal eigenvalue problems in connection to minimal surfaces](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
 * [Hersch's Theorem](https://drive.google.com/file/d/1JbBvVg-sBR2VhEAC3zZkH1q3kISvd5Jn/view?usp=drivesdk) for first Steklov Eigenvalue convergence.
 * [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk)
 
