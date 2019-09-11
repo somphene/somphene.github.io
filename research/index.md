@@ -11,6 +11,11 @@ use-site-title: true
 * Analysis of Extraordinary transmission of plasmonic microlens in square gold plate using [Lumerical FDTD](https://www.lumerical.com/products/fdtd/) simulations.
 * Applied photonics in Metamaterials [Seminar report](/applied_photonics_in_metamaterials.pdf).
 
+### Steklov Eigenvalues
+* Studied literature, specifically extremal eigenvalue problems in connection to minimal surfaces. [Notes](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
+* [Hersch's Theorem](https://drive.google.com/file/d/1JbBvVg-sBR2VhEAC3zZkH1q3kISvd5Jn/view?usp=drivesdk) for first Steklov Eigenvalue convergence.
+* [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk)
+
 ### Density Functional Theory (DFT) 
 * Density Functional Theory based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/).
 * DFT Calculations for Thermoelectric Properties of Doped Semiconductors using [VASP](https://www.vasp.at/), [BoltzTrap](https://www.imc.tuwien.ac.at//forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
