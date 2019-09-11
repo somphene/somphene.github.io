@@ -18,6 +18,10 @@ use-site-title: true
 * [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan. Perko, Hirsch and Smale are the references.
 * [Index Theory](https://somphene.github.io/research/poincarehopfindex.pdf)
 
+### Steklov Eigenvalues
+* Studied literature, specifically extremal eigenvalue problems in connection to minimal surfaces. [Notes](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
+* [Hersch's Theorem](https://drive.google.com/file/d/1JbBvVg-sBR2VhEAC3zZkH1q3kISvd5Jn/view?usp=drivesdk) for first Steklov Eigenvalue convergence.
+* [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk)
 
 ### Group Theory
 * [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing), I wrote these notes based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
