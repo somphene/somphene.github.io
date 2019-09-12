@@ -31,7 +31,7 @@ use-site-title: true
 
 ### Differential Topology and Geometry 
 * [Differential Topology](https://drive.google.com/file/d/1HTEGakTTIn--EQLuC-CEk8N-W6lgYzxJ/view?usp=sharing)
-* [Differential Geomtry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
+* [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
 
 ### Analysis 
