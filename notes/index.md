@@ -7,16 +7,16 @@ use-site-title: true
 ---
 
 ### Partial Differential Equations and Homogenization
-* [Modern Theory of Partial Differential Equations (PDEs)](/modern_theory_pde.pdf) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/). Folland, Jeffrey Rauch, Taylor, Jost were the references.  
-* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing) for which my primary reference was [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
+* [Modern Theory of Partial Differential Equations (PDEs)](/modern_theory_pde.pdf) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/). References: Folland, Jeffrey Rauch, Taylor, Jost. Elliptic PDEs, Fourier transforms, Fundamental Solution, Distributions, Sobolev Spaces, Trace and embedding theorems, Garding's Inequality, Lax-Milgram Lemma.
+* [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing). Reference: [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
 * [Unified approach to homogenization and time dispersive media](https://drive.google.com/file/d/1FPBsLiUyxjqFIJ8dhdBuvhSriYo7F8Jz/view?usp=sharing) based on lectures by [Prof. Kirill Cherednichenko](http://people.bath.ac.uk/kc525/) at IITB. 
-* [Hille-Yosida, Holder Regularity of Laplacian, Radon Transform for Wave Equation, Perron's Method](https://drive.google.com/file/d/1nKG0bSbi872hfLrdOGGOHrCC3Km73ZMq/view?usp=sharing) based on course projects done by Vaibhav Kumar, Soumyajit Saha, Ankur Pandey and Soham Chatterjee in MA 534, IITB. 
-* [Numerical Methods for Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by [Prof. Harsha Hutridurga](https://hutridurga.wordpress.com/).
+* [Hille-Yosida, Holder Regularity of Laplacian, Radon Transform for Wave Equation, Perron's Method](https://drive.google.com/file/d/1nKG0bSbi872hfLrdOGGOHrCC3Km73ZMq/view?usp=sharing) based on course projects by Vaibhav Kumar, Soumyajit Saha, Ankur Pandey and Soham Chatterjee in MA 534, IITB. 
+* [Numerical Methods for Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by [Prof. Harsha Hutridurga](https://hutridurga.wordpress.com/). 
 
 ### Ordinary Differential Equations and Dynamical Systems 
-* [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). Coddington and Levinson, Brauer and Nohel, Lefschetz are the references but none of them cover the breadth that he covers in this course. 
-* [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan. Perko, Hirsch and Smale are the references.
-* [Index Theory](https://somphene.github.io/research/poincarehopfindex.pdf)
+* [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). References: Coddington and Levinson, Brauer and Nohel, Lefschetz. Genesis, nature and scope of ODEs, Existence and Uniqueness including Gronwall Lemma and it's applications, Dependence on initial conditions and parameters, Kneser's theorem. 
+* [Dynamical Systems](https://drive.google.com/file/d/1BzGVmDl4b-oqbjcUSofmS-5QeOQh_cPy/view?usp=sharing) based on MA 525, IITB by Prof. Muthusamy Vanninathan. References: Perko, Hirsch and Smale. Cauchy Lipschitz theorem, Osgood Uniqueness theorem, Dependence on initial parameters and conditions, Linear Systems, phase portraits of planar systems, Poincare Bendixson Theorem.
+* [Index Theory](https://somphene.github.io/research/poincarehopfindex.pdf).
 
 ### Steklov Eigenvalues
 * [Extremal eigenvalue problems in connection to minimal surfaces](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
