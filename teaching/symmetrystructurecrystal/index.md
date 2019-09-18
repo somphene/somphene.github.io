@@ -24,6 +24,7 @@ subtitle: Symmetry and Structure of Crystals
 * [Determining Point groups](https://en.m.wikibooks.org/wiki/Advanced_Inorganic_Chemistry/Molecular_Point_Group)
 
 ### Quiz 
+* [Quiz 1 Marking Scheme](https://drive.google.com/file/d/1MkRgO6oGlWyXtF05IKBLVJM2__zCSP_4/view?usp=drivesdk)
 * [Quiz 1 Discussion](https://drive.google.com/file/d/1GYEL5Oj8wSHT3Sld20eb2RQG34EPvZYO/view?usp=drivesdk)
 * Marking Scheme details and common errors:
 * Computing the conjugacy classes correctly or showing that any cyclic group is Abelian and then proving that for Abelian groups the conjugacy classes are each element (Singleton sets).
