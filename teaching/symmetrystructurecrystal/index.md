@@ -38,6 +38,13 @@ Soon to come:
 ### Crystallography (Bragg's Law)
 * [tutorial questions](https://docs.google.com/document/d/e/2PACX-1vTogJSfHCfKzlU1-TobYx6BvvW94SlSoxTw7lXiI-sYdYuNVTNaxiaAyLznlJxVvuFQ_gD78J09oyMP/pub)
 
+* EVENT Notice: I would encourage all of you to attend the following outreach event organised by TIFR, Bombay on Crystallography. 
+Chai and Why? is a series of talks that run as a part of TIFR's Science Popularisation and Public Outreach Programme. This particular edition on crystal growth titled "Make it crystal clear!" has caught our attention and we can't contain our excitement. The rumours are that they are going to grow some real crystals during the talk!  With help from the kind folks in the technical council who are just as excited about this, we are organizing transport to and from the talk. Please register with this link https://forms.gle/yAuYUMbdGrPwwTsE8.
+'Make it crystal clear!' by Ruta Kulkarni (TIFR).
+What does the word "crystal" bring to mind? Sugar crystals in your chai? Precious crystals in jewellery? Solar cells and mobile phones maybe? Or eggshells and chocolate? Crystalline materials are all around us, and especially single crystals are key to several of our 21st-century devices. Let's take a look at what crystals are, how they form in nature, how they can be grown in the lab (or the kitchen!) and how they impact the world today. Of course, you can try your hand at growing some crystals during the session as well!
+About the speaker: Ruta Kulkarni works on the growth of single crystals of various materials at the department of condensed matter physics and materials science at TIFR. 
+
+
 ### References: 
 * MIT 3.60 Symmetry, Structure, Tensor Properties of Materials by Prof. Bernhardt Wuensch [youtube videos](https://youtu.be/vT_6DlaHcWQ), [MIT-OCW page](http://ocw.mit.edu/3-60F05)
 * Frank Hoffman and Michael Sartor (Universitat Hamburg) have made a brilliant youtube video series on [symmetry in crystals](https://youtu.be/aB7PUoPxjAM), slides and pdfs on this [site](https://crystalsymmetry.wordpress.com/yt/)
