@@ -7,6 +7,7 @@ use-site-title: true
 ---
 ### Student Seminar @ Mathematics, IIT Bombay
 * I lead the Student Seminar at Mathematics, IITB. It provides opportunity for any student interested in Mathematics beyond the standard coursework to give a talk and/or attend talks by others. This [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities.  
+* I gave the first talk on [Differentiable Manifolds](https://student-seminar-math-iitb.github.io/2019/09/26/s001/) as part of the Differential Geometry theme.
 
 ### B.Tech Seminar: Applied Photonics in Metamaterials [Report](https://somphene.github.io/research/applied_photonics_in_metamaterials.pdf) and [Slides](/applied_photonics_in_metamaterials_slides.pdf)
 
