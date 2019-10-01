@@ -20,7 +20,7 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 * [Stewart](https://www.amazon.com/Calculus-7th-James-Stewart/dp/0538497815)
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
 * Div, curl, grad and all that (library reading section 512.9)
-
+* [Gradients and Normals](http://graphics.cs.ucdavis.edu/~joy/ecs277/other-notes/Gradients-and-Normals.pdf)
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
 * [Walter Rudin- Principles of Mathematical Analysis](https://www.amazon.in/Principles-Mathematical-Analysis-Walter-Rudin/dp/1259064786)
