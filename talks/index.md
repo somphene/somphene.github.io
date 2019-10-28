@@ -15,4 +15,8 @@ use-site-title: true
 
 ### Talk on [Index Theory](https://docs.google.com/presentation/d/e/2PACX-1vS9bgRcnedoBFPlIKGGn7Vn-VtkNfd1HfeDI4B3rZNtzoVMwqg_RK--rt9ikXZjoFbAGC4cewGlUFRY/pub?start=false&loop=false&delayms=60000) 
 
-### Talk on [Finite Element Method](https://docs.google.com/presentation/d/1T3dr4a9Gov1vqSaI1jWNJJToVnrJDS4lBagVCL0WrUM/edit?usp=sharing) 
+### Talk on [Finite Element Method](https://docs.google.com/presentation/d/1T3dr4a9Gov1vqSaI1jWNJJToVnrJDS4lBagVCL0WrUM/edit?usp=sharing)
+
+### Notes from Seminars and Talks attended
+
+* Radial Symmetry and Symmetry breaking for interpolation Inequalities by Maria Esteban: Fractional Sobolev inequality, Caffarelli Kohn Nirenberg (CKN) inequality, symmetry breaking, Generalized CKN inequalities,  
