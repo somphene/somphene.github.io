@@ -19,4 +19,4 @@ use-site-title: true
 
 ### Notes from Seminars and Talks attended
 
-* Radial Symmetry and Symmetry breaking for interpolation Inequalities by Maria Esteban: Fractional Sobolev inequality, Caffarelli Kohn Nirenberg (CKN) inequality, symmetry breaking, Generalized CKN inequalities,  
+* Radial Symmetry and Symmetry breaking for interpolation Inequalities by Maria Esteban: Fractional Sobolev inequality, Caffarelli Kohn Nirenberg (CKN) inequality, symmetry breaking, Generalized CKN inequalities, Fisher info decay.  
