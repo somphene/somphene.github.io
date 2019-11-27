@@ -16,6 +16,7 @@ use-site-title: false
 ### [Ordinary Differential Equations](https://somphene.github.io/teaching/odes)
 ### [Quantum Physics](https://somphene.github.io/teaching/quantumphysics)
 ### [Symmetry and Structure of Crystals](https://somphene.github.io/teaching/symmetrystructurecrystal)  
+### [Laser Processing and Nanostructures](https://somphene.github.io/teaching/lasernanostruct)
 
 ## TSC Teaching Assistant (Student Support Services)
 * Concducted Excel sessions in vernacular languages for students having difficulties with English and for those facing severe conceptual difficulties.
