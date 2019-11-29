@@ -6,7 +6,7 @@ use-site-title: true
 
 ---
 ### Major Research Themes
-* [Design Optimization of Metamaterials for Cloaking]
+* [Design Optimization of Metamaterials for Cloaking](/cloakingviametamaterials)
 * [Geometric Analysis and Steklov Eigenvalues]
 * [BCS theory of Superconductivity for high temperature superconductors]
 
