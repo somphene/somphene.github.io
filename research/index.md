@@ -9,6 +9,7 @@ use-site-title: true
 * [Design Optimization of Metamaterials for Cloaking](/cloakingviametamaterials)
 * [Geometric Analysis and Steklov Eigenvalues]
 * [BCS theory of Superconductivity for high temperature superconductors]
+* [Density Functional Theory based simulation of materials]
 
 ### Plasmonics and Metamaterials
 * [Literature Review (Slides)](/plasmonics_metamaterials.pdf).
