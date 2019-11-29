@@ -23,4 +23,4 @@ We start with an introduction to Cloaking and Metamaterials. Next, we develop Tr
 Suppose we are able to make an elastic cloak, it means that the object being elastically cloaked will not be affected by waves from outside. Acoustic cloaks may be used to protect bridges from (earthquakes) seismec waves. Electromagnetic cloaking for radar invisibility finds many applications in military and defence. Inverse problems arising from cloaking have applications in Biological image reconstruction to treat cardiac diseases. [Electrical impedance tomography](https://en.wikipedia.org/wiki/Electrical_impedance_tomography) which is an equivalent way of thinking of the cloaking problem is another interdisciplinary applications that cloaking has.
 
 
-$$ \varepsilon_{eff} = \frac{<D>}{\varepsilon_0 <E>} \quad \mbox{and} \quad \mu_{eff} = \frac{<B>}{\mu_0 <H>}$$
+$$\varepsilon_{eff} = \frac{<D>}{\varepsilon_0 <E>} \quad \mbox{and} \quad \mu_{eff} = \frac{<B>}{\mu_0 <H>}$$
