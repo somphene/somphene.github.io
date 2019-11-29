@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Metamaterial Cloaking
 subtitle: Design Optimization of Metamaterials for Cloaking
 use-site-title: true
 
