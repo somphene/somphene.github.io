@@ -5,6 +5,10 @@ subtitle:
 use-site-title: true
 
 ---
+### Major Research Themes
+* [Design Optimization of Metamaterials for Cloaking]
+* [Geometric Analysis and Steklov Eigenvalues]
+* [BCS theory of Superconductivity for high temperature superconductors]
 
 ### Plasmonics and Metamaterials
 * [Literature Review (Slides)](/plasmonics_metamaterials.pdf).
