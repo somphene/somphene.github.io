@@ -45,6 +45,9 @@ use-site-title: true
 ### Numerical Analysis
 * [Topics in Numerical Analysis](https://drive.google.com/file/d/1EbgzWcE4cF5prpgku563FfM4rJdyQ7sH/view?usp=sharing) based on MA 856, IITB by Prof. A.K. Pani.
 
+### Operators on Hilbert Space for Quantum Theory
+* [Quantum Theory](https://drive.google.com/file/d/1D8p6d3ere1zggjkws2aRNv8s-srHg1qP/view?usp=drivesdk) based on lectures by Prof. Frederic Schuller, Friedrich-Alexander-University of Erlangen-Nürnberg 
+
 ### Electromagnetic Theory
 * [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
 * [Final](https://drive.google.com/file/d/1EDYu5q_zY287isZAGDiZ_NALFI35nAve/view?usp=sharing), [BVP long hollow cylinder](https://drive.google.com/file/d/1EXFzHE2E-SYlHhniZ1v9OFOWqEI8ACNY/view?usp=sharing)
