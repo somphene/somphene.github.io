@@ -26,7 +26,7 @@ use-site-title: true
 
 ### Algebra
 * [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
-* [Lie Groups and Lie ALgebras](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
+* [Lie Groups and Lie ALgebras 1](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing), [Lie Groups and Lie Algebras 2](https://drive.google.com/file/d/1EX1_tUFNK6tqLxvG7kDT0cs7JnlCHWcl/view?usp=drivesdk) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 * [Noether's Theorem in Classical Dynamics (Continuous Symmetries)](https://drive.google.com/file/d/1Hfu_ZYh-vLVHTx0o_UCboJ9WLeOMxrki/view?usp=sharing)
 
