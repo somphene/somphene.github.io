@@ -6,7 +6,7 @@ use-site-title: true
 
 ---
 ###
-Keywords: Inverse Problems, Geometric Analysis, Design Optimization, Dirichlet to Neumann (DtN) Map, Steklov Eigenvalues, Spectral Theory, Asymptotic Expansions, Cloaking, Metamaterials, Transformation Media (Optics), Polarization Tensors 
+Keywords: Inverse Problems, Geometric Analysis, Design Optimization, Dirichlet to Neumann (DtN) Map, Steklov Eigenvalues, Spectral Theory, Asymptotic Expansions, Cloaking, Metamaterials, Transformation Media (Optics), Polarization Tensors, Electrical Impedance Tomography 
 
 ### Introduction
 The primary reason why I got interested in physics was because of the story of electromagnetism. My high school physics teacher Banshidhar Thakur's motivating demonstrations and inspirational lectures including examples like Nikola Tesla was what got me interested in electromagnetism in the first place. Reading through online sites all night and trying to figure out how Tesla’s mysterious Philadelphia experiments could work, made me realize that I didnt understand electromagnetism. Since then, its been seven years now and I have tried to constantly improve my understanding. I hope in the process of making this final year thesis, I go one step further. Every once in a while, a new problem pops up and again I get the same feeling of ‘I don't understand electromagnetism’. It’s this everyday struggle of not being able to reinterpret and connect stories that keeps me going. 
