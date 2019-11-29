@@ -6,10 +6,10 @@ use-site-title: true
 
 ---
 ### Major Research Themes
-* [Design Optimization of Metamaterials for Cloaking](/cloakingviametamaterials)
-* [Geometric Analysis and Steklov Eigenvalues]
-* [BCS theory of Superconductivity for high temperature superconductors]
-* [Density Functional Theory based simulation of materials]
+* [Design Optimization of Metamaterials for Cloaking](/research/cloakingviametamaterials/)
+* [Geometric Analysis and Steklov Eigenvalues](/research/geometricanalysis)
+* [BCS theory of Superconductivity for high temperature superconductors](/research/bcssuperconductivity)
+* [Density Functional Theory (DFT) based simulation of materials](/research/densityfunctionaltheory)
 
 ### Plasmonics and Metamaterials
 * [Literature Review (Slides)](/plasmonics_metamaterials.pdf).
