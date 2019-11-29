@@ -7,6 +7,8 @@ use-site-title: true
 ---
 #### Keywords: Inverse Problems, Geometric Analysis, Design Optimization, Dirichlet to Neumann (DtN) Map, Steklov Eigenvalues, Spectral Theory, Asymptotic Expansions, Cloaking, Metamaterials, Transformation Media (Optics), Polarization Tensors, Electrical Impedance Tomography 
 
+### [Synopsis](https://drive.google.com/file/d/1NbbyIOf-f-dG5ewxvtFywo-6XBzZ6K2P/view?usp=sharing)
+
 ### Introduction
 The primary reason why I got interested in physics was because of the story of electromagnetism. My high school physics teacher Banshidhar Thakur's motivating demonstrations and inspirational lectures including examples like Nikola Tesla was what got me interested in electromagnetism in the first place. Reading through online sites all night and trying to figure out how cloaking in [Tesla’s mysterious experiments/ Philadelphia experiments](https://teslauniverse.com/nikola-tesla/books/nikola-tesla-and-secrets-philadelphia-experiment) could work, made me realize that I didnt understand electromagnetism. Since then, its been eight years since then and I have tried to constantly improve my understanding, finally leading to my Master's Thesis on cloaking. I hope in the process of making this final year thesis, I go one step further. Every once in a while, a new problem pops up and again I get the same feeling of ‘I don't understand electromagnetism’. It’s this everyday struggle of not being able to reinterpret and connect stories that keeps me going. 
 
