@@ -10,3 +10,4 @@ image: img/me.jpg
 # [Teaching & Outreach](https://somphene.github.io/teaching/)   
 # [Notes](https://somphene.github.io/notes/)
 # [Seminars & Talks](https://somphene.github.io/talks/)   
+# [Log](https://somphene.github.io/log/)
