@@ -68,7 +68,7 @@ use-site-title: true
 ### Systems and Control
 * [Quantum Control](https://drive.google.com/file/d/1ESnhjLFVYUr0fF5N-AIUNHWArSe4AuXM/view?usp=drivesdk) based on SC 701, IITB by Prof. Navin Khaneja.
 * [Solid State Systems and Control Work out 1](https://drive.google.com/file/d/1Evd-SfPU0LJLD5xPzgkRib516_lmk7hs/view?usp=sharing) based on SC 624, IITB by Prof. Navin Khaneja.
-* [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan]
+* [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IITB by Prof. N. K. Khosla.
 * [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), [Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, IITB by Prof. Navin Khaneja
 
