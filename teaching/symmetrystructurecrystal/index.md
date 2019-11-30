@@ -32,7 +32,7 @@ subtitle: Symmetry and Structure of Crystals
 * Showing all symmetry operations:{E, C2x,C2y,C2z,v,v',h,S2} -2, Inversion i=S2 and hence not listed separately-1, point group-1.
 
 ### Final Exam
-* [Question and Marking scheme](https://drive.google.com/file/d/1ErzKXHk2BRvp8USsa64gklNvvlJdDvUS/view?usp=sharing)
+* [Question paper and Marking scheme](https://drive.google.com/file/d/1ErzKXHk2BRvp8USsa64gklNvvlJdDvUS/view?usp=sharing)
 
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub) (XRD)
 
