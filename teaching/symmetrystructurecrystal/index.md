@@ -31,7 +31,8 @@ subtitle: Symmetry and Structure of Crystals
 * Find Multiplicative Identity: many students missed this step. Note that if the operation on Integers is addition, Identity element is 0 whereas for multiplication it is 1. Identity element depends on the operation and not the set. Show that an inverse element may not exist for at least one element. Many students also confused associativity: (ab)c=a(bc) with commutativity: ab=ba. Groups don't have to have commutativity- take all invertible n*n matrices they form a group but matrix multiplication is not commutative.
 * Showing all symmetry operations:{E, C2x,C2y,C2z,v,v',h,S2} -2, Inversion i=S2 and hence not listed separately-1, point group-1.
 
-Soon to come:
+### Final Exam
+* [Question and Marking scheme](https://drive.google.com/file/d/1ErzKXHk2BRvp8USsa64gklNvvlJdDvUS/view?usp=sharing)
 
 ### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub) (XRD)
 
