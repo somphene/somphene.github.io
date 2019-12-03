@@ -26,8 +26,8 @@ We start with an introduction to Cloaking and Metamaterials. Next, we develop Tr
 ### Maxwell's Equations and Geometric problems
 $$
 \begin{eqnarray}
-\label{eq:M1} \nablabold \cdot{(\boldsymbol{\varepsilon}E)} & = & \rho_e\\ 
-\label{eq:M2} \nablabold \cdot{(\boldsymbol{\mu}H)} & = & 0\\ 
+\label{eq:M1} \nabla \cdot{(\boldsymbol{\varepsilon}E)} & = & \rho_e\\ 
+\label{eq:M2} \boldsymbol{\nabla} \cdot{(\boldsymbol{\mu}H)} & = & 0\\ 
 \label{eq:M3}  \nablabold \times{E} & = & - \boldsymbol{\mu}\,\frac{\partial H}{\partial t} \\ 
 \label{eq:M4}   \nablabold \times{B} & = & \boldsymbol{\varepsilon} \, \frac{\partial E}{\partial t} + j_e
 \end{eqnarray}
