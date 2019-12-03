@@ -33,7 +33,7 @@ $$
 \end{eqnarray}
 $$
 
-Maxwell's Equations are linear PDEs.However, they are very nonlinear with respect to geometric settings. This imposes limitations on the proposed invisibility cloaking (Pendry, 2006) with scaling. 
+Maxwell's Equations are linear Partial Differential Equation (PDEs). However, they are very nonlinear with respect to geometric settings. This imposes limitations on the proposed invisibility cloaking (Pendry, 2006) with scaling. 
 
 ### Theoeretical and Computational Analysis
 
