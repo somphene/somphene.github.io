@@ -25,10 +25,12 @@ We start with an introduction to Cloaking and Metamaterials. Next, we develop Tr
 
 ### Maxwell's Equations and Geometric problems
 $$
+\begin{eqnarray}
 \label{eq:M1} \divvec{(\boldsymbol{\varepsilon}E)} & = & \rho_e\\ 
 \label{eq:M2} \divvec{(\boldsymbol{\mu}H)} & = & 0\\ 
 \label{eq:M3}  \curlvec{E} & = & - \boldsymbol{\mu}\,\frac{\partial \H}{\partial t} \\ 
 \label{eq:M4}   \curlvec{B} & = & \boldsymbol{\varepsilon} \, \timediff{E} + j_e
+\end{eqnarray}
 $$
 
 Maxwell's Equations are linear PDEs.However, they are very nonlinear with respect to geometric settings. This imposes limitations on the proposed invisibility cloaking (Pendry, 2006) with scaling. 
