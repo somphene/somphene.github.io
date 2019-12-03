@@ -14,7 +14,7 @@ Inverse Problems, Geometric Analysis, Design Optimization, Dirichlet to Neumann 
 * Different parts of this work were presented at Tech and Research & Development exposition, ResearchX, IIT Bombay to Professors, esteemed guests, Alumni, experts from industry and students. [Poster](https://drive.google.com/file/d/1kz88fNsu9a-dw6SsTkoKsX1vWJh6yJw6/view?usp=sharing)
 
 ### Introduction
-The primary reason why I got interested in physics was because of the story of electromagnetism. My high school physics teacher Banshidhar Thakur's motivating demonstrations and inspirational lectures including examples like Nikola Tesla was what got me interested in electromagnetism in the first place. Reading through online sites all night and trying to figure out how cloaking in [Tesla’s mysterious experiments/ Philadelphia experiments](https://teslauniverse.com/nikola-tesla/books/nikola-tesla-and-secrets-philadelphia-experiment) could work, made me realize that I didnt understand electromagnetism. Since then, its been eight years and I have tried to constantly improve my understanding, leading to my Master's Thesis on novel techniques for cloaking. I hope in the process of making this final year thesis, I go one step further. Every once in a while, a new problem pops up and again I get the same feeling of ‘I don't understand electromagnetism’. It’s this everyday struggle of not being able to reinterpret and connect stories that keeps me going. 
+The primary reason why I got interested in physics was because of the story of electromagnetism. My high school physics teacher's motivating demonstrations and inspirational lectures including examples like Nikola Tesla was what got me interested in electromagnetism in the first place. Reading through online sites all night and trying to figure out how cloaking in [Tesla’s mysterious experiments/ Philadelphia experiments](https://teslauniverse.com/nikola-tesla/books/nikola-tesla-and-secrets-philadelphia-experiment) could work, made me realize that I didnt understand electromagnetism. Since then, its been eight years and I have tried to constantly improve my understanding, leading to my Master's Thesis on novel techniques for cloaking. I hope in the process of making this final year thesis, I go one step further. Every once in a while, a new problem pops up and again I get the same feeling of ‘I don't understand electromagnetism’. It’s this everyday struggle of not being able to reinterpret and connect stories that keeps me going. 
 
 Classical electromagnetic field theory is one of the oldest theories and it has stood the test of time, be it the quantum revolution or general relativity, electromagnetism has emerged as a highly robust theory. Simple and beautiful, this classical theory is based on the deceptively concise formulation of [Maxwell's Equations](https://en.wikipedia.org/wiki/Maxwell%27s_equations) but their consequences are profoundly deep. Exploiting one such consequence, cloaking of objects has been theoretically described and practically demonstrated. My work has been on developing new techniques and implementing novel schemes to improve cloaking. I also extend these methods to different phenomenon like acoustic, thermal and elastic cloaks, and build a unified theory for transformation media techniques in my thesis. 
 
@@ -25,10 +25,10 @@ We start with an introduction to Cloaking and Metamaterials. Next, we develop Tr
 
 ### Maxwell's Equations and Geometric problems
 $$
-\label{eq:M1} \divvec{(\boldsymbol{\varepsilon}\electricfield)} & = & \electricchargedensity\\ 
-\label{eq:M2} \divvec{(\boldsymbol{\mu}\magneticfield)} & = & 0\\ 
-\label{eq:M3}  \curlvec{\electricfield} & = & - \boldsymbol{\mu}\,\frac{\partial \magneticfield}{\partial t} \\ 
-\label{eq:M4}   \curlvec{\magneticflux} & = & \boldsymbol{\varepsilon} \, \timediff{\electricfield} + \electriccurrentdensity
+\label{eq:M1} \divvec{(\boldsymbol{\varepsilon}E)} & = & \rho_e\\ 
+\label{eq:M2} \divvec{(\boldsymbol{\mu}H)} & = & 0\\ 
+\label{eq:M3}  \curlvec{E} & = & - \boldsymbol{\mu}\,\frac{\partial \H}{\partial t} \\ 
+\label{eq:M4}   \curlvec{B} & = & \boldsymbol{\varepsilon} \, \timediff{E} + j_e
 $$
 
 Maxwell's Equations are linear PDEs.However, they are very nonlinear with respect to geometric settings. This imposes limitations on the proposed invisibility cloaking (Pendry, 2006) with scaling. 
