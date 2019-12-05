@@ -24,5 +24,5 @@ Problems at the crossroads of modern civilization have increasingly emphasized t
 
 ### Applications
 
-Computer vision (CV) can automate and accelerate the analysis of microscope images, revealing structure-property correlations.  Collaboration with Physics, Mathematics, Chemistry, Computer Science and other Engineering departments are significant.
+Computer vision (CV) can automate and accelerate the analysis of microscope images, revealing structure-property correlations.  Cross disciplinary collaboration with Engineering departments like Physics, Mathematics, Chemistry, Computer Science are significant.
 
