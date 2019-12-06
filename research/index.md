@@ -5,7 +5,7 @@ subtitle:
 use-site-title: true
 
 ---
-### Major Research Themes
+## Major Research Themes
 These are guided by fundamental questions that have emerged repeatedly in my experience over the years. Please click on the links for detailed description.
 * [Design Optimization of Metamaterials for Cloaking](/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1NbbyIOf-f-dG5ewxvtFywo-6XBzZ6K2P/view?usp=sharing))
 * [Geometric Analysis and Steklov Eigenvalues](/research/geometricanalysis)
@@ -25,6 +25,8 @@ These are guided by fundamental questions that have emerged repeatedly in my exp
 ### Density Functional Theory (DFT) 
 * Density Functional Theory based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/).
 * DFT Calculations for Thermoelectric Properties of Doped Semiconductors using [VASP](https://www.vasp.at/), [BoltzTrap](https://www.imc.tuwien.ac.at//forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
+
+## Course Projects
 
 ### Hypoellipticity of Elliptic operators 
 #### Modern Theory of PDEs (MA540), Prof. Mayukh Mukherjee, Dept. of Mathematics, IITB
