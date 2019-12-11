@@ -23,5 +23,5 @@ Topics
 * Principles of electrical engineering materials and devices by S.O.Kasap
 
 ### Further Reading (beyond the scope of this course):
-* Haug's Semiconductor optoelectronics ( uses quantum fieldd theory formalism for exciton dynamics)
+* Haug's Semiconductor optoelectronics ( uses quantum field theory formalism for exciton dynamics)
 
