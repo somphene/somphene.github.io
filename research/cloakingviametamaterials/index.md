@@ -8,7 +8,7 @@ use-site-title: true
 #### Keywords: 
 Inverse Problems, Geometric Analysis, Design Optimization, Dirichlet to Neumann (DtN) Map, Steklov Eigenvalues, Spectral Theory, Asymptotic Expansions, Cloaking, Metamaterials, Transformation Media (Optics), Polarization Tensors, Electrical Impedance Tomography 
 
-### [Synopsis](https://drive.google.com/file/d/1NbbyIOf-f-dG5ewxvtFywo-6XBzZ6K2P/view?usp=sharing)
+### [Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view?usp=sharing)
 
 ### Poster 
 * Different parts of this work were presented at Enthuse, Tech and Research & Development exposition, ResearchX, IIT Bombay to Professors, esteemed guests, Alumni, experts from industry and students. [Poster](https://drive.google.com/file/d/1kz88fNsu9a-dw6SsTkoKsX1vWJh6yJw6/view?usp=sharing)
