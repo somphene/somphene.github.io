@@ -7,7 +7,7 @@ use-site-title: true
 ---
 ## Major Research Themes
 These are guided by fundamental questions that have emerged repeatedly in my experience over the years. Please click on the links for detailed description.
-* [Design Optimization of Metamaterials for Cloaking](/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1NbbyIOf-f-dG5ewxvtFywo-6XBzZ6K2P/view?usp=sharing))
+* [Design Optimization of Metamaterials for Cloaking](/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view?usp=sharing))
 * [Geometric Analysis and Steklov Eigenvalues](/research/geometricanalysis)
 * [BCS theory of Superconductivity for high temperature superconductors](/research/bcssuperconductivity)
 * [Density Functional Theory (DFT) based simulation of materials](/research/densityfunctionaltheory)
