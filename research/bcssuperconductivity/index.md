@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Geometric Analysis
-subtitle: Shape Optimization for Steklov Eigenvalues
+title: Quantum Computing
+subtitle: BCS Superconductivity and Josephson Junctions
 use-site-title: true
 
 ---
 #### Keywords: 
-Geometric Analysis, Inverse Problems, Design Optimization, Dirichlet to Neumann (DtN) Map, Steklov Eigenvalues, Spectral Theory, Semiclassical Analysis, Quantum Ergodicity 
+Geometric Control, Quantum Computing, BCS Superconductivity, Josephson Junctions, Google Qubit
 
 ### [Synopsis](https://drive.google.com/fil)
 
