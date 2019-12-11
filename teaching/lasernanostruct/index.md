@@ -12,6 +12,11 @@ This is a graduate level course on Photonics (with a focus on lasers) and light-
 Topics
 * Transfer Matrix formalism for ray optics
 * Jones Matrix for polarization
+* Gaussian beams
+* Spontaneous and Stimulated Emission (Einstein rate factors)
+* Solid State Lasers
+* Laser safety module and laboratory processes
+* Manufacturing Processes
 
 ### References:
 * Fundamentals of Photonics by Saleh
