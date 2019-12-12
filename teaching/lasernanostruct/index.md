@@ -10,13 +10,15 @@ This is a graduate level course on Photonics (with a focus on lasers) and light-
 [Notes](https://drive.google.com/tbu) will keep updating as the course proceeds.
 
 Topics
-* Transfer Matrix formalism for ray optics
-* Jones Matrix for polarization
-* Gaussian beams
-* Spontaneous and Stimulated Emission (Einstein rate factors)
+* Transfer Matrix formalism for ray optics: Refraction by curved surfaces 
+* Jones Matrix for polarization: [Conversion to right circularly polarized light](https://en.wikipedia.org/wiki/Jones_calculus),[Wolfram computation](http://scienceworld.wolfram.com/physics/JonesMatrix.html)
+* Gaussian beams : Power conversion factor for Amplitude of gaussian beam, spot size
+* Blackbody radiation, Planck’s Law
+* Spontaneous and Stimulated Emission : Einstein coeffs and lifetime relations for atomic spontaneous and stimulated radiation
+* He-Ne laser working
 * Solid State Lasers
-* Laser safety module and laboratory processes
-* Manufacturing Processes
+* Laser safety module: Power based classification of laserand laboratory processes
+* Manufacturing Processes : OPC and Phase shifting masks, Top down and bottom up (self arranging)
 
 ### References:
 * Fundamentals of Photonics by Saleh
