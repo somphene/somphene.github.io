@@ -13,6 +13,7 @@ use-site-title: true
 * [Hille-Yosida, Holder Regularity of Laplacian, Radon Transform for Wave Equation, Perron's Method](https://drive.google.com/file/d/1nKG0bSbi872hfLrdOGGOHrCC3Km73ZMq/view?usp=sharing) based on course projects by Vaibhav Kumar, Soumyajit Saha, Ankur Pandey and Soham Chatterjee in MA 534, IITB. 
 * [Numerical Methods for Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by [Prof. Harsha Hutridurga](https://hutridurga.wordpress.com/). 
 * [Yamabe Problem](https://drive.google.com/file/d/1S3QwlnaA_5cUhdBZxGKBzx1fl5Ieb-jH/view?usp=drivesdk) based on Prof. Saikat Mazumdar's talk at IIT Bombay.
+* [2nd Order PDEs and associated Markov Processes](https://drive.google.com/file/d/1KK8fwuJ_bXcLTotlPV64VkildQGhH_UO/view?usp=sharing) based on Prof. Rajeeva Karandikar's Sukhatme Memorial lecture at IITB.
 
 ### Ordinary Differential Equations and Dynamical Systems 
 * [Ordinary Differential Equations](https://drive.google.com/file/d/1FOuFAlifyVvaIGDzdQ__hEiHgzqY1O5V/view?usp=sharing) based on MA 417, IITB by [Prof. Gopal Krishna Srinivasan](http://www.math.iitb.ac.in/~gopal/). References: Coddington and Levinson, Brauer and Nohel, Lefschetz. Genesis, nature and scope of ODEs, Existence and Uniqueness including Gronwall Lemma and it's applications, Dependence on initial conditions and parameters, Kneser's theorem. Linear Systems, Floquet Theory for periodic Linear vector fields, Monodromy Matrix, Characteristic Polynomial, Jordan Normal forms, Holomorphic Functions of Matrices, Lagrange Sylvester Interpolation
@@ -32,6 +33,7 @@ use-site-title: true
 
 ### Differential Topology and Geometry 
 * [Differential Topology](https://drive.google.com/file/d/1HTEGakTTIn--EQLuC-CEk8N-W6lgYzxJ/view?usp=sharing)
+* [Differential Geometry](https://drive.google.com/file/d/1KJ2C7mQwCJyCULWNdL2WD48oz65xUowL/view?usp=sharing) based on MA556, IITB by Prof. Saurav Bhaumik.
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
 
