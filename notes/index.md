@@ -77,8 +77,7 @@ use-site-title: true
 
 ### Phase Transformations
 * Lecture notes, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written in these [notes](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing), based on MM 325, IITB by Prof. N. Prabhu. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
-
-### [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
+* [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
 
 ### Philosophy 
 * [Nirvana and Anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
