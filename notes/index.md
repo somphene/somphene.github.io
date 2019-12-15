@@ -25,18 +25,18 @@ use-site-title: true
 * [Hersch's Theorem](https://drive.google.com/file/d/1JbBvVg-sBR2VhEAC3zZkH1q3kISvd5Jn/view?usp=drivesdk) for first Steklov Eigenvalue convergence.
 * [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk)
 
-### Algebra
-* [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
-* [Lie Groups and Lie ALgebras 1](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing), [Lie Groups and Lie Algebras 2](https://drive.google.com/file/d/1EX1_tUFNK6tqLxvG7kDT0cs7JnlCHWcl/view?usp=drivesdk) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
-* Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
-* [Noether's Theorem in Classical Dynamics (Continuous Symmetries)](https://drive.google.com/file/d/1Hfu_ZYh-vLVHTx0o_UCboJ9WLeOMxrki/view?usp=sharing)
-
 ### Differential Topology and Geometry 
 * [Differential Topology](https://drive.google.com/file/d/1HTEGakTTIn--EQLuC-CEk8N-W6lgYzxJ/view?usp=sharing)
 * [Differential Geometry](https://drive.google.com/file/d/1KJ2C7mQwCJyCULWNdL2WD48oz65xUowL/view?usp=sharing) based on MA556, IITB by Prof. Saurav Bhaumik.
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
 * [Symplectic Geometry and Classical Mechanics](https://drive.google.com/file/d/1KT_emxQ44NKixDkPtqCiRDMwbZ4F6rhw/view?usp=sharing) based on Prof. Tobias J Osborne's lectures at Institut für Theoretische Physik Leibniz Universität Hannover.
+
+### Algebra
+* [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
+* [Lie Groups and Lie ALgebras 1](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing), [Lie Groups and Lie Algebras 2](https://drive.google.com/file/d/1EX1_tUFNK6tqLxvG7kDT0cs7JnlCHWcl/view?usp=drivesdk) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
+* Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
+* [Noether's Theorem in Classical Dynamics (Continuous Symmetries)](https://drive.google.com/file/d/1Hfu_ZYh-vLVHTx0o_UCboJ9WLeOMxrki/view?usp=sharing)
 
 ### Analysis 
 * [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
@@ -47,9 +47,17 @@ use-site-title: true
 
 ### Numerical Analysis
 * [Topics in Numerical Analysis](https://drive.google.com/file/d/1EbgzWcE4cF5prpgku563FfM4rJdyQ7sH/view?usp=sharing) based on MA 856, IITB by Prof. A.K. Pani.
+* [Numerical Methods for Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by [Prof. Harsha Hutridurga](https://hutridurga.wordpress.com/). 
+
+### Systems and Control
+* [Quantum Control](https://drive.google.com/file/d/1ESnhjLFVYUr0fF5N-AIUNHWArSe4AuXM/view?usp=drivesdk) based on SC 701, IITB by Prof. Navin Khaneja.
+* [Solid State Systems and Control Work out 1](https://drive.google.com/file/d/1Evd-SfPU0LJLD5xPzgkRib516_lmk7hs/view?usp=sharing) based on SC 624, IITB by Prof. Navin Khaneja.
+* [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
+* [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IITB by Prof. N. K. Khosla.
+* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), [Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, IITB by Prof. Navin Khaneja.
 
 ### Operators on Hilbert Space for Quantum Theory
-* [Quantum Theory](https://drive.google.com/file/d/1D8p6d3ere1zggjkws2aRNv8s-srHg1qP/view?usp=drivesdk) based on lectures by Prof. Frederic Schuller, Friedrich-Alexander-University of Erlangen-Nürnberg 
+* [Quantum Theory](https://drive.google.com/file/d/1D8p6d3ere1zggjkws2aRNv8s-srHg1qP/view?usp=drivesdk) based on lectures by Prof. Frederic Schuller, Friedrich-Alexander-University of Erlangen-Nürnberg.
 
 ### Electromagnetic Theory
 * [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
@@ -67,13 +75,6 @@ use-site-title: true
 ### Computational Many Body Physics
 * [Time Evolving Block Decimation (TEBD)](https://drive.google.com/file/d/1EMDJc_GmBiT_YyEiSGTfKXB7W8LIkdtF/view?usp=sharing) based on PH 513, IITB by Prof. Soumya Bera.
 * [Kitaev Model and Majorana Fermions](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view?usp=sharing)
-
-### Systems and Control
-* [Quantum Control](https://drive.google.com/file/d/1ESnhjLFVYUr0fF5N-AIUNHWArSe4AuXM/view?usp=drivesdk) based on SC 701, IITB by Prof. Navin Khaneja.
-* [Solid State Systems and Control Work out 1](https://drive.google.com/file/d/1Evd-SfPU0LJLD5xPzgkRib516_lmk7hs/view?usp=sharing) based on SC 624, IITB by Prof. Navin Khaneja.
-* [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
-* [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IITB by Prof. N. K. Khosla.
-* [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), [Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, IITB by Prof. Navin Khaneja
 
 ### Phase Transformations
 *  [Phase Transformations](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing) based on MM 325, IITB by Prof. N. Prabhu, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
