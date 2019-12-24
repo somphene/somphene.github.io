@@ -27,7 +27,7 @@ use-site-title: true
 
 ### Differential Topology and Geometry 
 * [Differential Topology](https://drive.google.com/file/d/1HTEGakTTIn--EQLuC-CEk8N-W6lgYzxJ/view?usp=sharing)
-* [Differential Geometry](https://drive.google.com/file/d/1KJ2C7mQwCJyCULWNdL2WD48oz65xUowL/view?usp=sharing) based on MA556, IITB by Prof. Saurav Bhaumik.
+* [Differential Geometry](https://drive.google.com/file/d/1KJ2C7mQwCJyCULWNdL2WD48oz65xUowL/view?usp=sharing) based on MA 556, IITB by Prof. Saurav Bhaumik.
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
 * [Symplectic Geometry and Classical Mechanics](https://drive.google.com/file/d/1KT_emxQ44NKixDkPtqCiRDMwbZ4F6rhw/view?usp=sharing) based on Prof. Tobias J Osborne's lectures at Institut für Theoretische Physik Leibniz Universität Hannover.
