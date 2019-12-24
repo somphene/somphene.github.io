@@ -86,6 +86,9 @@ use-site-title: true
 * Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing), [Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in UG info Booklet
 * Rant on being asked for [motivation](https://docs.google.com/document/d/e/2PACX-1vTymgoOYIjo7wfOnVziT746o_TaHlJiDZ7CehCD1U1RcLqotVZtcuog5YJJYHImLtTPk8sahhGY4IMh/pub) to apply for a job
 
+### Miscellaneous
+* [Theory of Machines and Machine Design](https://drive.google.com/file/d/1OiWg2M-kx9yVQ1Cetn9Ql5EkXCNvkhNU/view?usp=sharing), my final answers.
+
 ### GRE Practice Essays 
 * [Social Contract](https://docs.google.com/document/d/e/2PACX-1vQ9a-e1GzFsNIHlPX6oLaMQPCeblzkE19eyv2r10L9VS23RQz8N9oVtf53BJ9q7hcF-xEJy3O17c6ox/pub)
 * [Self Knowledge](https://docs.google.com/document/d/e/2PACX-1vRPpKV5OeUkmQbk2BhSRDwC9a5MkLFjSdGRdM8304k_fDC4ViWjmuojSmz7kzAbSDRixABoOaYE4YuF/pub)
