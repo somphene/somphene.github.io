@@ -10,7 +10,7 @@ use-site-title: false
 #### It requires no effort to see something new, the difficulty in learning lies in unlearning the biases that block our vision.
 
 ## Teaching Assistant (Courses at IIT Bombay) 
-I am grateful to have had the opportunity to teach (and relearn) the following:
+I am grateful to have had the opportunity to teach (and relearn) the following courses at IITB:
 ### [Calculus](https://somphene.github.io/teaching/calculus)
 ### [Linear Algebra](https://somphene.github.io/teaching/linearalgebra)
 ### [Ordinary Differential Equations](https://somphene.github.io/teaching/odes)
