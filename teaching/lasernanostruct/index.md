@@ -9,6 +9,8 @@ This is a graduate level course on Photonics (with a focus on lasers) and light-
 
 [Notes](https://drive.google.com/tbu) will keep updating as the course proceeds.
 
+[Pre-Midsem practice](https://drive.google.com/file/d/1OVXupHGgeuwUBZOiVelSi0k8jf27ezXG/view?usp=sharing)
+
 Topics
 * Transfer Matrix formalism for ray optics: Refraction by curved surfaces 
 * Jones Matrix for polarization: [Conversion to right circularly polarized light](https://en.wikipedia.org/wiki/Jones_calculus),[Wolfram computation](http://scienceworld.wolfram.com/physics/JonesMatrix.html)
