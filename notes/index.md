@@ -31,6 +31,7 @@ use-site-title: true
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Smooth Atlas, Left Invariant Vector Fields](https://drive.google.com/file/d/0B2Uc1VPlIxGaWTZFbHY3OC1zTVNYMkw4MDF5WGRQTDF0R2dz/view?usp=sharing)
 * [Symplectic Geometry and Classical Mechanics](https://drive.google.com/file/d/1KT_emxQ44NKixDkPtqCiRDMwbZ4F6rhw/view?usp=sharing) based on Prof. Tobias J Osborne's lectures at Institut für Theoretische Physik Leibniz Universität Hannover.
+* [Tensor Algebra](https://drive.google.com/file/d/1OUykRToVivsTlocj-R6_pRBclbYZDqg0/view?usp=sharing) based on [Youtube series by Eigenchris](https://www.youtube.com/user/eigenchris/featured).
 
 ### Algebra
 * [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
