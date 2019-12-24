@@ -23,7 +23,9 @@ I have surveyed literature on spectral geometry of the Laplacian, including work
 ### Heat Equation, Wave Equation and Geometric problems
 
 
-### Theoeretical and Computational Analysis
+### Minimal Surfaces
+
+* Studied relationship of Steklov Eigenvalues and Minimal Surfaces, extremal eigenvalue problems in connection to minimal surfaces. [Notes](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=sharing) based on Prof. Richard Schoen’s talk, includes overview of his groundbreaking work in collaboration with Prof. Ailana Fraser.
 
 
 
