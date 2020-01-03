@@ -4,8 +4,6 @@ title: MM 201 IITB
 subtitle: Symmetry and Structure of Crystals
 
 ---
-### Live Document
-* Please use this [doc](https://docs.google.com/document/d/1LolvOTlQXjgoUoAa9VXdlVlFPrW_xnmf8abs0Jyk9_Y/edit?usp=sharing) maintained by me as a common platform to discuss doubts, problems and communicate.
 
 ### Content:
 * Class 1: Discussion about classification of materials, meaning of structure, how symmetry is indispensable for classifying structure, a broader view, importance and implication of Symmetry - a short proof of Noether's theorem in the case of translational symmetry resulting in conservation of linear momentum.
@@ -54,6 +52,7 @@ About the speaker: Ruta Kulkarni works on the growth of single crystals of vario
 * Cotton Chemical applications of group theory
 * Elements of X-Ray Diffraction- Cullity
 * M. Artin Algebra Chapter 6 Symmetry
+* Used this [doc](https://docs.google.com/document/d/1LolvOTlQXjgoUoAa9VXdlVlFPrW_xnmf8abs0Jyk9_Y/edit?usp=sharing) maintained by me as a common platform to discuss doubts, problems and communicate.
 
 ### Extra Questions
 * Show that if the order of a group is p where p is a prime number then the group must be cyclic.  
