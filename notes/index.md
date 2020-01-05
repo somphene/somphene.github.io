@@ -82,6 +82,7 @@ use-site-title: true
 * [Course Content and Review](https://drive.google.com/file/d/1Y7gTBSu-AnAPnSorS97Eo1xDlfgznhke/view?usp=sharing) Computational Many Body Physics PH 513, IITB by Prof. Soumya Bera. 
 * [Time Evolving Block Decimation (TEBD)](https://drive.google.com/file/d/1EMDJc_GmBiT_YyEiSGTfKXB7W8LIkdtF/view?usp=sharing) based on PH 513, IITB by Prof. Soumya Bera.
 * [Kitaev Model and Majorana Fermions](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view?usp=sharing) based on my course project for the above.
+* [Spin Chains](https://drive.google.com/file/d/1TLJ2mJC0iNtFXW691H3NQjbD3OrRe-DH/view?usp=sharing) based on lecture series by Prof. Ribhu Kaul at IITB.
 
 ### Phase Transformations
 *  [Phase Transformations](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing) based on MM 325, IITB by Prof. N. Prabhu, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
