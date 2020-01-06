@@ -20,9 +20,9 @@ I have surveyed literature on spectral geometry of the Laplacian, including work
 
 * [Courant Nodal Domain Theorem and Li-Yau's estimates](https://drive.google.com/file/d/1OkAuvFcQ5vfir-J8IEp4QRTbwYdQLaoW/view?usp=sharing)
 * [Weyl's Asymptotic Law](https://drive.google.com/file/d/1OkDGbe9pG0qZs-7r4WOW5lEJp0_LIHM7/view?usp=sharing)
-* [Harmonic Maps in Analysis of Nonlinear Geometric PDEs](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk) based on Prof. Aaron Naber's lectures at IITB.
-### Heat Equation, Wave Equation and Geometric problems
 
+### Heat Equation, Wave Equation and Geometric problems
+* [Harmonic Maps in Analysis of Nonlinear Geometric PDEs](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk) based on Prof. Aaron Naber's lectures at IITB.
 
 ### Minimal Surfaces
 
