@@ -21,6 +21,7 @@ These are guided by fundamental questions that have emerged repeatedly in my exp
 * Studied literature, specifically extremal eigenvalue problems in connection to minimal surfaces. [Notes](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
 * [Hersch's Theorem](https://drive.google.com/file/d/1JbBvVg-sBR2VhEAC3zZkH1q3kISvd5Jn/view?usp=drivesdk) for first Steklov Eigenvalue convergence.
 * [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk)
+* [Harmonic Maps in Analysis of Nonlinear Geometric PDEs](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk)- Stratification and Regularity theory based on Prof. Aaron Naber's lectures at IITB.
 
 ### Density Functional Theory (DFT) 
 * Density Functional Theory based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/).
