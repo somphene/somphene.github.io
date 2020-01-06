@@ -13,6 +13,7 @@ use-site-title: true
 * [Hille-Yosida, Holder Regularity of Laplacian, Radon Transform for Wave Equation, Perron's Method](https://drive.google.com/file/d/1nKG0bSbi872hfLrdOGGOHrCC3Km73ZMq/view?usp=sharing) based on course projects by Vaibhav Kumar, Soumyajit Saha, Ankur Pandey and Soham Chatterjee in MA 534, IITB. 
 * [Numerical Methods for Partial Differential Equations (PDEs)](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view?usp=sharing) based on MA 540, IITB by [Prof. Harsha Hutridurga](https://hutridurga.wordpress.com/). 
 * [Yamabe Problem](https://drive.google.com/file/d/1S3QwlnaA_5cUhdBZxGKBzx1fl5Ieb-jH/view?usp=drivesdk) based on Prof. Saikat Mazumdar's talk at IITB.
+* [Harmonic Maps in Analysis of Nonlinear Geometric PDEs](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk)- Stratification and Regularity theory based on Prof. Aaron Naber's lectures at IITB.
 * [2nd Order PDEs and associated Markov Processes](https://drive.google.com/file/d/1KK8fwuJ_bXcLTotlPV64VkildQGhH_UO/view?usp=sharing) based on [Prof. Rajeeva Karandikar's](https://www.cmi.ac.in/~rlk/) Sukhatme Memorial lecture at IITB.
 
 ### Ordinary Differential Equations and Dynamical Systems 
