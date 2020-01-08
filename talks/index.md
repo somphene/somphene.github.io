@@ -6,7 +6,7 @@ use-site-title: true
 
 ---
 ### Student Seminar @ Mathematics, IIT Bombay
-* I lead the organization of Student Seminar at Mathematics, IITB. It provides opportunity for any student interested in Mathematics beyond the standard coursework to give a talk and/or attend talks by others. This [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities. The primary aim is to get undergraduate students exposed to a wide variety of topics from logic to algebraic geometry to applied mathematics. 
+* I lead the organization of Student Seminar at Mathematics, IITB. It provides opportunity for any student interested in Mathematics beyond the standard coursework to give a talk and/or attend talks by others. The following link- [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities. The primary aim is to get undergraduate students exposed to a wide variety of topics from logic to algebraic geometry to applied mathematics. 
 * I gave the first talk on [Differentiable Manifolds](https://student-seminar-math-iitb.github.io/2019/09/26/s001/) as part of the Differential Geometry theme.
 * I gave the last talk of the semester on [Smooth dependence of trajectories on initial conditions/parameters](https://student-seminar-math-iitb.github.io/2019/11/07/s006/). 
 
