@@ -34,6 +34,7 @@ use-site-title: true
 * [Symplectic Geometry and Classical Mechanics](https://drive.google.com/file/d/1KT_emxQ44NKixDkPtqCiRDMwbZ4F6rhw/view?usp=sharing) based on Prof. Tobias J Osborne's lectures at Institut für Theoretische Physik Leibniz Universität Hannover.
 * [Differential forms and De Rham Cohomology](https://drive.google.com/file/d/1P2N5NQ_y4WaWAWYaLfh8D6Z-xongkSWj/view?usp=sharing) based on [Prof. Gopal Krishna Srinivasan's](http://www.math.iitb.ac.in/~gopal/) SCV Seminar series at IITB.
 * [Tensor Algebra](https://drive.google.com/file/d/1OUykRToVivsTlocj-R6_pRBclbYZDqg0/view?usp=sharing) based on [Youtube series by Eigenchris](https://www.youtube.com/user/eigenchris/featured).
+* [Analytical and Geometric Dynamics](https://drive.google.com/file/d/1eZcH7qVuT7kgINis1Ebx3FQDDfjdhXZG/view?usp=drivesdk) based on Prof. Srikant. 
 
 ### Several Complex Variables
 
@@ -47,6 +48,7 @@ use-site-title: true
 
 ### Analysis 
 * [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
+* [Real Analysis]() will be uploaded soon.
 
 ### Michael Atiyah's Work (Highlight- the Atiyah Singer Index Theorem)
 * [Notes](https://drive.google.com/file/d/1ETN0-awXoA4YKi2LY7byqzaFiRHKLa3V/view?usp=sharing) based on lectures by Prof. MS. Raghunathan at IITB.
@@ -62,6 +64,7 @@ use-site-title: true
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IITB by Prof. N. K. Khosla.
 * [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), [Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, IITB by Prof. Navin Khaneja.
+* [Optimization](https://drive.google.com/file/d/19Xd76R3yPndUjBDS6vGTmohKn0BxTdD6/view?usp=drivesdk) based on SC 607, IITB by Prof. Ankur Kulkarni.
 
 ### Operators on Hilbert Space for Quantum Theory
 * [Quantum Theory](https://drive.google.com/file/d/1D8p6d3ere1zggjkws2aRNv8s-srHg1qP/view?usp=drivesdk) based on lectures by Prof. Frederic Schuller, Friedrich-Alexander-University of Erlangen-Nürnberg.
@@ -86,14 +89,14 @@ use-site-title: true
 * [Spin Chains](https://drive.google.com/file/d/1TLJ2mJC0iNtFXW691H3NQjbD3OrRe-DH/view?usp=sharing) based on lecture series by Prof. Ribhu Kaul at IITB.
 
 ### Phase Transformations
-*  [Phase Transformations](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing) based on MM 325, IITB by Prof. N. Prabhu, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
+* [Phase Transformations](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing) based on MM 325, IITB by Prof. N. Prabhu, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
 * [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
 
 ### Philosophy 
 * [Nirvana and Anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
 * Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing), [Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in UG info Booklet
 * Rant on being asked for [motivation](https://docs.google.com/document/d/e/2PACX-1vTymgoOYIjo7wfOnVziT746o_TaHlJiDZ7CehCD1U1RcLqotVZtcuog5YJJYHImLtTPk8sahhGY4IMh/pub) to apply for a job
-
+* Environmental Studies and it's philosophy. ( will be Uploadrd around June)
 ### Miscellaneous
 * [Theory of Machines and Machine Design](https://drive.google.com/file/d/1OiWg2M-kx9yVQ1Cetn9Ql5EkXCNvkhNU/view?usp=sharing), my final answers.
 
