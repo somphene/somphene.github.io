@@ -23,6 +23,5 @@ Problems at the crossroads of modern civilization have increasingly emphasized t
 
 
 ### Future directions and Applications
-
-Computer vision (CV) can automate and accelerate the analysis of microscope images, revealing structure-property correlations.  Cross disciplinary collaboration with Engineering departments like Physics, Mathematics, Chemistry, Computer Science are significant.
+Materials informatics and Cross disciplinary collaboration with Engineering departments like Physics, Mathematics, Chemistry, Computer Science are significant.
 
