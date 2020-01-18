@@ -48,7 +48,7 @@ use-site-title: true
 * [Noether's Theorem in Classical Dynamics (Continuous Symmetries)](https://drive.google.com/file/d/1Hfu_ZYh-vLVHTx0o_UCboJ9WLeOMxrki/view?usp=sharing)
 
 ### Analysis 
-* [Functional Analysis](https://drive.google.com/file/d/1v2kvWr8ghcNo3ScdibrVL_M99kKTHQRC/view?usp=sharing) based on MA 824, IITB Prof. Mayukh Mukherjee.
+* [Functional Analysis](https://drive.google.com/file/d/190OGmTdc9x7uSNSVgkt1adzfnu0kasSd/view?usp=sharing) based on MA 824, IITB Prof. Mayukh Mukherjee.
 * [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
 * [Real Analysis]() will be uploaded soon.
 
@@ -85,10 +85,10 @@ use-site-title: true
 * [Maxwell's Equations and Lasing](https://drive.google.com/file/d/1FAn4XjztKgQly8WO_OJO0A-ub4P6Hsnp/view?usp=sharing)
 
 ### Computational Many Body Physics
-* [Course Content and Review](https://drive.google.com/file/d/1Y7gTBSu-AnAPnSorS97Eo1xDlfgznhke/view?usp=sharing) Computational Many Body Physics PH 513, IITB by Prof. Soumya Bera. 
+* [Course Content and Review](https://drive.google.com/file/d/1Y7gTBSu-AnAPnSorS97Eo1xDlfgznhke/view?usp=sharing) Computational Many Body Physics PH 513, IITB by Prof. [Soumya Bera](https://ccmiitb.wordpress.com/). 
 * [Time Evolving Block Decimation (TEBD)](https://drive.google.com/file/d/1EMDJc_GmBiT_YyEiSGTfKXB7W8LIkdtF/view?usp=sharing) based on PH 513, IITB by Prof. Soumya Bera.
 * [Kitaev Model and Majorana Fermions](https://drive.google.com/file/d/1EWzraGwRifs8-pEqLRR1TKHaFEUuc00C/view?usp=sharing) based on my course project for the above.
-* [Spin Chains](https://drive.google.com/file/d/1TLJ2mJC0iNtFXW691H3NQjbD3OrRe-DH/view?usp=sharing) based on lecture series by Prof. Ribhu Kaul at IITB.
+* [Spin Chains](https://drive.google.com/file/d/1TLJ2mJC0iNtFXW691H3NQjbD3OrRe-DH/view?usp=sharing) based on lecture series by Prof. [Ribhu Kaul](http://www.pa.uky.edu/~rkk/) at IITB.
 
 ### Phase Transformations
 * [Phase Transformations](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing) based on MM 325, IITB by Prof. N. Prabhu, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
