@@ -41,12 +41,14 @@ use-site-title: true
 * [Hatrog's Extension Phenomenon](https://drive.google.com/file/d/1P0FRvsR_AVPyvY6G_RKvf3ka77yI2NJp/view?usp=sharing): Domain of Holomorphicity characterized by vanishing of Dolbeault Cohomology (analogue of [De Rham Cohomology](https://drive.google.com/file/d/1P2N5NQ_y4WaWAWYaLfh8D6Z-xongkSWj/view?usp=sharing) in several complex variables) based on [Prof. Gopal Krishna Srinivasan's](http://www.math.iitb.ac.in/~gopal/) SCV Seminar series at IITB.
 
 ### Algebra
+* []() based on MA 842, IITB by Prof. Swapneel Mahajan
 * [Lie Groups, Symmetry and Shimura Varieties](https://drive.google.com/file/d/0B2Uc1VPlIxGabkE1RTh1RTR2emIwTHdUTFRhdlhfdkMzX3FV/view?usp=sharing) based on the lecture series given by [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) at IITB and his suggested references. They provide an introduction to Lie groups, Homogeneous Spaces, Symmetric Spaces, Crash Course on Riemannian Geometry, Classification of semisimple Lie Groups, Theorems by Harish Chandra, Eichler Shimura Theory.
 * [Lie Groups and Lie ALgebras 1](https://drive.google.com/file/d/1E0tbjzZXG_wRdjYc5hC-F-ohWGqQyVjI/view?usp=sharing), [Lie Groups and Lie Algebras 2](https://drive.google.com/file/d/1EX1_tUFNK6tqLxvG7kDT0cs7JnlCHWcl/view?usp=drivesdk) based on MA 5108, IITB by Prof. Sudarshan Gurjar. References for which are Hall and Chevalley.
 * Notes on [Group theory for Physicists](https://drive.google.com/file/d/1DXK716YgkUfmkrDgQ5jscjf5ngiYEO5j/view?usp=sharing) based on PH 520, IITB by Prof. Ramadevi and other online resources for application of group theory in Quantum Mechanics, standard refernces for which are Hammermesh and Georgi.
 * [Noether's Theorem in Classical Dynamics (Continuous Symmetries)](https://drive.google.com/file/d/1Hfu_ZYh-vLVHTx0o_UCboJ9WLeOMxrki/view?usp=sharing)
 
 ### Analysis 
+* [Functional Analysis](https://drive.google.com/file/d/1v2kvWr8ghcNo3ScdibrVL_M99kKTHQRC/view?usp=sharing) based on MA 824, IITB Prof. Mayukh Mukherjee.
 * [Introductory Calculus](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing)
 * [Real Analysis]() will be uploaded soon.
 
@@ -64,7 +66,7 @@ use-site-title: true
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IITB by Prof. N. K. Khosla.
 * [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), [Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, IITB by Prof. Navin Khaneja.
-* [Optimization](https://drive.google.com/file/d/19Xd76R3yPndUjBDS6vGTmohKn0BxTdD6/view?usp=drivesdk) based on SC 607, IITB by Prof. Ankur Kulkarni.
+* [Optimization](https://drive.google.com/file/d/1oCBdPrlNPFaRMhsRhWiGyXlFIn2BL5dZ/view?usp=sharing) based on SC 607, IITB by Prof. Ankur Kulkarni.
 
 ### Operators on Hilbert Space for Quantum Theory
 * [Quantum Theory](https://drive.google.com/file/d/1D8p6d3ere1zggjkws2aRNv8s-srHg1qP/view?usp=drivesdk) based on lectures by Prof. Frederic Schuller, Friedrich-Alexander-University of Erlangen-Nürnberg.
