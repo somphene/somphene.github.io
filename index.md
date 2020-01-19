@@ -26,7 +26,7 @@ To be able to build materials for quantum computing, studying BCS theory and hig
 
 * [Previous projects- DFT based simulation of Materials](https://somphene.github.io/research/)
 
-Performed Density Functional Theory (DFT) based IR and Raman spectrum calculations using \href{https://www.quantum-espresso.org/}{\textbf{Quantum Espresso}}. DFT calculations of thermoelectric properties of doped $$Mg_2Si$$ using [\textbf{VASP}](https://www.vasp.at/), [\textbf{BoltzTrap}](https://www.imc.tuwien.ac.at/forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
+Performed Density Functional Theory (DFT) based IR and Raman spectrum calculations using [\textbf{Quantum Espresso}](https://www.quantum-espresso.org/). DFT calculations of thermoelectric properties of doped $$Mg_2Si$$ using [\textbf{VASP}](https://www.vasp.at/), [\textbf{BoltzTrap}](https://www.imc.tuwien.ac.at/forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
 
 # [Teaching & Outreach](https://somphene.github.io/teaching/) 
 
