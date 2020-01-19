@@ -22,21 +22,24 @@ Using techniques of asymptotic expansions for Steklov Eigenvalues and Gohberg-Si
 
 * [BCS Superconductivity and Josephson Junctions for Quantum Computing](https://somphene.github.io/research/bcssuperconductivity/)
 
-To be able to build materials for quantum computing, studying BCS theory and high temperature superconducting materials. Surveyed literature on solid state theory including BCS theory of superconductivity. Studying Josephson junctions and Google’s implementation of qubits for building Quantum computers. This builds on my background in topological quantum computing for which I did a course project on Kitaev Model and Majorana Fermions covering Jordan-Wigner Transforms, braiding and Non-Abelian Statistics. I will also be learning spectroscopy techniques including NMR, optimal control and error correction for quantum control of systems.
+To be able to build materials for quantum computing, studying BCS theory and high temperature superconducting materials. Surveyed literature on solid state theory including BCS theory of superconductivity. Studying Josephson junctions and Google’s implementation of qubits for building Quantum computers. This builds on background in topological quantum computing for which course project was done on Kitaev Model and Majorana Fermions covering Jordan-Wigner Transforms, braiding and Non-Abelian Statistics. Currently learning spectroscopy techniques including NMR in optimal quantum control and error correction for quantum systems. (Report, Notes will be uploaded in a few days).
 
 * [Previous projects- DFT based simulation of Materials](https://somphene.github.io/research/)
 
-Performed Density Functional Theory (DFT) based IR and Raman spectrum calculations using [\textbf{Quantum Espresso}](https://www.quantum-espresso.org/). DFT calculations of thermoelectric properties of doped $$Mg_2Si$$ using [\textbf{VASP}](https://www.vasp.at/), [\textbf{BoltzTrap}](https://www.imc.tuwien.ac.at/forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
+Performed \bf{Density Functional Theory (DFT)} based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/). DFT calculations of thermoelectric properties of doped $$Mg_2Si$$ using [VASP](https://www.vasp.at/), [BoltzTrap](https://www.imc.tuwien.ac.at/forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/). 
+
+Intend to combine theoretical techniques with computational methods to solve major inverse problems. Increasing use of statistical methods involving deep neural networks has inspired undertaking [courses](https://somphene.github.io/notes/)(click to see content covered via my lecture notes):  [Optimization lecture notes](https://drive.google.com/file/d/1oCBdPrlNPFaRMhsRhWiGyXlFIn2BL5dZ/view), [Computational Many Body Physics](https://drive.google.com/file/d/1Y7gTBSu-AnAPnSorS97Eo1xDlfgznhke/view), [Numerical Methods in PDEs](https://drive.google.com/file/d/1HQ18XqpBIjaFexc6k30rArBBb-tRGisK/view), [Modern Theory of PDEs](https://somphene.github.io/notes/modern_theory_pde.pdf), [Machine Learning Lecture Notes](https://drive.google.com/file/d/1ce2XilD2CnruB9klBBIDU9gAjjS-UF1A/view), [Advanced Image Processing](https://drive.google.com/file/d/1eUVFeCK82Oz58DgIwFV5BDWFjtP4t9ON/view) (aka Inverse Problems in Imaging), Stochastic Optimization, [Differential Geometric Methods in Control](), [Physics and Control](), [Solid State Systems and Control]() and Quantum Control]().
 
 # [Teaching & Outreach](https://somphene.github.io/teaching/) 
 
- Vibrational Spectroscopy Notes will be uploaded soon.
+* Vibrational Spectroscopy Notes for the tutorial will be uploaded soon.
 
- [Notes](https://somphene.github.io/notes/)
-* 
+# [Notes](https://somphene.github.io/notes/)
+Currently [writing](https://somphene.github.io/log/list/). Highlights: [Hopf Algebras, Monoids, Posets, Hyperplane Arrangements](https://drive.google.com/file/d/1G5mJCHxPmNOOi_nA9_lPKTgwly0JFZ3R/view), [Optimization](https://drive.google.com/file/d/1oCBdPrlNPFaRMhsRhWiGyXlFIn2BL5dZ/view), [Functional Analysis](https://drive.google.com/file/d/190OGmTdc9x7uSNSVgkt1adzfnu0kasSd/view), [Complex Analysis](https://somphene.github.io/2020-01-10-1/), [Machine Learning](https://drive.google.com/file/d/1ce2XilD2CnruB9klBBIDU9gAjjS-UF1A/view)
+* [Older notes](https://somphene.github.io/notes/)
 
-[Seminars & Talks](https://somphene.github.io/talks/) 
-Organizing the [Student Seminar](https://student-seminar-math-iitb.github.io/list/), Department of Mathematics, IIT Bombay
+# [Seminars & Talks](https://somphene.github.io/talks/) 
+* Organizing the [Student Seminar](https://student-seminar-math-iitb.github.io/list/), Department of Mathematics, IIT Bombay.
 
- [Log](https://somphene.github.io/log/)
-
+# [Log](https://somphene.github.io/log/)
+* Almost daily Updates, Notes, resources, tutorials, etc. posted raw.
