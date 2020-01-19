@@ -20,6 +20,14 @@ Using techniques of asymptotic expansions for Steklov Eigenvalues and Gohberg-Si
 
  Studied relationship of extremal Steklov eigenvalues with [minimal surfaces](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=sharing), Hersch's theorem and [Harmonic maps](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk) (5 page pdf).
 
+* [BCS Superconductivity and Josephson Junctions for Quantum Computing](https://somphene.github.io/research/bcssuperconductivity/)
+
+To be able to build materials for quantum computing, studying BCS theory and high temperature superconducting materials. Surveyed literature on solid state theory including BCS theory of superconductivity. Studying Josephson junctions and Google’s implementation of qubits for building Quantum computers. This builds on my background in topological quantum computing for which I did a course project on Kitaev Model and Majorana Fermions covering Jordan-Wigner Transforms, braiding and Non-Abelian Statistics. I will also be learning spectroscopy techniques including NMR, optimal control and error correction for quantum control of systems.
+
+* [Previous projects- DFT based simulation of Materials](https://somphene.github.io/research/)
+
+Performed Density Functional Theory (DFT) based IR and Raman spectrum calculations using \href{https://www.quantum-espresso.org/}{\textbf{Quantum Espresso}}. DFT calculations of thermoelectric properties of doped $$Mg_2Si$$ using [\textbf{VASP}](https://www.vasp.at/), [\textbf{BoltzTrap}](https://www.imc.tuwien.ac.at/forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
+
 # [Teaching & Outreach](https://somphene.github.io/teaching/) 
 
  Vibrational Spectroscopy Notes will be uploaded soon.
