@@ -5,11 +5,10 @@ subtitle:
 use-site-title: true
 image: img/me.jpg
 ---
+(click on the blue links for details)
 
 # [Research](https://somphene.github.io/research/)
 Following are my areas of localization:
-
-(click on the blue links for details)
 
 * [Design Optimization of Metamaterials for Cloaking](https://somphene.github.io/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view): 4 page pdf summarizing the thesis)
 
