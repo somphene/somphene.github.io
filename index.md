@@ -20,7 +20,7 @@ Following are my areas of localization (click on the link for details):
 # [Notes](https://somphene.github.io/notes/)
 
 # [Seminars & Talks](https://somphene.github.io/talks/)   
-* Leading the Student Seminar, Department of Mathematics, IIT Bombay
+* Organizing the [Student Seminar](https://student-seminar-math-iitb.github.io/list/), Department of Mathematics, IIT Bombay
 
 # [Log](https://somphene.github.io/log/)
 
