@@ -66,10 +66,12 @@ use-site-title: true
 * [Differential Geometry for Control Theory](https://drive.google.com/file/d/1FhmUaxAZVUiqeRP_4ueAUHUusAl413H3/view?usp=sharing) based on SC 624, IITB by [Prof Debashish Chatterjee](http://www.sc.iitb.ac.in/~chatterjee/) and TA [Rayyan](http://www.sc.iitb.ac.in/~mohammedrayyan/) and help from [Mishal Assif](https://mishalassif.github.io/).
 * [Process Control and Instrumentation](https://drive.google.com/file/d/1aL-uDzenks4Nq0l_JDJNCxkvejRYRGCe/view?usp=sharing) based on MM 401, IITB by Prof. N. K. Khosla.
 * [Physics and Control](https://drive.google.com/file/d/1DzwFahATCUpkbIWMAaVeIaMsf0kdsx0h/view?usp=sharing), [Linear Systems](https://drive.google.com/file/d/1E3UprT77bB7eZdMu-eBAMU0tCXL2b-vE/view?usp=sharing), [Quantum Control](https://drive.google.com/file/d/1EJnfZc23ACIywasngrpw13RCSh29YzqD/view?usp=sharing) based on SC 701, IITB by Prof. Navin Khaneja.
-* [Optimization](https://drive.google.com/file/d/1oCBdPrlNPFaRMhsRhWiGyXlFIn2BL5dZ/view?usp=sharing) based on SC 607, IITB by Prof. Ankur Kulkarni.
+* [Optimization](https://drive.google.com/file/d/1oCBdPrlNPFaRMhsRhWiGyXlFIn2BL5dZ/view) based on SC 607, IITB by Prof. Ankur Kulkarni.
+* [Analytical and Geometric Dynamics](https://drive.google.com/file/d/1eZcH7qVuT7kgINis1Ebx3FQDDfjdhXZG/view?usp=drivesdk) based on Prof. Srikant. 
 
 ### Operators on Hilbert Space for Quantum Theory
 * [Quantum Theory](https://drive.google.com/file/d/1D8p6d3ere1zggjkws2aRNv8s-srHg1qP/view?usp=drivesdk) based on lectures by Prof. Frederic Schuller, Friedrich-Alexander-University of Erlangen-Nürnberg.
+* [Operators on Hilbert Spaces](https://drive.google.com/file/d/1uQ1Kg90s67dEV1fpCsz_1GTpnmMgyVTF/view) based on MA 506, IITB by Prof. Rekha Kulkarni.
 
 ### Electromagnetic Theory
 * [Mie Scattering Theory](https://drive.google.com/file/d/13fiU0y_lPC6QsBsW3R9QbE_u-9_kNkWC/view?usp=sharing)
