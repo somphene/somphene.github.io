@@ -5,7 +5,7 @@ subtitle:
 use-site-title: true
 
 ---
-
+Notes that are currently being written can be found linked [here](https://somphene.github.io/log/)
 ### Partial Differential Equations and Homogenization
 * [Modern Theory of Partial Differential Equations (PDEs)](/modern_theory_pde.pdf) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/). [Course content and review](https://drive.google.com/file/d/1Akb8m9Yahf4ED_H7l-UfY6VkcZnpVyHr/view).
 * [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing). Reference: [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
