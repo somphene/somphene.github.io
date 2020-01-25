@@ -4,11 +4,10 @@ blog-category: blog
 title: Optimization by Ankur Kulkarni
 author: Som Phene
 bigimg: log/images/diggity-marketing-s8HyIEe7lF0-unsplash.jpg
-categories: [Optimization, SC 607, Ankur Kulkarni]
 tags: [Introduction, Limit, Convex, Symmetry, Geometry, Metric space, Convergence, Existence, Uniqueness, Isoperimetric, Real Analysis, Sequence, Optimization, SC 607, Ankur Kulkarni] 
 ---
 ### Introduction to Optimization and Real Aanalysis
 
-* Find the $$1^{st}$$ lecture notes linked: [Lecture Notes 1 (Google Drive link)](https://drive.google.com/file/d/1cTBcl2U1-vUzwPCGR5QQukErB8nR5xXk/view?usp=sharing), [Lecture Notes 1 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/b2b3c11fdb81e3cebb18da5f42848f6f92dfeeea/Optimization_Som_S__Phene%20(1).pdf). [link](Optimization_Som_S__Phene (1).pdf)
+* Find the $$1^{st}$$ lecture notes linked: [Lecture Notes 1 (Google Drive link)](https://drive.google.com/file/d/1cTBcl2U1-vUzwPCGR5QQukErB8nR5xXk/view?usp=sharing), [Lecture Notes 1 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/b2b3c11fdb81e3cebb18da5f42848f6f92dfeeea/Optimization_Som_S__Phene%20(1).pdf). 
 * This course on Optimization, SC 607 IITB (2020) is being recorded for [CDEEP](http://www.cdeep.iitb.ac.in/vod/vodCloud/course_intra.php?ccode=320) which places constraints on teaching style and interaction. 
 * Started with an introduction to optimization and provided motivation to build formal techniques to solve optimization problems. The class ended with some review of Real Analysis.
