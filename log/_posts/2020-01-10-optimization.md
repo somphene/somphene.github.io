@@ -4,7 +4,8 @@ blog-category: blog
 title: Optimization by Ankur Kulkarni
 author: Som Phene
 bigimg: log/images/diggity-marketing-s8HyIEe7lF0-unsplash.jpg
-tags: [Introduction, Limit, Convex, Symmetry, Geometry, Metric space, Convergence, Existence, Uniqueness, Isoperimetric, Geometry, Real Analysis, Sequence, Optimization, SC 607, Ankur Kulkarni] 
+categories: [Optimization, SC 607, Ankur Kulkarni]
+tags: [Introduction, Limit, Convex, Symmetry, Geometry, Metric space, Convergence, Existence, Uniqueness, Isoperimetric, Real Analysis, Sequence, Optimization, SC 607, Ankur Kulkarni] 
 ---
 ### Introduction to Optimization and Real Aanalysis
 
