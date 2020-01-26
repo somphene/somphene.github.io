@@ -17,4 +17,4 @@ tags: [Introduction, Limit, Convex, Symmetry, Geometry, Metric space, Convergenc
 * Started with an introduction to optimization and provided motivation to build formal techniques to solve optimization problems. The class ended with some review of Real Analysis.
 * Existence of optimal solution to a problem cant be taken for granted and must be proved. This requires notions of convergence for which Real Analysis must be reveiwed. 
 * The notion of a sequence $$ (x_n)_{n \in \mathbb{N}}$$ converging can be formalized as a challenge problem: A sequence converges to a point $$x^*$$ means that for any given $$\epsilon >0$$ (that could be as small as the challenger demands), there is a point in the sequence after which all points are within $$\epsilon >0$$ distance of $$x^*$$. That is
-$$  \forall \epsilon >0, \quad \exists \,\, n_0 \in \mathbb{N}, \quad \textrm{such that} \\ \quad \| x_n-x^* \| < \epsilon, \quad \forall n > n_0  $$
+$$  \forall \epsilon >0, \quad \exists \,\, n_0 \in \mathbb{N}, \quad \textrm{such that} \\ \| x_n-x^* \| < \epsilon, \quad \forall n > n_0  $$
