@@ -8,8 +8,8 @@ tags: [ Weierstrass theorem, Open, Closed, Unbounded, Discontinuous, Compact, In
 ---
 
 Updated version of my notes is linked below:
-* Find the $$3^{3d}$$ lecture notes linked: [SC 607 IITB Lecture Notes 3 (Google Drive link)](), [Lecture Notes 3 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/4c19d756ed33fef0c6e088111afc1f509bff4a76/Notes/Optimization_Som_S__Phene%20(3).pdf).
-* Find the entire lecture notes linked: [SC 607 IITB Lecture Notes 1-2 (Google Drive link)](https://drive.google.com/file/d/1DFK0Ax5-B16WvBRULAouGL6jEfiQ-54k/view?usp=sharing), [Lecture Notes 1-2 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/c4ec0377702554424f87192e8446f5347426677d/
+* Find the $$3^{3d}$$ lecture notes linked: [SC 607 IITB Lecture Notes 3 (Google Drive link)](https://drive.google.com/file/d/1DFK0Ax5-B16WvBRULAouGL6jEfiQ-54k/view?usp=sharing), [Lecture Notes 3 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/4c19d756ed33fef0c6e088111afc1f509bff4a76/Notes/Optimization_Som_S__Phene%20(3).pdf).
+* Find the entire lecture notes linked: [SC 607 IITB Lecture Notes 1-3 (Google Drive link)]https://drive.google.com/file/d/1b7Rjg2MHsa2YIjilapCP1tI9-0D1EcwQ/view?usp=sharing), [Lecture Notes 1-3 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/c4ec0377702554424f87192e8446f5347426677d/
 * Local minimum is exactly what the English word says: a point in the domain is a local minimum of the function if there is a neighbourhood in which the function takes values greater than or equal to the value at such a point. That is $$x^* \in S$$ is said to be a $$\textbf{local minimum}$$ if $$ \exists \, r >0$$ s.t. 
 $$ f(x^*) \le f(x) \quad \forall x \in B(x^*, r) \cap S
 $$ 
