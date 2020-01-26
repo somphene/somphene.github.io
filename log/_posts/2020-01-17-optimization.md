@@ -16,4 +16,4 @@ $$
 * Unconstrained minimum and global minimum are the corresponding terms given for the above inequality holding over all of $$\mathbb{R}^n$$ or over all of the feasible region respectively. What about constraints while trying to optimize?
 * $$\textbf{Goal}$$: min $f(x)$ s.t. $g_i(x) \le 0 \quad \forall i= 1, \ldots , m; \\
 h_j(x)= 0 \quad \forall j= 1, \ldots , p$$ are satisfied.
-* 
+
