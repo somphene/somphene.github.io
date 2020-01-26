@@ -4,7 +4,7 @@ blog-category: blog
 title: Optimization Lecture 2
 author: Som Phene
 bigimg: log/images/diggity-marketing-s8HyIEe7lF0-unsplash.jpg
-tags: [Bolzano weierstrass, GLB, LUB, Convergence, Open, Closed, Compact, Set, Heine-Borel theorem, Continuous, Function, Weierstrass, Real Analysis, Sequence, Subsequence, Optimization, SC 607, Ankur Kulkarni] 
+tags: [Bolzano-Weierstrass, GLB, LUB, Convergence, Open, Closed, Compact, Set, Heine-Borel theorem, Continuous, Function, Weierstrass, Real Analysis, Sequence, Subsequence, Optimization, SC 607, Ankur Kulkarni] 
 ---
 ### Real Analysis and Weierstrass Theorem
 
