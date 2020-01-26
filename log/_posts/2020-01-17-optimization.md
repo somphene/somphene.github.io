@@ -9,7 +9,7 @@ tags: [ Weierstrass theorem, Open, Closed, Unbounded, Discontinuous, Compact, In
 
 ### Optimization with Constraints
 * Find the $$3^{3d}$$ lecture notes linked: [SC 607 IITB Lecture Notes 3 (Google Drive link)](https://drive.google.com/file/d/1DFK0Ax5-B16WvBRULAouGL6jEfiQ-54k/view?usp=sharing), [Lecture Notes 3 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/4c19d756ed33fef0c6e088111afc1f509bff4a76/Notes/Optimization_Som_S__Phene%20(3).pdf).
-* Find the entire lecture notes linked: [SC 607 IITB Lecture Notes 1-3 (Google Drive link)](https://drive.google.com/file/d/1b7Rjg2MHsa2YIjilapCP1tI9-0D1EcwQ/view?usp=sharing), [Lecture Notes 1-3 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/c4ec0377702554424f87192e8446f5347426677d/)
+* Find the entire lecture notes linked: [SC 607 IITB Lecture Notes 1-3 (Google Drive link)](https://drive.google.com/file/d/1b7Rjg2MHsa2YIjilapCP1tI9-0D1EcwQ/view?usp=sharing), [Lecture Notes 1-3 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/7b8f5eebf0fcaf55ab0380320a6f5907f8bd9468/Notes/Optimization_Som_S__Phene%20(1-3).pdf)
 * Interior: $$C$$ is any set then,
 $$ \dot{C} = \textrm{interior of C} = \underset{S \textrm{ is open} \, \& S \subseteq C}{\bigcup} S
 $$
