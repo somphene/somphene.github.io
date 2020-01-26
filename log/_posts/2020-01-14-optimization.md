@@ -4,7 +4,7 @@ blog-category: blog
 title: Optimization Lecture 2
 author: Som Phene
 bigimg: log/images/diggity-marketing-s8HyIEe7lF0-unsplash.jpg
-tags: [Bolzano-Weierstrass, GLB, LUB, Convergence, Open, Closed, Compact, Set, Heine-Borel theorem, Continuous, Function, Weierstrass, Real Analysis, Sequence, Subsequence, Optimization, SC 607, Ankur Kulkarni] 
+tags: [Bolzano-Weierstrass, GLB, LUB, Infimum, Minimum, Convergence, Open, Closed, Compact, Set, Heine-Borel theorem, Continuous, Function, Weierstrass theorem, Real Analysis, Sequence, Subsequence, Optimization, SC 607, Ankur Kulkarni] 
 ---
 ### Real Analysis and Weierstrass Theorem
 
@@ -16,4 +16,5 @@ tags: [Bolzano-Weierstrass, GLB, LUB, Convergence, Open, Closed, Compact, Set, H
 $$B(x,r)= \{ y \in \mathbb{R}^n \, | \,\,  \lVert y-x \rVert  < r \} $$
 * Just as in the notion of convergence, we pose another challenge- $$f \colon \mathbb{R}^n \to \mathbb{R} $$ is said to be $$\textbf{continuous at a point}$$ $$x \in \mathbb{R}^n$$ if $$\forall \epsilon >0, \quad \exists \delta > 0, \quad$$ such that $$ \lvert f(y)-f(x) \rvert < \epsilon, \quad \forall y \in B(x,\delta)$$
 * Sequentially continuous function means that for any fixed $$x$$, every sequence $$x_n \to $$x_0 \implies $$f(x_n) \to f(x)$$. 
-* In Metric Spaces, sequentially continuous are equivalent to contiuous functions. (This is provided Axiom of Choice or Counatbility is assumed, for details see [Axiom of Countability](https://en.wikipedia.org/wiki/Axiom_of_countability) or find a time to discuss with [Aryaman](https://aryamanmaithani.github.io/)).
+* Recall from Calculus (MA 105), that in Metric Spaces, sequentially continuous is equivalent to contiuous functions. (This is provided Axiom of Choice or Counatbility is assumed, for details see [Axiom of Countability](https://en.wikipedia.org/wiki/Axiom_of_countability) or find a time to discuss with [Aryaman](https://aryamanmaithani.github.io/)).
+* While convergence to optimal solution may be shown, is there a guarantee that it can be attained in the feasible region? Here's where $$\textbf{Weierstrass Theorem}$$ comes handy. It states that for continuous functions on compact sets, the infimum exists and is attained on the compact set itself.
