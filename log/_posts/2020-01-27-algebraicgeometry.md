@@ -2,7 +2,7 @@
 layout: post
 title: Algebraic Geometry Lecture 4
 subtitle: Guest Post by Kirtan Vora
-bigimg: /img/path.jpg
+author: Som Phene
 tags: [algebraic geometry, algebra test]
 ---
 
