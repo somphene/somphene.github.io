@@ -1,5 +1,6 @@
 ---
 layout: post
+blog-category: blog
 title: Algebraic Geometry Lecture 4
 subtitle: Guest Post by Kirtan Vora
 author: Som Phene
