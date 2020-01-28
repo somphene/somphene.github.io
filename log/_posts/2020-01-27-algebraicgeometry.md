@@ -3,6 +3,7 @@ layout: post
 blog-category: blog
 title: Algebraic Geometry Lecture 4
 subtitle: Guest Post by Kirtan Vora
+bigimg: log/images/nick-hillier-aQcE3gDSSTY-unsplash.jpg
 author: Som Phene
 tags: [Algebraic Geometry, Algebra, Dipendra Prasad]
 ---
