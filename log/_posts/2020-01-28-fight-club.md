@@ -1,7 +1,8 @@
 ---
 layout: post
 blog-category: blog
-title: Fight Club by Prof X Lecture 7
+title: Fight Club Lecture 7
+subtitle: Posted by Som Phene
 author: Som Phene
 bigimg: log/images/fightclub.JPG
 tags: [Category Theory, Functors, Fight Club, Categories, Mobius, Zeta, Exp, Log, Products, objects, morphisms, MacLane, Linear Algebra, Algebra, Prof.X]
