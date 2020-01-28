@@ -3,6 +3,7 @@ layout: post
 blog-category: blog
 title: Corrosion Lecture 2
 author: Som Phene
+bigimg: log/images/hans-eiskonen-qTxwKHZwl6M-unsplash.jpg
 tags: [Faraday, Corrosion, MM 454, Vijayshankar Dandapani] 
 ---
 ### Faraday's Law
