@@ -11,4 +11,4 @@ tags: [algebraic geometry, algebra]
 * Affine Varieties
 * Projective Varieties: 
 * Zariski Topology: Illustrated by examples in $$ \mathbb{R}$$ and $$\mathbb{Z}$$. Also note that this topology is not Hausdorff.
-* Touched on [sheaves](https://en.wikipedia.org/wiki/Sheaf_(mathematics).
+* Touched on [sheaves](https://en.wikipedia.org/wiki/Sheaf_(mathematics)).
