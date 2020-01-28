@@ -4,7 +4,7 @@ blog-category: blog
 title: Introduction to Algebraic Geometry by Prof. Dipendra Prasad
 subtitle: Guest Post by Anonymous
 author: Som Phene
-bigimg: nick-hillier-aQcE3gDSSTY-unsplash.jpg
+bigimg: log/images/nick-hillier-aQcE3gDSSTY-unsplash.jpg
 tags: [Algebraic Geometry, Algebra, MA 510, Dipendra Prasad]
 ---
 ### Notes
