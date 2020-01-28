@@ -9,4 +9,4 @@ tags: [Algebraic Geometry, Algebra, MA 510, Dipendra Prasad]
 ---
 ### Notes
 
-* Find Course lecture notes from $$1{st}-4^{th}$$ class linked [MA 510 Lecture Notes (1-4)](https://drive.google.com/file/d/1iu_WHwusXZQLRM-Yqn4y4c_0ZvVe8KDZ/view?usp=sharing).
+* Find Course lecture notes from $$1^{st}-4^{th}$$ class linked [MA 510 Lecture Notes (1-4)](https://drive.google.com/file/d/1iu_WHwusXZQLRM-Yqn4y4c_0ZvVe8KDZ/view?usp=sharing).
