@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Optimization Lecture 4
+title: Optimization (SI 416) Lecture 4
 subtitle: Guest Post by Laveena Garg 
 author: Som Phene
 bigimg: log/images/diggity-marketing-s8HyIEe7lF0-unsplash.jpg
