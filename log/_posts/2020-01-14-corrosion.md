@@ -7,14 +7,5 @@ tags: [Faraday, Corrosion, MM 454, Vijayshankar Dandapani]
 ---
 ### Faraday's Law
 
-* Find the $$1^{st}$$ lecture notes linked: [MM 454 IITB Lecture Notes 1 (Google Drive link)](---
-layout: post
-blog-category: blog
-title: Corrosion Lecture 1
-author: Som Phene
-tags: [Faraday, Corrosion, MM 454, Vijayshankar Dandapani] 
----
-### Faraday's Law
-
-* Find the $$1^{st}$$ lecture notes linked: [MM 454 IITB Lecture Notes 1 (Google Drive link)](https://drive.google.com/file/d/1JlCn-YprqASc5a6CeNeC5IS4p96Jldsm/view?usp=sharing), [Lecture Notes 2 (Github link)](https://github.com/somphene/Corrosion-MM-454-IITB-2020/blob/46ed644dd8451a044233886de55143f51e8ef9ee/Corrosion_Som_S__Phene%20(1).pdf).
-), [Lecture Notes 2 (Github link)](https://github.com/somphene/Corrosion-MM-454-IITB-2020/blob/46ed644dd8451a044233886de55143f51e8ef9ee/Corrosion_Som_S__Phene%20(1).pdf).
+* Find the $$2^{nd}$$ lecture notes linked: [MM 454 IITB Lecture Notes 2 (Google Drive link)](https://drive.google.com/file/d/1K8IxXOgUFDDHyIQwSOPmKGsp399TV4j8/view?usp=sharing), [Lecture Notes 2 (Github link)](https://github.com/somphene/Optimization-Ankur-Kulkarni-SC-607-IITB-2020/blob/99ad8f7babee3df9c1e825cf82a984cafa0411d4/Notes/Optimization_Som_S__Phene%20(2).pdf).
+* Find the entire lecture notes linked: [MM 454 IITB Lecture Notes 1-2 (Google Drive link)](https://drive.google.com/file/d/1K8IxXOgUFDDHyIQwSOPmKGsp399TV4j8/view?usp=sharing), [Lecture Notes 1-2 (Github link)](https://github.com/somphene/Corrosion-MM-454-IITB-2020/blob/1aa21b9cb8173f85aeffbed509bbed4382d1e92d/Corrosion_Som_S__Phene%20(1-2).pdf)
