@@ -4,7 +4,7 @@ blog-category: blog
 title: Algebraic Geometry Lecture 4
 subtitle: Guest Post by Kirtan Vora
 author: Som Phene
-tags: [algebraic geometry, algebra, Dipendra Prasad]
+tags: [Algebraic Geometry, Algebra, Dipendra Prasad]
 ---
 ### Course Overview
 * [Prof. Dipendra Prasad](http://www.math.iitb.ac.in/~dprasad/) is taking this course at an advanced graduate level. He taught Differential Topology last sem which followed Victor Guilleman and Pollack's book. That background will help but is not necessary for this course.
