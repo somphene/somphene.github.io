@@ -9,3 +9,6 @@ tags: [Machine Learning, Model Training, Generalization,$$L_1$$, Gradient Descen
 
 ### $$L_2$$ Rigression/ Ridge Regression
 * Find the $$5^{th}$$ lecture notes linked: [CS 419 Lecture Notes 5](https://drive.google.com/file/d/19U9x8mA_93mwyjAS5Pc4RvhmB4BClsHo/view?usp=sharing)
+* Continuing on Linear Regression, we examine the problem of Model Training. 
+* Using regularization helps to counter overfitting.
+
