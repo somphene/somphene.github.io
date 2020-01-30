@@ -1,9 +1,10 @@
 ---
 layout: post
 blog-category: blog
-title: Environmental Studies Lecture 3
+title: Environmental Studies Lecture 9
 author: Som Phene
 tags: [Composting, Aerobic, Anaerobic, Vermicomposting, Environmental Studies, Solid Waste Management , ES 200, Munish Chandel] 
 ---
-### Lecture 1
-* Find the Linked [ES 200 Lecture Notes 3](https://drive.google.com/file/d/1EB_48mFN42cUY2ESvSs3DfDMAxX0bjyo/view?usp=sharing)
+### Lecture 9
+* Find the $$3^{rd}$$ Lecture of Prof. Chandel Linked [ES 200 Lecture Notes 3](https://drive.google.com/file/d/1EB_48mFN42cUY2ESvSs3DfDMAxX0bjyo/view?usp=sharing)
+* GOOD NEWS! Gained the trust of the professor and Typing in ES lectures has been allowed.
