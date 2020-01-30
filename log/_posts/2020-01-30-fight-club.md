@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 blog-category: blog
 title: Fight Club Lecture 9
