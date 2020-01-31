@@ -7,7 +7,8 @@ bigimg: log/images/william-daigneault-pT9TTuuzivQ-unsplash.jpg
 tags: [ Tangent Space, Differential Geometry, Calculus, Manifolds, Analytical and Geomertic Dynamics, SC 618, Sukumar Srikant]
 ---
 ### Tangent Spaces
-* Differentiable Manifolds can be highly nonlinear, unlike the usual Euclidean Spaces. To handle such objects, we import notions of calculus from the euclidean spaces that we are used to. Just like in multivariable calculus, we approximate nonlinear functions by its linearization: its derivative at each point, this naturally gives rise to the notion of a "linearized space at each point of the nonlinear space". This notion is formalized by $$\textbf{Tangent Space}$$ at a point of the Manifold.
+* Differentiable Manifolds can be highly nonlinear, unlike the usual Euclidean Spaces. To handle such objects, we import notions of calculus from the euclidean spaces that we are used to. Just like in multivariable calculus, we approximate nonlinear functions by its linearization: its derivative at each point, this naturally gives rise to the notion of a "linearized space at each point of the nonlinear space". This notion is formalized by $$\textbf{Tangent Space}$$ at a point of the Manifold. 
+* For a concrete example, think of a sphere in $$\mathbb{R}^3$$ and the usual tangent planes (derived by analytic geometry or coordinate geometry). However note that this is an embedding of the sphere (requires an ambient space), which means the intrinsically defined features are lost. For example, one may think that two tangent planes from different points intersect, however this is only because of embedding in $$\mathbb{R}^3$$. In constructing the tangent bundle, all the tangent planes are taken in a disjoint union.
 
 ### References
 * [Spivak's Calculus On Manifolds](https://www.amazon.com/Calculus-Manifolds-Approach-Classical-Theorems/dp/0805390219)
