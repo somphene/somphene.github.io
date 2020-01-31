@@ -9,4 +9,4 @@ bigimg: log/images/william-daigneault-pT9TTuuzivQ-unsplash.jpg
 * Differentiable Manifolds can be highly nonlinear, unlike the usual Euclidean Spaces. To handle such objects, we import notions of calculus from the euclidean spaces that we are used to. Just like in multivariable calculus, we approximate nonlinear functions by its linearization: its derivative at each point, this naturally gives rise to the notion of a "linearized space at each point of the nonlinear space". This notion is formalized by $$\textbf{Tangent Space}$$ at a point of the Manifold.
 
 ### References
-* [C]()
+* [Spivak's Calculus On Manifolds](https://www.amazon.com/Calculus-Manifolds-Approach-Classical-Theorems/dp/0805390219)
