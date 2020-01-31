@@ -8,4 +8,4 @@ tags: [Algebra, Algebraic Topology, Topology, Manoj Keshari]
 ---
 ### Interior of any cover of Topological Space is also its cover.
 * Notes will be up soon.
-* Proof by induction on $$n$$. Use of barycenter and barycentric decomposition of n-simplexes.
+* Proof by induction on $$n$$. Use of barycenter and barycentric subdivision of n-simplexes.
