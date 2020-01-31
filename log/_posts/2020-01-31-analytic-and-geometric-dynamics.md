@@ -16,3 +16,7 @@ tags: [ Tangent Space, Differential Geometry, Calculus, Manifolds, Analytical an
 
 For a classical perspective, I personally suggest:
 * [Frank W. Warner's Foundations of Differentiable Manifolds and Lie Groups](https://www.springer.com/gp/book/9780387908946)
+For a highly readable but slightly over the syllabus text is:
+* [William Boothby's An Introduction to Differentiable Manifolds and Riemannian Geometry](https://www.amazon.com/Introduction-Differentiable-Manifolds-Riemannian-Mathematics/dp/0121160513)
+
+I am myself writing an expository article on Differential Geometry and will be giving a few talks on the same in the upcoming [Student Seminars in Mathematics](https://student-seminar-math-iitb.github.io/list/). I will also have my write up [posted soon](https://somphene.github.io/log/)
