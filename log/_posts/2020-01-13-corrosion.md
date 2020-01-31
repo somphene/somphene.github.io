@@ -4,7 +4,7 @@ blog-category: blog
 title: Corrosion by Vijayshankar Dandapani
 author: Som Phene
 bigimg: log/images/hans-eiskonen-qTxwKHZwl6M-unsplash.jpg
-tags: [Faraday, Corrosion, MM 454, Vijayshankar Dandapani, Logistics, References] 
+tags: [Faraday, Corrosion, MM 454, Vijayshankar Dandapani, References] 
 ---
 * Regular updates for this can be found on the linked page: [Som Phene Log Tag: MM 454](https://somphene.github.io/tags/#MM%20454) and relevant material on [Som Phene Log Tag: Corrosion](https://somphene.github.io/tags/#Corrosion). 
 
