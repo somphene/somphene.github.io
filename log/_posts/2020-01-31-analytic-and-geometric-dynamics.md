@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Analytical and Geometric Dynamics Review Week 3
+title: Analytical and Geometric Dynamics Week 3 Review
 author: Som Phene
 bigimg: 
 ---
