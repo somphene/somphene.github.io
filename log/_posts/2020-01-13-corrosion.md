@@ -14,7 +14,7 @@ tags: [References, Introduction, Faraday, Objectives, Course, Complexity, Interd
 
 ### Introduction and Faraday's Law
 
-* Find the $$1^{st}$$ lecture notes linked: 
+Find the $$1^{st}$$ lecture notes linked: 
 [MM 454 IITB Lecture Notes 1 (Google Drive link)](https://drive.google.com/file/d/1-0_Dzstc38mvsJsbyLFOIMkwRgF-ryIT/view?usp=sharing) | [MM 454 IITB Lecture Notes 1 (Github link)](https://github.com/somphene/Corrosion-MM-454-IITB-2020/blob/3382d81adc97b588eb4e7e812139942b91c1fe1b/Corrosion_Som_S__Phene%20(1).pdf).
 * Faraday's Laws for Electrolysis are captured by 
 $$ W= \frac{ItM}{Fn}$$
