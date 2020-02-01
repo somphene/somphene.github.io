@@ -6,6 +6,7 @@ author: Som Phene
 bigimg: log/images/hans-eiskonen-qTxwKHZwl6M-unsplash.jpg
 tags: [References, Introduction, Faraday, Objectives, Course, Complexity, Interdisciplinary, Thermodynamics, Electrochemical, Reaction, Corrosion, MM 454, Vijayshankar Dandapani] 
 ---
+### Repositories
 * Regular updates maybe found compiled on the linked page: [Som Phene Log Tag: MM 454](https://somphene.github.io/tags/#MM%20454) and its relevant material on [Som Phene Log Tag: Corrosion](https://somphene.github.io/tags/#Corrosion). The corresponding Github Repository for all the documents may be found linked in: [Corrosion Github Repository](https://github.com/somphene/Corrosion-MM-454-IITB-2020)
 
 * This is a compilation of my own work for the above course and is not verified to be free from errors. Please send comments, point out errors, and suggestions via email to somphene1 at gmail dot com. Any mistakes are attributed to my own hastiness and not the Professor who has most probably not seen any of this work. 
