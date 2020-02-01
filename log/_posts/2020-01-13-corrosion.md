@@ -4,7 +4,7 @@ blog-category: blog
 title: Corrosion by Vijayshankar Dandapani
 author: Som Phene
 bigimg: log/images/hans-eiskonen-qTxwKHZwl6M-unsplash.jpg
-tags: [References, Introduction, Faraday, Objectives, Course, Complexity, Interdisciplinary, Thermodynamics, Electrochemistry, Reaction, Corrosion, MM 454, Vijayshankar Dandapani] 
+tags: [References, Introduction, Faraday, Objectives, Course, Complexity, Interdisciplinary, Thermodynamics, Cycles, Electrochemistry, Reaction, Corrosion, MM 454, Vijayshankar Dandapani] 
 ---
 ### Repositories
 * Regular updates maybe found compiled on the linked page: [Som Phene Log Tag: MM 454](https://somphene.github.io/tags/#MM%20454) and its relevant material on [Som Phene Log Tag: Corrosion](https://somphene.github.io/tags/#Corrosion). The corresponding Github Repository for all the documents may be found linked in: [Corrosion Github Repository](https://github.com/somphene/Corrosion-MM-454-IITB-2020)
