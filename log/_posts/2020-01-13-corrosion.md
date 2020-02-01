@@ -21,5 +21,5 @@ where $$M$$ is the mass of metal lost/deposited, $$I$$ is the current, $$t$$ is 
 * For alloys, the equivalent 
 $$\displaystyle W={\frac {It}{F\times \sum _{i}^{n}{\frac {X_{i}\times z_{i}}{M_{i}}}}}$$
 where $$X_{i}$$ id the weight fraction of the $$i^{th}$$ metal in the alloy.
-* For non-constant current, $$It$$ should be replaced by integral of current over time.
+* For non-constant current, $$It$$ should be replaced by integral of current over time $$ \int_0^t I(\tau) d\tau$$.
 
