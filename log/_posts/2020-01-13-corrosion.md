@@ -15,5 +15,11 @@ tags: [References, Introduction, Faraday, Objectives, Course, Complexity, Interd
 ### Introduction and Faraday's Law
 
 * Find the $$1^{st}$$ lecture notes linked: [MM 454 IITB Lecture Notes 1 (Google Drive link)](https://drive.google.com/file/d/119HNuuYg1UnQ-6kv-tUNGcMe_VyZf9Tx/view?usp=sharing), [Lecture Notes 1 (Github link)](https://github.com/somphene/Corrosion-MM-454-IITB-2020/blob/46ed644dd8451a044233886de55143f51e8ef9ee/Corrosion_Som_S__Phene%20(1).pdf).
-
+* Faraday's Laws for Electrolysis are captured by 
+$$ W= \frac{ItM}{Fn}$$
+where $$M$$ is the mass of metal lost/deposited, $$I$$ is the current, $$t$$ is the time of reaction involving mass-charge transfer $$M$$ is the Molar Mass, $$F$$ is Faraday's Constant and $$n$$ is the valency change of the metal in the reaction.
+* For alloys, the equivalent 
+$$\displaystyle W={\frac {It}{F\times \sum _{i}^{n}{\frac {X_{i}\times z_{i}}{M_{i}}}}}$$
+where $$X_{i}$$ id the weight fraction of the $$i^{th}$$ metal in the alloy.
+* For non-constant current, $$It$$ should be replaced by integral of current over time.
 
