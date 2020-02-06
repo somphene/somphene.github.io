@@ -7,4 +7,4 @@ bigimg: log/images/frances-gunn-c9z9RlCh0Zo-unsplash.jpg
 tags: [Algebra, Algebraic Topology, Topology, MA 816, Manoj Keshari]
 ---
 ### Quotient Spaces
-* Find the $$7^{th}$$ lecture notes linked: [Lecture notes 7]()
+* Find the $$7^{th}$$ lecture notes linked: [Lecture notes 7](https://drive.google.com/file/d/1qmTV67OxVWD9rXMmGhOaYpFWbq33zduT/view?usp=sharing)
