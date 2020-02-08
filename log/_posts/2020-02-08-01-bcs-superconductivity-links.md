@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: BCS Supercinductivity
+title: BCS Superconductivity
 author: Som Phene
 bigimg: 
 tags: [Coherence, Condensate, BCS Superconductivity, Cooper Pairs, Superconductivity, Links]
