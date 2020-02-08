@@ -5,6 +5,7 @@ title: Interdisciplinary Pursuits
 author: Som Phene
 image:
 tags:[Research, Liberal Arts, College, Interdisciplinary, PhD Applications, Graduate School, Career]
+
 ---
 
 At the start of the semester (a few days before classes began), the Academic Council's research section [EnPower](https://www.facebook.com/enpoweriitb/posts/?ref=notif) held an orientation session for the freshmen called Enthuse to spread awareness about the research that is being done in the institute and to encourage students to be part of it and contribute to the research scene during their undergraduate. I was there to present my own [work](https://somphene.github.io/research/) that I had carried out throughout undergraduate. Some Professors were also there to showcase their group's work. After all the presentations, there was a question and answer session. And there you had it, a student asked if he was allowed to ask for research projects under a Professor who is not from his department and how should he approach for such a purpose. I have seen this question come up repeatedly from juniors. So lets address the issue of interdisciplinary pursuits.
