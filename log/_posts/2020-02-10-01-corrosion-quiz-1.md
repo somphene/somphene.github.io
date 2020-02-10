@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Corrosion by Vijayshankar Dandapani
+title: Corrosion Quiz 1
 author: Som Phene
 bigimg: log/images/hans-eiskonen-qTxwKHZwl6M-unsplash.jpg
 tags: [Quiz, Nernst Equation, Cell, Pourbaix Diagram, Thermodynamics, Electrochemistry, Reaction, Corrosion, MM 454, Vijayshankar Dandapani] 
