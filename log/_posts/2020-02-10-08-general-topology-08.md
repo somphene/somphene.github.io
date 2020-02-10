@@ -1,10 +1,10 @@
 ---
 layout: post
 blog-category: blog
-title: General Topology Lecture 7 cum Tutorial 2 
+title: General Topology Lecture 9 
 author: Som Phene
 bigimg: log/images/pierre-chatel-innocenti-ub76VSnQneg-unsplash.jpg
 tags: [Metric, Topology, Connectedness, Separation, General topology, MA 406, Santanu Dey]
 ---
 ### Continuity and Homeomorphisms
-* Find the $$^9{th}$$ Lecture notes linked: [MA 406 Tutorial Notes (1-9), (Google Drive Link)](https://drive.google.com/file/d/1RG7RQB2b9PJzT_oy9stcRlDCaRWFJaag/view?usp=sharing)
+* Find the $$^9{th}$$ Lecture notes linked: [MA 406 Lecture Notes (1-9), (Google Drive Link)](https://drive.google.com/file/d/1IrbrUJw9eU82FhdR8H5ETg12PF85whUL/view?usp=sharing)
