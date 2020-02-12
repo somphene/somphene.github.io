@@ -28,5 +28,5 @@ More recent ones like:
 * Blue is the Warmest Color (French),
 * [Alejandro González Iñárritu](https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)(Mexican): [Babel](https://en.wikipedia.org/wiki/Babel_(film)) (Multilingual film taking place in Morocco, Japan, Mexico and the US) which is the last part of Iñárritu's Death Trilogy, also its background score by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)(Argentine) won the Oscar. With an emnsemble cast of Brad Pitt, Cate Blanchett, Gael García Bernal, Kōji Yakusho, Adriana Barraza, Rinko Kikuchi, this is one of the best foreign films that I have seen. I must admit that I have cried at the end of watching this film every single time. In fact, just listening to that phenomenal background score is enough to make me cry.  [Amores Perros (Love is a Bitch)](https://www.imdb.com/title/tt0245712/) which is the first part of Death Trilogy, and since we are at it, [21 Grams (2003)](https://www.imdb.com/title/tt0315733/). [Biutiful](https://www.imdb.com/title/tt1164999/). 
 * [Alfonso Cuarón](https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n)(Mexican): Roma, Gravity, Children of Men
-
+* [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish):
 Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
