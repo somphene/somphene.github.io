@@ -9,7 +9,7 @@ tags: [Movies, Parasite, Social, Class, Bong Jun Hoo, Music, Soundtrack, Films, 
 
 ### Academy Awards (Oscars) 2020 Announced 
 * The award announcements maybe found on the official website: [Oscars](https://oscar.go.com/). 
-
+### Foreign Language Films
 Diversity in cinema has been a very hot discussion topic in Hollwood in the past year. This year (2020), [Parasite](https://www.imdb.com/title/tt6751668/) became the first non-English film to win the prestigious best film award at the Oscars. Have a look at the Best Directors in the last three years:
 * 2018-Guillermo del Toro - The Shape of Water (2017)🇲🇽
 * 2019-Alfonso Cuarón - Roma (2018)🇲🇽
@@ -31,6 +31,10 @@ More recent ones like:
 * [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish):
 Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
 
+### Actors
+
 * [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) finally won an Oscar. Ever since [River](https://en.wikipedia.org/wiki/River_Phoenix), Summer and Joaquin started their acting careers, their talent was known to all. After the sad untimely demise of River, Joaquin kept performing unabashed and garnered accolodes for his roles, including two Oscar nominations. This year he finally won it for his portrayal of Joker. This also establishes the level of respect for actors playing the role of Joker- All of the recent actors playing Joker -Joaquin, [Heath Ledger](https://en.wikipedia.org/wiki/Heath_Ledger), Jack Nicholson and Jared Leto have won the Oscar for acting (although not necessarily for their role of Joker).
 
-* [Renée Zellweger](https://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger) won best actress Oscar for Judy. This was a tough call and I was really rooting for [Scarlett Johansson](https://en.wikipedia.org/wiki/Scarlett_Johansson) for her performance in Marriage Story (2019). Also, Saoirse Ronan was nominated for the fourth time (Atonement (2007), Brooklyn (2015), Greta Gerwig's Lady Bird (2017), Gerwig's Little Women (2019)) in 25 years of her existence on Earth! She also has other roles that were not nominated but which I really appreciate. I don't have any doubts that both Scarlett and Saoirse are going to win it in some time. 
+* [Renée Zellweger](https://en.wikipedia.org/wiki/Ren%C3%A9e_Zellweger) won best actress Oscar for Judy. This was a tough call and I was really rooting for [Scarlett Johansson](https://en.wikipedia.org/wiki/Scarlett_Johansson) for her performance in Marriage Story (2019). Also, Saoirse Ronan was nominated for the fourth time (Atonement (2007), Brooklyn (2015), Greta Gerwig's Lady Bird (2017), Gerwig's Little Women (2019)) in 25 years of her existence on Earth! She also has other roles that were not nominated but which I really appreciate. I don't have any doubts that both Scarlett and Saoirse are going to win it in some time. For those who are getting rejections from film schools right now (read: me), note this and that Ronan auditioned to play Luna Lovegood in Harry Potter and the Order of the Phoenix, a role she eventually lost to Evanna Lynch. Look at her now. Persistence.
+
+* [Brad Pitt]: 
