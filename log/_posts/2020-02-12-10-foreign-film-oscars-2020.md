@@ -10,7 +10,7 @@ tags: [Movies, Parasite, Social, Class, Bong Jun Hoo, Music, Soundtrack, Films, 
 ### Academy Awards (Oscars) 2020 Announced 
 * The award announcements maybe found on the official website: [Oscars](https://oscar.go.com/). 
 
-Diversity in cinema has been a very hot discussion topic in Hollwood in the past year. This year (2020), Parasite became the first non-English film to win the prestigious best film award at the Oscars. Have a look at the Besy Directors in the last three years:
+Diversity in cinema has been a very hot discussion topic in Hollwood in the past year. This year (2020), [Parasite](https://www.imdb.com/title/tt6751668/) became the first non-English film to win the prestigious best film award at the Oscars. Have a look at the Best Directors in the last three years:
 * 2018-Guillermo del Toro - The Shape of Water (2017)🇲🇽
 * 2019-Alfonso Cuarón - Roma (2018)🇲🇽
 * 2020 -Bong Joon Ho - Parasite (2019)🇰🇷
@@ -31,4 +31,4 @@ More recent ones like:
 * [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish):
 Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
 
-* [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) finally won an Oscar. Ever since [River](https://en.wikipedia.org/wiki/River_Phoenix), Summer and Joaquin started their acting careers, their talent was known to all. After the sad untimely demise of River, Joaquin kept performing unabashed and garnered accolodes for his roles, including two Oscar nominations. This year he finally won it for his portrayal of Joker. This also establishes the level of respect for actors playing the role of Joker- All of the recent actors playing Joker -Joaquin, Heath Ledger, Jack Nicholson and Jared Leto have won the Oscar for acting (although not necessarily for their role of Joker).
+* [Joaquin Phoenix](https://en.wikipedia.org/wiki/Joaquin_Phoenix) finally won an Oscar. Ever since [River](https://en.wikipedia.org/wiki/River_Phoenix), Summer and Joaquin started their acting careers, their talent was known to all. After the sad untimely demise of River, Joaquin kept performing unabashed and garnered accolodes for his roles, including two Oscar nominations. This year he finally won it for his portrayal of Joker. This also establishes the level of respect for actors playing the role of Joker- All of the recent actors playing Joker -Joaquin, [Heath Ledger](https://en.wikipedia.org/wiki/Heath_Ledger), Jack Nicholson and Jared Leto have won the Oscar for acting (although not necessarily for their role of Joker).
