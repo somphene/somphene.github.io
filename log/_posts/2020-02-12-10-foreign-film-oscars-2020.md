@@ -21,6 +21,7 @@ I don't write this just because Parasite won the Academy Award, and my friends c
 * [Robert Bresson](https://en.wikipedia.org/wiki/Robert_Bresson) (French): Diary of a country priest, Pickpocket, 
 * [Ingmar Bergman](https://en.wikipedia.org/wiki/Ingmar_Bergman)(Swedish): Seventh Seal, Persona, Wild Strawberries, 
 * [Andrei Tarkovsky](https://en.wikipedia.org/wiki/Andrei_Tarkovsky)(Russian): Stalker, Mirror, Ivan's Childhood, Andrei Rublev, Solaris, Nostalghia
+
 More recent ones like: 
 * [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos)(Greek, although major films are in English): The class and society theme in Parasite reminded me of [The Lobster (2015)](https://www.imdb.com/title/tt3464902/), The Killing of a Sacred Deer, Dogtooth.
 * [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) (Italian): Call me by Your Name (English/ Italian), 
