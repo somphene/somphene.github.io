@@ -9,7 +9,9 @@ tags: [Movies, Parasite, Social, Class, Bong Jun Hoo, Music, Soundtrack, Films, 
 
 ### Academy Awards (Oscars) 2020 Announced 
 * The award announcements maybe found on the official website: [Oscars](https://oscar.go.com/). 
+
 ### Foreign Language Films
+
 Diversity in cinema has been a very hot discussion topic in Hollwood in the past year. This year (2020), [Parasite](https://www.imdb.com/title/tt6751668/) became the first non-English film to win the prestigious best film award at the Oscars. Have a look at the Best Directors in the last three years:
 * 2018-Guillermo del Toro - The Shape of Water (2017)🇲🇽
 * 2019-Alfonso Cuarón - Roma (2018)🇲🇽
