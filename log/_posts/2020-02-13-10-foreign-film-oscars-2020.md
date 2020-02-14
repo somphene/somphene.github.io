@@ -21,11 +21,12 @@ I don't write this just because Parasite won the Academy Award, and my friends c
 * [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (Japanese): Such an influential creator that literally anything on [this linked list](https://en.wikipedia.org/wiki/List_of_creative_works_by_Akira_Kurosawa) is recommended and studied in film school.
 * [Abbas Kiarostami](https://en.wikipedia.org/wiki/Abbas_Kiarostami) (Persian): Taste of Cherries, which is part of the critically acclaimed Koker trilogy. This director's films lead the Iranian new wave of directors consisting of Bahram Beyzai, Nasser Taghvai, Ali Hatami, Masoud Kimiai, Dariush Mehrjui, Sohrab Shahid-Saless and Parviz Kimiavi. Other notable films include Where Is the Friend's Home?
 Close-Up, Through the Olive Trees and The Wind Will Carry Us.
-* [Robert Bresson](https://en.wikipedia.org/wiki/Robert_Bresson) (French): Diary of a country priest, Pickpocket
+* [Robert Bresson](https://en.wikipedia.org/wiki/Robert_Bresson) (French): Diary of a Country Priest, Pickpocket
 * [Ingmar Bergman](https://en.wikipedia.org/wiki/Ingmar_Bergman)(Swedish): Winter Night, Seventh Seal, Persona, Wild Strawberries 
 * [Andrei Tarkovsky](https://en.wikipedia.org/wiki/Andrei_Tarkovsky)(Russian): Stalker, Mirror, Ivan's Childhood, Andrei Rublev, Solaris, Nostalghia
 
-More recent ones like: 
+Relatively recent ones: 
+* [Michael Haneke](https://en.wikipedia.org/wiki/Michael_Haneke) (Austrian, with films in French, German and English): The Piano Teacher, Caché, 	The White Ribbon, Amour, 
 * [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos)(Greek, although major films are in English): The class and society theme in Parasite reminded me of [The Lobster (2015)](https://www.imdb.com/title/tt3464902/), The Killing of a Sacred Deer, Dogtooth.
 * [Krzysztof Kieślowski](https://en.wikipedia.org/wiki/Krzysztof_Kie%C5%9Blowski) (Polish): Dekalog (1989)- (Ten Commandments), The Double Life of Veronique (1991), and the Three Colors trilogy.
 * [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) (Italian): Call me by Your Name (English/ Italian), 
