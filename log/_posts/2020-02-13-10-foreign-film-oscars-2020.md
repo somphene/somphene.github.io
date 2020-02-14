@@ -19,19 +19,21 @@ Diversity in cinema has been a very hot discussion topic in Hollwood in the past
 
 I don't write this just because Parasite won the Academy Award, and my friends can attest that I have recommended them to watch this much before it won in any festival. However, I do take this opportunity, fueled directly by its Oscar Win to give this movie (and Asian cinema in general) more exposure and publicity. I request everyone, especially those who are not into watching foreign films to give this movie a chance and realize what a wealth of movies are being missed which transcend the Language barrier. In addition to a [previous post](https://somphene.github.io/2019-03-23-1/) that contains some foreign films, I would like to highlight the works of the following directors (Im listing out all that are at the top of my mind, will add more post midterms):
 * [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (Japanese): Such an influential creator that literally anything on [this linked list](https://en.wikipedia.org/wiki/List_of_creative_works_by_Akira_Kurosawa) is recommended and studied in film school.
-* [Abbas Kiarostami](https://en.wikipedia.org/wiki/Abbas_Kiarostami) (Persian): Taste of Cherries, 
-* [Robert Bresson](https://en.wikipedia.org/wiki/Robert_Bresson) (French): Diary of a country priest, Pickpocket, 
-* [Ingmar Bergman](https://en.wikipedia.org/wiki/Ingmar_Bergman)(Swedish): Seventh Seal, Persona, Wild Strawberries, 
+* [Abbas Kiarostami](https://en.wikipedia.org/wiki/Abbas_Kiarostami) (Persian): Taste of Cherries, which is part of the critically acclaimed Koker trilogy. This director's films lead the Iranian new wave of directors consisting of Bahram Beyzai, Nasser Taghvai, Ali Hatami, Masoud Kimiai, Dariush Mehrjui, Sohrab Shahid-Saless and Parviz Kimiavi. Other notable films include Where Is the Friend's Home?
+Close-Up, Through the Olive Trees and The Wind Will Carry Us.
+* [Robert Bresson](https://en.wikipedia.org/wiki/Robert_Bresson) (French): Diary of a country priest, Pickpocket
+* [Ingmar Bergman](https://en.wikipedia.org/wiki/Ingmar_Bergman)(Swedish): Winter Night, Seventh Seal, Persona, Wild Strawberries 
 * [Andrei Tarkovsky](https://en.wikipedia.org/wiki/Andrei_Tarkovsky)(Russian): Stalker, Mirror, Ivan's Childhood, Andrei Rublev, Solaris, Nostalghia
 
 More recent ones like: 
 * [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos)(Greek, although major films are in English): The class and society theme in Parasite reminded me of [The Lobster (2015)](https://www.imdb.com/title/tt3464902/), The Killing of a Sacred Deer, Dogtooth.
+* [Krzysztof Kieślowski](https://en.wikipedia.org/wiki/Krzysztof_Kie%C5%9Blowski) (Polish): Dekalog (1989)- (Ten Commandments), The Double Life of Veronique (1991), and the Three Colors trilogy.
 * [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) (Italian): Call me by Your Name (English/ Italian), 
 * [Guillermo del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro)(Mexican): Shape of Water 
 * Blue is the Warmest Color (French),
 * [Alejandro González Iñárritu](https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)(Mexican): [Babel](https://en.wikipedia.org/wiki/Babel_(film)) (Multilingual film taking place in Morocco, Japan, Mexico and the US) which is the last part of Iñárritu's Death Trilogy, also its background score by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)(Argentine) won the Oscar. With an emnsemble cast of Brad Pitt, Cate Blanchett, Gael García Bernal, Kōji Yakusho, Adriana Barraza, Rinko Kikuchi, this is one of the best foreign films that I have seen. I must admit that I have cried at the end of watching this film every single time. In fact, just listening to that phenomenal background score is enough to make me cry.  [Amores Perros (Love is a Bitch)](https://www.imdb.com/title/tt0245712/) which is the first part of Death Trilogy, and since we are at it, [21 Grams (2003)](https://www.imdb.com/title/tt0315733/). [Biutiful](https://www.imdb.com/title/tt1164999/). 
 * [Alfonso Cuarón](https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n)(Mexican): Roma, Gravity, Children of Men
-* [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish):
+* [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish): Breaking the Waves (1996), Dancer in the Dark (2000), Dogville (2003), Antichrist (2009), Melancholia (2011), "The House That Jack Built" (2018). Note his strong academic background, "He studied film theory at the University of Copenhagen and film direction at the National Film School of Denmark".
 Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
 * [Paolo Sorrentino](https://en.wikipedia.org/wiki/Paolo_Sorrentino) (Italian): [The Great Beauty](https://www.imdb.com/title/tt2358891/) (La Grande Bellezza), [Youth](https://en.wikipedia.org/wiki/Youth_(2015_film))
 * [Best of Youth](https://www.imdb.com/title/tt0346336/) (Italian): Takes an entire day to watch it, so clear your schedule.
