@@ -3,7 +3,7 @@ layout: post
 blog-category: blog
 title: Advanced Image Processing Lecture 11
 author: Som Phene
-bigimage: log/images/jakob-owens-l82NzBSYbj0-unsplash.jpg
+bigimg: log/images/jakob-owens-l82NzBSYbj0-unsplash.jpg
 tags: [Image Processing, CS 754, Ajit Rajwade]
 ---
 ### Tomography
