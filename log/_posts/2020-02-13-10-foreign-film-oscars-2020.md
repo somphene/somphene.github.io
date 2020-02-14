@@ -33,6 +33,10 @@ More recent ones like:
 * [Alfonso Cuarón](https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n)(Mexican): Roma, Gravity, Children of Men
 * [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish):
 Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
+* [Paolo Sorrentino](https://en.wikipedia.org/wiki/Paolo_Sorrentino) (Italian): [The Great Beauty](https://www.imdb.com/title/tt2358891/) (La Grande Bellezza), [Youth](https://en.wikipedia.org/wiki/Youth_(2015_film))
+* [Best of Youth](https://www.imdb.com/title/tt0346336/) (Italian): Takes an entire day to watch it, so clear your schedule.
+* [Asghar Farhadi](https://en.wikipedia.org/wiki/Asghar_Farhadi)(Persian): A Separation, The Salesman
+* [Wong Kar-wai](https://en.wikipedia.org/wiki/Wong_Kar-wai): In the Mood for Love
 
 ### Actors
 
