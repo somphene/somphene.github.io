@@ -8,4 +8,4 @@ tags: [History, Algebraic Geometry, MA 510, Algebra, Dieudonne]
 ---
 ### History
 
-The linked article of Dieudonne: [Historical Development of Algebraic Geometry](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Dieudonne.pdf) describing historical developments in Algebraic Geometry give a good big picture view for undergraduates/researchers about to start working in this field. The changes in form and language used in the classical literature to the more recent (affected significantly by Grothendieck's abstraction) can be understood more clearly by reading this. 
+The linked article of Dieudonne: [Historical Development of Algebraic Geometry](https://www.maa.org/sites/default/files/pdf/upload_library/22/Ford/Dieudonne.pdf) describing historical developments in Algebraic Geometry gives a big picture view for undergraduates/researchers about to start working in this field. The changes in form and language used in the classical literature to the more recent (affected significantly by Grothendieck's abstraction) can be understood more clearly by reading this. 
