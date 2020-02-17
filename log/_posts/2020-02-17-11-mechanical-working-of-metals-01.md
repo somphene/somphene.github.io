@@ -10,7 +10,8 @@ tags: [ Mechanical, Metals, MM 408, K. Narasimhan]
 Please contact Kedar at [kedarbahulkar@gmail.com](mailto:kedarbahulkar@gmail.com) for further details/discussions regarding topics in this course.
 ### Mechanical Working Part 1 (Up to Midsem)
 This course deals with manufacturing proceesses involved in metal forming. 
-### Classification
+### 
+$$ \textbf{Classification}$$
 
 | |Temperature of forming| | Stress State   | Bulk/Sheet |
 |:-:|:-:|:-:|:-:|:-:| 
