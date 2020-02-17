@@ -7,6 +7,7 @@ author: Som Phene
 bigimg: 
 tags: [ Mechanical, Metals, MM 408, K. Narasimhan] 
 ---
+Please contact Kedar at kedarbahulkar@gmail.com for further details/discussions regarding topics in this course.
 ### Mechanical Working Part 1 (Up to Midsem)
 This course deals with manufacturing proceesses involved in metal forming. Four major processes are covered in detail (involving classification, equipments and their analysis) as follows:
 
