@@ -16,7 +16,7 @@ This course deals with manufacturing proceesses involved in metal forming.
 |:-:|:-:|:-:|:-:|:-:| 
 | Hot | Cold | Warm|   Direct | |
 | $$T > \frac{T_m}{2}$$ | $$T \sim (0.2-0.3)T_m$$ | $$T \sim (0.3-0.5)T_m$$ | Indirect | |
-| || | Tensile-Tensile |  |
+| Recrystallization takes place along with work hardening || | Tensile-Tensile |  |
 ||| | Tensile-compressive||
 
 
