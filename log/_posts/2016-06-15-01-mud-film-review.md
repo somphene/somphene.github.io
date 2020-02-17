@@ -3,7 +3,7 @@ layout: post
 blog-category: blog
 title: Mud
 author: Som Phene
-image: 
+bigimg: log/images/mud_11426.jpg 
 tags : [Films, Movies, Terrence Malick, Christopher Nolan]
 ---
 
