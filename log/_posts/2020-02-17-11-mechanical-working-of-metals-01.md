@@ -14,13 +14,13 @@ This course deals with manufacturing proceesses involved in metal forming. Four 
  * Bulk Forming
  * Direct Compression
  * Deformation betwween upper and lower die
-  |  Open Die Forging                         |                  Closed Die Forging (Impression)             |
+  |                           |                  Closed Die Forging (Impression)             |
   |   Simple geometrical parts can be made    |         Complex geometries can be achieved                   |
   | Tools have simple shape                   |       Tools have complex geometry                            |
   | Has upsetting flow (material movement $$\bot$$ to the loading direction)|         Has extrusion flow ($$\parallel$$)  (Highly restricted flow)                              |
   
-| Default aligned | Left aligned | Center aligned | Right aligned
-|-|:-|:-:|-:
+| Open Die Forging|  Closed Die Forging (Impression)             |
+|:-:|:-:|
 | First body part | Second cell | Third cell | fourth cell
 | Second line |foo | **strong** | baz
 2. Rolling: 
