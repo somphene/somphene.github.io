@@ -19,7 +19,11 @@ This course deals with manufacturing proceesses involved in metal forming. Four 
   | Tools have simple shape                   |       Tools have complex geometry                            |
   | Has upsetting flow (material movement $$\bot$$ to the loading direction)|         Has extrusion flow ($$\parallel$$)  (Highly restricted flow)                              |
   
-
+|---
+| Default aligned | Left aligned | Center aligned | Right aligned
+|-|:-|:-:|-:
+| First body part | Second cell | Third cell | fourth cell
+| Second line |foo | **strong** | baz
 2. Rolling: 
 
 3. Extrusion/Wire Drawing: 
