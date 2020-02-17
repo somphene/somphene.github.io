@@ -9,9 +9,23 @@ tags: [ Mechanical, Metals, MM 408, K. Narasimhan]
 ---
 Please contact Kedar at [kedarbahulkar@gmail.com](mailto:kedarbahulkar@gmail.com) for further details/discussions regarding topics in this course.
 ### Mechanical Working Part 1 (Up to Midsem)
-This course deals with manufacturing proceesses involved in metal forming. Four major processes are covered in detail (involving classification, equipments and their analysis) as follows:
+This course deals with manufacturing proceesses involved in metal forming. 
+### Classification
 
-1. Forging: This is classified into Open die forging and closed die forging. Flow is classified as upsetting and extrusion flow.
+| Temperature of forming|  Stress State             | Bulk/Sheet |
+|:-:|:-:|:-:|
+| Hot | Direct | |
+| Cold | Indirect | |
+| Warm | Tensile-Tensile |  |
+| | Tensile-compressive||
+
+
+
+Four major processes are covered in detail as follows:
+1. Forging: This is classified into Open die forging and closed die forging. 
+
+  
+Flow is classified as upsetting and extrusion flow.
  * Bulk Forming
  * Direct Compression
  * Deformation betwween upper and lower die
