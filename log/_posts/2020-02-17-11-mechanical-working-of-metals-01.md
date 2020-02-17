@@ -10,8 +10,7 @@ tags: [ Mechanical, Metals, MM 408, K. Narasimhan]
 Please contact Kedar at [kedarbahulkar@gmail.com](mailto:kedarbahulkar@gmail.com) for further details/discussions regarding topics in this course.
 ### Mechanical Working Part 1 (Up to Midsem)
 This course deals with manufacturing proceesses involved in metal forming. 
-### 
-$$ \textbf{Classification}$$
+### Classification
 
 | |Temperature of forming| | Stress State   | Bulk/Sheet |
 |:-:|:-:|:-:|:-:|:-:| 
@@ -49,3 +48,6 @@ Flow is classified as upsetting and extrusion flow.
 3. Extrusion/Wire Drawing: 
 
 4. Sheet Metal Forming:
+
+### References
+* [Metal Forming slides from IITG](http://www.iitg.ac.in/engfac/ganu/public_html/Metal%20forming%20processes_full.pdf)
