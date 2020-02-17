@@ -15,6 +15,7 @@ This course deals with manufacturing proceesses involved in metal forming. Four 
  * Bulk Forming
  * Direct Compression
  * Deformation betwween upper and lower die
+ 
  Types of flow: 
  * Upsetting Flow: Material movement $$\bot$$ to the loading direction
  * Extrusion Flow: Material movement $$\parallel$$ to the loading direction
