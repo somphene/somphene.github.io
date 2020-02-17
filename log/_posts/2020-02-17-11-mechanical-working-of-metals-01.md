@@ -12,10 +12,9 @@ Please contact Kedar at [kedarbahulkar@gmail.com](mailto:kedarbahulkar@gmail.com
 This course deals with manufacturing proceesses involved in metal forming. 
 ### Classification
 
-| Temperature of forming|  Stress State             | Bulk/Sheet |
-|:-:|:-:|:-:|
+| |Temperature of forming| | Stress State   | Bulk/Sheet |
+|:-:|:-:|:-:|:-:|:-:| 
 | Hot | Cold | Warm|   Direct | |
-|:-:|:-:|:-:| :-:|:-:|
 | $$T > \frac{T_m}{2}$$ | $$T \sim (0.2-0.3)T_m$$ | $$T \sim (0.3-0.5)T_m$$ | Indirect | |
 | || | Tensile-Tensile |  |
 ||| | Tensile-compressive||
