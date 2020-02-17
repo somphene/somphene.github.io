@@ -50,4 +50,6 @@ Flow is classified as upsetting and extrusion flow.
 4. Sheet Metal Forming:
 
 ### References
+* [Caddell's Metal Forming](https://www.amazon.in/Metal-Forming-Metallurgy-William-Hosford/dp/1107004527)
 * [Metal Forming slides from IITG](http://www.iitg.ac.in/engfac/ganu/public_html/Metal%20forming%20processes_full.pdf)
+* [ASM Handbooks](https://dl.asminternational.org/handbooks)
