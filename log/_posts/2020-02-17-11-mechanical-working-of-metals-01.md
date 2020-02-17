@@ -19,7 +19,7 @@ This course deals with manufacturing proceesses involved in metal forming. Four 
 |:-:|:-:|
 |   Simple geometrical parts can be made    |         Complex geometries can be achieved                   |
 | Tools have simple shape                   |       Tools have complex geometry                            |
-| Has upsetting flow (material movement $$\bot$$ to the loading direction)|Has extrusion flow ($$\parallel$$)  (Highly restricted flow)|
+| Has upsetting flow (material movement $$\bot$$ to the loading direction)|Has extrusion flow (material movement $$\parallel$$ to the loading direction), is a highly restricted flow  |
  
 2. Rolling: 
 
