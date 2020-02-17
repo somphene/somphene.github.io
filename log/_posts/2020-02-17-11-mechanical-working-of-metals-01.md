@@ -12,10 +12,10 @@ Please contact Kedar at [kedarbahulkar@gmail.com](mailto:kedarbahulkar@gmail.com
 This course deals with manufacturing proceesses involved in metal forming. 
 ### Classification
 
-| Temperature of forming|  Stress State             | Bulk/Sheet |
+| Temperature of forming|  
 |:-:|:-:|:-:|
 | Hot |
-|:-:|:-:|:-:|
+|:-:|:-:|:-:| Stress State             | Bulk/Sheet |
 | Direct | |
 | Cold | Indirect | |
 | Warm | Tensile-Tensile |  |
