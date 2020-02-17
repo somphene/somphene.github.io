@@ -14,12 +14,18 @@ This course deals with manufacturing proceesses involved in metal forming. Four 
  * Bulk Forming
  * Direct Compression
  * Deformation betwween upper and lower die
+ Types of flow: 
+ * Upsetting Flow: Material movement $$\bot$$ to the loading direction
+ * Extrusion Flow: Material movement $$\parallel$$ to the loading direction
   
 | Open Die Forging|  Closed Die Forging (Impression)             |
 |:-:|:-:|
 |   Simple geometrical parts can be made    |         Complex geometries can be achieved                   |
 | Tools have simple shape                   |       Tools have complex geometry                            |
-| Has upsetting flow (material movement $$\bot$$ to the loading direction)|Has extrusion flow (material movement $$\parallel$$ to the loading direction), is a highly restricted flow  |
+| Has upsetting flow |Has extrusion flow, is a highly restricted flow  |
+| Lower load| Higher load 
+| Low volume production | High volume production |
+
  
 2. Rolling: 
 
