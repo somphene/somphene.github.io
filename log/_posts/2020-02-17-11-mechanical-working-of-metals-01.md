@@ -14,7 +14,9 @@ This course deals with manufacturing proceesses involved in metal forming.
 
 | Temperature of forming|  Stress State             | Bulk/Sheet |
 |:-:|:-:|:-:|
-| Hot | Direct | |
+| Hot |
+|:-:|:-:|:-:|
+| Direct | |
 | Cold | Indirect | |
 | Warm | Tensile-Tensile |  |
 | | Tensile-compressive||
