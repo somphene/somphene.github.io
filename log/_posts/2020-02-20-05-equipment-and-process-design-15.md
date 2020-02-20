@@ -13,4 +13,4 @@ Find the lecture notes linked: [Lecture notes 15](https://drive.google.com/file/
 * Packaged Boiler: Water put inside converts partially into steam. Saturated steam contains water as moisture. Unless temp goes past 105$$^0C$$ the phase transformation doesn't take place. This is the Critical Temperature. We take it to 150$$^0C$$ or 250$$^0C$$. Further complete transformation to superheated steam removes all water
 * High T. Steam Generator: Input is saturated steam and output is superheated steam. Parameters are feed, temperature: 1150$^0C$  and flow. Data: Feed is saturated steam and air. Flow- total is 74kg/hr out of which superheated steam is 60kg/hr. Feedgas air at 14kg/hr (based on stoichiometric requirement for combustion). Calculations will be done in next class and quiz. Pressure should also been shown for each of these. 
 
-* [My Quiz 3 writeup](https://drive.google.com/file/d/1vd-WSg-sRI8ohYy4Mc9cGY_2KLvR3sR4/view?usp=drivesdk) (update after I finish writing).
+* [My Quiz 3 writeup](https://drive.google.com/file/d/10AQjsTd7fdcqhDAGrJLUirwVHKAA4xad/view?usp=sharing).
