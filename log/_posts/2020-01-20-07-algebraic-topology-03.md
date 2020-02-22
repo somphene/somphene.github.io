@@ -3,7 +3,8 @@ layout: post
 blog-category: blog
 title: Algebraic Topology Lecture 3
 author: Som Phene
-image: 
+bigimg: log/images/frances-gunn-c9z9RlCh0Zo-unsplash.jpg
+tags: [Convex, Quotient Space, Invariant, Singular, Category Theory, Boundary, Cycle, Chain, Complex, Prism, Simplex, Latex, Commutative Diagrams, Homology, Homotopy, Algebra, Algebraic Topology, Topology, MA 816, Manoj Keshari]
 ---
 
 ### Homotopy invariants
