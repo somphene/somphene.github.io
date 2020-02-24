@@ -4,7 +4,7 @@ blog-category: blog
 title: Corrosion Midsem
 author: Som Phene
 bigimg: log/images/hans-eiskonen-qTxwKHZwl6M-unsplash.jpg
-tags: [Mixed Potential Theory, Combined Polarisation, Tafel, Kinetics, Overpotential, Polarization, Butler-Volmer Reaction Kinetics, Reaction, Activation, Exchange Current Density, Corrosion, MM 454, Vijayshankar Dandapani] 
+tags: [Midsem, Mixed Potential Theory, Combined Polarisation, Tafel, Kinetics, Overpotential, Polarization, Butler-Volmer Reaction Kinetics, Reaction, Activation, Exchange Current Density, Corrosion, MM 454, Vijayshankar Dandapani] 
 ---
 ### Midsem
 Find the Midsem notes linked: [MM 454 IITB Midsem (Google Drive link)](https://drive.google.com/file/d/1z4I9iJ7sNMn7fvEQ85mEGMXKWF4A8uL5/view?usp=sharing)
