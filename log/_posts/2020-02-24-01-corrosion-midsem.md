@@ -12,4 +12,4 @@ Find the Midsem notes linked: [MM 454 IITB Midsem (Google Drive link)](https://d
 * In Seawater severe corrosion may be caused due to pitting corrosion or crevice or stress corrosion cracking.
 * Evans Diagram for two metals with corresponding hydrogen reductions, involves the individual lines adding up. Using mixed potential theory, total rate of oxidation should equal total rate of reduction.
 * Pourbaix Diagram for three species in equilibrium has $$\left(\begin{array}{c} 3\\2 \end{array}\right)=3$$ lines which intersect at the same point. Passivation region is where MO is stable, Immunity region is where M is stable and corrosion region is where $$M^{+}$$ is stable.
-* For concetration of oxygen in ppm, there is diffusion control hence $$i_{corr}=i_L$$. Relating the flux with Diffusivity and concetration using the Fick's Law gives us $$i_L= D \frac{C^{O_2}_B}{\delta} nF$$.
+* For concetration of oxygen in ppm, there is diffusion control hence $$i_{corr}=i_L$$. Relating the flux with Diffusivity and concetration using the Fick's Law gives us $$i_L= D_{O_{2}} \frac{C^{O_2}_B}{\delta} nF$$.
