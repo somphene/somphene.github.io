@@ -6,7 +6,7 @@ author: Som Phene
 bigimg: log/images/pierre-chatel-innocenti-ub76VSnQneg-unsplash.jpg
 tags: [Path, Topology, Connectedness, Separation, Continuity, General topology, MA 406, Santanu Dey]
 ---
-Find the $$14^{th}$$ Lecture/tutorial notes linked: [MA 406 Lecture Notes (1-14), (Google Drive Link)](https://drive.google.com/file/d/1M1oYC2PMAxRjqkNEJADEERDKoc8s-kAT/view?usp=sharing)
+Find the $$14^{th}$$ Lecture/tutorial notes linked: [MA 406 Lecture Notes (1-14), (Google Drive Link)](https://drive.google.com/file/d/1zRMzyruFxY0_z16x6ftCcQ5MB3J5GZ9G/view?usp=sharing)
 
 ### Connectedness 
 
