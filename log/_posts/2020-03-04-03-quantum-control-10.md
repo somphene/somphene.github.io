@@ -4,7 +4,7 @@ blog-category: blog
 title: Quantum Control Lecture 10
 author: Som Phene
 bigimg:
-tags: [NMR, Spin, Density matrices, Control, SC 638, Navin Khaneja]
+tags: [NMR, Spin, Density matrices, Dynamics Control, SC 638, Quantum, Quantum Control, Navin Khaneja]
 ---
 
 ### NMR Control Problems
