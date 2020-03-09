@@ -4,7 +4,6 @@ blog-category: blog
 published: false
 title: Complex Analysis Resources
 author: Som Phene
-bigimg: log/images/franck-v-U3sOwViXhkY-unsplash.jpg
 tags: [Complex Analysis, Resources]
 ---
 
