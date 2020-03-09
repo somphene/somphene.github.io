@@ -11,4 +11,4 @@ tags: [Complex Analysis, Resources]
 
 Find the resources linked:
 
-* [Paul Garrett's Course Page](http://www-users.math.umn.edu/~garrett/m/complex/)
+* [Paul Garrett's Complex Analysis Course Page](http://www-users.math.umn.edu/~garrett/m/complex/)
