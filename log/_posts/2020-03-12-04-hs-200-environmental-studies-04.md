@@ -8,4 +8,4 @@ tags: [Externalities, Economics, Game Theory, Coordination Problem, Prisoner's D
 ---
 ### Public Goods
 
-Find the $$4^{th}$$ Lecture linked: [Environmental Studies Lecture Notes 4]()
+Find the $$4^{th}$$ Lecture linked: [Environmental Studies Lecture Notes 4](https://drive.google.com/file/d/1Wi1yh2lUEV_tiZdKTyJRyvJ6BU7GUImX/view?usp=sharing)
