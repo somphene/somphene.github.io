@@ -4,7 +4,7 @@ blog-category: blog
 title: Quantum Control Lecture 13
 author: Som Phene
 bigimg:
-tags: [Adiabatic, Inversion, NMR, Spin, Dynamics Control, SC 638, Quantum, Quantum Control, Navin Khaneja]
+tags: [Double Sweep, Local Generators, Interaction Hamiltonian, Kronecker, Product, Hermitian, Traceless, Basis, Quantum Computing, Adiabatic, Inversion, NMR, Spin, Dynamics Control, SC 638, Quantum, Quantum Control, Navin Khaneja]
 ---
 
 ### Method of Double Sweep and introduction to Quantum Computing
