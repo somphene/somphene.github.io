@@ -6,7 +6,7 @@ author: Som Phene
 image: 
 ---
 
-Some major influences:
+Some influences:
 
 * [Biography Grothendieck](http://www-history.mcs.st-andrews.ac.uk/Biographies/Grothendieck.html)
 
@@ -20,14 +20,14 @@ When in the existential crisis, meet some gems in this space:
 
 Take it easy first and start with these:
 
-* Richard Linklater (Boyhood, Before Trilogy)
-* Dennis Villeneuve (Arrival, Enemy, Prisoners, any non-popular movie by him)
-* Alejandro González Iñárritu (Birdman, Babel, 21 Grams, Amores Perros, The Revenant, Biutiful)
-* Special mention: Robin Williams in Good Will Hunting and Dead Poets Society is pertinent
-* Jim Carrey: Eternal Sunshine of the Spotless mind, Truman Show
+* Special mention: Robin Williams in Good Will Hunting and Dead Poets Society is pertinent to college or high-school students.
+* Richard Linklater- Boyhood, Before Trilogy
+* Dennis Villeneuve Arrival, Enemy, Prisoners, Incendies, Sicario, any non-popular movie by him
+* Alejandro González Iñárritu Birdman, Babel, 21 Grams, Amores Perros, The Revenant, Biutiful
+* Jim Carrey: Eternal Sunshine of the Spotless mind, Truman Show, The Bad Batch
 * Philip Seymour Hoffman in Synecdoche New York
 * Damien Chazelle: Whiplash, La La Land 
-* [Latest](https://letterboxd.com/themightyorb/list/praise-worthy-beautiful-mesmerizing-deserving/)
+
 
 Slowly move to the Legends:
 
@@ -36,8 +36,8 @@ Slowly move to the Legends:
 * Winter’s Night, Persona (bonus identity crisis), Seventh Seal by Ingmar Bergman (any other)
 * Taste of Cherry by Abbas Kiarostami
 * A Ghost Story by David Lowry
-Manchester by the Sea by Kenneth Lonergan
-* The Master by Paul Thomas Anderson ( or There will be blood, Phantom Thread, Punch Drunk Love, Magnolia)
+* Manchester by the Sea by Kenneth Lonergan
+* The Master by Paul Thomas Anderson (or There will be blood, Phantom Thread, Punch Drunk Love, Magnolia)
 
 Once you know your way, use this to navigate through [A good movie to watch](https://agoodmovietowatch.com/)
 
