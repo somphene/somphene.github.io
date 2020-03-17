@@ -3,7 +3,8 @@ layout: post
 blog-category: blog
 title: Arts and Culture in existentialism
 author: Som Phene
-image: 
+image:
+tags: [Existentialism, Films, Arts, Culture, Music, Influences, Directors, TV Series, Books]
 ---
 
 Some influences:
