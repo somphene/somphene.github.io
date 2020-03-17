@@ -40,7 +40,7 @@ Slowly move to the Legends:
 * Manchester by the Sea by Kenneth Lonergan
 * The Master by Paul Thomas Anderson (or There will be blood, Phantom Thread, Punch Drunk Love, Magnolia)
 
-Once you know your way, use this to navigate through [A good movie to watch](https://agoodmovietowatch.com/)
+Once you know your way, use the linked page to optimize [A good movie to watch](https://agoodmovietowatch.com/)
 
 * Series
 * Rick and Morty
