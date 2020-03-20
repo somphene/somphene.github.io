@@ -4,7 +4,7 @@ blog-category: blog
 title: Thoughts on Foreign Language Films post Academy Awards 2020
 author: Som Phene
 bigimg: log/images/hero_parasite-movie-review-2019.jpeg
-tags: [Movies, Parasite, Social, Class, Bong Jun Hoo, Music, Soundtrack, Films, Oscars, PALME D'OR]
+tags: [Movies, Parasite, Social, Class, Bong Jun Ho, Music, Soundtrack, Films, Oscars, PALME D'OR]
 ---
 
 ### Academy Awards (Oscars) 2020 Announced 
@@ -39,7 +39,7 @@ Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The L
 * [Paolo Sorrentino](https://en.wikipedia.org/wiki/Paolo_Sorrentino) (Italian): [The Great Beauty](https://www.imdb.com/title/tt2358891/) (La Grande Bellezza), [Youth](https://en.wikipedia.org/wiki/Youth_(2015_film))
 * [Best of Youth](https://www.imdb.com/title/tt0346336/) (Italian): Takes an entire day to watch it, so clear your schedule.
 * [Asghar Farhadi](https://en.wikipedia.org/wiki/Asghar_Farhadi)(Persian): A Separation, The Salesman
-* [Wong Kar-wai](https://en.wikipedia.org/wiki/Wong_Kar-wai): In the Mood for Love
+* [Wong Kar-wai](https://en.wikipedia.org/wiki/Wong_Kar-wai): In the Mood for Love, 2046
 
 ### Actors
 
