@@ -17,7 +17,7 @@ Diversity in cinema has been a very hot discussion topic in Hollwood in the past
 * 2019-Alfonso Cuarón - Roma (2018)🇲🇽
 * 2020 -Bong Joon Ho - Parasite (2019)🇰🇷
 
-I don't write this just because Parasite won the Academy Award, and my friends can attest that I have recommended them to watch this much before it won in any festival. However, I do take this opportunity, fueled directly by its Oscar Win to give this movie (and Asian cinema in general) more exposure and publicity. I request everyone, especially those who are not into watching foreign films to give this movie a chance and realize what a wealth of movies are being missed which transcend the Language barrier. In addition to a [previous post](https://somphene.github.io/2019-03-23-1/) that contains some foreign films, I would like to highlight the works of the following directors (Im listing out all that are at the top of my mind, will add more post midterms):
+I don't write this just because Parasite won the Academy Award, and my friends can attest that I have recommended them to watch this much before it won in any festival. However, I do take this opportunity, fueled directly by its Oscar Win to give this movie (and Asian cinema in general) more exposure and publicity. I request everyone, especially those who are not into watching foreign films to give this movie a chance and realize what a wealth of movies are being missed which transcend the Language barrier. In addition to a [previous post](https://somphene.github.io/2019-03-23-1/) that contains some foreign films, I would like to highlight the works of the following directors (Im listing out all that are at the top of my mind, will add more soon):
 * [Akira Kurosawa](https://en.wikipedia.org/wiki/Akira_Kurosawa) (Japanese): Such an influential creator that literally anything on [this linked list](https://en.wikipedia.org/wiki/List_of_creative_works_by_Akira_Kurosawa) is recommended and studied in film school.
 * [Abbas Kiarostami](https://en.wikipedia.org/wiki/Abbas_Kiarostami) (Persian): Taste of Cherries, which is part of the critically acclaimed Koker trilogy. This director's films lead the Iranian new wave of directors consisting of Bahram Beyzai, Nasser Taghvai, Ali Hatami, Masoud Kimiai, Dariush Mehrjui, Sohrab Shahid-Saless and Parviz Kimiavi. Other notable films include Where Is the Friend's Home?
 Close-Up, Through the Olive Trees and The Wind Will Carry Us.
@@ -26,20 +26,24 @@ Close-Up, Through the Olive Trees and The Wind Will Carry Us.
 * [Andrei Tarkovsky](https://en.wikipedia.org/wiki/Andrei_Tarkovsky)(Russian): Stalker, Mirror, Ivan's Childhood, Andrei Rublev, Solaris, Nostalghia
 
 Relatively recent ones: 
-* [Michael Haneke](https://en.wikipedia.org/wiki/Michael_Haneke) (Austrian, with films in French, German and English): The Piano Teacher, Caché, 	The White Ribbon, Amour, 
+* [Hirokazu Kore-eda](https://en.wikipedia.org/wiki/Hirokazu_Kore-eda)(Japenese): Shoplifters, Our Little Sister, Like Father Like Son, After Life
+* [Lee Chang-dong](https://en.wikipedia.org/wiki/Lee_Chang-dong)(South Korea): Burning, Poetry, Secret Sunshine
+* [Edward Yang](https://en.wikipedia.org/wiki/Edward_Yang)(Taiwan): Yi Yi, Terrorizers, A Brighter Summer Day, A Confucian Confusion
+* [Wong Kar Wai](https://en.wikipedia.org/wiki/Wong_Kar-wai)(Hong Kong): In the Mood for Love, 2046, Chunking Express.
+* [Michael Haneke](https://en.wikipedia.org/wiki/Michael_Haneke) (Austrian, with films in French, German and English): The Piano Teacher, Caché, The White Ribbon, Amour.
 * [Yorgos Lanthimos](https://en.wikipedia.org/wiki/Yorgos_Lanthimos)(Greek, although major films are in English): The class and society theme in Parasite reminded me of [The Lobster (2015)](https://www.imdb.com/title/tt3464902/), The Killing of a Sacred Deer, Dogtooth.
 * [Krzysztof Kieślowski](https://en.wikipedia.org/wiki/Krzysztof_Kie%C5%9Blowski) (Polish): Dekalog (1989)- (Ten Commandments), The Double Life of Veronique (1991), and the Three Colors trilogy.
 * [Luca Guadagnino](https://en.wikipedia.org/wiki/Luca_Guadagnino) (Italian): Call me by Your Name (English/ Italian), 
 * [Guillermo del Toro](https://en.wikipedia.org/wiki/Guillermo_del_Toro)(Mexican): Shape of Water 
-* Blue is the Warmest Color (French),
 * [Alejandro González Iñárritu](https://en.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)(Mexican): [Babel](https://en.wikipedia.org/wiki/Babel_(film)) (Multilingual film taking place in Morocco, Japan, Mexico and the US) which is the last part of Iñárritu's Death Trilogy, also its background score by [Gustavo Santaolalla](https://en.wikipedia.org/wiki/Gustavo_Santaolalla)(Argentine) won the Oscar. With an emnsemble cast of Brad Pitt, Cate Blanchett, Gael García Bernal, Kōji Yakusho, Adriana Barraza, Rinko Kikuchi, this is one of the best foreign films that I have seen. I must admit that I have cried at the end of watching this film every single time. In fact, just listening to that phenomenal background score is enough to make me cry.  [Amores Perros (Love is a Bitch)](https://www.imdb.com/title/tt0245712/) which is the first part of Death Trilogy, and since we are at it, [21 Grams (2003)](https://www.imdb.com/title/tt0315733/). [Biutiful](https://www.imdb.com/title/tt1164999/). 
 * [Alfonso Cuarón](https://en.wikipedia.org/wiki/Alfonso_Cuar%C3%B3n)(Mexican): Roma, Gravity, Children of Men
 * [Lars von Trier](https://en.wikipedia.org/wiki/Lars_von_Trier) (Danish): Breaking the Waves (1996), Dancer in the Dark (2000), Dogville (2003), Antichrist (2009), Melancholia (2011), "The House That Jack Built" (2018). Note his strong academic background, "He studied film theory at the University of Copenhagen and film direction at the National Film School of Denmark".
-Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
 * [Paolo Sorrentino](https://en.wikipedia.org/wiki/Paolo_Sorrentino) (Italian): [The Great Beauty](https://www.imdb.com/title/tt2358891/) (La Grande Bellezza), [Youth](https://en.wikipedia.org/wiki/Youth_(2015_film))
 * [Best of Youth](https://www.imdb.com/title/tt0346336/) (Italian): Takes an entire day to watch it, so clear your schedule.
 * [Asghar Farhadi](https://en.wikipedia.org/wiki/Asghar_Farhadi)(Persian): A Separation, The Salesman
-* [Wong Kar-wai](https://en.wikipedia.org/wiki/Wong_Kar-wai): In the Mood for Love, 2046
+* Miscellaneous: Blue is the Warmest Color (French), System Crasher (West Germany), The Elephant Sitting Still (Japan), Olso August 31st (Norway), The Guilty (Denmark), My Sassy Girl (South Korea), On Body and Soul (Hungary), 303 (Germany), Cold War (Poland).
+
+Those who already watched and liked Parasite, may go for Yorgos Lanthimos' The Lobster, Jordan Peele's Get Out. 
 
 ### Actors
 
