@@ -4,7 +4,7 @@ blog-category: blog
 title: Thoughts on Foreign Language Films post Academy Awards 2020
 author: Som Phene
 bigimg: log/images/hero_parasite-movie-review-2019.jpeg
-tags: [Movies, Parasite, Social, Class, Bong Jun Ho, Music, Soundtrack, Films, Oscars, PALME D'OR]
+tags: [Movies, Parasite, Social, Class, Bong Joon Ho, Music, Soundtrack, Films, Oscars, PALME D'OR, Cannes, TIFF, Berlin International Film Festival]
 ---
 
 ### Academy Awards (Oscars) 2020 Announced 
