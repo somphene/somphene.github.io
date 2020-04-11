@@ -36,8 +36,8 @@ Increasing use of data analysis, optimization and statistical methods involving 
 * Vibrational Spectroscopy Notes for the tutorial will be uploaded soon.
 
 # [Notes](https://somphene.github.io/notes/)
-Currently [writing](https://somphene.github.io/log/list/). Highlights: [Hopf Algebras, Monoids, Posets, Hyperplane Arrangements](https://drive.google.com/file/d/1G5mJCHxPmNOOi_nA9_lPKTgwly0JFZ3R/view), [Optimization](https://drive.google.com/file/d/1oCBdPrlNPFaRMhsRhWiGyXlFIn2BL5dZ/view), [Functional Analysis](https://drive.google.com/file/d/190OGmTdc9x7uSNSVgkt1adzfnu0kasSd/view), [Complex Analysis](https://somphene.github.io/2020-01-10-1/), [Machine Learning](https://drive.google.com/file/d/1ce2XilD2CnruB9klBBIDU9gAjjS-UF1A/view)
-* [Older notes](https://somphene.github.io/notes/)
+Currently [writing](https://somphene.github.io/log/list/). 
+* [Completed notes](https://somphene.github.io/notes/)
 
 # [Seminars & Talks](https://somphene.github.io/talks/) 
 * Organizing the [Student Seminar](https://student-seminar-math-iitb.github.io/list/), Department of Mathematics, IIT Bombay.
