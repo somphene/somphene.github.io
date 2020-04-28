@@ -1,9 +1,9 @@
 ---
 layout: post
 blog-category: blog
-title: Research related and other Arbit thoughts
+title: Arbit thoughts
 author: Som Phene 
-tags: [ Research, Thoughts, Materials Science, Economics, Philosophy, EECS, Society, Dilemma, Individual, Dynamics, Structure] 
+tags: [ Arbitrary, Thoughts, Materials Science, Economics, Philosophy, EECS, Society, Dilemma, Individual, Dynamics, Structure] 
 ---
 ### Materials Science
 
