@@ -1,3 +1,12 @@
+---
+layout: post
+blog-category: blog
+title: Poetry : Silence 
+author: Som Phene
+bigimg: log/images/arrival1.jpeg
+tags: [Silence, Poetry, Sansense]
+---
+
 Silence
 
 At times it is unbearable
