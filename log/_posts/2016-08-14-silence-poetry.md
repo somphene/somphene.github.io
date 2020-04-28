@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Poetry : Silence 
+title: Poetry - Silence 
 author: Som Phene
 bigimg: log/images/iitblakeside.jpg 
 tags: [Silence, Poetry, Sansense, Films]
