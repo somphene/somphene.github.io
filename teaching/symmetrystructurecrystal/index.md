@@ -53,6 +53,7 @@ About the speaker: Ruta Kulkarni works on the growth of single crystals of vario
 * Elements of X-Ray Diffraction- Cullity
 * M. Artin Algebra Chapter 6 Symmetry
 * Used this [doc](https://docs.google.com/document/d/1LolvOTlQXjgoUoAa9VXdlVlFPrW_xnmf8abs0Jyk9_Y/edit?usp=sharing) maintained by me as a common platform to discuss doubts, problems and communicate.
+* [Crystallography Minerals Web](http://webmineral.com/crystall.shtml#isometric)
 
 ### Extra Questions
 * Show that if the order of a group is p where p is a prime number then the group must be cyclic.  
