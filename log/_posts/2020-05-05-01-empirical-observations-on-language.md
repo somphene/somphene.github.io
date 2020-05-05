@@ -58,6 +58,8 @@ This helped me to distinguish between psychological time and physical time. We c
 
 Much later I was told about Chomsky's insight that cognitive biases are a limitation but in fact it is this limitation that help us to see the world in the way we do. I understand it now in terms of the need for boundaries (mental structures). Without these mental structures, there is no thinking, and hence there cannot be any psychological time. Time requires two distinguishable states for change to happen. This can take place only if there are divisions. In a space without divisions, there is no time since there is only one thing. One may say that Differentiation creates time whereas Integration collapses it. 
 
+The investigation started with me trying to eliminate my ignprance but ended with me realizing the importance of ignorance. Unless we ignore something, we cannot think about something specific. Instead of trying to get rid of conditioning and dissolve boundaries, we must create the right strucutres by Differentiation and dissolve the unnecessary ones by Integration until we find the structure that is compatible with the specific thing that we want to observe. On the other hand, in knowing something specific, we also gain insight into what we have ignored. By knowing positive we know what is negative, by knowing light we know what is darkness. The differences come about only because of this division. If there were no two enemies, there would be no battle. 
+
 ### Empirical observations
 
 * Conservation principles: Knowledge is conserved. Knowledge does not appear out of nowhere. Different languages conserve knowledge that they represent in different forms.
