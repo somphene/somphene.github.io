@@ -40,7 +40,7 @@ I went down this track to find about theories of knowledge and found nothing but
 
 ### Differentiation and Integration
 
-I stopped the study of thinking with the following observations:
+I ended the investigation into thinking with the following observations:
 
 * Thought is division. Thought is capturing observations by naming. Creating Boundaries is needed to name things. Specifying something needs boundaries, for example, to say something about "this" needs creation of a boundary which separates "this" from the rest. For example, in the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but one forms equivalence relations to define partitions among all Polygons which separate the triangles from the sqaures. Such partitions are what we would consider as boundaries. In this sense, mental thoughts or structures are all just creation of boundaries.
 
