@@ -8,7 +8,7 @@ tags: [ General, Language, Structure, Representation, Rigidity, Entropy, Fluid, 
 ---
 ### Disclaimer
 
-This is a non-technical writeup meant for a general audience. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand my perspectives.
+This is a non-technical writeup meant for a lay person like myself. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand my perspectives.
 
 I have never officially taken a course in linguistics. This write up may have nothing to do with linguistics. In fact, this may not have much to do with the usual sense in which languages are studied. I am interested in a broader category of languages and its dynamics. If I may, at least for this write up, I would like to redefine Language to be any structure used to represent knowledge. To clarify again: whenever I use the word 'Language' with a capital L, I mean anything that can represent knowledge. 
 
