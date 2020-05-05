@@ -16,8 +16,8 @@ I have never officially taken a course in linguistics. This write up may have no
 
  -(Example). This means that relatively abstract knowledge like "the concept of a triangle" or "the concept of nothing" are not considered as 'Knowledge', but instead as representations within Language as long as they are defined by terms using the Language of Mathematics. At the same time, these are considered as knowledge (with a small k) if they are to be represented by using relatively more specific Language such as the Language of Euclidean Geometry for "the concept of a triangle" or the Language of Set Theory for representing "the concept of nothing" as the empty set. This serves to demonstrate that
  
-    1) knowledge and representations in a Language are not exclusive, the same thing may be considered as knowledge and a representation depending on the context.
-    2) knowledge takes particular forms in a certain Language. It may exist as relatively abstract knowledge beyond it such as the concept of triangle which exists even in non-Euclidean geometries.  More will be made clear through plenty of examples in the upcoming sections.
+    -> knowledge and representations in a Language are not exclusive, the same thing may be considered as knowledge or as a representation depending on the context.
+    -> knowledge takes particular forms in a certain Language. It may exist as relatively abstract knowledge beyond it such as the concept of triangle which exists even in non-Euclidean geometries.  More will be made clear through plenty of examples in the upcoming sections.
 
 ### How it all started
 
