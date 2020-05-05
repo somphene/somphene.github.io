@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-published: false
+published: true
 title: Empirical Observations on Language
 author: Som Phene 
 tags: [ Language, Structure, Representation, Condensation, Approximate, Exact, Deformation, Analysis, Time] 
