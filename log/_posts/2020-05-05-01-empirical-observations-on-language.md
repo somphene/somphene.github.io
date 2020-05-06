@@ -145,6 +145,10 @@ Similar to Represeantation Theory above, category theory generalizes this idea a
 
 Q) Once we establish that there does exist a way to represent a phenomenon mathematically, one may ask about whether it can be done in finite time or in a suitable finite dimensional parameter space or something else which is the complexity question. If the complexity question is answered by demonstration, it may be that we are capturing some approximate version of the phenomenon but not the phenomenon itself. But can we establish the representation question in itself? For example, recently Prof. Tao proved the Collatz conjecture for almost all numbers (in the logarithmic density sense), proving almost boundedness,  by constructing an invariant measure on them but that didn't get us close to settling the conjecture because the "almost all" doesn't represent the complete dynamics of the Collatz map. Similarly mathematical models may be working for us to represent 'almost all' situations to make us feel they are an accurate model but in reality it may not be a 'faithful' representation.
 
+### Addition as a Language
+
+* Addition is a structure. In the most rigid form, Addition is seen as addition of integer numbers. This form is integrated to give Addition of fractions and further integrated to give addition of Real Numbers, furhter to Complex Numbers. Beyond Numbers, Addition is also integrated to that in Vector Spaces (more popularly known as the Parallelogram Law of addition). In Sets, it becomes disjoint union and in Abelian Groups, it becomes word concatenation. In Categories, it takes the form of coproduct. 
+
 ### Equivalence of Languages: Intrinsic and Extrinsic Geometry 
 
 These were shown to be equivalent by the famous Embedding Theorems. Can we do the same for other Languages?
@@ -258,5 +262,5 @@ Knowledge with a captial K that was referred to in the beginning may be seen as 
 
 * Introduced universal concept of Language to refer to all structures.
 * Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
-* Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration may take different structure at the sublevel for SubLanguages.
+* Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration takes a more rigid structure at the sublevel for SubLanguages. That is, Calculus as a Language itself can be differentiated to go from the Calculus of a higher level Language (more fluid) to a lower level Language (more rigid). For example: The Differentiation operation on Distributions is more fluid than the Differentitation operation on functions. In other words, The Differentiation operation on functions is obtained by 
 
