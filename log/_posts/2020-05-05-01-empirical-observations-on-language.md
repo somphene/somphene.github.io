@@ -215,4 +215,11 @@ Why can't they do the same in Math? Or maybe they do and I haven't seen enough M
 
 * Mathematics is a natural language with more rigid structure than English or some other natural language, in the sense that the definitions and ways of arguing are more rigid. In English, approximate knowledge plays a very important role and that is highly subdued in math. There is some sort of Structuretime Duality going on here- the more we want to make a concept independent of time, the less independent it can be in structure, that is, it has highly well defined structure in space (localization)- one could say this is like uncertainty in fourier analysis (or its corollary Heisenberg uncertainty in QM). So math uses a more rigid approach to definitions than usual language. In this sense, the dynamics of english language beyond that rigidity cannot be captured in math, similar to how proofs in formal language logic don't capture the intuition in mathematical natural language based proof.
 
+* Mental world is Integration of Physical world. Spiritual world is the integration of Mental world. Physical world is solid, Mental world corresponds to Liquid and Soul corresponds to Vapour. One may be able to Integrate or Differentiate further. For example, Mental structures can be Differentiated to Physical bodies. Our physical bodies are not as rigid, and evolve over time. Further differentiate to give genes which are much more rigid. Similarly, Fields can be differentiated to give Elementary Particles that are way more rigid. Wave-particle duality is just the statement that knowledge and representation are not exclusive, that is the same object acts as differential or an integral depending on the context.
+
+* Time is a language. Past is solid, Present is liquid and Future is gas.
+
+* Universal Calculus: Every Language has forms: Solid, Liquid and Gas. They are related by Integration and Differentiation.
+
+
 
