@@ -205,6 +205,14 @@ Unconscious thought keeps flowing and seems to be unstoppable by rigid boundarie
 
 * **Temperature** : How to define Temperature for a Language? Is the analogue of Heat flow, symbol flow in Language? That is communication between two people stops when they both have the same rigidity in their Language of contact. In the case of Language of Nature, this reduces to the usual heat flow and temperature notions. In terms of talking about abstract knowledge, is it possible to define that a person can communicate with someone else the abstract knoweldge only if they are both able to represent it in the same Language property called "temperature". 'Successful Communication' would correspond to equilibrium of the zeroth law of thermodynamics as no more communication would be required after that point. 
 
+* What Type of Phase diagrams are allowed in a Language? What forms does Thermodynamics take in different Languages? Generalized Stokes theorems in different Languages correspond to their Phase boundaries.
+
+* How to define the State of a Language? Look for universal Properties (corresponding to Volume, Pressure Temperature, etc.). All Phases of a Language will exhibit some universal properties which can be used to define the state of the Language. 
+
+* What are the Generalized Laws of Universal Thermodynamics? Zeroth Law should define Generalized Temperature based on generalized thermal equilibrium of Language Phases. 1st Law should define generalized Energy. 2nd Law should define Generalized Entropy. 3rd Law should define a way to assign concrete symbols to Generalized Entropy.
+
+* What about masless structures like Light (photons), EM fields? Energy to replace mass? How to do thermodynamics on Light?
+
 * Music as a Language: there should be an analogous concept of mass and entropy in the Language of Music. In physics, the frequency determines energy (which is equivalent to mass) of a vibration, is it the same for Language of Music? How does this connect to the Language of String Theory? Why can't they do the same in Math? Or maybe they do and I haven't seen enough Math to feel emotio
 
 * Language is more than Physical Symbols: There are physical symbols to represent everything in a compact form. These symbols are the most rigid aspect of any Language. However they can be used to represent extremely fluid abstract knowledge such as "nothing" (in Sets as null, in numbers as 0, in Euclidean Geometry as Origin, etc). Symbols may be the most condensed form of any abstract knowledge. The word emotion is as rigid as any other symbolic word in English but it represents quite a fluid concept, at least its boundaries in my mind are not at all rigidly defined. 
