@@ -74,23 +74,42 @@ Know that we have reduced from mental thought to boundaries and the resulting st
 
 * I shall use this opportunity to highlight my use of the word Language instead of structures for the rest of the write up. Usually structures make us think of very rigid objects. We often say that fluids don't have much structure. This is what I want to avoid. Within the Language of Mathematics, there are structures like Sets which are less rigid than structures like Groups. But there are also Languages that are less rigid than the Language of Mathematics. The Language of English itself is one such Language. I want to address the structures that are within such less rigid Languages as well. In fact, I want to explore all kinds of structures, be it relatively rigid ones like Sets or those that relatively less rigid like Fluids themselves. In a way, I am Integrating to unify the notions of structure and Language. Following are some examples. 
 
-  - (Example). In particular, structures that we identify through our cognitive capacity as belonging to physical universe will also be called as a Language. Fluids and Condensed Matter are then both called as Languages, the former being less rigid than then latter. All the structures corresponding to the physical universe collectively form a structure which is considered as a Language, the Language of Physics.
+  - (Example). In particular, structures that we identify through our cognitive capacity as belonging to physical universe will also be called as a Language. Fluids and Condensed Matter are then both called as Languages, the former being less rigid than then latter. All the structures corresponding to the physical universe collectively form a structure which is considered as a Language, the Language of Physics or the Language of Nature.
 
-  - (Example). All structures built in a theory form a Language. Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Grpups. 
+  - (Example). All structures built in a theory form a Language. Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Groups. Type theory is a Language. Calculus is a Language. 
   
   - (Example). Music is a Language. Acoustic sounds also form structures that have multiple states that can be distinguished from each other. 
   
   - (Example). English, Hindi, Marathi, Latin, Greek are all usual languages and here they are also Languages. 
   
-  - (Example). A Film is a Language. Visual structures whether in the physical universe or on a screen, form a Language. Similarly, Dreams are a Language.
+  - (Example). Mathematics is a Language. Symbols form structures and they are all part of Symbolic Language. Formal Languages are also Languages. 
+  
+  - (Example). Films are Languages. Visual structures whether in the physical universe or on a screen, form a Language. Similarly, Dreams are a Language.
+  
+  - (Example). Any structure forms (or is part of a) Language.
+
+### Theory of States of Matter- An Elementary Language
+
+The simplest theory to pick and demonstrate the ideas involved in Language is probably the Language of States of Matter. 
+
+* Take a simple single component system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state maybe considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid.
+
+* This is analogous to the behaviour of the usual Languages that we know of. For example, English includes relatively loose definitions and vague statements and hence allows more fluid boundaries in its structure. Hence English may be considered analogous to Gaseous form  Language. Physics is relatively more precise with defining quantities that it considers and hence has rigid boundaries which makes it analogous to Liquid form Language. Mathematics has the most rigid definitions and only allows statements that follow logic rules. Hence, Mathematics may be considered analogous to Solid form Language. I consider all these forms as states of the same Language and would like to show how Mathematics can be evaporated (Integrated) to give the Language of Physics up to some degree of freedom which in turn could be evaporated (Integrated) to give English Language. Conceptually it is clear that there are additional constraints in Physics than in English and similarly for Physics and Mathematics. 
+
+### Empirical observations
+
+* Differentiation and Integration are fundamental to creating structures and hence they are fundamental to Language.
 
 * For each Language we can define conepts such as Rigidity that depend on the nature of boundaries involved in the structure. For example the Language of Mathematics is more rigid than the Language of English. On the other hand, Programming Languages are more rigid than the Language of Mathematics. Formal Languages are more Rigid than Natural Languages. 
 
 * Corresponding to each Language, there are dynamics which arise in the possible substructures within each particular Language. For example, in the Language of Numbers, there exists a Language of Prime numbers which represent their own particular dynamics. 
 
-### Empirical observations
+* Conservation principles: Knowledge is conserved. Knowledge does not appear out of nowhere. Different Languages conserve knowledge that they represent in different forms. Specific knowledge can be represented in different forms using different Languages.
 
-* Conservation principles: Knowledge is conserved. Knowledge does not appear out of nowhere. Different languages conserve knowledge that they represent in different forms.
+
+### Consequences
+
+* How do we think about abstract concepts? Approximate notions: There is no strict delineation of the notion of a chair. One may vaguely say that chair is something we use to sit on. But then, can the floor be called a chair? How do we generalize the concept to a situation that we have never encountered before? Another example ‘addition’ in categories- direct sum, disjoint union, etc. Instead of having exactly defined boundaries, approximate notions can also form part of our knowledge.
 
 
 
