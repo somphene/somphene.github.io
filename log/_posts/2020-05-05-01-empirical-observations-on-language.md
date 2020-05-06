@@ -104,7 +104,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * Corresponding to each Language, there are dynamics which arise in the possible substructures within each particular Language. For example, in the Language of Numbers, there exists a Language of Prime numbers which represent their own particular dynamics. 
 
-* Conservation principles: Knowledge is conserved. Knowledge does not appear out of nowhere. Different Languages conserve knowledge that they represent in different forms. Specific knowledge can be represented in different forms using different Languages.
+* Conservation principles: Conservation Principles are seen as a result of symmetry. Stated in the Language of Mathematics, this knowledge is represented as Noether's Theorem. The breaking of symmetry is what leads to formation of distinct states. This ensures that the same amount of both distinct forms are formed. Knowledge is conserved. Knowledge does not appear out of nowhere. Different Languages conserve knowledge that they represent in different forms. Specific knowledge can be represented in different forms using different Languages. In the Language of Particle Physics, conservation principle takes the form of particles and antiparticles. 
 
 
 ### Consequences
