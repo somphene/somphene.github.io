@@ -111,7 +111,9 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * How do we think about abstract concepts? Approximate notions: There is no strict delineation of the notion of a chair. One may vaguely say that chair is something we use to sit on. But then, can the floor be called a chair? How do we generalize the concept to a situation that we have never encountered before? Another example ‘addition’ in categories- direct sum, disjoint union, etc. Instead of having exactly defined boundaries, approximate notions can also form part of our knowledge.
 
+* Observing the abstract form of something may not help in seeing everything about it’s particulars 
 
+* Unconscious Thoughts can be thought of as a Fluid (Language) flow.
 
 
 
