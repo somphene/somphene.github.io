@@ -115,6 +115,33 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * I see General Relativity and Quantum Mechanics as more fluid Langauges obtained by the Integration of the more rigid Language of Classical Mechanics. Quantum Mechanics is more fluid as it has infinite degrees of freedom. General Relativity is also more fluid as it has more degrees of freedom than Classical Mechanics, for instance it is not restricted to a rigid choice of inverse square law to represent Gravity. 
 
+* How to transform the Language of General Relativity to adapt to the Language of Quantum Mechanics? There are regions in which the two meet but they are both different Languages which capture different Dynamics. Just as in the case of water, all that we can see are its representations as Vapor, liquid water or Ice, it may be possible that these are all the different forms in which Nature appears and there is no single unified Language or structure to account for all dynamics seen in Nature. To go beyond these states, and unify the Languages, one may have to abandon macroscopic observations and build a new microscopic Language. However, we must be able to arrive at General Relativity from Quantum Mechanics and Vice Versa by changing the conditions of each Language. 
+
+* It seems that the parameters like Planck's constant and Speed of Light are the corresponding variables for temperature and pressure in the Language of Physics. It would be interesting to know how changing the symbol value in a Language pressurizes or increases the Temperature of a Language.
+
+### Language of Fourier Analysis
+
+* Fourier Transform plays the role of Integration and Inverse Fourier Transform plays that of Differentiation. 
+
+### Representation Theory as a Language of Languages within Mathematics
+
+This brings into question representation theory: How much does the condensation map (Differentiation) capture? 
+
+* For instance, if condensation map is a bijective linear map, there is complete transfer of information. No change in rigidity.
+
+* For a condensation map to really be called a condensation map, it should increase the rigidity of the target to be more than that of the input. That is, decrease entropy of input. The tangent map at Identity is a condensation map which linearizes the Lie Group to its Lie Algebra. The exponential map which takes Lie Algebra to its Lie group is an evaporation map: it "delinearizes" the vector space. 
+ 
+* We see in representation theory that we can take nonlinear groups and condense them to linear operators. 
+
+### Category Theory as a Language of Languages within Mathematics
+
+Similar to Represeantation Theory above, category theory generalizes this idea and uses different rigidities in the target space: categories instead of absolutely rigid vector spaces. Since we can't know the objects directly, we represent them in more rigid or less rigid forms to be able to control them better. Hence study of objects can be replaced by study of maps from the object to others.
+
+Q) Once we establish that there does exist a way to represent a phenomenon mathematically, one may ask about whether it can be done in finite time or in a suitable finite dimensional parameter space or something else which is the complexity question. If the complexity question is answered by demonstration, it may be that we are capturing some approximate version of the phenomenon but not the phenomenon itself. But can we establish the representation question in itself? For example, recently Prof. Tao proved the Collatz conjecture for almost all numbers (in the logarithmic density sense), proving almost boundedness,  by constructing an invariant measure on them but that didn't get us close to settling the conjecture because the "almost all" doesn't represent the complete dynamics of the Collatz map. Similarly mathematical models may be working for us to represent 'almost all' situations to make us feel they are an accurate model but in reality it may not be a 'faithful' representation.
+
+### Equivalence of Languages: Intrinsic and Extrinsic Geometry 
+
+These were shown to be equivalent by the famous Embedding Theorems. Can we do the same for other Languages?
 
 ### Empirical observations
 
@@ -127,7 +154,25 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 * Conservation principles: Conservation Principles are seen as a result of symmetry. Stated in the Language of Mathematics, this knowledge is represented as Noether's Theorem. The breaking of symmetry is what leads to formation of distinct states. This ensures that the same amount of both distinct forms are formed. Knowledge is conserved. Knowledge does not appear out of nowhere. Different Languages conserve knowledge that they represent in different forms. Specific knowledge can be represented in different forms using different Languages. In the Language of Particle Physics, conservation principle takes the form of particles and antiparticles. 
 
 
+### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language. 
+
+Unconscious thought keeps flowing and seems to be unstoppable by rigid boundaries. By the intuition developed in terms of fluids, are there cracks in our mental structures? What about Godel's incompleteness theorem? Are all axiomatic systems restricted to be incomplete? Rigid boundaries are formed by Condensation of this very fluid which it tries to contain. That is, conscious thoughts are condensation of flow of unstructured concepts. Language is condensation. Understanding language is evaporation. One must let the rigid structures of language or mathematical symbols to evaporate into abstract concepts which have fluidity. For example: addition is a very rigid operation when it is taught in school. Throughout the computations done to explain addition, there are rules to follow, algorithms and memorization like carry over of digits. Later there's addition of fractions, then the concept gets more fluid to adapt it to addition of vectors. In category theory, fluidity is on display as addition takes several forms- in the category of sets: disjoint union, in the category of vector spaces: direct sum, in the category of abelian groups: word concatenations. Fluid takes the shape of its container, similarly the same abstract concept takes different forms based on the structures within which they appear. The more universal a language the less structure it has. 
+
+### Phase transformations 
+
+### Fluids 
+
+
 ### Consequences
+
+* Not all Dynamics that are available to occur in fluids can be seen in solids. By analogy I would claim that language cannot capture all there is to know. For any given Language, one may relax the structure slightly to obtain a more fluid concept. The rigidity of Languages affect their scope of capturing things. So more fluid Languages like English allow us to talk about things like emotions- love, sadness etc. which cannot be defined mathematically, math being rigid cannot capture these emotions and hence cannot answer questions pertaining to them either. The reverse is also true: all dynamics in solids are not seen in fluids. So the kind of dynamics we see in mathematical proofs are not available in English or a more fluid language. This makes me think that mathematics doesn't model the world as an accurate reflection but instead just condenses everything in rigid terms: condensation is just decreasing entropy by slowing down molecules to be able to observe them better. We try to condense everything into rigid terms to be able to capture and control it: the amount of randomness in a fluid is too high to be captured or controlled.
+
+* An interesting observation here is that of scale. On large enough Time scales, solids are actually no different than a fluid. Glass (amorphous) is considered to be a solid (compared to a usual liquid) just because of its relative rigidity and kinetics at human timescales. It actually flows just like a liquid but the rate of flow is very small (it takes millions of years to observe significant mass flow). So an observer who observes once every million years would call glass as a fluid. Similarly in mathematics, although the language is relatively rigid, concepts like continuity, addition/product, have changed slowly over the years to reveal their fluidity. Time scale is itself like an observer which sees different things from different points. I think this randomness/entropy part in fluids is where probability comes in. Will have to study ergodic theory and dynamical systems to understand this interaction better.
+
+
+* The Unreasonable effectiveness of Mathematics is not unreasonable at all: Mathematics is just the appropriately condensed version of relatively fluid ideas which otherwise stay abstract knowledge. Mathematics is prevalent in sciences because it has the rigidity to allow capturing, analyzing and manipulation. It is this control over matter that makes reproduction and transport of ideas easy. Actually, logic (or formal language) is more rigid than mathematics. Why don't we use this for controlling information? It takes much more time for condensing/evaporation by human mind. This may be better for computers but not for humans. It takes way more time to reproduce. That's exactly why coding is not a natural language. Similarly, within Mathematics, Linear Algebra is prevalent because we want to formulate everything in the most condensed form. A linear map is known completely by the values it takes on the basis. This vector space structure allows highly condensed forms of representing knowledge.
+
+* I believe there's more rigid languages too which haven't been discovered yer. In physics an analogue would be the Bose-Einstein condensate. I think if we can find an analogous way to form a 'bose einstein condensate type of language', it will be a breakthrough in compression technology (and hence artificial intelligence- http://prize.hutter1.net/, https://en.wikipedia.org/wiki/Hutter_Prize, https://analyticsindiamag.com/hutter-prize-data-compression/). It certainly has to do with information entropy. This also raises the question of the scope of quantum computers as they have additional dynamcis due to non-abelian statistics of anyons.
 
 * How do we think about abstract concepts? Approximate boundaries: There is no strict delineation of the notion of a chair. One may vaguely say that chair is something we use to sit on. But then, can the floor be called a chair? How do we generalize the concept to a situation that we have never encountered before? Another example ‘addition’ in categories- direct sum, disjoint union, etc. Instead of having exactly defined boundaries, approximate notions can also form part of our knowledge. 
 
@@ -139,9 +184,15 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 ### Questions
 
+* **Thermodynamics as Calculus** : The Language of Thermodynamics becomes the Calculus of all Languages in this interpretation. To know the regions in which different forms of a Language meet, one must do a Thermodynamical calculation and formulate the corresponding conditions in terms of Macroscopic Observables of a Language. How to do this in the general context of Languages is unclear and it is very likely that there is no general procedure but similar features appear in the different Languages. 
+
+* **Statistical Mechanics** : The Language of Thermodynamics is an empirical Laanguage. The theory to explain these starting from Microscopic laws is given by Statistical Mechanics. Statistical Mechanics type theory would be the general microscopic theory for Languages. Construction of this is not at all clear.
+
 * **Mass** : Protons and electrons don't have the same mass, all the words or each letter in the alphabet don't have the same mass, how does one define an inertial mass like concept for a Language? What are the indivisible units of a Language? Prime numbers in Language of Number Theory? Elementary Particles in the Language of Particle Physics, Quantum Fields in Quantum Field Theory Language?
 
 * **Entropy** : Does information theoretic equivalent of Entropy work for languages?
+
+* **Temperature** : How to define Temperature for a Language? Is the analogue of Heat flow, symbol flow in Language? That is communication between two people stops when they both have the same rigidity in their Language of contact. In the case of Language of Nature, this reduces to the usual heat flow and temperature notions. In terms of talking about abstract knowledge, is it possible to define that a person can communicate with someone else the abstract knoweldge only if they are both able to represent it in the same Language property called "temperature". 'Successful Communication' would correspond to equilibrium of the zeroth law of thermodynamics as no more communication would be required after that point. 
 
 * Music as a Language: there should be an analogous concept of mass and entropy in the Language of Music. In physics, the frequency determines energy (which is equivalent to mass) of a vibration, is it the same for Language of Music? How does this connect to the Language of String Theory? 
 
@@ -153,5 +204,8 @@ Why can't they do the same in Math? Or maybe they do and I haven't seen enough M
 
 * Language and Dynamics: How uniquely is the dynamics defined by a Language? How to know the limits of what kind of dynamics can a Language represent? Music theory seems pretty good for representing emotions, which a rigid language like Mathematics fails to do. I wonder why. In some sense music notes are rigid too but the way they are played probably adds the flexibility in the Language. Why can't we do the same in Mathematics? Or maybe we are not looking for such dynamics in Mathematics.
 
-* Our Mental structures are evolutions of Physical Structures: Most concepts we have are rooted in some form of Physical origin. The symbols we use to represent Language are physical. This makes me conjecture that all the mental structures we create have evolved by Differentiation or Integration of physical structures. If this is true, Physics should be the easiest Language to formulate. Or maybe that is what makes it so hard, we perturb the natural Language of Physics in the process of intellectualizing it. 
+* Our Mental structures are evolutions of Physical Structures: Most concepts we have are rooted in some form of Physical origin. The symbols we use to represent Language are physical. This makes me conjecture that all the mental structures we create have evolved by Differentiation or Integration of physical structures. If this is true, Physics should be the easiest Language to formulate. Or maybe that is what makes it so hard, we perturb the natural Language of Physics in the process of intellectualizing it. Or could it be that the Language of Physics that we formulate is just semantics of the Nature's Language?
+
+* Mathematics is a natural language with more rigid structure than English or some other natural language, in the sense that the definitions and ways of arguing are more rigid. In English, approximate knowledge plays a very important role and that is highly subdued in math. There is some sort of Structuretime Duality going on here- the more we want to make a concept independent of time, the less independent it can be in structure, that is, it has highly well defined structure in space (localization)- one could say this is like uncertainty in fourier analysis (or its corollary Heisenberg uncertainty in QM). So math uses a more rigid approach to definitions than usual language. In this sense, the dynamics of english language beyond that rigidity cannot be captured in math, similar to how proofs in formal language logic don't capture the intuition in mathematical natural language based proof.
+
 
