@@ -116,7 +116,6 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 * I see General Relativity and Quantum Mechanics as more fluid Langauges obtained by the Integration of the more rigid Language of Classical Mechanics. Quantum Mechanics is more fluid as it has infinite degrees of freedom. General Relativity is also more fluid as it has more degrees of freedom than Classical Mechanics, for instance it is not restricted to a rigid choice of inverse square law to represent Gravity. 
 
 
-
 ### Empirical observations
 
 * Differentiation and Integration are fundamental to creating structures and hence they are fundamental to Language.
@@ -138,7 +137,20 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 *  One one hand, knowing the abstract conditions is enough to know all possibilities. If one can express the notion of addition compactly, one can answer all possible addition questions. Another example is dynamical systems: One may understand all the rules of chess but becoming an expert chess player requires detailed study of structures that may arise within play. Details within a simple framework of rules may be much more complicated than one may think. Think about classification problems in a category. Groups, Topological Spaces, etc are hard to classify. Probability and ergodic decompositions. Complex flows arising out of Navier Stokes, quantum dynamics from Schrodinger equation, piano compositions from key notes, billiard flow dynamics.  
 
+### Questions
 
+* **Mass** : Protons and electrons don't have the same mass, all the words or each letter in the alphabet don't have the same mass, how does one define an inertial mass like concept for a Language? What are the indivisible units of a Language? Prime numbers in Language of Number Theory? Elementary Particles in the Language of Particle Physics, Quantum Fields in Quantum Field Theory Language?
 
+* **Entropy** : Does information theoretic equivalent of Entropy work for languages?
+
+* Music as a Language: there should be an analogous concept of mass and entropy in the Language of Music. In physics, the frequency determines energy (which is equivalent to mass) of a vibration, is it the same for Language of Music? How does this connect to the Language of String Theory? 
+
+Why can't they do the same in Math? Or maybe they do and I haven't seen enough Math to feel emotio
+
+* Language are more than symbols: There are symbols to represent everything in a compact form. These symbols are the most rigid aspect of any Language. However they can be used to represent extremely fluid abstract knowledge such as "nothing" (in Sets as null, in numbers as 0, in Euclidean Geometry as Origin, etc). Symbols may be the most condensed form of any abstract knowledge. The word emotion is as rigid as any other symbolic word in English but it represents quite a fluid concept, at least its boundaries in my mind are not at all rigidly defined. 
+
+* **The Universe Thinks and Communicates** : If we consider the structures arising in Nature as Language, then it certainly thinks and communicates, the Language which we best adapt to understand its Language is that of Physics. General Relativity and Quantum Physics seem to have been found as the Languages that Nature primarily uses but there are quite a few areas (such as the Black Holes and Early Universe) in which a different fluidity of structure is required to match Nature's Language. At least this interpretation, matches my idea of Nature being a dynamic partner in dancing with us. Nature evolves its Language just as we do.
+
+* Language and Dynamics: How uniquely is the dynamics defined by a Language? How to know the limits of what kind of dynamics can a Language represent? Music theory seems pretty good for representing emotions, which a rigid language like Mathematics fails to do. I wonder why. In some sense music notes are rigid too but the way they are played probably adds the flexibility in the Language. Why can't we do the same in Mathematics? Or maybe we are not looking for such dynamics in Mathematics.
 
 
