@@ -119,6 +119,10 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * It seems that the parameters like Planck's constant and Speed of Light are the corresponding variables for temperature and pressure in the Language of Physics. It would be interesting to know how changing the symbol value in a Language pressurizes or increases the Temperature of a Language.
 
+* Quantization plays the role of Integration. Quantization of the classical fields 
+
+* General relativity seems to be more fluid than QM. I would estimate GR to be gas-like whereas QM to be more liquid-like. 
+
 ### Language of Fourier Analysis
 
 * Fourier Transform plays the role of Integration and Inverse Fourier Transform plays that of Differentiation. 
@@ -153,6 +157,7 @@ These were shown to be equivalent by the famous Embedding Theorems. Can we do th
 
 * Conservation principles: Conservation Principles are seen as a result of symmetry. Stated in the Language of Mathematics, this knowledge is represented as Noether's Theorem. The breaking of symmetry is what leads to formation of distinct states. This ensures that the same amount of both distinct forms are formed. Knowledge is conserved. Knowledge does not appear out of nowhere. Different Languages conserve knowledge that they represent in different forms. Specific knowledge can be represented in different forms using different Languages. In the Language of Particle Physics, conservation principle takes the form of particles and antiparticles. 
 
+* Each Language can be seen as a phase. Study of transitions between Languages is nothing but the Theory of Phase transitions which is based on spontaneous symmetry breaking, which is what the initial observations on thinking were based on. 
 
 ### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language. 
 
