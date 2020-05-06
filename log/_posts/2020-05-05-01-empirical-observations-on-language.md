@@ -76,7 +76,7 @@ Know that we have reduced from mental thought to boundaries and the resulting st
 
   - (Example). In particular, structures that we identify through our cognitive capacity as belonging to physical universe will also be called as a Language. Fluids and Condensed Matter are then both called as Languages, the former being less rigid than then latter. All the structures corresponding to the physical universe collectively form a structure which is considered as a Language, the Language of Physics.
 
-  - (Example). Any body of theory is a Language. Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Grpups. 
+  - (Example). All structures built in a theory form a Language. Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Grpups. 
 
 * For each Language we can define conepts such as Rigidity that depend on the nature of boundaries involved in the structure. For example the Language of Mathematics is more rigid than the Language of English. On the other hand, Programming Languages are more rigid than the Language of Mathematics. Formal Languages are more Rigid than Natural Languages. 
 
