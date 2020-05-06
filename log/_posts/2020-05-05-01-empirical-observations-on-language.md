@@ -4,7 +4,7 @@ blog-category: blog
 published: true
 title: Empirical Observations on Language
 author: Som Phene 
-tags: [ General, Language, Structure, Representation, Rigidity, Entropy, Fluid, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Approximate, Exact, Deformation, Analysis, Time, Language of Languages, Abstract, Theory, Meta, Communication, Form] 
+tags: [General, Language, Structure, Representation, Rigidity, Entropy, Fluid, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Approximate, Exact, Deformation, Analysis, Time, Language of Languages, Abstract, Theory, Meta, Communication, Form] 
 ---
 ### Disclaimer
 
@@ -212,6 +212,8 @@ Why can't they do the same in Math? Or maybe they do and I haven't seen enough M
 * Language and Dynamics: How uniquely is the dynamics defined by a Language? How to know the limits of what kind of dynamics can a Language represent? Music theory seems pretty good for representing emotions, which a rigid language like Mathematics fails to do. I wonder why. In some sense music notes are rigid too but the way they are played probably adds the flexibility in the Language. Why can't we do the same in Mathematics? Or maybe we are not looking for such dynamics in Mathematics.
 
 * Our Mental structures are evolutions of Physical Structures: Most concepts we have are rooted in some form of Physical origin. The symbols we use to represent Language are physical. This makes me conjecture that all the mental structures we create have evolved by Differentiation or Integration of physical structures. If this is true, Physics should be the easiest Language to formulate. Or maybe that is what makes it so hard, we perturb the natural Language of Physics in the process of intellectualizing it. Or could it be that the Language of Physics that we formulate is just semantics of the Nature's Language?
+
+* [Monkeys outperform humans in Cognitive flexibility](https://www.sciencedaily.com/releases/2019/10/191015115356.htm): Monkeys don't use Languages that are as rigid as human natural Langauge. The more rigid the Language we use in thinking, the less flexible we can be.
 
 * Mathematics is a natural language with more rigid structure than English or some other natural language, in the sense that the definitions and ways of arguing are more rigid. In English, approximate knowledge plays a very important role and that is highly subdued in math. There is some sort of Structuretime Duality going on here- the more we want to make a concept independent of time, the less independent it can be in structure, that is, it has highly well defined structure in space (localization)- one could say this is like uncertainty in fourier analysis (or its corollary Heisenberg uncertainty in QM). So math uses a more rigid approach to definitions than usual language. In this sense, the dynamics of english language beyond that rigidity cannot be captured in math, similar to how proofs in formal language logic don't capture the intuition in mathematical natural language based proof.
 
