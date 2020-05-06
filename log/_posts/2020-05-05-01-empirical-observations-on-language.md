@@ -230,6 +230,8 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * Given a theory, can we find its integral? Apply ODE type techniques. Treating the given theory as a vector field, is it continuous, Lipschitz? Then Picard iteration proof will give the existence and uniqueness of the integral theory. 
 
+* All forms of Language interact with each other at the interfaces. Just as Vapor, Liquid and Solid can be in dynamic equilibrium with each other and interact with each other through interfaces, soul interacts with our mental body which interacts with our physical body. The interface of soul and our mental body is difficult to capture because of its fluidity but the interface of mental and physical body is seen in the brain and to some extents in various parts of the body. Our brain has the right conditions for Differentiation of mental body to the physical body and Integration of physical body to the mental body. Humans have an extraordinary capacity for Differentiation and Integration which separates it as a species.
+
 ### Examples to keep in mind:
 * Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant. 
 * Ice, water, vapour
@@ -239,3 +241,8 @@ This is just the theory of how phases transform. One must go to statistical mech
 * Category theory: Functors between different categories. 
 * Cohomology theories: why is d^2 =0, only three states at a time.
 * Language of Time: Past, Present and Future
+
+### Empty Language
+
+Knowledge with a captial K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. One may get arbitrarily close to it through Integration.
+
