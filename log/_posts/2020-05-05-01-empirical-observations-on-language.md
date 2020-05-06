@@ -70,13 +70,19 @@ This may be an incomplete model of thinking. There may be much more finer observ
 
 ### Structure and Language
 
-Know that we have reduced from mental thought to boundaries and the resulting structures, let us investigate these structures and their resulting dynamics.
+Know that we have reduced from mental thought to boundaries and the resulting structures, let us investigate these structures and their resulting dynamics. Now, I shall attempt to replace the word structure by Language and use them interchangeably for the rest of the write up.
 
 * I shall use this opportunity to highlight my use of the word Language instead of structures for the rest of the write up. Usually structures make us think of very rigid objects. We often say that fluids don't have much structure. This is what I want to avoid. Within the Language of Mathematics, there are structures like Sets which are less rigid than structures like Groups. But there are also Languages that are less rigid than the Language of Mathematics. The Language of English itself is one such Language. I want to address the structures that are within such less rigid Languages as well. In fact, I want to explore all kinds of structures, be it relatively rigid ones like Sets or those that relatively less rigid like Fluids themselves. In a way, I am Integrating to unify the notions of structure and Language. Following are some examples. 
 
   - (Example). In particular, structures that we identify through our cognitive capacity as belonging to physical universe will also be called as a Language. Fluids and Condensed Matter are then both called as Languages, the former being less rigid than then latter. All the structures corresponding to the physical universe collectively form a structure which is considered as a Language, the Language of Physics.
 
   - (Example). All structures built in a theory form a Language. Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Grpups. 
+  
+  - (Example). Music is a Language. Acoustic sounds also form structures that have multiple states that can be distinguished from each other. 
+  
+  - (Example). English, Hindi, Marathi, Latin, Greek are all usual languages and here they are also Languages. 
+  
+  - (Example). A Film is a Language. Visual structures whether in the physical universe or on a screen, form a Language. Similarly, Dreams are a Language.
 
 * For each Language we can define conepts such as Rigidity that depend on the nature of boundaries involved in the structure. For example the Language of Mathematics is more rigid than the Language of English. On the other hand, Programming Languages are more rigid than the Language of Mathematics. Formal Languages are more Rigid than Natural Languages. 
 
