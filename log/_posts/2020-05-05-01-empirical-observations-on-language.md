@@ -258,5 +258,5 @@ Knowledge with a captial K that was referred to in the beginning may be seen as 
 
 * Introduced universal concept of Language to refer to all structures.
 * Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
-
+* Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration may take different structure at the sublevel for SubLanguages.
 
