@@ -230,4 +230,12 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * Given a theory, can we find its integral? Apply ODE type techniques. Treating the given theory as a vector field, is it continuous, Lipschitz? Then Picard iteration proof will give the existence and uniqueness of the integral theory. 
 
-
+### Examples to keep in mind:
+* Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant. 
+* Ice, water, vapour
+* Code or formal language / Mathematics / English or natural language
+* Classical Mechanics / Quantum Mechanics / General Relativity
+* Representation theory: Groups (nonlinear) condense to vector spaces (linear), lie groups to lie algebras
+* Category theory: Functors between different categories. 
+* Cohomology theories: why is d^2 =0, only three states at a time.
+* Language of Time: Past, Present and Future
