@@ -206,11 +206,11 @@ Unconscious thought keeps flowing and seems to be unstoppable by rigid boundarie
 * Language is more than Physical Symbols: There are physical symbols to represent everything in a compact form. These symbols are the most rigid aspect of any Language. However they can be used to represent extremely fluid abstract knowledge such as "nothing" (in Sets as null, in numbers as 0, in Euclidean Geometry as Origin, etc). Symbols may be the most condensed form of any abstract knowledge. The word emotion is as rigid as any other symbolic word in English but it represents quite a fluid concept, at least its boundaries in my mind are not at all rigidly defined. 
 
 * We see in representation theory that we can take nonlinear groups and condense them to linear operators. Similarly, [[category theory]] generalizes this idea and uses different rigidities in the target space: categories instead of absolutely rigid vector spaces. Since we can't know the objects directly, we represent them in more rigid or less rigid forms to be able to control them better. Hence study of objects can be replaced by study of maps from the object to others.
-- [[Bose Einstein Condensate]] would be ultimate [[compression]] of [[entropy]]
-- What about [[plasma]] and [[superfluids]]?
-- [[Size compression]] may not be [[intelligence]] but instead [[entropy compression]].
-- What makes a [[solid]] a [[solid]]? 
-- How to assign [[rigidity]] to a [[language]]? Does [[relative entropy compression]] act as a good measure?
+- Bose Einstein Condensate would be ultimate compression of entropy
+- What about plasma and superfluids?
+- Size compression may not be intelligence but instead entropy compression.
+- What makes a solid a solid? 
+- How to assign rigidity to a language? Does relative entropy compression act as a good measure?
 
 
 * **The Universe Thinks and Communicates** : If we consider the structures arising in Nature as Language, then it certainly thinks and communicates, the Language which we best adapt to understand its Language is that of Physics. General Relativity and Quantum Physics seem to have been found as the Languages that Nature primarily uses but there are quite a few areas (such as the Black Holes and Early Universe) in which a different fluidity of structure is required to match Nature's Language. At least this interpretation, matches my idea of Nature being a dynamic partner in dancing with us. Nature evolves its Language just as we do.
