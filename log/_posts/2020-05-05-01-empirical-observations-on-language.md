@@ -153,6 +153,10 @@ Q) Once we establish that there does exist a way to represent a phenomenon mathe
 
 These were shown to be equivalent by the famous Embedding Theorems. Can we do the same for other Languages?
 
+### Empty Language
+
+Knowledge with a captial K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. One may get arbitrarily close to it through Integration.
+
 ### Empirical observations
 
 * Differentiation and Integration are fundamental to creating structures and hence they are fundamental to Language.
@@ -163,9 +167,17 @@ These were shown to be equivalent by the famous Embedding Theorems. Can we do th
 
 * Conservation principles: Conservation Principles are seen as a result of symmetry. Stated in the Language of Mathematics, this knowledge is represented as Noether's Theorem. The breaking of symmetry is what leads to formation of distinct states. This ensures that the same amount of both distinct forms are formed. Knowledge is conserved. Knowledge does not appear out of nowhere. Different Languages conserve knowledge that they represent in different forms. Specific knowledge can be represented in different forms using different Languages. In the Language of Particle Physics, conservation principle takes the form of particles and antiparticles. 
 
-* Each Language can be seen as a phase. Study of transitions between Languages is nothing but the Theory of Phase transitions which is based on spontaneous symmetry breaking, which is what the initial observations on thinking were based on. 
+* Each Language is observed as a phase. Study of transitions between Languages is nothing but the Theory of Phase transitions which is based on spontaneous symmetry breaking, which is what the initial observations on thinking were based on. 
 
-### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language. 
+* Language Duality: A Language cannot be isolated. That is, a Language cannot be only interfacing with the Empty Language. This is because if the Empty Language surrounds a Language from all sides, there is no way to interact with it through any other Language. Hence there is no way to Integrate or Differentiate such an isolated Language to a Language that is known. This implies that Languages appear in pairs. A Language may interface with the Empty Language on one side but it must interface with another Language that is not an Empty Language. 
+
+  - (Example). The prime example of Language Duality is Electromagnetism. Electric Language interfaces with Empty Language (empty physical medium) but its other interface is Magnetic Language. Similarly, Magnetic Language interfaces with the Empty Language but it interacts with the Electric Language. This does not mean that these Languages don't exist independently. Just like condensed and fluid phases of matter, both Electric and Magnetic Languages exist in their own right but they must interface with each other. The way to go from one Language to the other is by Differentiation and Integration. This is equivalent to saying that 
+  
+  - (Example). Calculus: Language of Differentiation is dual to Language of Differentiation. That is, Integration is a form of Differentiation. It's just reversed. Loosely speaking, Integration is the mirror reflection of Differentiation. Another way to put it is: Calculus emerges from symmetry breaking. All Languages similarly emerge from symmetry breaking.
+  
+  - (Example). Wave Particle Duality: Language of Waves is dual to Language of Particles.
+
+### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language.
 
 Unconscious thought keeps flowing and seems to be unstoppable by rigid boundaries. By the intuition developed in terms of fluids, are there cracks in our mental structures? What about Godel's incompleteness theorem? Are all axiomatic systems restricted to be incomplete? Rigid boundaries are formed by Condensation of this very fluid which it tries to contain. That is, conscious thoughts are condensation of flow of unstructured concepts. Language is condensation. Understanding language is evaporation. One must let the rigid structures of language or mathematical symbols to evaporate into abstract concepts which have fluidity. For example: addition is a very rigid operation when it is taught in school. Throughout the computations done to explain addition, there are rules to follow, algorithms and memorization like carry over of digits. Later there's addition of fractions, then the concept gets more fluid to adapt it to addition of vectors. In category theory, fluidity is on display as addition takes several forms- in the category of sets: disjoint union, in the category of vector spaces: direct sum, in the category of abelian groups: word concatenations. Fluid takes the shape of its container, similarly the same abstract concept takes different forms based on the structures within which they appear. The more universal a language the less structure it has. 
 
@@ -212,7 +224,7 @@ Unconscious thought keeps flowing and seems to be unstoppable by rigid boundarie
 * How to assign or measure temperature, enthalpy or entropy of theories? Every theory has its structure which is very much like a physical object. For assigning a scale, all we need is a way to compare the two. This can be done. In fact a theory may correspond to a phase rather than a fixed state. States of a theory may change temperature with time as the theory develops but only when there is a phase transformation, do we see a completely new theory (language). Set a standard reference and then start "measuring temperatures" with respect to this standard. For example theory of Lie algebras (differential) is at a lower temperature than the theory of Lie groups (integral). In physics, triple point of classical mech, quantum mech and general relativity in the phase diagram where h (planck's constant) and c (speed of light) are the two parameters corresponding to temperature and pressure, can be taken as a standard. 
 This is just the theory of how phases transform. One must go to statistical mechanics to get a microscopic theory. Theory of quantum phase transitions may also be analogous to something. 
 
-* Integrated forms of atoms of a Language: 
+* Atoms of a Language: Integrated forms of the concept of atoms exist in all Languages.
 
 * Given a theory, can we find its integral? Apply ODE type techniques. Treating the given theory as a vector field, is it continuous, Lipschitz? Then Picard iteration proof will give the existence and uniqueness of the integral theory. 
 
