@@ -36,6 +36,8 @@ For a while, I was trying my best to get rid of the faults in my mind but then I
 
 I got very used to asking this question to any Physics enthusiast/student/faculty that I met and I got wierd stares most of the time and unsatisfactory answers for the rest. I was surprised when one of my fellow labmates on an internship himself asked me a similar question: What if we will never be able to completely understand the universe? He continued to demonstrate how most of Physics had understood nature in terms of governing equations (laws) that couldn't be solved exactly. Take Schrodinger Equation for example. We can only get explicit solutions in handful of cases which we call toy models. In all the rest of the cases, the best we can do to understand nature is to solve them approximately by using some kind of asymptotic numerical method. This approximate solution is what bothered him. What if the theories were themselves approximate? What if we would always have some error term that keeps us away from the exact theory? 
 
+Once we establish that there does exist a way to represent a phenomenon mathematically, one may ask about whether it can be done in finite time or in a suitable finite dimensional parameter space or something else which is the complexity question. If the complexity question is answered by demonstration, it may be that we are capturing some approximate version of the phenomenon but not the phenomenon itself. But can we establish the representation question in itself? For example, recently Prof. Tao proved the Collatz conjecture for almost all numbers (in the logarithmic density sense), proving almost boundedness,  by constructing an invariant measure on them but that didn't get us close to settling the conjecture because the "almost all" doesn't represent the complete dynamics of the Collatz map. Similarly mathematical models may be working for us to represent 'almost all' situations to make us feel they are an accurate model but in reality it may not be a 'faithful' representation. 
+
 I went down this track to find about theories of knowledge and found nothing but ongoing debates in Epistemology (branch of Philospohy) and Philosophy of Science. This shifted my thinking beyond Physics. Following some ancient scriptures, I jumped back onto the idealistic stuff. Instead of the possibly imperfect universe, I had reasons to believe in the existence of an ideal truth which is independent of physical reality.  Since this investigation was more focused on knowledge and our own mental structures itself rather than the particulars about the universe, I started studying Mathematics which seemed to have more absolute truths. For instance, look at Pythagoras Theorem. Once proved, there is no way that it changed with particular physical conditions. But soon I realized that the so called theorems in Mathematics were just like the Laws encountered in Physics: they worked only in specific conditions. Pythagoras Theorem didn't work in Non-Euclidean geometry. This made me see Pythagoras theorem as a mere tautology. It's inbuilt in the way we define to measure distances. Soon all of Mathematics was a tautology. All that the equations did was change the form of the initial object to present it in some other way, all the while going along equalities which meant we never got anything new out of what we started with. Mathematics seemed no different than cooking. (This was a naive view to hold and it has changed since then. I appreciate now that there can be extremely complicated behaviours of systems which can be simplified and stated elegantly using Mathematics. One of the reasons to write this is to illuminate this very fact.)
 
 ### Differentiation and Integration
@@ -107,7 +109,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * In the Language of Calculus, differentiation plays the role of Differentiation and integration plays the role of Integration. The derivative of a function is more rigid whereas the integral of a function is more fluid. This is seen by looking at the extra degree of freedom that the integral of a function has in terms of the integration constant. 
 
-* The differential is analogues to the solid form whereas the integral is analogous to the liquid form. Stokes theorem is analogous to the boundary between liquid and solid in the phase diagram. This equation depends on the Manifold with respect to which the integration is done. In another interpretation (or a slightly different Language of Calculus), Stokes theorem shows the equivalence between the differential form (boundary) and integral form (interior).
+* The differential is analogues to the solid form whereas the integral is analogous to the liquid form. Stokes theorem is analogous to the boundary between liquid and solid in the phase diagram. This equation depends on the Manifold with respect to which the integration is done. In another interpretation (or a slightly different Language of Calculus involving Exterior Derivatives), Stokes theorem is the interface between the differential form (boundary) and integral form (interior). Thus, Stokes Theorem maybe seen as a 
 
 ### Languages in the Language of Physics
 
@@ -119,9 +121,9 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * It seems that the parameters like Planck's constant and Speed of Light are the corresponding variables for temperature and pressure in the Language of Physics. It would be interesting to know how changing the symbol value in a Language pressurizes or increases the Temperature of a Language.
 
-* Quantization plays the role of Integration. Quantization of the classical fields 
+* Quantization plays the role of Integration. Quantization of the classical field theories gives rise to Quantum Field Theories.
 
-* General relativity seems to be more fluid than QM. I would estimate GR to be gas-like whereas QM to be more liquid-like. 
+* General relativity seems to be more fluid than QM. I would estimate GR to be gas-like whereas QM to be more liquid-like. Technical details need to be worked out.
 
 ### Language of Fourier Analysis
 
@@ -133,7 +135,7 @@ This brings into question representation theory: How much does the condensation 
 
 * For instance, if condensation map is a bijective linear map, there is complete transfer of information. No change in rigidity.
 
-* For a condensation map to really be called a condensation map, it should increase the rigidity of the target to be more than that of the input. That is, decrease entropy of input. The tangent map at Identity is a condensation map which linearizes the Lie Group to its Lie Algebra. The exponential map which takes Lie Algebra to its Lie group is an evaporation map: it "delinearizes" the vector space. 
+* For a condensation map to really be called a condensation map, it should increase the rigidity of the target to be more than that of the input. That is, decrease entropy of input. The tangent map at Identity is a Differentiation (condensation map) which linearizes the Lie Group to its Lie Algebra. The exponential map which takes Lie Algebra to its Lie group is an Integration (evaporation map): it "delinearizes" the vector space. The linear vector space being determined by its basis is much more rigid than a nonlinear group.
  
 * We see in representation theory that we can take nonlinear groups and condense them to linear operators. 
 
@@ -141,7 +143,7 @@ This brings into question representation theory: How much does the condensation 
 
 Similar to Represeantation Theory above, category theory generalizes this idea and uses different rigidities in the target space: categories instead of absolutely rigid vector spaces. Since we can't know the objects directly, we represent them in more rigid or less rigid forms to be able to control them better. Hence study of objects can be replaced by study of maps from the object to others.
 
-Q) Once we establish that there does exist a way to represent a phenomenon mathematically, one may ask about whether it can be done in finite time or in a suitable finite dimensional parameter space or something else which is the complexity question. If the complexity question is answered by demonstration, it may be that we are capturing some approximate version of the phenomenon but not the phenomenon itself. But can we establish the representation question in itself? For example, recently Prof. Tao proved the Collatz conjecture for almost all numbers (in the logarithmic density sense), proving almost boundedness,  by constructing an invariant measure on them but that didn't get us close to settling the conjecture because the "almost all" doesn't represent the complete dynamics of the Collatz map. Similarly mathematical models may be working for us to represent 'almost all' situations to make us feel they are an accurate model but in reality it may not be a 'faithful' representation.
+
 
 ### Addition as a Language
 
