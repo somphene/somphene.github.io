@@ -18,7 +18,7 @@ I have never officially taken a course in linguistics. This write up may have no
  
     - knowledge and representations in a Language are not exclusive. The same thing may be considered as knowledge or as a representation depending on the context. A commonplace example is: vapor may be condensed to liquid which may further be condensed to solid. In the earlier half, the liquid serves as the representation of vapor, whereas in the latter, it serves as the knowledge to be represented as the the solid.
     
-    - knowledge takes particular forms in a certain Language. This form may exist as relatively abstract knowledge beyond the language one sees it in such as the concept of triangle which exists even in non-Euclidean geometries.  More will be made clear through plenty of examples in the upcoming sections.
+    - knowledge takes particular forms in a certain Language. This represented form exists as relatively abstract knowledge beyond the Language one sees it in such as "the concept of triangle" as represented in Euclidean Geometry Language, exists in a relatively abstract form even in non-Euclidean geometries. The abstract form represented in a concrete Language corresponds to condensed form and the abstract form itself corresponds to the fluid form in the Language of Matter (in the previous example). More will be made clear through plenty of examples in the upcoming sections.
 
 ### How it all started
 
@@ -42,31 +42,29 @@ I went down this track to find about theories of knowledge and found nothing but
 
 I ended the investigation into thinking with the following observations:
 
-* Thought is division. Thought is capturing observations by naming. Creating Boundaries is needed to name things. Specifying something needs boundaries, for example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but one forms equivalence relations to define partitions among all Polygons which separate the triangles from the sqaures. Such partitions are what we would consider as boundaries. In this sense, mental thoughts or structures are all just creation of boundaries.
+* Mental processes may be reduced to two fundamental processes- thought and abstraction. 
 
-* One may restate the above point as: thought is "dualistic" since in creating a boundary one has created two sides. Positive numbers exist only if negative numbers exist. In looking at one side, one misses out on the other. 
+* Thought is division. Thinking is representing observations in particular form, ie. Language. Thought captures observations by naming. Creating Boundaries is needed to name things. Specifying something needs boundaries. For example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but one forms equivalence relations to define partitions among all Polygons which separate the triangles from the sqaures. Such partitions are what we would consider as boundaries. In this sense, mental thoughts (or structures) are all just creation of boundaries.
 
-* Division (Thought) destroys symmetry. The same object gets divided into two distingushable objects. Thought (Naming) distinguishes the two. For example, at one point, there's only a single body but when it gets separated by physical division, we name one as Parent and the other as child. The symmetry breaking is spontaneous. Parent and Child both come into existence simultaneously.
+* One may restate the above point as: thought is "dualistic", since in creating a boundary implies creation of two sides. Positive numbers exist only if negative numbers exist. In looking at one side, one misses out on the other. Division (Thought) destroys symmetry. The same object gets divided into two distingushable objects. Thought (Naming) distinguishes the two. For example, at one point, there's only a single body but when it gets separated by physical division, we name one as Parent and the other as child. The symmetry breaking is spontaneous. Parent and Child both come into existence simultaneously.
 
 * Abstraction is the reverse of thinking. Abstarction is dissolving the boundaries that were created by thought. 
 
-This may be an incomplete model of thinking. There may be much more finer observations about thought and in that case, we would like to focus only on these two operations involving mental structures. To avoid much debate away from the focus of this write up, we introduce two new terms. Let us call the process of creating boundaries as 'Differentiation' and the process of dissolving them as 'Integration'. Note that the capital D and I respectively are used to distinguish the terms from the corresponding operations used in Mathematics, which we will later show happen to be particular cases of the former.
+There may be much more finer observations about mental process and to avoid overcomplications, we would like to focus only on these two operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I respectively are used to distinguish the terms from the corresponding operations used in the Language of Mathematics, which we will later be seen to be particular cases of the former.
 
 ### Consequences
 
-* This thinking about thinking helped me to distinguish between psychological time and physical time. We can get caught up in mental structures for a long physical time. For example, while  in a lecture, I may be Differentiating (creating mental boundaries) to represent Vector Spaces as a mental structure while the professor moves ahead with other geometric concepts in front of my eyes. Similarly, even though the examples that represent vector spaces may be clear to me, it may take time to Integrate (abstract by dissolving boundaries) how these examples all belong to the same 'concept of a vector space'. Thereby, mental progress in time may be slower than physical progress in time.
+* This thinking about thinking helped me to distinguish between psychological time and physical time. We can get caught up in mental structures for a long physical time. For example, while  in a lecture, I may be Differentiating (creating mental boundaries) to represent Vector Spaces as a mental structure while the professor moves ahead with other geometric concepts in front of my eyes. Similarly, even though the examples that represent vector spaces may be clear to me, it may take time to Integrate (abstract by dissolving boundaries) how these examples all belong to the same 'concept of a vector space'. Thereby, mental progress in time may be slower than physical progress in time. Hence I claim that psychological Time is emergent from structure. Differentiation and Integration are what create time. Only when one needs to Differentiate (represent something in a relatively rigid form) or Integrate (abstract out to relatively less rigid form), does one need time. This implies that observers with different Languages have different pyschological time. What one records as Past depends on the Language in which one represents observations. For example: The memories of small sized organisms will be different than the memories of a human sized organism even if they are shown the same objects.
 
-* In the absence of these boundaries, there is no specific thing to think about. Hence, we need structures to say something specific that is within our thinking.    
-
-* Much later I was told about Chomsky's insight that cognitive biases are a limitation but in fact it is this limitation that help us to see the world in the way we do. I understand it now in terms of the need for boundaries (mental structures). Without these mental structures, there is no thinking, and hence there cannot be any psychological time. Time requires two distinguishable states for change to happen. This can take place only if there are divisions. In a space without divisions, there is no time since there is only one thing. One may say that Differentiation creates time whereas Integration collapses it. 
+* In the absence of boundaries, there is no specific thing to think about. We need structures (formed by boundaries) to represent observations. Without these mental structures, there is no thinking, and hence there cannot be any psychological time. Time requires two distinguishable states for change to happen. This can take place only if there are divisions. In a space without divisions, there is no time since there is only one thing. One may say that Differentiation creates time whereas Integration collapses it. 
 
 * The investigation started with me trying to eliminate my ignorance but ended with me realizing the importance of ignorance. Unless we ignore something, we cannot think about something specific. Instead of trying to get rid of conditioning and dissolve boundaries, we must create the right strucutres by Differentiation and dissolve the unnecessary ones by Integration until we find the structure that is compatible with the specific thing that we want to observe. On the other hand, in knowing something specific, we also gain insight into what we have ignored. By knowing positive we know what is negative, by knowing light we know what is darkness. The differences come about only because of this division. If there were no two enemies, there would be no battle. 
 
-* The question about the nature of the self cannot be known by thinking since there is division between the object and the pbserver. Whatever is observed cannot be the observer. The self is the observer which is beyond any observation. 
+* The question about the nature of the self cannot be known by thinking since there is division between the object and the observer. Whatever is observed cannot be the observer. The self is the observer which is beyond any observation. 
 
 * Complete Integration dissolves all boundaries which causes end of thinking and hence end of time. In absence of any duality, there is only one. Nothing changes because there is nothing else to change to. In the absence of all boundaries there is ultimate symmetry. This cannot be captured by thinking because it is always specific. Hence there is no way to experience and/or record it. Complete Integration is not a finite psychological time process since dissolving all boundaries implies going beyond time.
 
-* Boundaries in mental Structures create psychological Time and vice versa. In this sense, Structures and Time are dual notions just as positive and negative are. Integration gives rise to a unified notion of Structuretime (this is similar to, but not the notion of spacetime referred to in General Relativity).
+* Boundaries in mental Structures create psychological Time and vice versa. In this sense, Structures and Time are dual notions just as positive and negative are. Integration of Structures and Time gives rise to a unified notion of Structuretime (this is similar to, but not the notion of spacetime referred to in General Relativity).
 
 ### Structure and Language
 
@@ -176,6 +174,16 @@ Knowledge with a captial K that was referred to in the beginning may be seen as 
   - (Example). Calculus: Language of Differentiation is dual to Language of Differentiation. That is, Integration is a form of Differentiation. It's just reversed. Loosely speaking, Integration is the mirror reflection of Differentiation. Another way to put it is: Calculus emerges from symmetry breaking. All Languages similarly emerge from symmetry breaking.
   
   - (Example). Wave Particle Duality: Language of Waves is dual to Language of Particles.
+  
+  ### Examples to keep in mind:
+* Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant. 
+* Ice, water, vapour
+* Code or formal language / Mathematics / English or natural language
+* Classical Mechanics / Quantum Mechanics / General Relativity
+* Representation theory: Groups (nonlinear) condense to vector spaces (linear), lie groups to lie algebras
+* Category theory: Functors between different categories. 
+* Cohomology theories: d^2 =0 implies three states.
+* Language of Time: Past, Present and Future
 
 ### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language.
 
@@ -216,6 +224,7 @@ Unconscious thought keeps flowing and seems to be unstoppable by rigid boundarie
 * Zeta and Mobius functions in different structures.
 
 * [Deformation Theory]: Within Mathematics there are Languages that study deformations of structures. Refer to [Deformation theory](https://ncatlab.org/nlab/show/deformation+theory)
+
 ### Theory of structures
 
 * Music is the same but it comes in different forms in different instruments. The operations are different but that doesn't change the fact that the instruments all produce the same thing that is called music. People don't argue about the existence or uniqueness of a thing called 'music' then why do people argue about "consciousness" or a universal fluid or whatever one may call the single abstract object which takes different forms? Yes, I'm arguing that sound and light (color) are the same thing just seen in different structures. They show different behavior, have different rules (satisfy different partial differential equations) but that's just because they appear in different structures. Just as the concept of coproduct appears to follow different rules in different categories. What about forces of nature? Gravity, EM, QFT? All can be formulated as a field theory. Need to evaporate rigid structures of each theory. Within natural languages, we have English, Hindi, Marathi, etc., but all of them are languages and we can create a theory of language-linguistics. Similarly, all physical theories can be evaporated to a fluid abstract theory. Can I make a theory of condensation and evaporation itself? Theory of how theories condense or evaporate. Particular examples are : Quantum Mechanics (as a more fluid theory) with much greater Degrees of freedom which on condensation gives classical mechanics or General relativity which also on condensation gives classical mechanics. Lift up (that is evaporation) of a theory (structure) to another theory (structure) may not be unique: fluids can have different rigidities as in liquid or gas states. Similarly, general relativity and quantum theory may be the evaporation of classical mechanics to different degrees of rigidity. Phase diagram of theories: regions where theories meet. Thermodynamics is what governs the phase diagram of theories as well. We have all the concepts ready made in thermodynamics. Gibbs free energy, entropy, enthalpy. Where the Gibbs free energy of two theories is the same (that is, both the structures have the same free energy), we have stable equilibrium and the two theories meet each other. Thermodynamics is the metatheory of how theories (structures) behave. Calculus is an example of meta theory (form of thermodynamics) within mathematics. Differentiation and integration being the condensation and evaporation process respectively. The integral form has more degree of freedom (additional degree of freedom being encoded in the integration constant) than the differential form.
@@ -230,15 +239,7 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * All forms of Language interact with each other at the interfaces. Just as Vapor, Liquid and Solid can be in dynamic equilibrium with each other and interact with each other through interfaces, soul interacts with our mental body which interacts with our physical body. The interface of soul and our mental body is difficult to capture because of its fluidity but the interface of mental and physical body is seen in the brain and to some extents in various parts of the body. Our brain has the right conditions for Differentiation of mental body to the physical body and Integration of physical body to the mental body. Humans have an extraordinary capacity for Differentiation and Integration which separates it as a species.
 
-### Examples to keep in mind:
-* Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant. 
-* Ice, water, vapour
-* Code or formal language / Mathematics / English or natural language
-* Classical Mechanics / Quantum Mechanics / General Relativity
-* Representation theory: Groups (nonlinear) condense to vector spaces (linear), lie groups to lie algebras
-* Category theory: Functors between different categories. 
-* Cohomology theories: why is d^2 =0, only three states at a time.
-* Language of Time: Past, Present and Future
+
 
 ### Questions
 
@@ -291,7 +292,7 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * Mental world is Integration of Physical world. Spiritual world is the integration of Mental world. Physical world is solid, Mental world corresponds to Liquid and Soul corresponds to Vapour. One may be able to Integrate or Differentiate further. For example, Mental structures can be Differentiated to Physical bodies. Our physical bodies are not as rigid, and evolve over time. Further differentiate to give genes which are much more rigid. Similarly, Fields can be differentiated to give Elementary Particles that are way more rigid. Wave-particle duality is just the statement that knowledge and representation are not exclusive, that is the same object acts as differential or an integral depending on the context.
 
-* Time is a language. Past is solid, Present is liquid and Future is gas.
+* Time is a language. Past is solid, Present is liquid and Future is gas. Time is emergent from Structure. Observation involves representation of outside in a compatible Language (structure) inside. We start with the Structure that is compatible with our internal Structure (Language) and then evolve to Integrate and Differentiate our internal Structures accordingly to match the other dynamics seen in the external Structure. This is analogous to Heat flow in which a heat flows from regions of higher temperature to regions of lower Temperature until there is match (equilibrium). The corresponding quantity to Heat flow here is Time flow. That is to say, in our own terms what is immediately representable becomes condensed into rigid memories as the Past. The one which is slightly more fluid relative to our mental structures, but about to be condensed is the Present (liquid). That which is relatively most fluid is the Future. This implies that observers with more rigid mental structures than one observes more rigid structures earlier than one. Similarly, observers with more fluid mental structures than one observes more fluid structures earlier than one. 
 
 * Universal Calculus: Every Language has forms: Solid, Liquid and Gas. They are related by Integration and Differentiation.
 
