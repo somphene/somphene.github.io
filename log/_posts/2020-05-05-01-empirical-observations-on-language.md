@@ -18,7 +18,7 @@ I have never officially taken a course in linguistics. This write up may have no
  
     - 'knowledge' and 'representations in a Language' are not exclusive. The same thing may be considered as knowledge or as a representation depending on the context. A commonplace example is: vapor may be condensed to liquid which may further be condensed to solid. In the earlier half, the liquid serves as the representation of vapor, whereas in the latter, it serves as the knowledge to be represented as the the solid.
     
-    - knowledge takes particular forms in a certain Language. This represented form exists as relatively abstract knowledge beyond the Language one sees it in such as "the concept of triangle" as represented in Euclidean Geometry Language, exists in a relatively abstract form even in non-Euclidean geometries. The abstract form represented in a concrete Language corresponds to condensed form and the abstract form itself corresponds to the fluid form in the Language of Matter (in the previous example). More will be made clear through plenty of examples in the upcoming sections.
+    - knowledge takes particular forms in a certain Language. This represented form exists as relatively abstract knowledge beyond the Language one sees it in, such as "the concept of triangle" as represented in Euclidean Geometry Language, exists in a relatively abstract form even in non-Euclidean geometries. The abstract form represented in a concrete Language corresponds to condensed form and the abstract form itself corresponds to the fluid form in the Language of Matter (in the previous example). More will be made clear through plenty of examples in the upcoming sections.
 
 ### How it all started
 
