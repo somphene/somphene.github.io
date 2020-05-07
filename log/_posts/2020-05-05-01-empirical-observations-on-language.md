@@ -311,14 +311,14 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 ### Empty Language
 
-Knowledge with a captial K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. One may get arbitrarily close to it through Integration.
+Knowledge with a capital K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. One may get arbitrarily close to it through Integration.
 
 ### Summary
 
 * Introduced universal concept of Language to refer to all structures.
 * Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
 * Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration takes a more rigid structure at the sublevel for SubLanguages. That is, Calculus as a Language itself can be differentiated to go from the Calculus of a higher level Language (more fluid) to a lower level Language (more rigid). 
-* Thermodynamics governing Phase Transformations is seen as The Language of Calculus governing tranformations from differential to integral forms and vice versa.
+* Thermodynamics governing Phase Transformations is seen as The Language of Calculus governing transformation from differential to integral forms and vice versa.
 
 ### Postscript
 
