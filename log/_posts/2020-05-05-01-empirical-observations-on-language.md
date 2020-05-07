@@ -312,3 +312,6 @@ Knowledge with a captial K that was referred to in the beginning may be seen as 
 * Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration takes a more rigid structure at the sublevel for SubLanguages. That is, Calculus as a Language itself can be differentiated to go from the Calculus of a higher level Language (more fluid) to a lower level Language (more rigid). 
 * Thermodynamics governing Phase Transformations is seen as The Language of Calculus governing tranformations from differential to integral forms and vice versa.
 
+### Postscript
+
+No matter how much is tried, there is a particular Language being used to represent these ideas which limits the scope of what is to be said. This implies that no justice can be done to covering all Languages (or what is more popularly called "the theory of everything"). Simply introducing an object of rigidity higher than the upper bound found in the particular Language will give us a counterexample to claims of a "Universal Language" that covers everything. A trivial example to refute any such claims is the Empty Language. It is up to the observer to take their time to evaporate or condense the ideas represented here to their own liking.
