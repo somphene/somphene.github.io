@@ -144,7 +144,6 @@ This brings into question representation theory: How much does the condensation 
 Similar to Represeantation Theory above, category theory generalizes this idea and uses different rigidities in the target space: categories instead of absolutely rigid vector spaces. Since we can't know the objects directly, we represent them in more rigid or less rigid forms to be able to control them better. Hence study of objects can be replaced by study of maps from the object to others.
 
 
-
 ### Addition as a Language
 
 * Addition is a structure. In the most rigid form, Addition is seen as addition of integer numbers. This form is integrated to give Addition of fractions and further integrated to give addition of Real Numbers, furhter to Complex Numbers. Beyond Numbers, Addition is also integrated to that in Vector Spaces (more popularly known as the Parallelogram Law of addition). In Sets, it becomes disjoint union and in Abelian Groups, it becomes word concatenation. In Categories, it takes the form of coproduct. 
@@ -169,7 +168,7 @@ Knowledge with a captial K that was referred to in the beginning may be seen as 
 
 * Each Language is observed as a phase. Study of transitions between Languages is nothing but the Theory of Phase transitions which is based on spontaneous symmetry breaking, which is what the initial observations on thinking were based on. 
 
-* Language Duality: A Language cannot be isolated. That is, a Language cannot be only interfacing with the Empty Language. This is because if the Empty Language surrounds a Language from all sides, there is no way to interact with it through any other Language. Hence there is no way to Integrate or Differentiate such an isolated Language to a Language that is known. This implies that Languages appear in pairs. A Language may interface with the Empty Language on one side but it must interface with another Language that is not an Empty Language. 
+* Language Duality: A Language cannot be isolated. That is, a Language cannot be only interfacing with the Empty Language. This is because if the Empty Language surrounds a Language from all sides, there is no way to interact with it through any other Language. Hence there is no way to Integrate or Differentiate such an isolated Language to a Language that is known. This implies that Languages appear in pairs. A Language may interface with the Empty Language on one side but it must interface with another Language that is not an Empty Language. This maybe restated as: Any Language when either Differentiated or Integrated gives a Language that is not the Empty Language.
 
   - (Example). The prime example of Language Duality is Electromagnetism. Electric Language interfaces with Empty Language (empty physical medium) but its other interface is Magnetic Language. Similarly, Magnetic Language interfaces with the Empty Language but it interacts with the Electric Language. This does not mean that these Languages don't exist independently. Just like condensed and fluid phases of matter, both Electric and Magnetic Languages exist in their own right but they must interface with each other. The way to go from one Language to the other is by Differentiation and Integration. This is equivalent to saying that 
   
