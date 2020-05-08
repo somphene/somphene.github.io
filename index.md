@@ -7,6 +7,8 @@ image: img/me.jpg
 ---
 (click on the blue links for details)
 
+* [Brief Bio](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
+
 # [Research](https://somphene.github.io/research/)
 
 * [Design Optimization of Metamaterials for Cloaking](https://somphene.github.io/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view): 4 page pdf summarizing the thesis)
