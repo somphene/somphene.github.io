@@ -6,9 +6,13 @@ title: Empirical Observations on Language
 author: Som Phene 
 tags: [General, Language, Structure, Representation, Rigidity, Entropy, Fluid, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Approximate, Exact, Deformation, Analysis, Time, Language of Languages, Abstract, Theory, Meta, Communication, Form] 
 ---
+
+### Abstract
+ Language is seen in various forms. Structure and resulting Duality are seen as fundamental. Questions about general and particular forms are answered. Relations of Language and representations of knowledge using Language are discussed. Entropy of Language is introduced based on degrees of freedom and Rigidity of structures. Calculus is reinvented as Thermodynamics to transition between Fluid and Condensed Forms of a Language. Notions of Approximate and Exact representation of knowledge are seen. 
+
 ### Disclaimer
 
-This is a non-technical writeup meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time needs it to be. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand the perspectives.
+This is a non-technical writeup meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time needs it to be. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand the perspectives. 
 
 I have never officially taken a course in linguistics. This write up may have nothing to do with linguistics. In fact, this may not have much to do with the usual sense in which languages are studied. I am interested in a broader category of Languages and their dynamics. For convenience, I would like to use the word Language to be anything used to represent Knowledge. As in usual usage, when both terms language and knowledge are specified, a particular language will be used to represent the specific knowledge. The following note on terminology is for those with hard wired logic and maybe skimmed over for those who are comfortable with not so precise definitions, which will anyways become clear by the end.
 
