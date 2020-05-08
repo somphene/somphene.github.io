@@ -141,7 +141,7 @@ This brings into question representation theory: How much does the condensation 
 
 * For a condensation map to really be called a condensation map (a differentiation), it should increase the rigidity of the target to be more than that of the input. That is, decrease entropy of input. In this sense, the mathematical term "derivative" used to refer to the product obtained by differentiation is very well coined since it really captures the notion that the product of differentiation is just obtained by putting additional structure on the original, hence retaining the English notion of 'derivative' as something that is obtained by adding things to the original. The tangent map at Identity is a Differentiation (condensation map) which linearizes the Lie Group to its Lie Algebra. The exponential map which takes Lie Algebra to its Lie group is an Integration (evaporation map): it "delinearizes" the vector space. The linear vector space being determined by its basis is much more rigid than a nonlinear group.
  
-* We see in representation theory that we can take nonlinear group operations which have complex dynamics and condense them to linear operators. This is pursued in a more genral way through the Langlands Program in Mathematics.
+* We see in representation theory that we can take nonlinear group operations which have complex dynamics and condense them to linear operators. This is pursued in a more general way through the Langlands Program in Mathematics.
 
 ### Category Theory as a Language of Languages within Mathematics
 
