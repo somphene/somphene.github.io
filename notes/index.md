@@ -95,8 +95,10 @@ Notes that are currently being written can be found linked [here](https://somphe
 ### Phase Transformations
 * [Phase Transformations](https://drive.google.com/file/d/1hii-kq8yAzBc1XvaynxlJOfmv4A2Wc3U/view?usp=sharing) based on MM 325, IITB by Prof. N. Prabhu, tutorial problems, practice, exams, solutions, notes from Porter and Easterling all written. My mistakes and common mistakes [document](https://drive.google.com/file/d/1jMlbAa94un98XFVdVtq67ZXa7bmzrdJn/view?usp=sharing).
 * [X-Ray Diffraction](https://docs.google.com/document/d/e/2PACX-1vTUdsMtJZup_UxwzmE6D_7IZ6OCdfQRd_L3QZ6UBVHo97fCKjHkJtMih3KQ8AbofF1PYqOkYHEJwctR/pub)
+* [Abstract Phase Transformations](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 
 ### Philosophy 
+* [Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 * [Nirvana and Anattavada in Buddhist Philosophy via Topology](https://drive.google.com/file/d/15GaHR5tk-D-acYpKJ7u5PH55Q2CiAge-/view?usp=sharing)
 * Introduction to Philosophy HS 301 IIT Bombay [Notes](https://drive.google.com/file/d/1JXqjRUZjJbbRYPAzOulmf0CJRKYITf86/view?usp=sharing), [Course Review](https://drive.google.com/file/d/1HsXpbGDzxaG6MbGmHio70EyiBQi2knLy/view?usp=sharing) published in UG info Booklet
 * Rant on being asked for [motivation](https://docs.google.com/document/d/e/2PACX-1vTymgoOYIjo7wfOnVziT746o_TaHlJiDZ7CehCD1U1RcLqotVZtcuog5YJJYHImLtTPk8sahhGY4IMh/pub) to apply for a job
