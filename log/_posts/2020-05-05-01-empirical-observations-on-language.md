@@ -9,7 +9,7 @@ tags: [General, Language, Structure, Representation, Rigidity, Entropy, Fluid, D
 
 ### Abstract
 
- Language is seen in various forms. Structure and resulting Duality are seen as fundamental. Questions about general and particular forms are answered. Relations of Language and representations of knowledge using Language are discussed. Entropy of Language is introduced based on degrees of freedom and Rigidity of structures. Calculus is reinvented as Thermodynamics to transition between Fluid and Condensed Forms of a Language. Notions of Approximate and Exact representation of knowledge are seen. 
+ Language is seen in various forms. Language and representations of knowledge using Language are discussed. Questions about General and Particular forms are answered. Structure and resulting Duality are seen as fundamental. Rigidity, Symmetry, Entropy and Degrees of Freedom of a Language are introduced based on Duality of structures. Calculus is reinvented as Phase Transformations in Thermodynamics to govern changes between Fluid and Condensed Forms of a Language. Notions of Approximate and Exact representation of knowledge are explored. 
 
 ### Disclaimer
 
@@ -17,7 +17,7 @@ This is a non-technical write up meant for a lay person like myself. It used to 
 
 I have never officially taken a course in linguistics. This write up may have nothing to do with linguistics. In fact, this may not have much to do with the usual sense in which languages are studied. I am interested in a broader category of Languages and their dynamics. For convenience, I would like to use the word Language to be anything used to represent Knowledge. As in usual usage, when both terms language and knowledge are specified, a particular language will be used to represent the specific knowledge. The following note on terminology is for those with hard wired logic and maybe skimmed over for those who are comfortable with not so precise definitions, which will anyways become clear by the end.
 
-* Terminology: If I may, at least for this write up, I would like to use the word Language to be any structure used to represent Knowledge. To clarify again: whenever I use the word 'Language' with a capital L, I mean anything that we use to represent Knowledge. Now one may ask what do I mean by 'Knowledge'? I cannot describe it because any definition using English or some other Language will automatically make it a representation and hence lose its meaning of existing beyond Language. One may be tempted to escape this by using negation: Knowledge is that which is not representable by any Language. However, that statement itself is also a representation using English and the same problem repeats. Circumventing logical contradictions in existence of 'Knowledge' with a capital K, I loosely refer to anything that we would like to represent as 'knowledge', with a small k. 
+* Terminology: If I may, at least for this write up, I would like to use the word Language to be any structure used to represent Knowledge. To clarify again: whenever I use the word 'Language' with a capital L, I mean anything that we use to represent Knowledge. Now one may ask what do I mean by 'Knowledge'? I cannot describe it because any definition using English or some other Language will automatically make it a representation and hence lose its meaning of existing beyond Language. One may be tempted to escape this by using negation: Knowledge is that which is not representable by any Language. However, that statement itself is also a representation using English and the same problem repeats. Circumventing logical contradictions in existence of 'Knowledge' with a capital K, I loosely refer to anything specific (already represened in some Language) that we would like to represent (in another Language) as 'knowledge', with a small k. 
 
  * (Example). This means that relatively abstract knowledge like "the concept of a triangle" or "the concept of nothing" are not considered as 'Knowledge', but instead as representations within Language as they are defined by terms using the Language of Mathematics or some other Language. At the same time, these are considered as knowledge (with a small k) if they are to be represented by using relatively more specific Language such as the Language of Euclidean Geometry for "the concept of a triangle" or the Language of Set Theory for representing "the concept of nothing" as the empty set. This serves to demonstrate that
  
@@ -52,11 +52,16 @@ The investigation into thinking led to the following observations:
 
 * Mental processes may be reduced to two fundamental processes- thought and abstraction. 
 
-* Thought is division. Thought is representing observations in particular form, ie. Language. Thought captures observations by naming. Creating Boundaries is needed to name things. Specifying something needs boundaries. For example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but one forms equivalence relations to define partitions among all Polygons which separate the triangles from the squares. Such partitions are what we would consider as boundaries. In this sense, mental thoughts (or structures) are all just creation of boundaries.
+* Thought is division. Thought is representing observations in particular form, ie. Language. Thought captures observations by naming. Creating Boundaries is needed to name things. Specifying something needs boundaries. 
 
-* One may restate the above point as: thought is "dualistic", since in creating a boundary implies creation of two sides. Positive numbers exist only if negative numbers exist. In looking at one side, one misses out on the other. Division (Thought) destroys symmetry. The same object gets divided into two distingushable objects. Thought (Naming) distinguishes the two. For example, at one point, there's only a single body but when it gets separated by physical division, we name one as Parent and the other as child. The symmetry breaking is spontaneous. Parent and Child both come into existence simultaneously.
+   -For example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. Boundaries are needed to differentiate between things. 
+   
+   -These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but one forms equivalence relations to define partitions among all Polygons which separate the triangles from the squares. Such partitions are what we would consider as boundaries. In this sense, mental thoughts (or structures) are creation of boundaries.
 
-* Abstraction is the reverse of thinking. Abstraction is dissolving the boundaries that were created by thought. 
+* One may restate the above point as: thought is "dualistic", since in creating a boundary implies creation of two sides. Positive numbers exist only if negative numbers exist. In looking at one side, one misses out on the other. Division (Thought) destroys Symmetry. The same object gets Differentiated into two distingushable objects. Thought (Naming) Differentiates the two. 
+   -For example, in the process of Evolution, at one point, there's only a single body but when it gets separated by a boundary of physical division, we name one as Parent and the other as child. This symmetry breaking process is spontaneous. Parent and Child both come into existence simultaneously.
+
+* Abstraction is the reverse of thinking. Abstraction is dissolving the boundaries that were created by thought. Abtraction relases captured observations from particular forms (Language). Abstraction forgets naming which requires dissolution of boundaries that create the name.  
 
 There may be much more finer observations about mental processes and to avoid overcomplications, we would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I respectively are used to distinguish the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
 
@@ -96,7 +101,7 @@ Following are some examples.
   
   - (Example). Any structure forms (or is part of a) Language.
   
-  - (Example). Chalk Sound forms a Language. The sound that is made when a Professor writes with chalk on board is a Language. I wonder who pays attention to that, I find it interesting. It's a form of Music Language.
+  - (Example). Chalk Sound forms a Language. The sound that is made when a Professor writes with chalk on board is a Language. I wonder who pays attention to that, I find it interesting. It's a form of Sound Language.
   
 
 ### Theory of States of Matter- An Elementary Language
@@ -107,7 +112,18 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 ### The Language of Thermodynamics
 
-To create a picture of the different Phases (Solid, Liquid, Gas) and their states, in Thermodynamics we use what is known as a Phase Diagram. I'm assuming the reader has seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. The most common diagrams are the one, two and three component Phase Diagrams. The boundaries of each Phase represents the interface at which Phases on either side can interact and stay at equilibrium with each other. There are rules for Phase Diagrams. According to Thermodynamics, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of (#) Phases (like solid liquid gas)-$$P$$, components (like two or more irreducible elementary things which make up the Phase)- $$C$$, degrees of freedom (symmetries)-$$F$$ and variation parameters (Temperature, Pressure, etc.)- -$$N$$. The relation when each of them is finite is given by:
+The phases involved in Thermodynamics of a single component system are
+* Condensed | Fluid
+
+* The Fluid Phase maybe further Differentiatedd to Liquid and Gas
+
+* Solid | Liquid | Gas
+
+To create a picture of the different Phases (Solid, Liquid, Gas) and their states, in Thermodynamics we use what is known as a Phase Diagram. I'm assuming the reader has seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. 
+
+![Water Phase Diagram](log/images/Language_1.jpg)
+
+The most common diagrams are the one, two and three component Phase Diagrams. The boundaries of each Phase represents the interface at which Phases on either side can interact and stay at equilibrium with each other. There are rules for Phase Diagrams. According to Thermodynamics, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of (#) Phases (like solid liquid gas)-$$P$$, components (like two or more irreducible elementary things which make up the Phase)- $$C$$, degrees of freedom (symmetries)-$$F$$ and variation parameters (Temperature, Pressure, etc.)- $$N$$. The relation when each of them is finite is given by:
 
 $$ #Phases (P) + #Freedoms (F) = #Components (C) + #Parameters  (N)
 $$
@@ -160,13 +176,21 @@ When they are not finite, the much more fluid notions of Cardinality or Measure 
 
 * Here the phase Languages are Quantum Mechanics, General Relativity and Classical Mechanics. 
 
-* There the Intergral Language was Electro-Magnetsim, here let us call the Integral Theory to be seen as Quantum-Gravity. 
+* There the Intergral Language was Electro-Magnetsim (E-M), here let us call the Integral Theory (X) to be seen as Quantum-Gravity. 
 
-* Electro-Magnetism recognizes Electric and Magnetic Languages to be dual to each other, that is, they can be related to each other by Differentiation and Integration- changing Electric fields produce Magnetic Fields and changing Magnetic fields produce Electric Fields.
-
+* Electro-Magnetism recognizes Electric and Magnetic Languages to be dual to each other, that is, they can be related to each other by Differentiation and Integration- changing (Differentiating) Electric fields produce Magnetic Fields and changing (Differentiating) Magnetic fields produce Electric Fields. This is slightly different from the previous cases in which a single Differentiation of a fluid form gave us the corresponding condensed form. This is because E-M involves two Variables- Space and Time (which themselves have a hidden Symmetry that we will see later).  
 $$
 \begin{eqnarray}
-\label{eq:M1} \boldsymbol{\nabla} \cdot{(\boldsymbol{\varepsilon}E)} & = & 0\\ 
+\label{eq:M1} \boldsymbol{\nabla} \cdot{(\boldsymbol{\varepsilon}E)} & = & 0    \quad \textrm{ Symmetry of Charge (condensed) and Field}\\ 
+\label{eq:M2} \boldsymbol{\nabla} \cdot{(\boldsymbol{\mu}H)} & = & 0\\ 
+\label{eq:M3} \boldsymbol{\nabla} \times{E} & = & - \boldsymbol{\mu}\,\frac{\partial H}{\partial t} \\ 
+\label{eq:M4} \boldsymbol{\nabla} \times{B} & = & \boldsymbol{\varepsilon} \, \frac{\partial E}{\partial t} 
+\end{eqnarray}
+$$
+* Electro-Magentism recognizes the 
+$$
+\begin{eqnarray}
+\label{eq:M1} \boldsymbol{\nabla} \cdot{(\boldsymbol{\varepsilon}E)} & = & 0    \quad \textrm{ Symmetry of Charge (condensed) and Field}\\ 
 \label{eq:M2} \boldsymbol{\nabla} \cdot{(\boldsymbol{\mu}H)} & = & 0\\ 
 \label{eq:M3} \boldsymbol{\nabla} \times{E} & = & - \boldsymbol{\mu}\,\frac{\partial H}{\partial t} \\ 
 \label{eq:M4} \boldsymbol{\nabla} \times{B} & = & \boldsymbol{\varepsilon} \, \frac{\partial E}{\partial t} 
@@ -181,7 +205,7 @@ $$
 
 * Here, Planck's constant ($$\hbar$$) and Speed of Light ($$c$$) correspond to the variation parameters Permittivity ($$\epsilon$$) and Permeability ($$\mu$$) (corresponding to Temperature and Pressure) in the Phase Diagrams. These get combined in the Quantum-Gravity Equations to give a single parameter- the speed of Quantum-Gravity Wave-Types.   
 
-* The subtlety lies in handling the right symmetries in the right forms. Just like $$E$$ and $$B$$ in Electromagnetism, the Wavefunction ($$\Psi$$) and the Metric ($$S$$) are not directly related by a single Differentiation or a single Integration of symmetries, there are multiple symmetries involved. One may guess the corresponding equations, with the appropriate Space Differentiation forms instead of Divergence $$\boldsymbol{\nabla}\cdot$$, curl $$\boldsymbol{\nabla} \times$$ and appropriate Time Differentiation instead of $$\frac{\partial}{\partial t}$$ to be: 
+* The subtlety lies in handling the right symmetries in the right forms. Just like $$E$$ and $$B$$ in Electromagnetism, the Wavefunction ($$\Psi$$) and the Metric ($$S$$) are not directly related by a single Differentiation or a single Integration of symmetries, there are multiple symmetries involved. One may guess the corresponding equations, with the appropriate Space Differentiation forms instead of Divergence $$\boldsymbol{\nabla}\cdot$$, curl $$\boldsymbol{\nabla} \times$$ and appropriate Time Differentiation instead of $$\frac{\partial}{\partial t}$$, to be: 
 
 $$
 \begin{eqnarray}
