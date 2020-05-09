@@ -177,6 +177,10 @@ $$
 
 * Dynamics that appear in one Language may not appear in another Language that is different in Rigidity. In the Language of Matter, we see that Solids do not show all the dynamics that are seen in liquids and gases and this is true for any combination of two choices out of solid, liquid and gas. Difference structures give rise to different dynamics, hence the dynamics that can be seen in one Language such as English, namely those of emotions cannot be seen in another Language such as Physics or Mathematics that are more rigid. Concepts like emotion and sadness are not allowed in the rigid structure of the Language of Mathematics. A Language with more rigid structure can be embedded in a Language with less Rigid structure.
 
+
+* Thus we have seen Math-English Duality
+![Math-English Duality](/log/images/Language_.jpg)
+
 ### Calculus: The Language of Languages within the Language of Mathematics
 
 * In the Language of Calculus, differentiation plays the role of Differentiation and integration plays the role of Integration. The derivative of a function is more rigid whereas the integral of a function is more fluid. This is seen by looking at the extra degree of freedom that the integral of a function has in terms of the integration constant. This additional degree of freedom may also be interpreted as an additional symmetry, that is the differential comes into existence by breaking the symmetry (differentiating between) the integral which unites the various functions.
@@ -202,7 +206,25 @@ We shall see the Laws of Thermodynamics in the context of Calculus.
 * **Zeroth Law as Differentiation**: Zeroth Law states that if two thermodynamic systems are each in thermal equilibrium with a third one, then they are in thermal equilibrium with each other. Thus, Thermal equilibrium determines the Phase boundaries which Differentiate systems from one another. That is, thermal equilibrium is an equivalence relation on the set of thermodynamic systems which partitions them into classes labelled by a quantity called Temperature.  This partitioning based on Temperature values is creation of boundaries and hence Temperature plays the role of Differentiation. Thermal flow takes heat from Higher Temperature system to Lower Temperature system. Lower temperature system corresponds to the solid form whereas higher temperature system corresponds to fluid form. 
 
 * Thus we have seen Low Temperature-High Temperature Duality or Cold-Hot Duality:
-![Differential-Integral Duality](/log/images/Language_.jpg)
+![Cold-Hot Duality](/log/images/Language_.jpg)
+
+* **First Law as Differentiation** : The First Law states that the change in internal energy (ΔU), of a thermodynamic system is equal to the energy gained as heat (Q) and the thermodynamic work (W) done by the surroundings on the system. Thus, First Law Partitions the Internal Energy into Heat and Work. This Partition corresponds to an equivalence relation in the Set of Energy which we have already seen in the Language of Sets to be a Differentiation process. This makes Temperature a Differential form.
+
+* Thus we have seen Work-Heat Duality:
+![Work-Heat Duality](/log/images/Language_.jpg)
+
+* **Second Law as Integration** :  The second law states that Heat cannot spontaneously flow from a colder location to a hotter location. If Heat could flow spontaneously from colder to hotter, it would further Differentiate the Cold from the Hot. This means that Heat flow plays the role of Integration by breaking the Differentiation between Hot and Cold systems that was set up by Temperature in the Zeroth Law. 
+
+* Thus we have seen Thermal Equilibrium-Heat Flow Duality:
+![Thermal Equilibrium-Heat Flow Duality](/log/images/Language_.jpg)
+
+* **Third Law showing Entropy as a Integration** : The third law states that as the Temperature of a system approaches absolute zero, all processes cease and the Entropy of the system approaches a minimum value. In all Languages, our intuition based on Physics of materials is that the most Differentiated (condensed) form is the closest to the Zero Language which is absolutely rigid: no degree of freedom whereas the most Integrated form is closest to Empty Language which has complete freedom. This intuition works because of the Third Law. This Law recognizes assigning Entropy values (or degrees of freedom) as the Dual concept to  assigning Temperature (Differentiation) in Physical systems. Hence Entropy plays the role of the Integral form.
+
+* I must add that heat flow being seen as a fluid (like a wave) in nature makes the Temperature (and hence Entropy) take continuum values. There is an additional duality in the relation $$E= k_bT$$ where on fixing the Temperature, the Energy increases in discrete steps. This is a form of Wave-Particle Duality which is also seen in $$E= \hbar \omega$$. When a particular Temperature or Frequency is fixed, one degree of freedom is lost and Energy loses its Wave-like character. This makes Energy act through the degrees of freedom provided by the corresponding Particles that are discrete. Particles and Waves are distinguished by their discrete and continuum degrees of freedom respectively. This will be seen soon.
+
+* Thus we have seen Temperature-Entropy Duality:
+![Temperature-Entropy Duality](/log/images/Language_.jpg)
+
 
 ### Addition as a Language
 
@@ -210,7 +232,8 @@ We shall see the Laws of Thermodynamics in the context of Calculus.
 
 ### Another Language of Matter: Language of Particles and the Language of Waves
 
-* The Language of Particles corresponds to the solid form whereas the Language of Waves corresponds to the liquid form. Stokes theorem or the Phase boundary corresponds to the De-Broglie relationship between Particle and Wave forms in the Phase Diagram. Here, in the Phase Diagram of Particles and Waves, the variation parameter is the Planck's constant which corresponds to variation parameters such as temperature and pressure in the usual phase diagram of materials.
+* The Language of Particles corresponds to the solid form whereas the Language of Waves corresponds to the liquid form. Stokes theorem or the Phase boundary appears in many contexts relating the Particle and Wavelike behaviours. One such form is the De-Broglie relationship between Particle and Wave forms. Here, in the Phase Diagram of Particles and Waves, the variation parameter is the Planck's constant which corresponds to variation parameters such as temperature and pressure in the usual phase diagram of materials. Particles and Waves are distinguished by their discrete and continuum degrees of freedom respectively. This is seen in the relations of Energy with Mass, Temperature and Frequency as $$E= c^2 m, E=k_bT, E=\hbar m$$ respectively. When a particular Mass, Temperature or Frequency is fixed, one degree of freedom is lost and Energy loses its Wave-like character. This makes Energy act through the degrees of freedom provided by the corresponding Particles that are discrete. 
+   - For example as Light Wave of one frequency interacts with Light of another frequency, they are both Wavelike (fluid) and hence add by superposition. On the other hand when Light of a frequency interacts with particles such as an electron, which has only discrete degrees of freedom (atomic levels that an electron can occupy are discrete), then it has to act in the Language of Particles. This makes the Wave assume Particle like character- a photon with discrete degree of freedom. Hence, relations of the sort $$E=$$ constant $$\cdot$$ Continuous , capture Wave-Particle Duality by giving Energy both - continuum degree of freedom (Wave-like) and a discrete degree of freedom (Particle-like).
 
 ### Language of SpaceTime: The Language of Space and the Language of Time
 
