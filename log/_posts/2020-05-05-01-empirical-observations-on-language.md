@@ -310,24 +310,33 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
    - Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant). 
    - Nature: Condensation | De-solidification
 * Ice | water | vapour
+   - Rigid| Less Rigid, More Fluid | Fluid
 * Particle | Wave
    - Charge | Field
    - Mass | Energy
    - Localized in Space | Delocalized in Space
    - Momentum | Wavelength (Space Frequency)
+   - Addition of Real numbers | Addition of Waves (Superposition)
 * Lower Degree of Freedom | Higher Degree of Freedom
    - Time (1 degree of freedom) | Space (3 degrees of freedom)
+   - Reality | Dream
+   - Addition of Real numbers | Addition of Waves (Superposition)
 * Linear | Non-Linear
    - Vector Space | Group
+   - $$x$$ | $$x^2$$
+   - One degree of freedom | More than one degree of freedom
+   - One Symmetry | More than one Symmetry 
 * representation | knowledge 
 * Boundary | Interior
 * Programming Language (Code) or formal language | Mathematics | English or natural language
 * Wave Optics | Electricity | Magnetism
+   - Waves | $$ E, q, \epsilon$$ | $$ B, 0, \mu$$
 * Classical Mechanics | Quantum Mechanics | General Relativity
+   - particles, waves | $$\Psi$$ | $$S$$ (Metric Tensor)
 * Language of Time: | Past| Present | Future
 * Representation theory: Groups (nonlinear) condense to vector spaces (linear), Lie groups condense to Lie algebras
-* Category theory: Functors between different categories. 
-* Cohomology theories: d^2 =0 implies three states.
+* Category theory: Functors between different categories. Differentiation Takes a Higher Category to a Lower Category. Forgetful Functor takes a Lower Category to a Higher Category. 
+* Cohomology theories: d^2 =0 implies three states in a sequence.
 
 ### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language.
 
