@@ -129,12 +129,30 @@ The most common diagrams are the one, two and three component Phase Diagrams. He
 
 ![Two Component Phase Diagram](/log/images/Language_2.jpg)
 
-The boundaries of each Phase represents the interface at which Phases on either side can interact and stay at equilibrium with each other. There are rules for Phase Diagrams. According to Thermodynamics, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of (#) Phases (like solid liquid gas)-$$P$$, components (like two or more irreducible elementary things which make up the Phase)- $$C$$, degrees of freedom (symmetries)-$$F$$ and variation parameters (Temperature, Pressure, etc.)- $$N$$. The relation when each of them is finite is given by:
+* The boundaries of each Phase represents the interface at which Phases on either side can come together to interact and stay at equilibrium with each other. There are rules for Phase Diagrams. According to Thermodynamics, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. 
+
+* A Component is a fundamental unit (irreducible) such as the Water Molecule which is common to all Phases in the Language. Water itself is reducible to atoms but that is part of another Language which is not the focus here. 
+
+   - (Example). Prime Numbers are the components in the Number Theory Language. 
+   
+   - (Example). Elementary Particles are the components in the Particle Physics Langugae.
+
+* A useful result is the Gibbs Phase Rule. This states a relation among the number of (#) Phases (like solid liquid gas)-$$P$$, components (like two or more irreducible elementary things which make up the Phase)- $$C$$, degrees of freedom (symmetries)-$$F$$ and variation parameters (Temperature, Pressure, etc.)- $$N$$. The relation when each of them is finite is given by:
 
 $$ #Phases (P) + #Freedoms (F) = #Components (C) + #Parameters  (N)
 $$
 
-When they are not finite, the much more fluid notions of Cardinality or Measure replace the rigid notion of number.
+
+* We may check this relation in the Phase Diagrams depicted above. The first one was only for one Component- #Components (C) = 1. There are two variation parameters- Temperature and Pressure. Thus N=2. This determines the right hand side of the Gibbs Phase relation to give:
+
+$$ #Phases (P) + #Freedoms (F) = 1 + 2 
+$$
+
+* This implies that in the region where there is only one Phase, P=1 means F=2, that is, a single Phase region has Two Degrees of Freedom in the diagram. 
+
+* In the region where there two Phases together, P=2 means F=1, that is, a Two Phase region has one Degree of Freedom in the diagram. This is why Phase Boundaries have lesser Degree of freedom than the Phase in the Interior of these boundaries. 
+
+* When they are not finite, the much more fluid notions of Cardinality or Measure replace the rigid notion of number.
 
 * Terminology: For the rest of the write up I would like to use the words 'more Fluid', 'less Rigid', 'more symmetric', 'higher Entropy', 'additional degree of freedom' interchangeably as they are all various forms of the same knowledge.
 
@@ -263,7 +281,7 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
 
 ### Empirical observations
 
-* Differentiation and Integration are fundamental to creating structures and hence they are fundamental to Language.
+* Differentiation and Integration are fundamental to creating structures. Hence, Calculus (Differentiation and Integration) is fundamental to Language.
 
 * For each Language we can define a concept such as Rigidity. In other words, there is a Rigidity or the opposite concept of Entropy (the more thermodynamic term) that depends on the structure. 
    - Languages have different sublanguages, that is, they have multiple different phases that make them up which may create a range of Rigidity or Entropy for a given Language. Just like in Nature, a fluid has a range of entropy but it is usually much higher than that of a solid. 
@@ -288,11 +306,23 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
   -(Example). Equations in Mathematics: All equations display how to unify the two different forms of the same thing- the left hand side and the right hand side. That is, equations restore the symmetry that is broken by imposing the boundary to distinguish between the left hand side and the right hand side. This is why symmetry pervades throughout Mathematics and Physics making Aesthetics inevitable in Science.  
   
   ### Examples to keep in mind:
-* Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant). 
+* Differentiation | Integration  
+   - Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant). 
+   - Nature: Condensation | De-solidification
 * Ice | water | vapour
 * Particle | Wave
-* Mass | Energy
+   - Charge | Field
+   - Mass | Energy
+   - Localized in Space | Delocalized in Space
+   - Momentum | Wavelength (Space Frequency)
+* Lower Degree of Freedom | Higher Degree of Freedom
+   - Time (1 degree of freedom) | Space (3 degrees of freedom)
+* Linear | Non-Linear
+   - Vector Space | Group
+* representation | knowledge 
+* Boundary | Interior
 * Programming Language (Code) or formal language | Mathematics | English or natural language
+* Wave Optics | Electricity | Magnetism
 * Classical Mechanics | Quantum Mechanics | General Relativity
 * Language of Time: | Past| Present | Future
 * Representation theory: Groups (nonlinear) condense to vector spaces (linear), Lie groups condense to Lie algebras
