@@ -175,7 +175,7 @@ $$
 
 * Here, Planck's constant ($$\hbar$$) and Speed of Light ($$c$$) correspond to the variation parameters Permittivity ($$\epsilon$$) and Permeability ($$\mu$$) (corresponding to Temperature and Pressure) in the Phase Diagrams. These get combined in the Quantum-Gravity Equations to give a single parameter- the speed of Quantum-Gravity Wave-Types.   
 
-* The subtlety lies in handling the right symmetries in the right forms. Just like $$E$$ and $$B$$ in Electromagnetism, the Wavefunction ($$\Psi$$) and the Metric ($$S$$) are not directly related by a single Differentiation or a single Integration of symmetries, there are multiple symmetries involved. One may guess the corresponding equations, with the appropriate Space Differentiation forms instead of Divergence $$\boldsymbol{\nabla}\cdot$$, curl $$\boldsymbol{\nabla} \times$$ and Time Differentiation $$\frac{\partial}{\partial t}$$ to be: 
+* The subtlety lies in handling the right symmetries in the right forms. Just like $$E$$ and $$B$$ in Electromagnetism, the Wavefunction ($$\Psi$$) and the Metric ($$S$$) are not directly related by a single Differentiation or a single Integration of symmetries, there are multiple symmetries involved. One may guess the corresponding equations, with the appropriate Space Differentiation forms instead of Divergence $$\boldsymbol{\nabla}\cdot$$, curl $$\boldsymbol{\nabla} \times$$ and appropriate Time Differentiation instead of $$\frac{\partial}{\partial t}$$ to be: 
 
 $$
 \begin{eqnarray}
