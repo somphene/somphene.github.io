@@ -8,11 +8,12 @@ tags: [General, Language, Structure, Representation, Rigidity, Entropy, Fluid, D
 ---
 
 ### Abstract
+
  Language is seen in various forms. Structure and resulting Duality are seen as fundamental. Questions about general and particular forms are answered. Relations of Language and representations of knowledge using Language are discussed. Entropy of Language is introduced based on degrees of freedom and Rigidity of structures. Calculus is reinvented as Thermodynamics to transition between Fluid and Condensed Forms of a Language. Notions of Approximate and Exact representation of knowledge are seen. 
 
 ### Disclaimer
 
-This is a non-technical writeup meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time needs it to be. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand the perspectives. 
+This is a non-technical write up meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time needs it to be. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand the perspectives. 
 
 I have never officially taken a course in linguistics. This write up may have nothing to do with linguistics. In fact, this may not have much to do with the usual sense in which languages are studied. I am interested in a broader category of Languages and their dynamics. For convenience, I would like to use the word Language to be anything used to represent Knowledge. As in usual usage, when both terms language and knowledge are specified, a particular language will be used to represent the specific knowledge. The following note on terminology is for those with hard wired logic and maybe skimmed over for those who are comfortable with not so precise definitions, which will anyways become clear by the end.
 
@@ -106,9 +107,14 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 ### The Language of Thermodynamics
 
-To picture the different Phases and their states, in Thermodynamics we use what is known as a Phase Diagram. I'm assuming the reader has seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. The most common other ones are the one, two and three component Phase Diagrams. The boundaries of each Phase represents the interface at which Phases on either side can stay at equilibrium with each other. There are rules for Phase Diagrams according to Thermodynamics- that is, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of Phases (like solid liquid gas), components (like two or more different salts), degrees of freedom (symmetries) and number of variation parameters (Temperature, Pressure, etc.). 
+To create a picture of the different Phases (Solid, Liquid, Gas) and their states, in Thermodynamics we use what is known as a Phase Diagram. I'm assuming the reader has seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. The most common diagrams are the one, two and three component Phase Diagrams. The boundaries of each Phase represents the interface at which Phases on either side can interact and stay at equilibrium with each other. There are rules for Phase Diagrams. According to Thermodynamics, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of (#) Phases (like solid liquid gas)-$$P$$, components (like two or more irreducible elementary things which make up the Phase)- $$C$$, degrees of freedom (symmetries)-$$F$$ and variation parameters (Temperature, Pressure, etc.)- -$$N$$. The relation when each of them is finite is given by:
 
-For the rest of the write up I would like to use the words 'more Fluid', 'less Rigid', 'more symmetric', 'higher Entropy', 'additional degree of freedom' interchangeably.
+$$ #Phases (P) + #Freedoms (F) = #Components (C) + #Parameters  (N)
+$$
+
+When they are not finite, the much more fluid notions of Cardinality or Measure replace the rigid notion of number.
+
+* Terminology: For the rest of the write up I would like to use the words 'more Fluid', 'less Rigid', 'more symmetric', 'higher Entropy', 'additional degree of freedom' interchangeably as they are all various forms of the same knowledge.
 
 ### The Usual Languages- English, Physics and Mathematics
 
