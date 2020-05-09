@@ -101,7 +101,11 @@ Following are some examples.
 
 The simplest theory to pick and demonstrate the ideas involved in Language is probably the Language of States of Matter. 
 
-* Take a simple single component system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state may be considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. This is the behaviour that we want to see in all Languages. In other words these are the common features (universal) that we will look for after Integrating this particular Language of Nature to a more fluid Language.
+* Take a simple single component system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state may be considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. This is the behaviour that we want to see in all Languages. In other words these are the common features (universal) that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
+
+### The Language of Thermodynamics
+
+To picture the different Phases and their states, in Thermodynamics we use what is known as a Phase Diagram. I'm assuming the reader has seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. The most common other ones are the one, two and three component Phase Diagrams. The boundaries of each Phase represents the interface at which Phases on either side can stay at equilibrium with each other. There are rules for Phase Diagrams according to Thermodynamics- that is, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of Phases, components, degrees of freedom and 
 
 ### The Usual Languages- English, Physics and Mathematics
 
@@ -170,10 +174,10 @@ $$
 
 $$
 \begin{eqnarray}
-\label{eq:M1} \boldsymbol{\nabla} \cdot{({\hbar}\Psi)} & = & 0\\ 
+\label{eq:M1} \boldsymbol{\nabla} \cdot{(\hbar \Psi)} & = & 0\\ 
 \label{eq:M2} \boldsymbol{\nabla} \cdot{c S)} & = & 0\\ 
 \label{eq:M3} \boldsymbol{\nabla} \times{\Psi} & = & - c \, \frac{\partial S}{\partial t} \\ 
-\label{eq:M4} \boldsymbol{\nabla} \times{S} & = & {\hbar} \, \frac{\partial \Psi}{\partial t}
+\label{eq:M4} \boldsymbol{\nabla} \times{S} & = & \hbar \, \frac{\partial \Psi}{\partial t}
 \end{eqnarray}
 $$
 
