@@ -249,6 +249,8 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
   
   - (Example). Wave Particle Duality: Language of Waves (fluid form) is dual to Language of Particles (condensed form). That is, waves can be obtained by Integration of Particles, in other words Particles are the Differential form of Waves. Space Time Duality: Language of Space (fluid) is Dual to Language of Time (condensed). 
   
+  -(Example). Equations in Mathematics: All equations display how to unify the two different forms of the same thing- the left hand side and the right hand side. That is, equations restore the symmetry that is broken by imposing the boundary to distinguish between the left hand side and the right hand side. This is why symmetry pervades throughout Mathematics and Physics making Aesthetics inevitable in Science.  
+  
   ### Examples to keep in mind:
 * Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant). 
 * Ice | water | vapour
