@@ -170,10 +170,10 @@ $$
 
 $$
 \begin{eqnarray}
-\label{eq:M1} \boldsymbol{\nabla} \cdot{(\boldsymbol{\hbar}\Psi)} & = & 0\\ 
+\label{eq:M1} \boldsymbol{\nabla} \cdot{({\hbar}\Psi)} & = & 0\\ 
 \label{eq:M2} \boldsymbol{\nabla} \cdot{(\boldsymbol{c}S)} & = & 0\\ 
 \label{eq:M3} \boldsymbol{\nabla} \times{\Psi} & = & - \boldsymbol{c}\,\frac{\partial S}{\partial t} \\ 
-\label{eq:M4} \boldsymbol{\nabla} \times{S} & = & \boldsymbol{\hbar} \, \frac{\partial \Psi}{\partial t}
+\label{eq:M4} \boldsymbol{\nabla} \times{S} & = & {\hbar} \, \frac{\partial \Psi}{\partial t}
 \end{eqnarray}
 $$
 
