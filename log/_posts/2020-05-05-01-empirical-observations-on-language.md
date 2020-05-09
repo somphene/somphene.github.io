@@ -121,7 +121,7 @@ The phases involved in Thermodynamics of a single component system are
 
 To create a picture of the different Phases (Solid, Liquid, Gas) and their states, in Thermodynamics we use what is known as a Phase Diagram. I'm assuming the reader has seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. 
 
-![Water Phase Diagram](log/images/Language_1.jpg)
+![Water Phase Diagram](/log/images/Language_1.jpg)
 
 The most common diagrams are the one, two and three component Phase Diagrams. The boundaries of each Phase represents the interface at which Phases on either side can interact and stay at equilibrium with each other. There are rules for Phase Diagrams. According to Thermodynamics, not any kind of Phase Diagram is possible. In High School many of the function plots one sees are types of Phase Diagrams. A famous result is the Gibbs Phase Rule. This states a relation among the number of (#) Phases (like solid liquid gas)-$$P$$, components (like two or more irreducible elementary things which make up the Phase)- $$C$$, degrees of freedom (symmetries)-$$F$$ and variation parameters (Temperature, Pressure, etc.)- $$N$$. The relation when each of them is finite is given by:
 
