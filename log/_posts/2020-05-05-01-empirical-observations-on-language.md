@@ -54,14 +54,16 @@ The investigation into thinking led to the following observations:
 
 * Thought is division. Thought is representing observations in particular form, ie. Language. Thought captures observations by naming. Creating Boundaries is needed to name things. Specifying something needs boundaries. 
 
-   -For example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. Boundaries are needed to differentiate between things. 
+   - For example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. Boundaries are needed to differentiate between things. 
    
-   -These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but even here, one forms equivalence relations to define partitions among all Polygons which separate the triangles from the squares. Such partitions are what we would consider as boundaries. In this sense, mental thoughts (or structures) are creation of boundaries.
+   - These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but even here, one forms equivalence relations to define partitions among all Polygons which separate the triangles from the squares. Such partitions are what we would consider as boundaries. In this sense, mental thoughts (or structures) are creation of boundaries.
 
 * One may restate the above point as: thought is "dualistic", since creating a boundary implies creation of two sides. Positive numbers exist only if negative numbers exist. In looking at one side, one misses out on the other. Division (Thought) destroys Symmetry. The same object gets Differentiated into two distingushable objects. Thought (Naming) Differentiates the two. 
-   -For example, in the process of Evolution, at one point, there's only a single body but when it gets separated by a boundary of physical division, we name one as Parent and the other as child. This symmetry breaking process is spontaneous. Parent and Child both come into existence simultaneously.
+
+   - For example, in the process of Evolution, at one point, there's only a single body but when it gets separated by a boundary of physical division, we name one as Parent and the other as child. This symmetry breaking process is spontaneous. Parent and Child both come into existence simultaneously.
 
 * Abstraction is the reverse of thinking. Abstraction is dissolving the boundaries that were created by thought. Abstraction relases captured observations from particular forms (Language). Abstraction forgets naming which requires dissolution of boundaries that create the names.  
+
    - For example, even thought the bodies may get separated by a boundary of physical division, but we share a common name for both the Parent and the child: the abstraction which dissolves the two different names (boundary) gives the notion of a Family. This symmetry restoring process Integrate the Parent and Child into one simultaneously.
    
 There may be much more finer observations about mental processes and to avoid overcomplications, we would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I respectively are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
@@ -88,9 +90,9 @@ Now that we have reduced from mental thought to boundaries and the resulting str
 
 Following are some examples. 
 
-  - (Example). In particular, structures that we identify through our cognitive capacity as belonging to the physical universe will also be called as a Language. Fluids and Condensed Matter are then both called as Languages, the former being less rigid than the latter. All the structures corresponding to the physical universe collectively form a structure which is considered as a Language, the Language of Physics or the Language of Nature.
+  - (Example). In particular, structures that we identify through our cognitive capacity as belonging to the physical universe will also be called as a Language. Fluids and Condensed Matter are then both called as Languages, the former being less rigid than the latter. All the structures corresponding to the physical universe collectively form a structure which is considered as a Language, the Language of Physics.
 
-  - (Example). All structures built in a theory form a Language. Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Groups. Type theory is a Language. Calculus is a Language. 
+  - (Example). All boundaries that are built in a theory form a Language (structure). Number theory may be called as the Language of Numbers. Group Theory may be called as the Language of Groups. Type theory is a Language. Calculus is a Language. 
   
   - (Example). Music is a Language. Acoustic sounds also form structures that have multiple states that can be distinguished from each other. 
   
@@ -102,7 +104,7 @@ Following are some examples.
   
   - (Example). Any structure forms (or is part of a) Language.
   
-  - (Example). Chalk Sound forms a Language. The sound that is made when a Professor writes with chalk on board is a Language. I wonder who pays attention to that, I find it interesting. It's a form of Sound Language.
+  - (Example). Chalk Sound forms a Language. The sound that is made when a Professor writes with chalk on board is a Language. I wonder if students pay attention to that, I find it interesting. It's a form of Sound Language.
   
 
 ### Theory of States of Matter- An Elementary Language
@@ -110,6 +112,10 @@ Following are some examples.
 The simplest theory to pick and demonstrate the ideas involved in Language is probably the Language of States of Matter. 
 
 * Take a simple single component system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state may be considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. This is the behaviour that we want to see in all Languages. In other words these are the common features (universal) that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
+
+* Thus we have seen Condensed-Fluid Duality:
+![Condensed-Fluid Duality](/log/images/Language_.jpg)
+
 
 ### The Language of Thermodynamics
 
@@ -143,19 +149,27 @@ The most common diagrams are the one, two and three component Phase Diagrams. He
 $$ #Phases (P) + #Freedoms (F) = #Components (C) + #Parameters  (N)
 $$
 
+* When they are not finite, the much more fluid notions of Cardinality or Measure replace the rigid notion of number (#).
 
 * We may check this relation in the Phase Diagrams depicted above. The first one was only for one Component- #Components (C) = 1. There are two variation parameters- Temperature and Pressure. Thus N=2. This determines the right hand side of the Gibbs Phase relation to give:
 
-$$ #Phases (P) + #Freedoms (F) = 1 + 2 
+$$ #Phases (P) + #Freedoms (F) = 1 + 2 = 3
 $$
 
-* This implies that in the region where there is only one Phase, P=1 means F=2, that is, a single Phase region has Two Degrees of Freedom in the diagram. 
+* This implies that in the region where there is only one Phase, P=1 means F=2, that is, every single Phase region has Two Degrees of Freedom in the diagram. 
 
-* In the region where there two Phases together, P=2 means F=1, that is, a Two Phase region has one Degree of Freedom in the diagram. This is why Phase Boundaries have lesser Degree of freedom than the Phase in the Interior of these boundaries. 
+* In the region where there  are two Phases together, P=2 means F=1, that is, a Two Phase region has one Degree of Freedom in the diagram. This is why Phase Boundaries have lesser Degree of freedom than the Phase in the Interior of these boundaries.
 
-* When they are not finite, the much more fluid notions of Cardinality or Measure replace the rigid notion of number (#).
+* In the region where there are three Phases together, P=3 means F=0, that is, a Three Phase region has no Degree of Freedom in the diagram and hence reduces to a point which cannot be observed. This is why the Triple Point has lesser Degree of freedom than the Phase Boundaries.
+
+* Wherever there is interaction of Phases with each other, there is compromise in the Degrees of Freedom.
+
+*  Thermodynamic forms including temperature, pressure, volume which are commonly known and some more quantities like entropy, enthalpy and Gibbs energy, which are not that commonly known. Not all of these properties are independent. These can be differentiated into Intensive and Extensive depending on whether they change with scaling. In fact, for most cases, only two intensive thermodynamic properties are independent. Thus, if we specify temperature and pressure, all the other properties, in their intensive form, can be determined.
 
 * Terminology: For the rest of the write up I would like to use the words 'more Fluid', 'less Rigid', 'more symmetric', 'higher Entropy', 'additional degree of freedom' interchangeably as they are all various forms of the same knowledge.
+
+* Thus we have seen Phase A-Phase B Duality
+![Phase A-Phase B Duality](/log/images/Language_.jpg)
 
 ### The Usual Languages- English, Physics and Mathematics
 
@@ -167,9 +181,32 @@ $$
 
 * In the Language of Calculus, differentiation plays the role of Differentiation and integration plays the role of Integration. The derivative of a function is more rigid whereas the integral of a function is more fluid. This is seen by looking at the extra degree of freedom that the integral of a function has in terms of the integration constant. This additional degree of freedom may also be interpreted as an additional symmetry, that is the differential comes into existence by breaking the symmetry (differentiating between) the integral which unites the various functions.
 
-* The differential form corresponds to the solid form whereas the integral form corresponds to the liquid form. Stokes theorem is analogous to the boundary between liquid and solid in the phase diagram. This equation depends on the Manifold with respect to which the integration is done. In another interpretation (or a slightly different Language of Calculus involving Exterior Derivatives), Stokes theorem is the interface between the differential form (boundary) and integral form (interior). Thus, Stokes Theorem may be seen as a Phase Boundary condition appearing in thermodynamics.
+* The differential form corresponds to the solid form whereas the integral form corresponds to the liquid form. Stokes theorem is analogous to the Phase Boundary between liquid and solid where they meet in the phase diagram. This equation depends on the Manifold with respect to which the integration is done. In another interpretation (or a slightly different Language of Calculus involving Exterior Derivatives), Stokes theorem is the interface between the differential form (boundary) and integral form (interior). Thus, Stokes Theorem may be seen as a Phase Boundary condition appearing in thermodynamics.
 
-* For example, the differentiation of a non-zero degree polynomial reduces its degree by one. This means that Differentiation creates an additional rigid structure and loss of one degree of freedom each time it is done. Ultimately, one reaches the Zero Polynomial which is the Zero Entropy Language in the Polynomial Language. 
+* For example, the differentiation of a non-zero degree polynomial reduces its degree by one. This means that Differentiation creates an additional rigid structure and loss of one degree of freedom each time it is done. Ultimately, one reaches the Zero Polynomial which is the Zero Entropy Language in the Polynomial Language.
+
+* Thus we have seen Differential-Integral Duality:
+![Differential-Integral Duality](/log/images/Language_.jpg)
+
+### Language of Sets: The elementary Language in the Language of Mathematics
+
+* In the Language of Sets, creating an Equivalence Relation plays the role of Differentiation and Quotienting Out plays the role of Integration. Creating an Equivalencce Relation partitions a Set into many disjoint Phases with rigid boundaries, which corresponds to condensation (Differentiation) whereas the Quotient Set of a Set dissolves the boundaries and Identifies distinct elements of the Set, which corresponds to evaporation (Integration). The partitioned set is rigid like a solid whereas the quotient set is fluid like a liquid.
+
+* Thus we have seen Partition-Quotient Duality:
+![Partition-Quotient Duality](/log/images/Language_.jpg)
+
+### Thermodynamics and Calculus
+
+We shall see the Laws of Thermodynamics in the context of Calculus.
+
+* **Zeroth Law as Differentiation**: Zeroth Law states that if two thermodynamic systems are each in thermal equilibrium with a third one, then they are in thermal equilibrium with each other. Thus, Thermal equilibrium determines the Phase boundaries which Differentiate systems from one another. That is, thermal equilibrium is an equivalence relation on the set of thermodynamic systems which partitions them into classes labelled by a quantity called Temperature.  This partitioning based on Temperature values is creation of boundaries and hence Temperature plays the role of Differentiation. Thermal flow takes heat from Higher Temperature system to Lower Temperature system. Lower temperature system corresponds to the solid form whereas higher temperature system corresponds to fluid form. 
+
+* Thus we have seen Low Temperature-High Temperature Duality or Cold-Hot Duality:
+![Differential-Integral Duality](/log/images/Language_.jpg)
+
+### Addition as a Language
+
+* Addition is a structure. In the most rigid form, Addition is seen as addition of integer numbers. This form is Integrated to give Addition of fractions and further Integrated to give addition of Real Numbers, further to that of Complex Numbers. Beyond Numbers, Addition is also Integrated to that in Vector Spaces (more popularly known as the Parallelogram Law of addition, that is more fluid, and results in 'superposition' as the notion of addition for waves). So superposition of waves is the Integrated form of Addition of rigid objects. In Sets, it becomes disjoint union and in Abelian Groups, it becomes word concatenation. In Categories, it takes the form of coproduct. 
 
 ### Another Language of Matter: Language of Particles and the Language of Waves
 
@@ -206,7 +243,7 @@ $$
 * Electro-Magnetism recognizes Electric and Magnetic Languages to be dual to each other, that is, they can be related to each other by Differentiation and Integration- changing (Differentiating) Electric fields produce Magnetic Fields and changing (Differentiating) Magnetic fields produce Electric Fields. This is slightly different from the previous cases in which a single Differentiation of a fluid form gave us the corresponding condensed form. This is because E-M involves two Variables- Space and Time (which themselves have a hidden Symmetry that we will see later).  
 $$
 \begin{eqnarray}
-\label{eq:M1} \boldsymbol{\nabla} \cdot{(\boldsymbol{\varepsilon}E)} & = & 0    \quad \textrm{ Symmetry of Charge (condensed) and Field}\\ 
+\label{eq:M1} \boldsymbol{\nabla} \cdot{(\boldsymbol{\varepsilon}E)} & = & 0    \quad \textrm{Charge-Field Symmetry: Charge is Differential form (condensed) of Field (Fluid)}\\ 
 \label{eq:M2} \boldsymbol{\nabla} \cdot{(\boldsymbol{\mu}H)} & = & 0\\ 
 \label{eq:M3} \boldsymbol{\nabla} \times{E} & = & - \boldsymbol{\mu}\,\frac{\partial H}{\partial t} \\ 
 \label{eq:M4} \boldsymbol{\nabla} \times{B} & = & \boldsymbol{\varepsilon} \, \frac{\partial E}{\partial t} 
@@ -268,9 +305,6 @@ This brings into question representation theory: How much does the condensation 
 Similar to Representation Theory above, category theory generalizes this idea and uses different rigidities in the target space: categories instead of absolutely rigid vector spaces. Since we can't know the objects directly, we represent them in more rigid or less rigid forms to be able to control them better. Hence study of objects can be replaced by study of maps from the object to others.
 
 
-### Addition as a Language
-
-* Addition is a structure. In the most rigid form, Addition is seen as addition of integer numbers. This form is Integrated to give Addition of fractions and further Integrated to give addition of Real Numbers, further to that of Complex Numbers. Beyond Numbers, Addition is also Integrated to that in Vector Spaces (more popularly known as the Parallelogram Law of addition, that is more fluid, and results in 'superposition' as the notion of addition for waves). So superposition of waves is the Integrated form of Addition of rigid objects. In Sets, it becomes disjoint union and in Abelian Groups, it becomes word concatenation. In Categories, it takes the form of coproduct. 
 
 ### Equivalence of Languages: Intrinsic and Extrinsic Geometry 
 
@@ -288,7 +322,7 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
    - Languages have different sublanguages, that is, they have multiple different phases that make them up which may create a range of Rigidity or Entropy for a given Language. Just like in Nature, a fluid has a range of entropy but it is usually much higher than that of a solid. 
    -For example, the Language of Mathematics is more rigid than the Language of English. That is, English Language has higher Entropy than Mathematics. On the other hand, Programming Languages are more rigid than the Language of Mathematics. Formal Languages are more Rigid than Natural Languages. 
    
-* In the limiting case of Languages, we obtain Empty Language which is no Language at all and is formless, and the Zero Language which is absolutely rigid or has No degree of freedom or zero Entropy. Any given Language lies between these two limiting cases. Hence, the Empty Language can only be obtained by Integration and the Zero Language can only be obtained by Differentiation. In a sequence of Phases of a Language with different rigidity, the Language closest to the Empty Language is called the "Universal Integral Phase Language" or the "Limit Language" whereas the Language closest to the Zero Language is called the "Irreducible Language" or the "Colimit Language".
+* In the limiting case of Languages, we obtain Empty Language which is no Language at all (is formless), and the Zero Language which is absolutely rigid or has No degree of freedom or zero Entropy. Any given Language lies between these two limiting cases. Hence, the Empty Language can only be obtained by Integration and the Zero Language can only be obtained by Differentiation. In a sequence or continuum of Phases of a Language with different rigidity, the Language closest to the Empty Language will be called the "Universal Integral Phase Language" or the "Limit Language" whereas the Language closest to the Zero Language will be called the "Irreducible Language" or the "Colimit Language".
 
 * Corresponding to each Language, there are dynamics which arise in the possible substructures within each particular Language. For example, in the Language of Numbers, there exists a Language of Prime numbers which represent their own particular dynamics.
 
@@ -307,36 +341,88 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
   -(Example). Equations in Mathematics: All equations display how to unify the two different forms of the same thing- the left hand side and the right hand side. That is, equations restore the symmetry that is broken by imposing the boundary to distinguish between the left hand side and the right hand side. This is why symmetry pervades throughout Mathematics and Physics making Aesthetics inevitable in Science.  
   
   ### Examples to keep in mind:
-* Differentiation | Integration  
-   - Calculus: differential form (condensed) evaporates to integral form (additional degree of freedom in ‘c’, the integration constant). 
-   - Nature: Condensation | De-solidification
 * Ice | water | vapour
+   
    - Rigid| Less Rigid, More Fluid | Fluid
+   
+* Rigid (condensed) | Fluid (Gas)   
+
+* Differentiation | Integration  
+ 
+   - Calculus: | differential form (condensed) | integral form (additional degree of freedom in ‘c’, the integration constant). 
+   
+   - Nature:| Condensation | De-solidification
+   
+   - Thermodynamics: | Temperature | Entropy
+
 * Particle | Wave
+   
    - Charge | Field
+   
    - Mass | Energy
+   
    - Localized in Space | Delocalized in Space
+   
    - Momentum | Wavelength (Space Frequency)
+   
    - Addition of Real numbers | Addition of Waves (Superposition)
+   
+   - Intensive | Extensive
+
 * Lower Degree of Freedom | Higher Degree of Freedom
+   
    - Time (1 degree of freedom) | Space (3 degrees of freedom)
+   
    - Reality | Dream
+   
    - Addition of Real numbers | Addition of Waves (Superposition)
+   
+   - Boundary | Interior
+
 * Linear | Non-Linear
+   
    - Vector Space | Group
+   
    - $$x$$ | $$x^2$$
+   
    - One degree of freedom | More than one degree of freedom
+   
    - One Symmetry | More than one Symmetry 
+
 * representation | knowledge 
+
 * Boundary | Interior
+   
+   - Intensive | Extensive
+    
+    - Pressure | Volume
+    
+    - Temperature | Entropy
+    
+    - Chemical Potential | Particle Number
+    
+    - Force | Displacement
+    
+    - Stress | Strain
+   
+   - Differential | Integral 
+   
 * Programming Language (Code) or formal language | Mathematics | English or natural language
-* Wave Optics | Electricity | Magnetism
-   - Waves | $$ E, q, \epsilon$$ | $$ B, 0, \mu$$
+
+* Wave Optics, Electricity and Magnetism | Electricity | Magnetism
+   
+   - Waves, Electric field and Magnetic field | $$ E~q, \epsilon$$ | $$ B~0, \mu$$
+
 * Classical Mechanics | Quantum Mechanics | General Relativity
-   - particles, waves | $$\Psi$$ | $$S$$ (Metric Tensor)
+   
+   - particles, waves, space, time | $$\Psi$$ (Wave-Particle) | $$S$$ (Metric Tensor) (Space-Time)
+
 * Language of Time: | Past| Present | Future
+
 * Representation theory: Groups (nonlinear) condense to vector spaces (linear), Lie groups condense to Lie algebras
+
 * Category theory: Functors between different categories. Differentiation Takes a Higher Category to a Lower Category. Forgetful Functor takes a Lower Category to a Higher Category. 
+
 * Cohomology theories: d^2 =0 implies three states in a sequence.
 
 ### Fluid Flow to model unstructured thought and solid structures to model cognitive biases/representations/language.
@@ -354,35 +440,6 @@ The study of Phase Transformations in the Language of Physics boils down to Spon
 ### Fluids 
 
 Techniques from the study of Fluids in Physics may be imported to study the Fluid Phases of other Languages. This makes study of Fluid Dynamics very critical. Because of the enormous entropy (degrees of freedom or lack of structure) in Fluids, Navier Stokes Equations have been famously difficult to study.
-
-### Consequences
-
-* Not all Dynamics that are available to occur in fluids can be seen in solids. By analogy I would claim that language cannot capture all there is to know. For any given Language, one may relax the structure slightly to obtain a more fluid concept. The rigidity of Languages affect their scope of capturing things. So more fluid Languages like English allow us to talk about things like emotions- love, sadness etc. which cannot be defined mathematically, math being rigid cannot capture these emotions and hence cannot answer questions pertaining to them either. The reverse is also true: all dynamics in solids are not seen in fluids. So the kind of dynamics we see in mathematical proofs are not available in English or a more fluid language. This makes me think that mathematics doesn't model the world as an accurate reflection but instead just condenses everything in rigid terms: condensation is just decreasing entropy by slowing down molecules to be able to observe them better. We try to condense everything into rigid terms to be able to capture and control it: the amount of randomness in a fluid is too high to be captured or controlled.
-
-* An interesting observation here is that of scale. On large enough Time scales, solids are actually no different than a fluid. Glass (amorphous) is considered to be a solid (compared to a usual liquid) just because of its relative rigidity and kinetics at human timescales. It actually flows just like a liquid but the rate of flow is very small (it takes millions of years to observe significant mass flow). So an observer who observes once every million years would call glass as a fluid. Similarly in mathematics, although the language is relatively rigid, concepts like continuity, addition/product, have changed slowly over the years to reveal their fluidity. Time scale is itself like an observer which sees different things from different points. I think this randomness/entropy part in fluids is where probability comes in. Will have to study ergodic theory and dynamical systems to understand this interaction better.
-
-
-* The Unreasonable effectiveness of Mathematics is not unreasonable at all: Mathematics is just the appropriately condensed version of relatively fluid ideas which otherwise stay abstract knowledge. Mathematics is prevalent in sciences because it has the rigidity to allow capturing, analyzing and manipulation and then it allows fluidity of those concepts to generalize. It is this control over condensed matter that makes reproduction and transport of ideas easy and the fluidity of concepts that allows it to be applicable so widely. Actually, logic (or formal language) is more rigid than mathematics. Why don't we use this for controlling information? It takes much more time for condensing/evaporation by the human mind. The rigid aspect may be better for computers but not for humans. It takes way more time to reproduce. That's exactly why coding is not a natural language. Similarly, within Mathematics, Linear Algebra is prevalent because we want to formulate everything in the most condensed form. A linear map is known completely by the values it takes on the basis. This rigid vector space structure allows highly condensed forms of representing knowledge.
-
-* I believe there's more rigid languages too which haven't been discovered yet. In physics, an analogue would be the Bose-Einstein condensate. I think if we can find an analogous way to form a 'bose einstein condensate type of language', it will be a breakthrough in compression technology (and hence artificial intelligence- http://prize.hutter1.net/, https://en.wikipedia.org/wiki/Hutter_Prize, https://analyticsindiamag.com/hutter-prize-data-compression/). It certainly has to do with information entropy. This also raises the question of the scope of quantum computers as they have additional dynamcis due to non-abelian statistics of anyons.
-
-* How do we think about abstract concepts? Approximate boundaries: There is no strict delineation of the notion of a chair. One may vaguely say that chair is something we use to sit on. But then, can the floor be called a chair? How do we generalize the concept to a situation that we have never encountered before? It's by allowing fluidity of concepts. Another example ‘addition’ in categories- direct sum, disjoint union, etc. Instead of having exactly defined boundaries, approximate notions that are like fluids can also form part of our knowledge. 
-
-* Observing the abstract form of something may not help in seeing everything about it’s particulars just like Observing the dynamics of a fluid form of a substance may not help in knowing the dynamics in its solid form. 
-
-* Mathematics is a rigid language in terms of the rigidity of allowed boundaries but it has sublanguages that may be quite fluid in terms of the low amount of structure: for example, category theory assumes very less structure compared to usual natural languages. As a result, it can be used to represent relatively abstract knowledge quite well. The behaviour of gaseous states (most fluid) of all matter is very similar since all have less structure and high flexibility- they all behave like an ideal gas. Hence the most fluid Language of Mathematics is very close to an Ideal Gas and can be used to represent most abstract knowledge. I am not sure if Category theory or any other such Language of Mathematics is as close to the Ideal Gas like Language form. For instance, I do not expect it to be able to represent dynamics of human emotions. The boundaries involved must be very fluid to allow such fluid knowledge. On the other hand, the Language of Poetry seems to represent human emotions quite well. 
-
-*  One one hand, knowing the abstract conditions is enough to know all possibilities. An example is dynamical systems: One may understand all the rules of chess but becoming an expert chess player requires detailed study of structures that may arise within play. Details within a simple framework of rules may be much more complicated than one may think. Think about classification problems in a category. Groups, Topological Spaces, etc are hard to classify. Probability and ergodic decompositions. Complex flows arising out of Navier Stokes, quantum dynamics from Schrodinger equation, piano compositions from key notes, billiard flow dynamics. Starting with rigid boundaries doesn't restrict their interior to be rigid. The rigid boundaries evolve to fluid structures inside these boundaries. In a Phase Diagram, the boundaries of a Phase have less degree of freedom than the interior region of a Phase. Or to put it the other way, the boundaries are formed by condensation of the fluid phases to allow a rigid interface between them. Similarly, mathematical equations that correspond to these boundaries are rigid and compact but they allow a vast amount of fluidity to arise within those boundaries.  
-
-* A single Phase of a Language is a SubLanguage. For example English is a phase. It interacts with more fluid Languages such as Mathematics. For English Language as a Phase, one can see the different states that it takes: the state of English in text messaging is more fluid than the state of English used in a Book or a Journal Publication. It is most fluid in Poetry. These different states may give a feel of Pressure and Temperature of English changing in different States. 
-
-* The Integrated forms of Entropy and Temperature may be easier to detect in rigid Languages like Information Theory (Look at Shannon Entropy for instance) or formal Languages. On the other hand, Pressure and Volume will be easier to detect for fluid Languages like English/Latin. 
-
-* This view of Mathematics as a Language answers the question of whether Mathematics is invented or discovered. It is both. To condense a fluid (universal) concept in a particular structure, one feels constructive hence closer to invention whereas when one evaporates (Integrates) a rigid concept to a more fluid (universal) one, it feels as if it was already there and it was just discovered. Calculus is the Language of Duality.
-
-* Exterior Differentiation is the Integral form of operations found in Vector Calculus: Gradient, Divergence and Curl. 
-
-* Zeta and Mobius functions in different structures.
 
 ### Theory of structures as Languages
 
@@ -408,6 +465,41 @@ This is just the theory of how phases transform. One must go to statistical mech
 * Recording does one half of the mental process. That is, condensing the observations into a form is done by recording. However one needs evaporation to enable the representation to be flexible like a fluid and adapt to different forms. Calculus involving both Differentiation and Integration is what makes thinking complete. It is the Duality of Calculus which allows humans to make Languages with such a broad range of rigidities that correspond to diverse Structures.
 
 * Mathematics is a natural language with more rigid structure than English or some other natural language, in the sense that the definitions and ways of arguing are more rigid. In English, approximate knowledge plays a very important role and that is highly subdued in math. There is some sort of Structuretime Duality going on here- the more we want to make a concept independent of time, the less independent it can be in structure, that is, it has highly well defined structure in space (localization)- one could say this is like uncertainty in fourier analysis (or its corollary Heisenberg uncertainty in QM). So math uses a more rigid approach to definitions than usual language. In this sense, the dynamics of english language beyond that rigidity cannot be captured in math, similar to how proofs in formal language logic don't capture the intuition in mathematical natural language based proof.
+
+### Consequences
+
+* Not all Dynamics that are available to occur in fluids can be seen in solids. By analogy we see that one particular language cannot capture all there is to see. For any given Language, one may relax the structure slightly to obtain a more fluid concept. The rigidity of Languages affect their scope of capturing dynamics. 
+  
+   - More fluid Languages like English allow us to talk about things like emotions- love, sadness etc. which cannot be defined mathematically, math being rigid cannot capture these emotions and hence cannot answer questions pertaining to them either.
+   
+* The reverse is also true: all dynamics in solids are not seen in fluids. 
+
+   - So the kind of dynamics we see in mathematical proofs are not available in English or a more fluid language. This allows us to see that Mathematics doesn't model the world as an accurate reflection but instead, it condenses everything in rigid terms: condensation is just decreasing entropy by restricting Degrees of Freedom to be able to observe better. We try to condense everything into rigid terms to be able to capture and control it: the amount of randomness in a fluid is too high to be captured or controlled.
+
+* An interesting observation here is that of scale. On large enough Time scales, solids are actually no different than a fluid. Glass (amorphous) is considered to be a solid (compared to a usual liquid) just because of its relative rigidity and kinetics at human timescales. It actually flows just like a liquid but the rate of flow is very small (it takes millions of years to observe significant mass flow). So an observer who observes once every million years would call glass as a fluid. Similarly in mathematics, although the language is relatively rigid, concepts like continuity, addition/product, have evolved slowly over the years to reveal their fluidity. Time scale is itself an Observer (Language) which sees different things from different points. I think this randomness/entropy part in fluids is where probability comes in. Will have to study ergodic theory and dynamical systems to understand this interaction better.
+
+
+* The Unreasonable effectiveness of Mathematics is not unreasonable at all: Mathematics is just the appropriately condensed version of relatively fluid ideas which otherwise stay abstract knowledge. Mathematics is prevalent in sciences because it has the rigidity to allow capturing, analyzing and manipulation and then it allows fluidity of those concepts to generalize. It is this control over condensed matter that makes reproduction and transport of ideas easy and the fluidity of concepts that allows it to be applicable so widely. Actually, logic (or formal language) is more rigid than mathematics. Why don't we use this for controlling information? It takes much more time for condensing/evaporation by the human mind. The rigid aspect may be better for computers but not for humans. It takes way more time to reproduce. That's exactly why coding is not a natural language. Similarly, within Mathematics, Linear Algebra is prevalent because we want to formulate everything in the most condensed form. A linear map is known completely by the values it takes on the basis. This rigid vector space structure allows highly condensed forms of representing knowledge.
+
+* I believe there's more rigid languages too which haven't been discovered yet. In physics, an analogue would be the Bose-Einstein condensate. I think if we can find an analogous way to form a 'bose einstein condensate type of language', it will be a breakthrough in compression technology (and hence artificial intelligence- http://prize.hutter1.net/, https://en.wikipedia.org/wiki/Hutter_Prize, https://analyticsindiamag.com/hutter-prize-data-compression/). It certainly has to do with information entropy. This also raises the question of the scope of quantum computers as they have additional dynamcis due to non-abelian statistics of anyons.
+
+* How do we think about abstract concepts? Approximate boundaries: There is no strict delineation of the notion of a chair. One may vaguely say that chair is something we use to sit on. But then, can the floor be called a chair? How do we generalize the concept to a situation that we have never encountered before? It's by allowing fluidity of concepts. Another example ‘addition’ in categories- direct sum, disjoint union, etc. Instead of having exactly defined boundaries, approximate notions that are like fluids can also form part of our knowledge. 
+
+* Observing the abstract form of something may not help in seeing everything about it’s particulars just like Observing the dynamics of a fluid form of a substance may not help in knowing the dynamics in its solid form. 
+
+* Mathematics is a rigid language in terms of the rigidity of allowed boundaries but it has sublanguages that may be quite fluid in terms of the low amount of structure: for example, category theory assumes very less structure compared to usual natural languages. As a result, it can be used to represent relatively abstract knowledge quite well. The behaviour of gaseous states (most fluid) of all matter is very similar since all have less structure and high flexibility- they all behave like an ideal gas. Hence the most fluid Language of Mathematics is very close to an Ideal Gas and can be used to represent most abstract knowledge. I am not sure if Category theory or any other such Language of Mathematics is as close to the Ideal Gas like Language form. For instance, I do not expect it to be able to represent dynamics of human emotions. The boundaries involved must be very fluid to allow such fluid knowledge. On the other hand, the Language of Poetry seems to represent human emotions quite well. 
+
+*  One one hand, knowing the abstract conditions is enough to know all possibilities. An example is dynamical systems: One may understand all the rules of chess but becoming an expert chess player requires detailed study of structures that may arise within play. Details within a simple framework of rules may be much more complicated than one may think. Think about classification problems in a category. Groups, Topological Spaces, etc are hard to classify. Probability and ergodic decompositions. Complex flows arising out of Navier Stokes, quantum dynamics from Schrodinger equation, piano compositions from key notes, billiard flow dynamics. Starting with rigid boundaries doesn't restrict their interior to be rigid. The rigid boundaries evolve to fluid structures inside these boundaries. In a Phase Diagram, the boundaries of a Phase have less degree of freedom than the interior region of a Phase. Or to put it the other way, the boundaries are formed by condensation of the fluid phases to allow a rigid interface between them. Similarly, mathematical equations that correspond to these boundaries are rigid and compact but they allow a vast amount of fluidity to arise within those boundaries.  
+
+* A single Phase of a Language is a SubLanguage. For example English is a phase. It interacts with more fluid Languages such as Mathematics. For English Language as a Phase, one can see the different states that it takes: the state of English in text messaging is more fluid than the state of English used in a Book or a Journal Publication. It is most fluid in Poetry. These different states may give a feel of Pressure and Temperature of English changing in different States. 
+
+* The Integrated forms of Entropy and Temperature may be easier to detect in rigid Languages like Information Theory (Look at Shannon Entropy for instance) or formal Languages. On the other hand, Pressure and Volume will be easier to detect for fluid Languages like English/Latin. 
+
+* This view of Mathematics as a Language answers the question of whether Mathematics is invented or discovered. It is both. To condense a fluid (universal) concept in a particular structure, one feels constructive hence closer to invention whereas when one evaporates (Integrates) a rigid concept to a more fluid (universal) one, it feels as if it was already there and it was just discovered. Calculus is the Language of Duality.
+
+* Exterior Differentiation is the Integral form of operations found in Vector Calculus: Gradient, Divergence and Curl. 
+
+* Zeta and Mobius functions in different structures.
 
 ### Questions
 
