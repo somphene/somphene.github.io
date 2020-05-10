@@ -45,7 +45,6 @@ Once we establish that there does exist a way to represent a phenomenon mathemat
 
 I went down this track to study theories of knowledge and found nothing but ongoing debates in Epistemology (branch of Philosophy) and Philosophy of Science. This shifted my thinking beyond Physics. Following some ancient scriptures, I jumped back onto the idealistic stuff. Instead of the possibly imperfect universe, I had reasons to believe in the existence of an ideal truth which is independent of physical reality and an ideal mind which can gain this truth.  Since this investigation was more focused on knowledge and our own mental structures itself rather than the particulars about the universe, I started studying Mathematics which seemed to have more absolute truths. For instance, look at Pythagoras Theorem. Once proved, there is no way that it changed with particular physical conditions. But soon I realized that the so-called theorems in Mathematics were just like the Laws encountered in Physics: they worked only in specific conditions. Pythagoras Theorem didn't work in Non-Euclidean geometry. This made me see Pythagoras theorem as a mere tautology. It's inbuilt in the way we define to measure distances. Soon all of Mathematics was a tautology. All that the equations did was change the form of the initial object to present it in some other way, all the while going along equalities which meant we never got anything new out of what we started with. Mathematics seemed no different than cooking. This was a naive view to hold and it has changed since then. I appreciate now that there can be extremely complicated behaviours of systems which can be simplified and stated elegantly using Mathematics. One of the reasons to write this is to illuminate this very fact. However, cooking itself turned out to be extremely complex and fun too as I got to know the first summer in which I had to cook myself.
 
-
 ### Differentiation and Integration
 
 The investigation into thinking led to the following observations:
@@ -56,19 +55,21 @@ The investigation into thinking led to the following observations:
 
    - For example, to say something about "this" needs creation of a boundary which separates "this" from the rest. In the case of Real Numbers, we can talk about positive numbers only if we create a boundary stating that everything else is negative. Boundaries are needed to differentiate between things. 
    
-   - These boundaries need not be geometric. Mental structures or abstractions such as triangles can be distinguished from squares without having a geometric space in which triangles lie on one side of the boundary and the squares on the other side, but even here, one forms equivalence relations to define partitions among all Polygons which separate the triangles from the squares. Such partitions are what we would consider as boundaries. In this sense, mental thoughts (or structures) are creation of boundaries.
+   - Mental structures or abstractions such as triangles can be distinguished from squares as one forms equivalence relations to define partitions among all Polygons which separate the triangles from the squares. Such partitions are boundaries differentiating all Polygons into various disjoint Subsets (which I will call Phases). In this sense, abstract thoughts (or structures) are creation of boundaries (Phase Boundaries).
 
-* One may restate the above point as: thought is "dualistic", since creating a boundary implies creation of two sides. Positive numbers exist only if negative numbers exist. In looking at one side, one misses out on the other. Division (Thought) destroys Symmetry. The same object gets Differentiated into two distingushable objects. Thought (Naming) Differentiates the two. 
+* One may restate the above point as: thought is "Dualistic", since creating a boundary implies creation of two sides. Positive numbers exist if only if negative numbers exist. In looking at one side, one misses out on the other. Division (Thought) destroys Symmetry. The same "Thing" gets Differentiated into two distingushable objects. Thought (Naming) Differentiates the two. 
 
-   - For example, in the process of Evolution, at one point, there's only a single body but when it gets separated by a boundary of physical division, we name one as Parent and the other as child. This symmetry breaking process is spontaneous. Parent and Child both come into existence simultaneously.
+   - For example, in the process of Evolution, at one point, there's only a single body but when it gets separated by a boundary of physical division, we name one as 'This' and the other as 'That'. This symmetry breaking process gives rise to 'Dual Phases'. Parent and Child both come into existence simultaneously. Positive and Negative, Higher and Lower, Left and Right, Rigid and Fluid, are all examples of Dual Phases.
 
-* Abstraction is the reverse of thinking. Abstraction is dissolving the boundaries that were created by thought. Abstraction relases captured observations from particular forms (Language). Abstraction forgets naming which requires dissolution of boundaries that create the names.  
+* Abstraction is the "reverse" of thinking. Abstraction is dissolving the boundaries that were created by thought. Abstraction relases captured observations from particular forms (Language). Abstraction forgets naming, which requires dissolution of boundaries that create the names. 
 
-   - For example, even thought the bodies may get separated by a boundary of physical division, but we share a common name for both the Parent and the child: the abstraction which dissolves the two different names (boundary) gives the notion of a Family. This symmetry restoring process Integrate the Parent and Child into one simultaneously.
+   - For example, even though the bodies may get separated by a boundary of physical division, but we share a common name for both the Parent and the child: the abstraction which dissolves the two different names (boundary) gives the notion of a Family. This symmetry restoring process Integrate the Parent and Child into one simultaneously.
    
-There may be much more finer observations about mental processes and to avoid overcomplications, we would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I respectively are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
+* In other words, **Abstraction and Thought are Duals to each other**. 
+   
+I would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
 
-* Mental Duality:
+* Language Duality:
 
  Differentiation | Integration
 
@@ -115,14 +116,20 @@ Following are some examples.
 
 The simplest theory to pick and demonstrate the ideas involved in Language is probably the Language of States of Matter. 
 
-* Take a simple (single 'component' or restrict to one dimensional) system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Fluid form (water vapor or liquid water), Differentiation gives Solid form (ice) (hereafter I shall replace the word 'Solid' by 'Condensed'). The Phase Boundary or the interface between the two is the Structure of this Language. Each form- Condensed or Fluid is a representation of Water in the Language of States of Matter. 
+* Take a simple (single 'component' or restrict to one dimensional) system like Water which exists in different states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the write up, we say that here Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Fluid form (water vapor or liquid water), Differentiation gives Solid form (ice) (hereafter I shall replace the word 'Solid' by 'Condensed'). The Phase Boundary or the interface between the two is the Structure of this Language. Each form- Condensed or Fluid is a representation of Water in the Language of States of Matter. 
 
-* Differentiation in this Language gives the notion of Rigidity. The Condensed Language is called relatively more Rigid. We see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. Differentiation destroys Symmetry, Integration adds Symmetry (or degrees of freedom). This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
+* Differentiation in this Language gives the notion of Rigidity. The Condensed Language is called relatively more Rigid. We see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids) are not well formed. Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. 
+
+* Differentiation destroys Symmetry, Integration creates Symmetry. This is because Differentiation is an additional boundary which differentiates between what should have been indistinuguishable. 
+
+* The Differentiated forms are now restricted by the additional boundary compared to its Integral form. This is decrease in the Degrees of Freedom. Integrated forms have less boundary which allows more freedom. This is increase in the Degrees of Freedom.   
+
+* Corresponding to every  (or degrees of freedom). This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for.
 
 * Thus we have seen Condensed-Fluid Duality:
 
-Condensed | Fluid
-
+ Condensed | Fluid
+ 
 ### The Language of Signs
 
 Positive and negative.
