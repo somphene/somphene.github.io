@@ -171,7 +171,7 @@ $$ V dP = S dT $$
 
 * Maxwell's Relation is obtained by taking Partial derivatives of the cross conjugate variables:
 
-$$ \lvert. \frac {\partial V}{\partial T}\rvert_P = -\lvert. \frac {\partial S}{\partial P} \rvert_T 
+$$ \lvert. \frac {\partial V}{\partial T}\rvert_P = -\lvert. \frac {\partial S}{\partial P} \rvert_T $$
 
 * A Component is a fundamental unit (irreducible) such as the Water Molecule which is common to all Phases in the Language. Water itself is reducible to atoms but that is part of another Language which is not the focus here. 
 
