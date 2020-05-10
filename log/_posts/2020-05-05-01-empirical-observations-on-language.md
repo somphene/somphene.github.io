@@ -4,7 +4,7 @@ blog-category: blog
 published: true
 title: Empirical Observations on Language
 author: Som Phene 
-tags: [Language, Structure, Duality, Knowledge, Representation, Rigidity, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Constraints, Symmetry, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation] 
+tags: [Language, Structure, Duality, Knowledge, Representation, Rigidity, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Constraints, Symmetry, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Abstract
@@ -13,7 +13,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigidity, Entrop
 
 ### Disclaimer
 
-This is a non-technical write up meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time (isolation + Phone and Laptop stopped working midway of transcribing my handwritten notes + felt sick and thought the end was near, but now I'm fine and using a nearby laptop to type up my two notebooks) needs it to be. There is still much to develop on the technical side, across many languages. This will require input from technical experts in their respective languages. I will also use this write up or some condensed form of it to serve as a starting point to communicate with these experts. I apologize to these experts for the looseness in writing and hope that they can interpret the vague analogies suitably to understand the perspectives. 
+This is a write up meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time (isolation + Phone and Laptop stopped working midway of transcribing my handwritten notes + felt sick and thought the end was near, but now I'm fine and using a nearby laptop to type up my two notebooks) needs it to be.
 
 I have never officially taken a course in linguistics. This write up may have nothing to do with linguistics. In fact, this may not have much to do with the usual sense in which languages are studied. I am interested in a broader category of Languages and their dynamics. For convenience, I would like to use the word Language to be anything used to represent Knowledge. As in usual usage, when both terms language and knowledge are specified, a particular language will be used to represent the specific knowledge. The following note on terminology is for those with hard wired logic and maybe skimmed over for those who are comfortable with not so precise definitions, which will anyways become clear by the end.
 
@@ -70,7 +70,7 @@ There may be much more finer observations about mental processes and to avoid ov
 
 * Mental Duality:
 
- Differentiate | Integrate
+ Differentiation | Integration
 
 ### Consequences
 
@@ -84,7 +84,7 @@ There may be much more finer observations about mental processes and to avoid ov
 
 * Complete Integration dissolves all boundaries, which causes end of thinking and hence end of time. In absence of any duality, there is only one. Nothing changes because there is nothing else to change to. In the absence of all boundaries there is ultimate symmetry. This cannot be captured by thinking because capturing is always in specific form. Hence there is no way to experience and/or record it. Complete Integration is not a finite psychological time process since dissolving all boundaries implies going beyond time.
 
-* Boundaries in mental Structures create psychological Time and vice versa. In this sense, Structures and Time are dual notions just as positive and negative are. Integration of Structures and Time gives rise to a unified notion of Structuretime (this is similar to, but not the notion of spacetime referred to in General Relativity).
+* Boundaries in mental Structures create psychological Time and vice versa. In this sense, Structures and Time are dual notions just as positive and negative are. Integration of Structures and Time gives rise to a unified notion of Structuretime (this is similar to, the notion of spacetime referred to, in General Relativity).
 
 ### Structure and Language
 
@@ -115,43 +115,76 @@ Following are some examples.
 
 The simplest theory to pick and demonstrate the ideas involved in Language is probably the Language of States of Matter. 
 
-* Take a simple single 'component' system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state may be considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. This is the behaviour that we want to see in all Languages. In other words these are the common features (universal) that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
+* Take a simple (single 'component' or restrict to one dimensional) system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Fluid form (water vapor or liquid water), Differentiation gives Solid form (ice) (hereafter I shall replace the word 'Solid' by 'Condensed'). The Phase Boundary or the interface between the two is the Structure of this Language. Each form- Condensed or Fluid is a representation of Water in the Language of States of Matter. 
+
+* Differentiation in this Language gives the notion of Rigidity. The Condensed Language is called relatively more Rigid. We see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. Differentiation destroys Symmetry, Integration adds Symmetry (or degrees of freedom). This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
 
 * Thus we have seen Condensed-Fluid Duality:
 
 Condensed | Fluid
 
+### The Language of Signs
+
+Positive and negative.
+
+### The Usual Languages- English, Physics and Mathematics
+
+* The above behaviour is analogous to the behaviour of the usual Languages that we know of. For example, English includes relatively loose definitions and vague statements and hence allows more fluid boundaries in its structure. Hence English may be considered analogous to Gaseous form  Language. Physics is relatively more precise with defining quantities that it considers and hence has rigid boundaries which makes it analogous to Liquid form Language. Mathematics has the most rigid definitions and only allows statements that follow logic rules. Hence, Mathematics may be considered analogous to Solid form Language. I consider all these forms as states of the same Language and would like to show how Mathematics can be evaporated (Integrated) to give the Language of Physics up to some degree of freedom which in turn could be evaporated (Integrated) to give English Language. Conceptually it is clear that there are additional constraints in Physics than in English and similarly for Physics and Mathematics. There are also clear regions where these Languages 'meet'. That is, most places where English and Physics meet are in the statements leading up to the mathematical formulation of various theories. There are also places where Physics and Mathematics meet: in the rigorously derived equations of Physics. In this sense, Physics is a two component phase Language formed by Languages of Mathematics and English. Hence it has a resulting rigidity that is in between those of its components. However, there are details that need to be shown one by one. That is the goal of this write up. In particular, what are the analogues of temperature and pressure that work as State determining Variables for these languages, what does the corresponding Phase Diagram looks like and how to formulate a **Thermodynamics-type theory** which determines the **Phase Transformations** in the context of these Languages remains to be seen. As we explore different Languages in the upcoming sections, these concepts will start taking much more concrete form. For example, In Physics, the Planck's constant and the speed of light; the permittivity and the permeability, etc. are corresponding variation parameters to Temperature and Pressure (this will be seen shortly). 
+
+* Dynamics that appear in one Language may not appear in another Language that is different in Rigidity. In the Language of Matter, we see that Solids do not show all the dynamics that are seen in liquids and gases and this is true for any combination of two choices out of solid, liquid and gas. Difference structures give rise to different dynamics, hence the dynamics that can be seen in one Language such as English, namely those of emotions cannot be seen in another Language such as Physics or Mathematics that are more Rigid. Concepts like emotion and sadness are not allowed in the Rigid structure of the Language of Mathematics. A Language with more Rigid structure can be embedded in a Language with less Rigid structure. A Language with less Rigid Structure must be given Additional Structure (Differentiation) to be represented in a More Rigid Structure. Additional Structure means loss of Symmetry or Degrees of Freedom. This is similar to how Water needs to lose Degrees of Freedom (continuous translational symmetry) to be solidified to a Solid. The two Languages formed by Differentiation are hence Dual Languages to each other.
+
+* Thus we have seen Math-English Duality
+
+Math | English
+
+### Language of Sets: The elementary Language in the Language of Mathematics
+
+* In the Language of Sets, creating an Equivalence Relation (Reflexive, Symmetric and Transitive) plays the role of Differentiation and Quotienting Out plays the role of Integration. Creating an Equivalence Relation partitions a Set into many disjoint Phases with rigid boundaries, which corresponds to condensation (Differentiation) whereas the Quotient Set of a Set dissolves the boundaries and Identifies distinct elements of the Set, which corresponds to evaporation (Integration). The partitioned set is rigid like a solid whereas the quotient set is fluid like a liquid.
+
+* Thus we have seen Partition-Quotient Duality:
+ 
+ Partition | Quotient 
+
 ### The Fundamental Language of Thermodynamics- Phase Diagrams 
 
-The phases involved in Thermodynamics of a single component system are:
+* The phases involved in Thermodynamics of a single component system are:
 
- Condensed | Fluid
+Condensed | Fluid
 
-* Here condesned form is called solid and The Fluid Phase maybe further Differentiated to Liquid and Gas
+* Here condesned form is called Solid and The Fluid Phase maybe further Differentiated to Liquid and Gas
 
  Solid | Liquid | Gas
 
-To create a picture of the different Phases (Solid, Liquid, Gas) and their states, in Thermodynamics we use what is known as a Phase Diagram. Phase diagrams are a compilation of Dualities involved in a Language. 
+* To create a picture of the different Phases (Solid, Liquid, Gas) and their states, we use what is known as a Phase Diagram. Phase diagrams are a 'compilation' of Phase Boundaries (Dualities) involved in a Language. The way to 'compile' various Phases  is as w 
 
-* I'm assuming most people have seen the Phase Diagram of Water, with the Triple point being a point where all three- ice, water and vapour meet. Here is a similar Phase diagram:
+* I'm assuming most people have seen the Phase Diagram of Water, which shows how the Different Phases: Ice, Water and Vapor exist with the Phase Boundaries representing the Partitioning with the Triple point being a point where all three- ice, water and vapour meet. Here is a similar Phase diagram:
 
 ![Single Component Phase Diagram](/log/images/Language_1.jpg)
 
+
 * For a fixed Pressure, we see how Phase starts with Solid Phase at Lower Temperature (lower degree of freedom) then transitions into Liquid Phase by crossing the Black Phase Boundary Line and finally transitions into Gas Phase by crossing the Blue Phase Boundary Line. We may ignore the critical lines for now.
 
-The most common diagrams are the one, two and three component Phase Diagrams. Here is a two component Phase Diagram:
+* Thus we have seen Phase-Phase Boundary Duality.
+
+Phase | Phase Boundary
+
+* The most common diagrams are the one, two and three component Phase Diagrams. Having more than one component which can mix with each other. The mixing percentage is itself a varibale and this means that there is increase in the number of Degrees of Freedom of the boundaries involved. For each Phase, the sum of fraction of components that are mixed together should add to 1, hence knowing the percentage of all but one component in the mixture determines its state uniquely. This implies that the Phase Diagram exists in dimension $$D$$, where $$D= (#Components-1)$$. 
+
+* Here is a two component Phase Diagram:
 
 ![Two Component Phase Diagram](/log/images/Language_2.jpg)
 
 * In High School many of the function plots one sees in Mathematics are types of Phase Diagrams. 
 
-* The boundaries of each Phase represents the interface at which Phases on either side can come together to interact and stay at equilibrium with each other. In the Language of Thermodynamics, a potential called as The Gibbs Free Energy is used to Differentiate between Phases. When the Gibbs Free Energies of Phases are equal, they cannot be distinguished and they are in Equilibrium.
+* The boundaries of each Phase represents the interface at which Phases on either side can come together to interact and stay at equilibrium with each other. 
+
+* For each Phase, we want to get a measure of how far it is from a Phase Boundary (Equilibrium) and this variable is called as The Gibbs Free Energy is used to Differentiate between Phases. When the Gibbs Free Energies of Phases are equal, they cannot be distinguished and they are in Equilibrium.
 
 * Thermodynamics is an Empirical Language which measures the variable macroscopic physical quantities of materials. These include Temperature, Pressure, Volume, Entropy and so on. Thermodynamic Language captures the Duality that exists among these Variables so that all of these are not independet. 
 
 * We look at the Differentiation of Intensive and Extensive Variables. Intensive Variables do not change on scaling the system, Extensive Variables change on scaling the system. Intensive Variable is Rigid like a solid (Differential form) whereas Extensive Variable is Fluid (Integral form). Examples of Intensive Variables are Pressure, Temperature whereas those of Extensive Variables are Volume and Entropy. 
 
-* Thus we have seen Intensive-Extnesive Duality:
+* Thus we have seen Intensive-Extensive Duality:
  
  Intensive | Extensive
 
@@ -159,8 +192,9 @@ The most common diagrams are the one, two and three component Phase Diagrams. He
 
 $$ G(P,T)= H-TS $$
 
-* When differentiated, we obtain: 
-
+* When the total derivative of $$G$$ is expressed using the multivariable chain rule, we obtain: 
+$$ dG = \frac{\partial G}{\partial P} dP + \frac{\partial G}{\partial T} dT $$
+* Using the relations, $$\frac{\partial G}{\partial P}=V$$ and $$\frac{\partial G}{\partial T}=-S $$, we obtian:
 $$ dG =  V dP -S dT $$
 
 * For Equilibrium, set $$dG =0$$, to obtain the equation of Phase Boundary:
@@ -171,7 +205,7 @@ $$ V dP = S dT $$
 
 * Maxwell's Relation is obtained by taking Partial derivatives of the cross conjugate variables:
 
-$$ \lvert. \frac {\partial V}{\partial T}\rvert_P = -\lvert. \frac {\partial S}{\partial P} \rvert_T $$
+$$ \left( \frac {\partial V}{\partial T}\right_P = -\left( \frac {\partial S}{\partial P} \right)_T $$
 
 * A Component is a fundamental unit (irreducible) such as the Water Molecule which is common to all Phases in the Language. Water itself is reducible to atoms but that is part of another Language which is not the focus here. 
 
@@ -208,17 +242,7 @@ $$
 * Thus we have seen Phase A-Phase B Duality
 ![Phase A-Phase B Duality](/log/images/Language_.jpg)
 
-* **Phase Diagrams are fundamental** :  Since any Language has Phases and Phase Boundaries, we see Phase Diagrams as Fundamental to all Languages.
-
-### The Usual Languages- English, Physics and Mathematics
-
-* The above behaviour is analogous to the behaviour of the usual Languages that we know of. For example, English includes relatively loose definitions and vague statements and hence allows more fluid boundaries in its structure. Hence English may be considered analogous to Gaseous form  Language. Physics is relatively more precise with defining quantities that it considers and hence has rigid boundaries which makes it analogous to Liquid form Language. Mathematics has the most rigid definitions and only allows statements that follow logic rules. Hence, Mathematics may be considered analogous to Solid form Language. I consider all these forms as states of the same Language and would like to show how Mathematics can be evaporated (Integrated) to give the Language of Physics up to some degree of freedom which in turn could be evaporated (Integrated) to give English Language. Conceptually it is clear that there are additional constraints in Physics than in English and similarly for Physics and Mathematics. There are also clear regions where these Languages 'meet'. That is, most places where English and Physics meet are in the statements leading up to the mathematical formulation of various theories. There are also places where Physics and Mathematics meet: in the rigorously derived equations of Physics. In this sense, Physics is a two component phase Language formed by Languages of Mathematics and English. Hence it has a resulting rigidity that is in between those of its components. However there are enormous technical details that need to be shown. In particular, what are the analogues of temperature and pressure that work as State Variables for these languages, what does the corresponding Phase Diagram looks like and how to formulate a **Thermodynamics-type theory** in context of these Languages remains to be seen. In Physics, the Planck's constant and the speed of light; the permittivity and the permeability, etc. are corresponding variation parameters to Temperature and Pressure (this will be seen shortly). 
-
-* Dynamics that appear in one Language may not appear in another Language that is different in Rigidity. In the Language of Matter, we see that Solids do not show all the dynamics that are seen in liquids and gases and this is true for any combination of two choices out of solid, liquid and gas. Difference structures give rise to different dynamics, hence the dynamics that can be seen in one Language such as English, namely those of emotions cannot be seen in another Language such as Physics or Mathematics that are more rigid. Concepts like emotion and sadness are not allowed in the rigid structure of the Language of Mathematics. A Language with more rigid structure can be embedded in a Language with less Rigid structure.
-
-
-* Thus we have seen Math-English Duality
-![Math-English Duality](/log/images/Language_.jpg)
+* **Phase Diagrams are the Language** :  Since any Language is made up of Phases and Phase Boundaries, we see that their compilation into a Phase Diagram is Fundamental to all Languages. The Phase Diagram itself is all the Structure which we call the Language.
 
 ### Calculus: The Language of Languages within the Language of Mathematics
 
@@ -236,15 +260,8 @@ $$
 ![Differential-Integral Duality](/log/images/Language_.jpg)
 
 * **Mirror Symmetry: The Invariants of Calculus** : Another example in the Language of Calculus is that of trignometric functions. These are special functions in the Language of Calculus since they are not affected by differentiation or integration. This is immediately seen by looking at Euler's Relation (relating the Exponential function with the Trignometric functions) and the fact that the Differentiation of an Exponential function is itself with some scaling factor. Whenever something is not affected by Differentiation or Integration, it must be the case that it 'exists on the boundary', which is to say that they retain their symmetries (degrees of freedom) and that they cannot be Differentiated by the operation of differentiation. This is similar to Mirror reflection in which objects at the boundary stay as they are and the structure of an object (maps isomorphically) is retained in the reflection.
-   - To see that they satisfy an invariance under Differentiation, look at the equation of the form $$ d (f) = c (f)$$, where $$c$$ is some constant and d stands for differentiating. Integration of this equation gives that the solution is an exponential function (or they may be defined as the solutions). That is, Exponential Function is an **Eigenfunction** (name given to functions which satisfy such an invariance) under differentiation. To reinterpret, Eigenfunctions form the symmetries of the Operation (whether it is differentiation or something else). Using these Invariant functions to Represent other functions helps us to see what parts of the function will remain invariant under the operarion. If we can represent a function in terms of invariant functions, then these form the units of the given function which remain invariant under the operation. These fundamental units will be called the 'Fundamental Invariants' or the 'Basis' of the Langauge since they span the boundaries which create the entire structure of the Language. Trignometric Functions form the Basis of the Language of Calculus. If there exists a Basis, since all the Phase Boundaries of a Language (structure) are part of the Basis, any Phase in the 'Interior' of the Phase Boundary can be represented using this Basis. Such a representation of a Phase using Basis will be called 'Composition'. The Phase when decomposed in terms of Basis boundaries,  gives an 'Amount' corresponding to each boundary This is called Projection. Since the Basis Lie at the Boundary, they only have one degree of freedom. Any given Phase is formed by composing the degrees of freedom of the Phase boundaries surrounding it. (This treatment of multi component systems under linear composition is incomplete)  
+   - To see that they satisfy an invariance under Differentiation, look at the equation of the form $$ d (f) = c (f)$$, where $$c$$ is some constant and d stands for differentiating. Integration of this equation gives that the solution is an exponential function (or they may be defined as the solutions). That is, Exponential Function is an **Eigenfunction** (name given to functions which satisfy such an invariance) under differentiation. To reinterpret, Eigenfunctions form the symmetries of the Operation (whether it is differentiation or something else). Using these Invariant functions to Represent other functions helps us to see what parts of the function will remain invariant under the operarion. If we can represent a function in terms of invariant functions, then these form the units of the given function which remain invariant under the operation. These fundamental units will be called the 'Fundamental Invariants' or the 'Basis' of the Langauge since they span the boundaries which create the entire structure of the Language. Trignometric Functions form the Basis of the Language of Calculus. If there exists a Basis, since all the Phase Boundaries of a Language (structure) are part of the Basis, any Phase in the 'Interior' of the Phase Boundary can be represented using this Basis. Such a representation of a Phase using Basis will be called 'Composition'. The Phase when decomposed in terms of Basis boundaries,  gives an 'Amount' corresponding to each boundary This is called Projection. Since the Basis Lie at the Boundary, they only have one degree of freedom. Any given Phase is formed by composing the degrees of freedom of the Phase boundaries surrounding it. (This treatment of multi component systems under linear composition is incomplete). 
 
-
-### Language of Sets: The elementary Language in the Language of Mathematics
-
-* In the Language of Sets, creating an Equivalence Relation plays the role of Differentiation and Quotienting Out plays the role of Integration. Creating an Equivalencce Relation partitions a Set into many disjoint Phases with rigid boundaries, which corresponds to condensation (Differentiation) whereas the Quotient Set of a Set dissolves the boundaries and Identifies distinct elements of the Set, which corresponds to evaporation (Integration). The partitioned set is rigid like a solid whereas the quotient set is fluid like a liquid.
-
-* Thus we have seen Partition-Quotient Duality:
-![Partition-Quotient Duality](/log/images/Language_.jpg)
 
 ### Thermodynamics and Calculus
 
@@ -272,11 +289,13 @@ We shall see how the Laws of Thermodynamics can be Reinvented in terms of the La
 
 * I must add that heat flow being seen as a fluid (like a wave) in nature makes the Temperature (and hence Entropy) take continuum values. There is an additional duality in the relation $$E= k_bT$$ where on fixing the Temperature, the Energy increases in discrete steps. This is a form of Wave-Particle Duality which is also seen in $$E= \hbar \omega$$. When a particular Temperature or Frequency is fixed, one degree of freedom is lost and Energy loses its Wave-like character. This makes Energy act through the degrees of freedom provided by the corresponding Particles that are discrete. Particles and Waves are distinguished by their discrete and continuum degrees of freedom respectively. This Duality will be seen in detail soon.
 
-### Addition as a Language
+### Composition or Addition as a Language
 
-* Addition is a structure that can be imposed on Sets and hence it is a Language. 
+* Composition is the process of compiling separate Structures into one. In Physical Language, it may be seen as Mixing. It may involve both Integration and Differentiation.
 
-* In its most rigid form, Addition is seen as addition of integer numbers. This rigid form of addition is naturally inherited from the Language of rigid particles in Physics. Rigid Particles are discrete, like numbers. Adding numbers is like adding Particles. Addition of fractions is obtained without much change in the rigid form of addition: the only difference getting the denominators to match first so that the fractions can be added meaningfully. A fundamental change in this rigid form of addition is obtained by going from a discrete (rigid) degree of freedom to a continuous (fluid) degree of freedom. In other words, Addition from its Rigid discrete form gets **Integrated** to Addition in its Fluid form- which we call '**Scaling**' or 'scalar multiplication'. 
+* One form of Mixing is Addition. Addition is a structure that can be imposed on Sets and hence it is a Language of Differentiation. 
+
+* In its most rigid form, Addition is seen as addition of integer numbers. This rigid form of addition is naturally inherited from the Language of rigid particles in Physics. Rigid Particles are discrete, like numbers. Adding numbers is counting together two groups of Particles. Addition of fractions is obtained without much change in the rigid form of addition: the only difference getting the denominators to match first so that the fractions can be added meaningfully. A fundamental change in this rigid form of addition is obtained by going from a discrete (rigid) degree of freedom to a continuous (fluid) degree of freedom. In other words, Addition from its Rigid discrete form gets **Integrated** to Addition in its Fluid form- which we call '**Scaling**' or 'scalar multiplication'. 
 
 * I realized this while teaching at an NGO to underprivileged kids. One of the bright kids asked me what Multiplication was and I quipped back with the usual "repeated addition" answer. She immediately asked how to add 4, $$\pi$$ times and I was speechless for a whole ten minutes before realizing that the "repeated addition" does not have enough degrees of freedom to account for multiplication. The right answer should be Multiplication is just addition in a more fluid form, that is with a continuous degree of freedom obtained from the scalars (Real numbers) used for multiplying.
 
@@ -287,16 +306,19 @@ We shall see how the Laws of Thermodynamics can be Reinvented in terms of the La
 
 * Beyond Complex Numbers, Addition is also inherited componentwise to that in Vector Spaces (more popularly known as the Parallelogram Law of addition, that is fluid as the degree of freedom is that of the dimension of the Vector space. **This fluid form of Addition is also the Language of Addition which is natural to Waves (Fluid-like) in Nature and hence results in 'superposition' as the Language form of Addition for Waves**. So superposition of waves is the Integrated form of Addition of rigid objects. Which means, to 'Add' Particles, the Language to be used is Addition in its Rigid form- Addition of Real Numbers; and to 'add' Waves the Language to be used is the Language of Addition in its Fluid form- Vector Addition or Superposition. 
    - For example, if we take two Real Numbers $$x$$ and $$y$$, the Rigid Addition gives as a result $$z$$ which is a Real Number given by $$z= (x+y)$$. 
+   
    - However, when we Complex Add a Complex Number to another Complex Number, say for example, $$x$$ is to be added to $$y$$, with angle between them being $$\theta$$, the Fluid Addition gives as a result $$z'$$ which is a Complex Number given by the Parallelogram Law of Addition, $$z'= x+y$$ which has additional Degree of Freedom. This Additional degree of freedom is manifestly seen by comparing the Magnitudes of $$z$$ and $$z'$$. The Absolute value is $$\lvert z \rvert = x+y$$ for Real Addition whereas it is $$\lvert z' \rvert = \left(x^2+y^2+ 2\lvert x \rvert \lvert y \rvert \cos{\theta}\right)^\frac{1}{2} $$ for Complex Addition. The $$2\lvert x \rvert \lvert y \rvert \cos{\theta}$$ Non-Linear term is what shows the Additional Degree of freedom in Complex Addition or Superposition, which is not present in Real Addition. This is exactly the term which makes Light Wave added with Light Wave to allow Bright and Dark zones in Young's Double Slit Experiment. That's just the Language of Waves. **Quantum Mechanics is a more Fluid Theory obtained by Integration of Classical Mechanics to account for Wave Language of Matter, which is why Complex Addition (Fluid Addition) replaces Real Addition (Rigid Addition) and the complex number $$i$$ enters the Schrodinger Equation**. It is this additional degree of freedom in Complex Numbers which is what makes it useful to handle more Fluid Wave-like behaviours. The Language of Complex Numbers provides the Additional Degree of Freedom required to represent Wave Phenomenon. 
    
-   - We should see easily that a Language based on **Quaternions (a + b i + c j + d k)** which has more degrees of freedom than Complex Numbers can replace Quantum Mechanics as its Integral Theory and represent even more Wavelike behaviour.
+   - We should see easily that a Language based on **Quaternions (a + b i + c j + d k)** which has more degrees of freedom than Complex Numbers can replace Quantum Mechanics as its Integral Theory and represent much more Wavelike behaviour. However such high Degree of Freedom also makes the Phase Diagram more complicated with many possible Compositions (mixing of Phases) that can take place.
    
    - In fact, Rigid Addition can be made more Fluid to higher degrees of freedom by Integrating it to Fluid Multiplication (Powers). That is, replace $$z= x+y$$ by $$z=(x^n +y^n)^\frac{1}{n}$$. 
    
 * Thus we have seen Addition-Superposition Duality:
-![Addition-Superposition Duality](/log/images/Language_.jpg)
+
+Addition | Superposition 
 
 * Addition can take various other forms:
+
    - In Sets, Language of Addition takes the form of disjoint union.
    
    - In Abelian Groups, Addition becomes word concatenation.
@@ -309,7 +331,7 @@ We shall see how the Laws of Thermodynamics can be Reinvented in terms of the La
    
    - Nonlinearity in Multiplication Powers
 
-* Addition Structure can be reinterpreted as ways to Rigidly Partition a countable Set. Corresponding to every Partitioning of a countable set, replace the Partitions by + signs. Unlike Fluid Addition in superposition which mixes waves and hence Entropies get mixed, Rigid addition keeps the Entropies 
+* Addition Structure can be reinterpreted as ways to Rigidly Partition a Countable Set. Corresponding to every Partitioning of a countable set, replace the Partitions by + signs. Unlike Fluid Addition in superposition which mixes waves and hence Entropy stays the same, Rigid addition decreases the Entropies by not allowing mixing to take place across the Rigid Partition. 
 
    - **Fermat's Last Theorem** for positive integers $$x,y,z$$ and $$n>2$$ involves the Equation: $$z^n = x^n + y^n $$, which can be reinterpreted in this Language to say that a Highly Nonlinear Fluid ($$z^n$$) cannot be Rigidly Partitioned into Two Fluids of Equal High Nonlinearity ($$x^n + y^n$$). In other words, my intuition says that the Degrees of Freedom of Two Highly Nonlinear Fluids Added Rigidly are too low to for a Fluidly Added (completely mixed) Highly Nonlinear Fluid. In other words, the entropy of Left Hand Side scales as $$n$$, whereas that of the Right Hand Side scales way less than n due to the Rigid Addition (which is a partition of the Nonlinear fluid and hence increases its rigidty, meaning loss of entropy). This relatively high entropy of a completely mixed fluid on the Left Hand Side makes it very difficult to Rigidly Partition the Integers (Countable) and yet maintain the entropy required on the Right Hand Side. As will be seen in the next point, Bringing the entropy of Right Hand Side to scale as $$n$$ requires addition of $$n$$ very nonlinear terms. Without such entropy of mixing, the Partitioned Fluid on Right Hand Side will not be able to match the Entropy of the completely mixed Fluid on the Left Hand Side. 
    
