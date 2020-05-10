@@ -68,6 +68,10 @@ The investigation into thinking led to the following observations:
    
 There may be much more finer observations about mental processes and to avoid overcomplications, we would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I respectively are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
 
+* Language Duality:
+
+ Differentiate | Integrate
+
 ### Consequences
 
 * This thinking about thinking helped me to distinguish between psychological time and physical time. We can get caught up in mental structures for a long physical time. For example, while  in a lecture, I may be Differentiating (creating mental boundaries) to represent Vector Spaces as a mental structure while the professor moves ahead with other geometric concepts in front of my eyes. Similarly, even though the examples that represent vector spaces may be clear to me, it may take time to Integrate (abstract by dissolving boundaries) how these examples all belong to the same 'concept of a vector space'. Thereby, mental progress in time may be slower than physical progress in time. Hence I claim that psychological Time is emergent from structure. Differentiation and Integration are what create time. Only when one needs to Differentiate (represent something in a relatively rigid form) or Integrate (abstract out to relatively less rigid form), does one need time. This implies that observers with different Languages have different psychological time. What one records as Past depends on the Language in which one represents observations. For example: The memories of small sized organisms will be different than the memories of a human sized organism even if they are shown the same objects.
@@ -114,8 +118,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 * Take a simple single 'component' system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state may be considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. This is the behaviour that we want to see in all Languages. In other words these are the common features (universal) that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
 
 * Thus we have seen Condensed-Fluid Duality:
-![Condensed-Fluid Duality](/log/images/Language_.jpg)
-
+* Condensed | Fluid
 
 ### The Fundamental Language of Thermodynamics- Phase Diagrams 
 
@@ -123,7 +126,7 @@ The phases involved in Thermodynamics of a single component system are:
 
 * Condensed | Fluid
 
-* The Fluid Phase maybe further Differentiated to Liquid and Gas
+* Here condesned form is called solid and The Fluid Phase maybe further Differentiated to Liquid and Gas
 
 * Solid | Liquid | Gas
 
@@ -145,9 +148,12 @@ The most common diagrams are the one, two and three component Phase Diagrams. He
 
 * Thermodynamics is an Empirical Language which measures the variable macroscopic physical quantities of materials. These include Temperature, Pressure, Volume, Entropy and so on. Thermodynamic Language captures the Duality that exists among these Variables so that all of these are not independet. 
 
-* The first Duality is that of Intensive and Extensive Variables. Intensive Variables do not change on scaling the system, Extensive Variables change on scaling the system. Intensive Variable is Rigid like a solid (Differential form) whereas Extensive Variable is Fluid (Integral form). Examples of Intensive Variables are Pressure, Temperature whereas those of Extensive Variables are Volume and Entropy. 
+* We look at the Differentiation of Intensive and Extensive Variables. Intensive Variables do not change on scaling the system, Extensive Variables change on scaling the system. Intensive Variable is Rigid like a solid (Differential form) whereas Extensive Variable is Fluid (Integral form). Examples of Intensive Variables are Pressure, Temperature whereas those of Extensive Variables are Volume and Entropy. 
 
-* Energy Potentials in Thermodynamics are formed by Intesnive-Extensive Duality. That is, Intensive Variable is conjugate to an Extensive Variable. These conjugate Variables are composed together to contribute to the Energy Potential.
+* Thus we have seen Intensive-Extnesive Duality:
+* Intensive | Extensive
+
+* Energy Potentials in Thermodynamics are formed by Intesnive-Extensive Duality. The Intensive Variable is conjugate to an Extensive Variable. These conjugate Variables are composed together: side by side to form contribution to the Energy Potential. 
 
 * A Component is a fundamental unit (irreducible) such as the Water Molecule which is common to all Phases in the Language. Water itself is reducible to atoms but that is part of another Language which is not the focus here. 
 
@@ -263,7 +269,7 @@ We shall see how the Laws of Thermodynamics can be Reinvented in terms of the La
 
 * Beyond Complex Numbers, Addition is also inherited componentwise to that in Vector Spaces (more popularly known as the Parallelogram Law of addition, that is fluid as the degree of freedom is that of the dimension of the Vector space. **This fluid form of Addition is also the Language of Addition which is natural to Waves (Fluid-like) in Nature and hence results in 'superposition' as the Language form of Addition for Waves**. So superposition of waves is the Integrated form of Addition of rigid objects. Which means, to 'Add' Particles, the Language to be used is Addition in its Rigid form- Addition of Real Numbers; and to 'add' Waves the Language to be used is the Language of Addition in its Fluid form- Vector Addition or Superposition. 
    - For example, if we take two Real Numbers $$x$$ and $$y$$, the Rigid Addition gives as a result $$z$$ which is a Real Number given by $$z= (x+y)$$. 
-   - However, when we Complex Add a Complex Number to another Complex Number, say for example, $$x$$ is to be added to $$y$$, with angle between them being $$\theta$$, the Fluid Addition gives as a result $$z'$$ which is a Complex Number given by the Parallelogram Law of Addition, $$z'= x+y$$ which has additional Degree of Freedom. This Additional degree of freedom is manifestly seen by comparing the Magnitudes of $$z$$ and $$z'$$. The Absolute value is $$\lvert z \rvert = x+y$$ for Real Addition whereas it is $$\lvert z' \rvert = \left(x^2+y^2+ 2\lvert x \rvert \lvert y \rvert \cos{\theta}\right)^\frac{1}{2} $$ for Complex Addition. The $$2\lvert x \rvert \lvert y \right \cos{\theta}$$ Non-Linear term is what shows the Additional Degree of freedom in Complex Addition or Superposition, which is not present in Real Addition. This is exactly the term which makes Light Wave added with Light Wave to allow Bright and Dark zones in Young's Double Slit Experiment. That's just the Language of Waves. **Quantum Mechanics is a more Fluid Theory obtained by Integration of Classical Mechanics to account for Wave Language of Matter, which is why Complex Addition (Fluid Addition) replaces Real Addition (Rigid Addition) and the complex number $$i$$ enters the Schrodinger Equation**. It is this additional degree of freedom in Complex Numbers which is what makes it useful to handle more Fluid Wave-like behaviours. The Language of Complex Numbers provides the Additional Degree of Freedom required to represent Wave Phenomenon. 
+   - However, when we Complex Add a Complex Number to another Complex Number, say for example, $$x$$ is to be added to $$y$$, with angle between them being $$\theta$$, the Fluid Addition gives as a result $$z'$$ which is a Complex Number given by the Parallelogram Law of Addition, $$z'= x+y$$ which has additional Degree of Freedom. This Additional degree of freedom is manifestly seen by comparing the Magnitudes of $$z$$ and $$z'$$. The Absolute value is $$\lvert z \rvert = x+y$$ for Real Addition whereas it is $$\lvert z' \rvert = \left(x^2+y^2+ 2\lvert x \rvert \lvert y \rvert \cos{\theta}\right)^\frac{1}{2} $$ for Complex Addition. The $$2\lvert x \rvert \lvert y \rvert \cos{\theta}$$ Non-Linear term is what shows the Additional Degree of freedom in Complex Addition or Superposition, which is not present in Real Addition. This is exactly the term which makes Light Wave added with Light Wave to allow Bright and Dark zones in Young's Double Slit Experiment. That's just the Language of Waves. **Quantum Mechanics is a more Fluid Theory obtained by Integration of Classical Mechanics to account for Wave Language of Matter, which is why Complex Addition (Fluid Addition) replaces Real Addition (Rigid Addition) and the complex number $$i$$ enters the Schrodinger Equation**. It is this additional degree of freedom in Complex Numbers which is what makes it useful to handle more Fluid Wave-like behaviours. The Language of Complex Numbers provides the Additional Degree of Freedom required to represent Wave Phenomenon. 
    
    - We should see easily that a Language based on **Quaternions (a + b i + c j + d k)** which has more degrees of freedom than Complex Numbers can replace Quantum Mechanics as its Integral Theory and represent even more Wavelike behaviour.
    
