@@ -4,7 +4,7 @@ blog-category: blog
 published: true
 title: Empirical Observations on Language
 author: Som Phene 
-tags: [General, Language, Structure, Representation, Rigidity, Entropy, Fluid, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Approximate, Exact, Deformation, Analysis, Time, Language of Languages, Abstract, Theory, Meta, Communication, Form] 
+tags: [Language, Structure, Duality, Knowledge, Representation, Rigidity, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Degrees of Freedom, Constraints, Symmetry, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation] 
 ---
 
 ### Abstract
@@ -209,7 +209,7 @@ $$
 
 ### Thermodynamics and Calculus
 
-We shall see the Laws of Thermodynamics in the context of Calculus.
+We shall see how the Laws of Thermodynamics can be Reinvented in terms of the Language of Differentiation and Integration introduced.
 
 * **Zeroth Law as Differentiation**: Zeroth Law states that if two thermodynamic systems are each in thermal equilibrium with a third one, then they are in thermal equilibrium with each other. Thus, Thermal equilibrium determines the Phase boundaries which Differentiate systems from one another. That is, thermal equilibrium is an equivalence relation on the set of thermodynamic systems which partitions them into classes labelled by a quantity called Temperature.  This partitioning based on Temperature values is creation of boundaries and hence Temperature plays the role of Differentiation. Thermal flow takes heat from Higher Temperature system to Lower Temperature system. Lower temperature system corresponds to the solid form whereas higher temperature system corresponds to fluid form. 
 
@@ -241,15 +241,21 @@ We shall see the Laws of Thermodynamics in the context of Calculus.
 
 * I realized this while teaching at an NGO to underprivileged kids. One of the bright kids asked me what Multiplication was and I quipped back with the usual "repeated addition" answer. She immediately asked how to add 4, $$\pi$$ times and I was speechless for a whole ten minutes before realizing that the "repeated addition" does not have enough degrees of freedom to account for multiplication. The right answer should be Multiplication is just addition in a more fluid form, that is with a continuous degree of freedom obtained from the scalars (Real numbers) used for multiplying.
 
+* Thus we have seen Addition-Multiplication Duality:
+![Addition-Multiplication Duality](/log/images/Language_.jpg)
+
 * In the case of Complex Numbers, Addition has both its Rigid and Fluid forms inherited componentwise (treating the real and Imaginary pats as independent) from the Real Numbers except that the Addition is even more fluid by virtue of **Two Degrees of Freedom** (plane) of the Complex Numbers compared to the **One Degree of Freedom** (line) in the Real Numbers. That is, **Complex  Addition and Multiplication have more degrees of freedom and are more fluid than Real Addition**. 
 
 * Beyond Complex Numbers, Addition is also inherited componentwise to that in Vector Spaces (more popularly known as the Parallelogram Law of addition, that is fluid as the degree of freedom is that of the dimension of the Vector space. **This fluid form of Addition is also the Language of Addition which is natural to Waves (Fluid-like) in Nature and hence results in 'superposition' as the Language form (Phase) of Addition for Waves**. So superposition of waves is the Integrated form of Addition of rigid objects. Which means, to 'Add' Particles, the Language to be used is Addition in its Rigid form- Addition of Real Numbers; and to 'add' Waves the Language to be used is the Language of Addition in its Fluid form- Vector Addition or Superposition. 
    - For example, if we take two Real Numbers $$x$$ and $$y$$, the Rigid Addition gives as a result $$z$$ which is a Real Number given by $$z= (x+y)$$. 
-   - However, when we Add an imaginary number to a real number, say for example, $$x$$ is to be added to $$iy$$, the Fluid Addition gives as a result $$z$$ which is a Complex Number given by $$z'= (x+ iy)$$ which has additional Degree of Freedom. This Additional degree of freedom is manifested by comparing the Magnitudes of the two Additions. The Absolute value squared is $$|z|^2 = x^2+y^2$$ for Real Addition whereas it is $$| z' |^2 = x^2 +y^2 + 2xy $$ for Complex Addition. The 2xy Non-Linear term is what shows the Additional Degree of freedom in Complex Addition or Superposition, which is not present in Real Addition. **Quantum Mechanics is a more Fluid Theory obtained by Integration of Classical Mechanics to account for Wave behaviour of Matter, which is why Complex Addition (Fluid Addition) replaces Real Addition (Rigid Addition) and the complex number $$i$$ enters the Schrodinger Equation**. It is this additional degree of freedom in Complex Numbers which is what makes it useful to handle more Fluid Wave-like behaviours. 
+   - However, when we Add an imaginary number to a real number, say for example, $$x$$ is to be added to $$iy$$, the Fluid Addition gives as a result $$z$$ which is a Complex Number given by $$z'= (x+ iy)$$ which has additional Degree of Freedom. This Additional degree of freedom is manifested by comparing the Magnitudes of the two Additions. The Absolute value squared is $$\lvert z \rvert^2 = x^2+y^2$$ for Real Addition whereas it is $$\lvert z' \rvert^2 = x^2 +y^2 + 2xy $$ for Complex Addition. The 2xy Non-Linear term is what shows the Additional Degree of freedom in Complex Addition or Superposition, which is not present in Real Addition. **Quantum Mechanics is a more Fluid Theory obtained by Integration of Classical Mechanics to account for Wave behaviour of Matter, which is why Complex Addition (Fluid Addition) replaces Real Addition (Rigid Addition) and the complex number $$i$$ enters the Schrodinger Equation**. It is this additional degree of freedom in Complex Numbers which is what makes it useful to handle more Fluid Wave-like behaviours. 
    
    - We should see easily that a Language based on **Quaternions (a + b i + c j + d k)** which has more degrees of freedom than Complex Numbers can replace Quantum Mechanics by its Integral Theory and handle even more Wavelike behaviour.
    
    - In fact, Rigid Addition can be made more Fluid to higher degrees of freedom by Integrating it to Fluid Multiplication (Powers). That is, replace $$z= x+y$$ by $$z=(x^n +y^n)^\frac{1}{n}$$. 
+   
+* Thus we have seen Addition-Superposition Duality:
+![Addition-Superposition Duality](/log/images/Language_.jpg)
 
 * Addition can take various other forms:
    - In Sets, Language of Addition takes the form of disjoint union.
