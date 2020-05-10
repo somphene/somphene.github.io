@@ -68,7 +68,7 @@ The investigation into thinking led to the following observations:
    
 There may be much more finer observations about mental processes and to avoid overcomplications, we would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I respectively are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
 
-* Language Duality:
+* Thought Duality:
 
  Differentiate | Integrate
 
@@ -118,7 +118,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 * Take a simple single 'component' system like Water which exists in three states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the document, let us say that here, Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Gaseous form (water vapor), Differentiation gives a Liquid form (water) and further differentiation gives Solid form (ice). Each form solid, liquid or gaseous is a representation of Water in the Language of States of Matter. Since the representations themselves have different structures as temperature or pressure changes, Each state may be considered as a separate Language which evolves with respect to the conditions such as Temperature and Pressure. The most rigid Language is Solid. The most fluid Language is Gaseous. Hence we see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids are not well formed). Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. This is the behaviour that we want to see in all Languages. In other words these are the common features (universal) that we will look for after Integrating this particular Language of Nature to a more fluid Language. 
 
 * Thus we have seen Condensed-Fluid Duality:
-* Condensed | Fluid
+ Condensed | Fluid
 
 ### The Fundamental Language of Thermodynamics- Phase Diagrams 
 
@@ -151,9 +151,15 @@ The most common diagrams are the one, two and three component Phase Diagrams. He
 * We look at the Differentiation of Intensive and Extensive Variables. Intensive Variables do not change on scaling the system, Extensive Variables change on scaling the system. Intensive Variable is Rigid like a solid (Differential form) whereas Extensive Variable is Fluid (Integral form). Examples of Intensive Variables are Pressure, Temperature whereas those of Extensive Variables are Volume and Entropy. 
 
 * Thus we have seen Intensive-Extnesive Duality:
-* Intensive | Extensive
+ Intensive | Extensive
 
 * Energy Potentials in Thermodynamics are formed by Intesnive-Extensive Duality. The Intensive Variable is conjugate to an Extensive Variable. These conjugate Variables are composed together: side by side to form contribution to the Energy Potential. 
+
+{\displaystyle G(p,T)=H-TS,}
+
+$$
+  dG =  V dP -S dT + \mu_i dn_i
+$$
 
 * A Component is a fundamental unit (irreducible) such as the Water Molecule which is common to all Phases in the Language. Water itself is reducible to atoms but that is part of another Language which is not the focus here. 
 
