@@ -47,6 +47,12 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * The Differentiated forms are now restricted by the additional boundary compared to its Integral form. This is decrease in the Degrees of Freedom. Integrated forms have less boundary which allows more freedom. This is increase in the Degrees of Freedom.   
 
+* At the Phase Boundary (which is the interface), both the Condensed and Fluid forms meet. There is "Equilibrium" at the Phase Boundary if there is "No Differentiation". That is, the Language of the Condensed Form matches the Language of the Fluid Form. To reiterate: The Structure of Condensed Form must match the Structure of Fluid Form for "Equilibrium" at the Boundary. **Since there is no way to Differentiate between the two Structures at Equilibrium on the Phase Boundary, there are no Boundaries of this Language (Structure) within the Phase Boundary at equilibrium. Thus, when restricted to a Phase Boundary at Equilibrium, within itslef there is No Differentiation (Empty Language) of Phases in this Language**. Simply stated, this means that one cannot distinguish between ice (Condensed Phase) and Water (Fluid Phase) at the interface where there is Equilibrium between the two phases.  
+
+* To capture this using a symbol, let $$d$$ represent differentiation particular to this Language, then the act of differentiating once creates a boundary and further differentiating within the equilibrium boundary is not possible. This translates to $$dd = \emptyset$$ or $$d^2 =0$$ in Equilibrium. 
+
+* This doesn't mean that there are no structures in equilibrium, there is an Equilibrium Phase at the Boundary, just that with respect to this Language (Structure), there is no further differentiation (boundary) possible at equilibrium. Or, there is no way to create another boundary of this Language within the Equilibrium Phase at the Boundary. To state in other words, **differentiation (the particular form of Differentiation within this Language) of the Structures in this Language within the Phase Boundary is not possible, which is equivalent to saying that if the Difference between two Phases of this Language doesn't exist at the Equilibrium Phase boundary, then given a the Equilibrium Language which exists at Equilibrium** I shall use the symbol- $$\emptyset$$ to Denote the Empty Language. For the convenince of those who want to take time to digest this, I shall call this the **Equilibrium Language**. I shall continue using both Equilib The more the degree of Differentiation, the more is the Condensed Form away from Equil
+
 * Corresponding to every  (or degrees of freedom). This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for.
 
 * Thus we have seen Condensed-Fluid Duality:
@@ -66,4 +72,6 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
     - For example, Temperature is an Intensive Variable (Condensed Form). Entropy is its corresponding Dual Extensive Variable (Fluid form). Entropy when Restricted by a Boundary (decrease in Degrees of Freedom) gives Temperature. Or, Temperature is obtained by Differentiation of Entropy. Entropy is obtained by Integration of Temperature, to give it additional Degrees of Freedom.
     
      Temperature | Entropy
+     
+ * The "Amount of Mass"     
  
