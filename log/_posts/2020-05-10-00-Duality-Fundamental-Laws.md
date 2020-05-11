@@ -41,7 +41,7 @@ This section can be read without trying to make much sense of it. At the end, on
 I would like to use the word Language to be any structure used to represent knowledge. As in usual usage, when both language and knowledge are specified, a particular language will be used to represent the specific knowledge. To clarify again: whenever I use the word 'Language' with a capital L, I mean anything that we use to represent knowledge. I loosely refer to anything specific (already represened in some Language) that we would like to represent (in another Language) as 'knowledge', with a small k. 
 
 
-### Composing Dualities gives Fundamental Laws of a Language - Every Fundamental Law is an Equilibrium Phase Diagram
+### Dualities are Fundamental Laws of a Language - Every Fundamental Law is an Equilibrium Phase Diagram
 
 * Duality is Differentiation and Integration. 
 
