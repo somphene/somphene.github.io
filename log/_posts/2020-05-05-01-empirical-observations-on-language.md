@@ -405,13 +405,13 @@ $$
 
 * In Electromagnetism (taking the case of charge free region), when we relate the Electric ($$E$$) and Magnetic Fields ($$B$$) by Differentiating the required symmmetry breaking and Integrating the broken symmetries, we get the Maxwell's Equations which combine to give Electro-Magnetic Wave Equation. In Quantum-Gravity (taking the case of mass free region), we must relate the Wavefunction ($$\Psi$$) and the Metric ($$S$$) by Differentiating and Integrating (these operations will take a different form in this Language), we will get the corresponding Maxwell's Equations which will combine to give Quantum-Gravity Wave-Type Equation.  
 
-* Here, Planck's constant ($$\hbar$$) and Speed of Light ($$c$$) correspond to the variation parameters Permittivity ($$\epsilon$$) and Permeability ($$\mu$$) (corresponding to Temperature and Pressure) in the Phase Diagrams. These get combined in the Quantum-Gravity Equations to give a single parameter- the speed of Quantum-Gravity Wave-Types.   
+* Here, $$i$$ times Planck's constant ($$\hbar$$) and Speed of Light ($$c$$) correspond to the variation parameters Permittivity ($$\epsilon$$) and Permeability ($$\mu$$) (corresponding to Temperature and Pressure) in the Phase Diagrams. These get combined in the Quantum-Gravity Equations to give a single parameter- the speed of Quantum-Gravity Wave-Types.   
 
 * The subtlety lies in handling the right symmetries in the right forms. Just like $$E$$ and $$B$$ in Electromagnetism, the Wavefunction ($$\Psi$$) and the Metric ($$S$$) are not directly related by a single Differentiation or a single Integration of symmetries, there are multiple symmetries involved. One may guess the corresponding equations, with the appropriate Space Differentiation forms instead of Divergence $$\boldsymbol{\nabla}\cdot$$, curl $$\boldsymbol{\nabla} \times$$ and appropriate Time Differentiation instead of $$\frac{\partial}{\partial t}$$, to be: 
 
 $$
 \begin{eqnarray}
-\boldsymbol{\nabla} \cdot{(\hbar \Psi)} & = & 0\\ 
+\boldsymbol{\nabla} \cdot{(i \hbar \Psi)} & = & 0\\ 
 \boldsymbol{\nabla} \cdot {(\boldsymbol{c} S)} & = & 0\\ 
 \boldsymbol{\nabla} \times{\Psi} & = & - \boldsymbol{c} \, \frac{\partial S}{\partial t} \\ 
 \boldsymbol{\nabla} \times{S} & = & i \hbar \, \frac{\partial \Psi}{\partial t}
