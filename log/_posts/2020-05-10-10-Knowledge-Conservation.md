@@ -45,19 +45,68 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
  
 ### Electric Field-Electric Charge Duality as a form of "Knowledge is Conserved"
  
-* The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". 
+* The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
 
-$$ Mass(q) = mass(E) $$
+$$ measure(q) = measure(E) $$
 
-* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. 
+* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law which Gauss had also discovered.
+
+* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law:
+
+$$ q  = d(E) $$
+
 
 ### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
  
- 
+ * The well known Law relating Magnetic Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
+
+$$ measure(q) = measure(E) $$
+
+* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law which Gauss had also discovered.
+
+* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law:
+
+$$ q  = d(E) $$
+
+* Magnetic Monopoles do exist but not in our Universe. They exist in a Degree of Freedom that is Dual to our Universe. Hence, they cannot be seen. However they are Dual to Electric Charges. That is, Magnetic Monopoles create Electric Monopoles and vice Versa. The Orthogonality of meeting points of Magnetic and Electric Fields also shows that they are Dual to each other. Orthogonality is a form of Duality (Fundamental Law).
  
 ### Space-Time Duality as a form of "Knowledge is Conserved"
  
-* 
+* Space and Time are duals of each other. 
+
+* Measure of space is equal to measure of Time is seen at the Equilibrium Phase Boundary of Space and Time: The Light Cone. This is what Einstein discovered in the Metric. 
+
+* Another way to see this is by seeing that Space and Time meet "orthogonal" to each other. This is a sign of Duality.
+
+* Space-Time Duality composed with Electro-Magnetic Duality produces Light or one may look at it in the Dual direction: Light produces Space-Time and Electro-Magnetism. Light is the Identity for Space Time and Electromagnetism.
+
+### Quantum Mechanics as a form of "Knowledge is Conserved"
+
+* Energy takes the form of Mass here.
+
+* The Duality of Fundamentals $$i$$ and $$\hbar$$ gives rise to $$i\hbar$$ being conserved.
+
+* Amount of Energy in Particles plus the amount of Energy in waves must stay conserved or together (Dual). Amount of Mass in Space Duality between Space-Time is stated in Qunatum Mechanics along with composing the Particle-Wave Duality. Hence this Equation is to be read in two Dual Directions- one involving space time duality and the other involving Particle-Wave Duality which is represented by the Wave function. The "Space" produced by composing the two Dual directions is the Energy.
+
+* $$ d_{Space} \Psi =(i\hbar) d_{time}(\Psi) $$
+
+### Quantum-Gravity
+
+* If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, \S)$$ as the Independent Variables. The metric then takes the form 
+
+$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi*(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
+
+* The condition for Equilibrium is then $$  dE =0$$ and it gives 
+
+$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
+
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $\script{S}$ is given by $$\script{S}^2= i\hbar$$. 
+
+* A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space time) must be named. This force is then Dual to a Potential Energy of even higher Degrees of Freedom.
+
+### The Integral Theories to Quantum-Gravity
+
+* When the Equation above was written it automatically sets up its dual equation which can be further composed with this one to go to higher and higher Degrees of Metrics. This is no different than doing Euclidean Geometry in Higher and Higher Dimensions. The fundamental Law of Each Dimension is just the Axis. 
  
 ### Duality is a Fundamental Law - Every Fundamental Law is a Duality (an Equilibrium Phase Diagram)
  
@@ -108,12 +157,16 @@ $$ Mass(q) = mass(E) $$
  
 ### The Fundamental Laws in the Language of Powers
 
-* $$-infty$$ and $$\infty$$  are Dual to each other. 
+* $$-infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between 
+
+* $$0$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\exp$$.
  
-* $$e$$ is the Funndamental Law of degree $$0$$.
+* $$e$$ is the Funndamental Laws of degree $$1$$.
+
+* $$\log$$ anf $$\exp$$ are Fundamental Laws arising from the Duality of .
  
 ### The Fundamental Laws in the Language of Groups
  
 
 
-### The Fundamental Laws in the Language of Space-Time
+
