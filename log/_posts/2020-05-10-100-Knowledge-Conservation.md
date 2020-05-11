@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: Knowledge Conservation
+title: Knowledge Conservation- Everything Amounts to Nothing
 author: Som Phene 
 tags: [Conserved, Law, Fundamental, Mass, Balance, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
