@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-published: true
+published: false
 title: Knowledge Conservation- Everything Amounts to Nothing
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
@@ -9,7 +9,7 @@ tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structur
 
 ### Abstract
 
-Physics and Mathematical Laws are represented in the Language of Duality to be a Form of "simple mass balance". Every Law ever known in Physics, Mathematics or any other Language, and any Law which could ever be known is to be seen as a form of Duality. This is further reinterpreted as: it is this unique conserved quantity (Knowledge) which appears in all kinds of possible forms of Duality.
+Languages from Physics and Mathematics are represented in the Language of Duality. This reduces the known Languages to be a Form of "simple mass balance". Every Fundamental Law in Physics, Mathematics or any other Language is to be seen as a form of Duality. This is further reinterpreted as: it is this unique conserved quantity (Identity) which appears in all kinds of possible forms of Duality.
 
 ### "Knowledge is Conserved" (The Fundamental Law of Language Duality)
 
@@ -85,8 +85,15 @@ Physics and Mathematical Laws are represented in the Language of Duality to be a
     - For Example: All **n-Spheres** for $$n$$ are **Fundamental Laws in the Language of Euclidean Measure**. For $$n$$ greater than 0, $$S^n$$ is a Fundamental Law at the the degree of freedom $$n+1$$ in the **Language of Euclidean Measure**. $$S^0$$ is a Fundamental Law at the the degree of freedom $$1$$ in the **Language of Euclidean Measure**. Each of them individually have **Degree of Freedom** $$1/2$$. **Point of $$S^0$$ on the Right side corresponds to Even Symmetry, Point of $$S^0$$ on the Left side corresponds to Odd Symmetry**.    
     
 ### The Fundamental Laws in the Language of Number Theory
+* $$0$$ and $$\infty$$  are Dual to each other. 
+
+* $$0$$ and $$\infty$$ are the Fundamental Laws at the Degree 1. 
+
+* The above Fundamental law is stated as : Duality of $$0  \quad \infty$$.
 
 * **Whole Numbers are the Fundamental Laws in the Language of Number Theory**. The number $$n$$ is a Fundamental Law at the degree $$n+1$$.
+
+* This is interpreted as **Differentiating the $$\infty$$$ Language at the Degree $$i$$ requires going beyond the Degr**
     
 ### The Fundamental Laws in the Language of Euclidean Geometry
 
@@ -96,8 +103,13 @@ Physics and Mathematical Laws are represented in the Language of Duality to be a
 * $$\sin$$ and $$\cos$$ are both Fundamental Laws in the Language of Euclidean Geometry. Each of them individually have **Degree of Freedom** $$$$. **$$\sin$$ corresponds to Even Symmetry, $$\cos$$ corresponds to Odd Symmetry**.
  
 ### The Fundamental Laws in the Language of Powers
+
+* $$-infty$$ and $$\infty$$  are Dual to each other. 
  
- * $$e$$ is the Funndamental Law of degree $$0$$.
+* $$e$$ is the Funndamental Law of degree $$0$$.
  
 ### The Fundamental Laws in the Language of Groups
  
+
+
+### The Fundamental Laws in the Language of Space-Time
