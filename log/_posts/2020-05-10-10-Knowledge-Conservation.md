@@ -30,15 +30,15 @@ $$
 
 * 
  
- ### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
+### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
  
  
  
- ### Space-Time Duality as a form of "Knowledge is Conserved"
+### Space-Time Duality as a form of "Knowledge is Conserved"
  
  * 
  
- ### Composing Dualities givs Fundamental Laws - Every Fundamental Law is an Equilibrium Phase Diagram
+### Composing Dualities gives Fundamental Laws - Every Fundamental Law is an Equilibrium Phase Diagram
  
  * Every **Fundamental Law** is a **Composition Law of Duality**. This means that every Fundamental Law is obtained by **Composing Dualities**. This is just a restatement of the fact that every Fundamental Law is an Equilibrium Phase Boundary. In particular, every Mathematically correct Equation is an Equilibrium Phase Boundary which can be obtained by **composing Dualities**. 
  
@@ -55,7 +55,7 @@ $$
     - For example, **+ and - are Fundamental Laws in the Language of Numbers at the Degree of freedom 1**. Each of them individually have **Degree of Freedom** $$1/2$$. **+ corresponds to Even Symmetry, - corresponds to Odd Symmetry**.
     
     - For example, **Differentiation and Integration are Fundamental Laws in the Language of Duality Calculus at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Integration corresponds to Even Symmetry, Differentiation corresponds to Odd Symmetry**. 
-    
+   
     - For example, **Fermions and Bosons are Fundamental Laws in the Language of Particles at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Bosons correspond to Even Symmetry, Fermions correspond to Odd Symmetry**. 
     
     - For example, **Left and Right are Fundamental Laws in the English Language of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Left corresponds to Even Symmetry, Right corresponds to Odd Symmetry**. 
@@ -84,6 +84,8 @@ $$
 
 * $$\sin$$ and $$\cos$$ are both Fundamental Laws in the Language of Euclidean Geometry. Each of them individually have **Degree of Freedom** $$$$. **$$\sin$$ corresponds to Even Symmetry, $$\cos$$ corresponds to Odd Symmetry**.
  
+### The Fundamental Laws in the Language of Powers
  
-
+ * $$e$$ is the Funndamental 
+### The Fundamental Laws in the Language of Groups
  
