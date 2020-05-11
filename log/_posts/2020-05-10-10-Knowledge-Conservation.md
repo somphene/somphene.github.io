@@ -4,29 +4,27 @@ blog-category: blog
 published: true
 title: Knowledge Conservation- Everything Amounts to Nothing
 author: Som Phene 
-tags: [Conserved, Law, Fundamental, Mass, Balance, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
+tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### "Knowledge is Conserved" (The Fundamental Law of Language Duality)
 
- * I want to just state: "**Knowledge takes Dual Forms**" or even better: "**Knowledge is**", or the Integral form: "**Duality is**. But it will take us some time to get there.
+* I want to just state: "**Knowledge takes Dual Forms**" or even better: "**Knowledge is**", or the Integral form: "**Duality is**. But it will take us some time to get there.
  
- * For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**".
+* For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**".
  
- * I shall restate everything I know as a form of the Law - "Knowledge is Conserved". Since the Knowedge I know "**amounts to nothing**", I will appreciate if anyone would like to show me the Laws they know, so that I can see those Laws as a form of this Law too. At the end I shall make a statement to give pointers to "**why all this Duality?**". This statement shall "**amount to nothing**". It will then be clear why all "Fundamental Laws" are called "Fundamental Laws", that is, all "Fundamental Laws are statements that amount to nothing". All known Fundamental Laws will be shown to be "Absolutely Rigid at their repsective Level", that is, "Laws of a Language form the Irreducibles of a Language" or "Eigen-Laws of the Language". This means "Fundamental Laws are Equilibrium Statements" or "Fundamental Laws are Equilibrium Phase Boundaries of a Language". By virtue of all Fundamental Laws being the Equilibrium Phase Boundaries of a Language, all the above made statements will follow. It will also be clear that all "Fundamental Laws" have no Degree of Freedom with respect to their Language at their Degree, that is, they cannot be Differentiated further in that Language at that Level. This is why they are Fundamental Laws: they are **Invariants of the Language**. This is **not to be confused** with: Fundamental Laws cannot exist in various forms- they can take as many forms as possible, and in fact, they do- "**There is a Fundamental Law at every Degree of Freedom in a Language**". The Key Point to note is that the Differentiation used needs to be in the Language of which they are the Equilibrium Phase Boundary and at the respective Degree of Freedom. **Fundamental Laws of a Language are related to each other by Differentiation and Integration**. 
+* I shall restate everything I know as a form of the Law - "Knowledge is Conserved". Since the Knowedge I know "**amounts to nothing**", I will appreciate if anyone would like to show me the Laws they know, so that I can see those Laws as a form of this Law too. At the end I shall make a statement to give pointers to "**why all this Duality?**". This statement shall "**amount to nothing**". It will then be clear why all "Fundamental Laws" are called "Fundamental Laws", that is, all "Fundamental Laws are statements that amount to nothing". All known Fundamental Laws will be shown to be "Absolutely Rigid at their repsective Degree", that is, "Laws of a Language form the Irreducibles of a Language" or "Eigen-Laws of the Language". This means "Fundamental Laws are Equilibrium Statements" or "Fundamental Laws are Equilibrium Phase Boundaries of a Language". By virtue of all Fundamental Laws being the Equilibrium Phase Boundaries of a Language, all the above made statements will follow. It will also be clear that all "Fundamental Laws" have no Degree of Freedom with respect to their Language at their Degree, that is, they cannot be Differentiated further in that Language at that Level. This is why they are Fundamental Laws: they are **Invariants of the Language**. This is **not to be confused** with: Fundamental Laws cannot exist in various forms- they can take as many forms as possible, and in fact, they do- "**There is a Fundamental Law at every Degree of Freedom in a Language**". The Key Point to note is that the Differentiation used needs to be in the Language of which they are the Equilibrium Phase Boundary and at the respective Degree of Freedom. **Fundamental Laws of a Language are related to each other by Differentiation and Integration**. 
  
 ### Mass Balance as a form of "Knowledge is Conserved"
  
- * The typical example of "Knowledge is conserved" is the law of mass balance. This law states that mass stays conserved no matter "how we divide it into different forms". In the Language of Duality, this corresponds to "Knowledge stays conserved no matter how we think (divide) it into different Languages". 
+* The typical example of "Knowledge is conserved" is the law of mass balance. This law states that mass stays conserved no matter "how we divide it into different forms". In the Language of Duality, this corresponds to "Knowledge stays conserved no matter how we think (divide) it into different Languages". 
     
     - We see this appearing throughout in Nature. No matter wha
  
 ### Electric Field-Electric Charge Duality as a form of "Knowledge is Conserved"
  
- * The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". or "
+* The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". or "
  
-$$ {\boldsymbol {E}}({\boldsymbol {x}}_{0}) = {1 \over 4\pi \varepsilon _{0}}{q_{1} \over ({\boldsymbol {x}}_{1}-{\boldsymbol {x}}_{0})^{2}}{\hat {\boldsymbol {r}}}_{1,0}
-$$
 
 * 
  
@@ -38,7 +36,9 @@ $$
  
  * 
  
-### Composing Dualities gives Fundamental Laws - Every Fundamental Law is an Equilibrium Phase Diagram
+### Duality is a Fundamental Law - Every Fundamental Law is a Duality (an Equilibrium Phase Diagram)
+ 
+ * Every Fundamental Law is a Duality.
  
  * Every **Fundamental Law** is a **Composition Law of Duality**. This means that every Fundamental Law is obtained by **Composing Dualities**. This is just a restatement of the fact that every Fundamental Law is an Equilibrium Phase Boundary. In particular, every Mathematically correct Equation is an Equilibrium Phase Boundary which can be obtained by **composing Dualities**. 
  
