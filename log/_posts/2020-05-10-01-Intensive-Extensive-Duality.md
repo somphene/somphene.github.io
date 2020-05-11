@@ -53,7 +53,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
  Condensed | Fluid
  
- ### Intensive-Extensive Duality
+### Intensive-Extensive Duality
  
  * I shall reinterpret The Language of Thermodynamics in terms of Language Duality introduced above. The Language of Thermodynamics Differentiates Physical Variables into Intensive and Extensive Variables. In this Language, Intensive Variable and Extensive Variable are Dual to each other.
  
