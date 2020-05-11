@@ -67,7 +67,7 @@ The investigation into thinking led to the following observations:
    
 * In other words, **Abstraction and Thought are Duals to each other**. 
    
-I would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
+I would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace thought and abstraction. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former. As said at the beginning, since any structure forms a Language, from now on mental structures shall be called a Language.
 
 * Language Duality:
 
