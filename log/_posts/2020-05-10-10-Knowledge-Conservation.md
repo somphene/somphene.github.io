@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-published: true
+published: false
 title: Knowledge Conservation- Everything Amounts to Nothing
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
@@ -42,7 +42,17 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
 * The typical example of "Knowledge is conserved" is the law of mass balance. This law states that mass stays conserved no matter "how we divide it into different forms". In the Language of Duality, this corresponds to "Knowledge stays conserved no matter how we think (divide) it into different Languages". 
     
     - We see this appearing throughout in Nature. No matter what system we take, we find that dividing it into pieces doesn't change its mass.
- 
+    
+### Projection Duality as form of "Knowledge is Conserved"
+
+* Sterographic projection or any kind of projection is a form of Differentiation. The Angle is the dual (differential form) of the Radius, a Line is the Dual of a Circle, the Plane is the Dual of the Sphere and the $$n-Sphere$$ is the dual of $$n$$ Dimensional Plane, which is its differential form. In this form, the "Knowledge stays conserved no matter how we divide it into  or Line". This gives the Fundamental Laws :
+
+* Length along line = $$\theta r$$
+
+* Length along plane (Area) =  $$\theta r r\theta$$
+
+* Length along $$n-1$$ dimensional plane = length of differential form of $$S^n$$. 
+
 ### Electric Field-Electric Charge Duality as a form of "Knowledge is Conserved"
  
 * The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
@@ -58,9 +68,9 @@ $$ q  = d(E) $$
 
 ### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
  
- * The well known Law relating Magnetic Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
+ * The well known Law relating Magnetic Field to Magnetic Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
 
-$$ measure(q) = measure(E) $$
+$$ measure(q_{m}) = measure(B) $$
 
 * The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law which Gauss had also discovered.
 
