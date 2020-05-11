@@ -33,20 +33,24 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
  
   $$ d_{i}(E^{i+1})_{E^*} =0 $$
  
-* Fundamental Laws in a Language, at the degree of freedom $$i$$ are possible because of the Fundamental Law in the Language of Calculus:
+* Fundamental Laws in a Language, at the degree of freedom $$i$$ arise from The Fundamental Law in the Language of Calculus:
  
- $$    -d_{i}d_{i} = 0 \quad {d_{i}}^2 = 0 $$   
+ $$    -d_{i}d_{i}+ = 0 $$   
  
 ### Mass Balance as a form of "Knowledge is Conserved"
  
 * The typical example of "Knowledge is conserved" is the law of mass balance. This law states that mass stays conserved no matter "how we divide it into different forms". In the Language of Duality, this corresponds to "Knowledge stays conserved no matter how we think (divide) it into different Languages". 
     
-    - We see this appearing throughout in Nature. No matter wha
+    - We see this appearing throughout in Nature. No matter what system we take, we find that dividing it into pieces doesn't change its mass.
  
 ### Electric Field-Electric Charge Duality as a form of "Knowledge is Conserved"
  
-* The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". or "
- 
+* The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". 
+
+$$ Mass(q) = mass(E) $$
+
+* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. 
+
 ### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
  
  
