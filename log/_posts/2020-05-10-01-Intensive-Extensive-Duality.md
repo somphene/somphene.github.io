@@ -65,5 +65,5 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
         
     - For example, Temperature is an Intensive Variable (Condensed Form). Entropy is its corresponding Dual Extensive Variable (Fluid form). Entropy when Restricted by a Boundary (decrease in Degrees of Freedom) gives Temperature. Or, Temperature is obtained by Differentiation of Entropy. Entropy is obtained by Integration of Temperature, to give it additional Degrees of Freedom.
     
-     Temperature | Volume 
+     Temperature | Entropy
  
