@@ -5,6 +5,10 @@ subtitle:
 use-site-title: true
 
 ---
+
+
+<!---
+
 ## Major Research Themes
 These are guided by fundamental questions that have emerged repeatedly in my experience over the years. Please click on the links for detailed description.
 * [Design Optimization of Metamaterials for Cloaking](/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view?usp=sharing))
@@ -66,3 +70,5 @@ These are guided by fundamental questions that have emerged repeatedly in my exp
 * [Abstract](https://drive.google.com/file/d/1HlPlz26229wFDLLkmAhkfWiD9xeZdRQV/view?usp=sharing)
 * Reading the following [references](https://drive.google.com/file/d/1DtQNvEjlCHVOs2aDuuZgZvHBln7l7thH/view?usp=sharing)
 
+
+--->
