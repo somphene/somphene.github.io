@@ -13,7 +13,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
  
 ### Disclaimer
 
-This is a write up meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time needs it to be (isolation + Phone and Laptop stopped working midway of transcribing my handwritten notes + felt sick and thought the end was near, but now I'm fine and using a nearby laptop to type up my two notebooks).
+This is a write up meant for a lay person like myself. It used to be just a log for myself but I’ve had to turn it into this form as this time needs it to be (isolation + Phone and Laptop stopped working midway of typing my handwritten notes + felt sick and thought the end was near, but now I'm fine for a while and using a nearby laptop to type up my two notebooks).
 
 I have never officially taken a course in linguistics. This write up may have nothing to do with linguistics. In fact, this may not have much to do with the usual sense in which languages are studied. I am interested in a broader category of Languages. I would like to use the word Language to be any structure used to represent knowledge. As in usual usage, when both language and knowledge are specified, a particular language will be used to represent the specific knowledge. The following note on terminology is for those with hard wired logic and maybe skimmed over for those who are comfortable with not so precise definitions, which will anyways become clear by the end.
 
@@ -694,13 +694,365 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 Knowledge with a capital K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. This is the Identity.
 
+### Theory of States of Matter - An Elementary Language Revisited
+
+The simplest theory to pick and demonstrate the ideas involved in Language is probably the Language of States of Matter. 
+
+* Take a simple ( restrict to one dimension) system like Water which exists in different states of Matter. In this Language, Differentiation takes the form of Condensation and Integration takes the form of Evaporation. To keep consistency with the rest of the write up, we say that here Condensation plays the role of Differentiation and Evaporation plays the role of Integration. Starting from a Fluid form (water vapor or liquid water), Differentiation gives Solid form (ice) (hereafter I shall replace the word 'Solid' by 'Condensed'). The Phase Boundary or the interface between the two is the Structure of this Language. Each form- Condensed or Fluid is a representation of Water in the Language of States of Matter. 
+
+* Differentiation in this Language gives the notion of Rigidity. The Condensed Language is called relatively more Rigid. We see that Differentiation (adding structure) leads to greater Rigidity whereas Integration leads to lesser Rigidity. Lesser Rigidity means less structure and hence the boundaries of fluids (gases and liquids) are not well formed. Instead of writing more rigid and less rigid, I shall write more Rigid and more Fluid. 
+
+* Differentiation destroys Symmetry, Integration creates Symmetry. This is because Differentiation is an additional boundary which differentiates between what should have been indistinuguishable. 
+
+* The Differentiated forms are now restricted by the additional boundary compared to its Integral form. This is decrease in the Degrees of Freedom. Integrated forms have less boundary which allows more freedom. This is increase in the Degrees of Freedom.   
+
+* At the Phase Boundary (which is the interface), both the Condensed and Fluid forms meet. There is "Equilibrium" at the Phase Boundary if there is "No Differentiation". That is, the Language of the Condensed Form matches the Language of the Fluid Form. To reiterate: The Structure of Condensed Form must match the Structure of Fluid Form for "Equilibrium" at the Boundary. **Since there is no way to Differentiate between the two Structures at Equilibrium on the Phase Boundary, there are no Boundaries of this Language (Structure) within the Phase Boundary at equilibrium. Thus, when restricted to a Phase Boundary at Equilibrium, within itslef there is No Differentiation of Phases in this Language**. Simply stated, this means that one cannot distinguish between ice (Condensed Phase) and Water (Fluid Phase) at the interface where there is Equilibrium between the two phases. There maybe sub-Boundaries and sub-Phases of the given Phase  
+
+*  **The act of differentiating once creates a boundary and further differentiating within the equilibrium boundary gives nothing (no further differentiation is possible). Since Differentiation in general, decreases the Degrees of Freedom, it must be the case that the final differentiation is not possible since the Degrees of Freedom have already all been reduced to nothing. That is, the Equilibrium Language at the Phase Boundary must be the most Rigid Structure before all its Degrees of Freedom vanish on Differentiating further and it becomes the Language with no Degree of Freedom (Absolutely Rigid Language)**. 
+
+* To capture **The above Paragraph** using symbols, let $$=$$ represent the words 'is the same in Structure as' let $$d$$ represent **differentiation particular to the Language whose Phases are being distinguished by it**, let the symbol $$0$$ denote the **Language with no Degrees of Freedom with respect to this Language**, that is the **absolutely Rigid Language**, let the symbol $$E$$ stand as a **variable** for all the various possible Phases within this Language, and let the symbol $$E*$$ denote the **Equilibrium Phase at the Phase Boundary of the Language**. In symbols the above paragraph says:
+
+   - $$- + = 0$$ or $$-dd+ =0$$  
+   
+   - $$(d E)_{E*} = 0$$.
+   
+   - The first equation above, holds as a property of the Language of Differentiation. That is, be it any Language (Structure), one cannot create a Boundary of that Language within a Boundary already made in that Language. This is clear since, any sub-Boundary within itself within  two Phases on either side, any other boundary which also Differentiates the two   or some other structure (Language), it always holds. The second 
+
+* (As a sidenote) The above paragraph is an example of a language differentiation process which takes English Language and reduces its degrees of freedom by compressing it to rigid symbols. That is, a statement of some length (one dimension) was reduced to a Rigid symbol of zero dimension, which is a loss of degree of freedom. This differential form of English Language is called Language of Mathematics (this will be seen later).  
+
+* To clarify: this doesn't mean that there is no structure in equilibrium at the phase boundary, there is an Equilibrium Phase ($$E*$$) at the Boundary which is a structure (compilation of boundaries), just that with respect to this Language (Structure), there is no further differentiation (boundary) possible at equilibrium. Or, there is no way to create another boundary of this Language within the Equilibrium Phase at the Boundary. To state in other words, **differentiation (the particular form of Differentiation within this Language) of the Structures in this Language within the Phase Boundary is not possible, which is equivalent to saying that the Difference between two Phases of this Language doesn't exist at the Equilibrium Phase boundary**.
+
+* Let's Start with some given Phase (SubLanguage) of a Language. We may obtain another Phase in this Language by Differentiation, that is increasing boundaries (decreasing degrees of freedom) or Integration (increasing degrees of freedom). The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This is going away from Equilibrium. The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This is going away from Equilibrium. This is why the degree of Differentiation in one Phase must Match the degree of Differentiation in its Dual Phase. This takes the form of Maxwell's Equations or Stokes Theorem in Calculus. 
+
+* Corresponding to every Phase (or degrees of freedom) there are as many ways to partition the Energy. This is what is known as Equipartitioning of Energy. The Measure of Energy given to each Dual Phase across the Boundary must be equal however they take different forms. This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for.
+
+* Thus we have seen Condensed-Fluid Duality:
+
+ Condensed | Fluid
+ 
+### Intensive-Extensive Duality
+ 
+ * I shall reinterpret The Language of Thermodynamics in terms of Language Duality introduced above. The Language of Thermodynamics Differentiates Physical Variables into Intensive and Extensive Variables. In this Language, Intensive Variable and Extensive Variable are Dual to each other.
+ 
+* Intensive Variable plays the role of Differential Form (Condensed) whereas Extensive Variable plays the role of Integral Form (Fluid). 
+
+   - For example, Pressure is an Intensive Variable (Condensed Form). Volume is its corresponding Dual Extensive Variable (Fluid form). Volume when Restricted by a Boundary (decrease in Degrees of Freedom) gives Pressure. Or, Pressure is obtained by Differentiation of Volume. Volume is obtained by Integration of Pressure, to give it additional Degrees of Freedom.
+    
+    Pressure | Volume
+        
+    - For example, Temperature is an Intensive Variable (Condensed Form). Entropy is its corresponding Dual Extensive Variable (Fluid form). Entropy when Restricted by a Boundary (decrease in Degrees of Freedom) gives Temperature. Or, Temperature is obtained by Differentiation of Entropy. Entropy is obtained by Integration of Temperature, to give it additional Degrees of Freedom.
+    
+     Temperature | Entropy
+     
+     - Force-Extension
+     
+ * The "Amount of Mass" in Thermodynamics is just the Energy. All Laws of Thermodynamics say that Energy is conserved no matter what forms it is divided into.
+
+### A small Push is all it needs for Gravity to take one towards Equilibrium
+
+(This is incomplete and currently being updated regularly, please be patient for the final version)
+
+### Duality
+
+This section can be read without trying to make much sense of it. At the end, one can come back and go through it again.
+
+* Identity is.
+
+* Identity is not.
+
+* Neither of the statements above make any difference since Identity is and is not. Identity is Everywhere and Nowhere. One can proceed with either statement or no statement at all and it makes no difference, as we shall see later. Since existence or non-existence of Identity does not make any difference, please allow me to make the following statements about Identity which amount to nothing.
+
+* Identity cannot be captured entirely and yet all we end up doing is capture Identity entirely.
+
+* Identity is Dual to Duality.
+
+* Identity is a Differential form of Duality and Duality is an Integral Form of Identity.
+
+* Duality is Creating and Destroying Boundaries to Partition the Identity.
+
+* Every Language (Structure) is based on Duality. 
+
+* Boundaries and their corresponding Dual Phases are the Language (and that's all there is to a Language).
+
+* Boundaries 
+
+* A Boundary and its corresponding Dual Phases together form a Composition. 
+
+
+### Language
+
+I would like to use the word Language to be any structure used to represent knowledge. As in usual usage, when both language and knowledge are specified, a particular language will be used to represent the specific knowledge. To clarify again: whenever I use the word 'Language' with a capital L, I mean anything that we use to represent knowledge. I loosely refer to anything specific (already represened in some Language) that we would like to represent (in another Language) as 'knowledge', with a small k. 
+
+
+### Dualities are Fundamental Laws of a Language - Every Fundamental Law is an Equilibrium Phase Diagram
+
+* Duality is Differentiation and Integration. 
+
+* The Fundamental Law of Degree $$0$$ is the Identity of Composition.
+ 
+* Every **Fundamental Law** is a **Composition Law of Duality**. This means that every Fundamental Law is obtained by **Composing Dualities**. This is just a restatement of the fact that every Fundamental Law is an Equilibrium Phase Boundary. In particular, every Mathematically correct Equation is an Equilibrium Phase Boundary which can be obtained by **composing Dualities**. 
+ 
+* This is why **Fundamental Laws** are Natural: They **Appear and Disappear** naturally at the same time as expressions of Duality.
+ 
+* Every Equilibrium Phase Diagram is a Fundamental Law and all that is a Fundamental Law is a Phase Diagram. The Universe itslef is a Phase in a Phase Diagram. On the other side of the Equilibrium Phase boundary of our Universe is our Dual Universe. Differentiation and Integrations connects all Phases to one another and hence allows us to go to Higher Degrees of Freedom.
+ 
+* **The Fundamental Laws themselves have Degree of Freedom lesser than the Degree of freedom at which level they are the Fundamental Law**. This is obvious as Fundamental Laws are the Phase Boundary where two Phases of a level higher in  Degree meet.    
+ 
+* **Differentiating a Fundamental Law of Degree 1 gives two Fundamental Laws of Degree $$1/2$$ one corresponding to Even Parity and another corresponding to Odd Parity**. Similarly, on Differentiating further, one may obtain Fundamental Laws of degrees of freedom that are positive powers of $$1/2$$. Since they have **lesser than one Degree of Freedom**, they cannot be seen in the usual Positive Integer Valued Dimensional Spaces. However, they have **more than Zero Degrees of Freedom**. To go **below Zero degrees of Freedom**, one needs Differentiation of an entirely Different Degree- at a higher level than the Degree of Freedom of Differentiation.
+ 
+* **Dark Matter has Negative Degrees of Freedom and is a Dual Phase to our entire Universe**. **Their existence is obvious since every Phase must has its dual, so our Universe has its Dual too**. **We are separated from the Dual Universe by an Equilibrium Phase Boundary hence we do not have the Degree of Freedom to go there as we are. However, if we Differentiate ourselves, we can go there leading to cancelltion with our Dual Phase**. This is similar to how positive numbers when composed with Negative Numbers gives 0. Or Look at any equation where numbers are to be moved from one side to the other, there is opposite sign and then cancellation. This can be Imagined by seeing the Reflection Symmetry in Mirrors or composition in Numbers. Any Equation be it Stokes Theorem or Pythagoras Theorem is a display of this.  
+ 
+   - For example, **+ and - are Fundamental Laws in the Language of Numbers at the Degree of freedom 1**. Each of them individually have **Degree of Freedom** $$1/2$$. **+ corresponds to Even Symmetry, - corresponds to Odd Symmetry**.
+    
+   - For example, **Differentiation and Integration are Fundamental Laws in the Language of Duality Calculus at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Integration corresponds to Even Symmetry, Differentiation corresponds to Odd Symmetry**. 
+    
+   - For example, **Fermions and Bosons are Fundamental Laws in the Language of Particles at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Bosons correspond to Even Symmetry, Fermions correspond to Odd Symmetry**. 
+    
+   - For example, **Left and Right are Fundamental Laws in the English Language of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Left corresponds to Even Symmetry, Right corresponds to Odd Symmetry**. 
+
+  
+* **Each Fundamental Law has its Dual Law**. They are Related by the **Duality Relations**, that is, one may be obtained by Differentiating the other may be obtained by **Integrating**. This can be restated as a statement of Mirror Symmetry: **Fundamental Laws are Mirror Reflections of Each other**.
+ 
+    - For Example: All **n-Spheres** for $$n$$ are **Fundamental Laws in the Language of Euclidean Measure**. For $$n$$ greater than 0, $$S^n$$ is a Fundamental Law at the the degree of freedom $$n+1$$ in the **Language of Euclidean Measure**. $$S^0$$ is a Fundamental Law at the the degree of freedom $$1$$ in the **Language of Euclidean Measure**. Each of them individually have **Degree of Freedom** $$1/2$$. **Point of $$S^0$$ on the Right side corresponds to Even Symmetry, Point of $$S^0$$ on the Left side corresponds to Odd Symmetry**.    
+    
+* The condition for a Law (E) to be a Fundamental Law ($$E^{*}$$) at the Degree of freedom $$i$$ is: 
+ 
+ $$ d_{i}(E^{i+1})_{E^*} =0 $$
+ 
+* Fundamental Law in a Language, at the degree of freedom $$i$$ are possible because of the Fundamental Law in the Language of Calculus:
+ 
+ $$    d_{i}d_{i} = 0 \quad {d_{i}}^2 = 0 $$   
+    
+### The Fundamental Laws in the Language of Number Theory
+
+* **Whole Numbers are the Fundamental Laws in the Language of Number Theory**. The number $$n$$ is a Fundamental Law at the degree $$n+1$$.
+    
+### The Fundamental Laws in the Language of Euclidean Geometry
+
+* $$1$$ is the Fundamental Law of Degree $$0$$. Hence, $$1$$ is the Identity of Composition.
+
+* **+ and - are Fundamental Laws at the Degree of freedom 1**. Each of them individually have **Degree of Freedom** $$1/2$$. **+ corresponds to Even Symmetry, - corresponds to Odd Symmetry**.
+
+* $$\sin$$ and $$\cos$$ are both Fundamental Laws in the Language of Euclidean Geometry. Each of them individually have **Degree of Freedom** $$$$. **$$\sin$$ corresponds to Even Symmetry, $$\cos$$ corresponds to Odd Symmetry**.
+ 
+### The Fundamental Laws in the Language of Powers
+ 
+* $$e$$ is the Funndamental Law of Degree $$0$$.
+ 
+### The Fundamental Laws in the Language of Complex Numbers
+ 
+* $$1$$ is the Fundamental Law of Degree $$0$$. 
+
+*  **+ and - are Fundamental Laws at the Degree of freedom 1**. Each of them individually have **Degree of Freedom** $$1/2$$. **+ corresponds to Even Symmetry, - corresponds to Odd Symmetry**.
+
+* **x, y**
+ 
+### The Fundamental Laws in the Language of Groups
+ 
+* Identity ($$e$$) is the Fundamental Law of Degree $$0$$. 
+
+### The Fundamental Laws in the Language of Physics
+ 
+* Energy ($$E$$) is the Fundamental Law of Degree $$0$$. It gets Partitioned into various Dualities: Mass, Temperature, Time, Space, all quantities represent Duals.
+
+
+### Abstract
+
+Languages from Physics and Mathematics are represented in the Language of Duality. This reduces the known Languages to be a Form of "simple mass balance". Every Fundamental Law in Physics, Mathematics or any other Language is to be seen as a form of Duality. This is further reinterpreted as: it is this unique conserved quantity (Identity) which appears in all kinds of possible forms of Duality.
+
+### "Knowledge is Conserved" (The Fundamental Law of Language Duality)
+
+* I want to state: "**Knowledge takes Form as Duality**" or even better: "**Knowledge is**", or its Differential form: "**Duality is**". But it will take us some time to get there.
+ 
+* For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**".
+
+* To some of us this might seem not to be a law at all, after all we have an entire education system which gives us more knowledge. I shall request that we be patient. I will first work out several detailed examples for us to follow.
+
+* This might seem trivial and is very much so but it is for this very reason that its Dual can take non-trivial form.
+
+* I shall represent everything I know as a form of the Law - "Knowledge is Conserved". That is, I shall Differentiate the Law to its Differentiated Forms. Since the Knowedge I know "**amounts to nothing**", I will appreciate if anyone would like to show me the Laws they know, so that I can see those Laws as a form of this Law too. 
+
+* At the end I shall make a statement for "**why all this Duality?**". This statement "**amounts to nothing**". It will then be clear why all "Fundamental Laws" are called "Fundamental Laws". In fact, it will be clear that All "Fundamental Laws are statements that amount to nothing". 
+
+* All known Fundamental Laws will be shown to be "Absolutely Rigid in the Language at their repsective Degree", that is, "Fundamental Laws of a Language form the Irreducibles of a Language" or "Eigen-Laws of the Language". This means "Fundamental Laws are Equilibrium Statements" or "Fundamental Laws are Equilibrium Phase Boundaries of a Language". 
+
+* By virtue of all Fundamental Laws being the Equilibrium Phase Boundaries of a Language, all the above made statements will follow. It will also be clear that all "Fundamental Laws" have no Degree of Freedom with respect to their Language at their Degree, that is, they cannot be Differentiated further in that Language at that Level. This is why they are Fundamental Laws: they are **Invariants of the Language**. This is **not to be confused** with: Fundamental Laws cannot exist in various forms- they can take as many forms as possible, and in fact, they do- "**There is a Fundamental Law at every Degree of Freedom in a Language**". The Key Point to note is that the Differentiation used needs to be in the Language of which they are the Equilibrium Phase Boundary and at the respective Degree of Freedom. **Fundamental Laws of a Language are related to each other by Differentiation and Integration**. 
+
+* The condition for a Law (E) to be a Fundamental Law ($$E^{*}$$) at the Degree of Freedom $$i$$ was derived in [Equilibrium Thermodynamics](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/) : 
+ 
+  $$ d_{i}(E^{i+1})_{E^*} =0 $$
+ 
+* Fundamental Laws in a Language, at the degree of freedom $$i$$ arise from The Fundamental Law in the Language of Calculus:
+ 
+ $$    - (-d_{i}) + (d_{i}+) = 0 $$   
+ 
+### Mass Balance as a form of "Knowledge is Conserved"
+ 
+* The typical example of "Knowledge is conserved" is the law of mass balance. This law states that mass stays conserved no matter "how we divide it into different forms". In the Language of Duality, this corresponds to "Knowledge stays conserved no matter how we think (divide) it into different Languages". 
+    
+    - We see this appearing throughout in Nature. No matter what system we take, we find that dividing it into pieces doesn't change its mass.
+    
+### Projection Duality as form of "Knowledge is Conserved"
+
+* Sterographic projection or any kind of projection is a form of Differentiation. The Angle is the dual (differential form) of the Radius, a Line is the Dual of a Circle, the Plane is the Dual of the Sphere and the $$n-Sphere$$ is the dual of $$n$$ Dimensional Plane, which is its differential form. In this form, the "Knowledge stays conserved no matter how we divide it into  or Line". This gives the Fundamental Laws :
+
+* Length along line = $$\theta r$$
+
+* Length along plane (Area) =  $$\theta r r\theta$$
+
+* Length along $$n-1$$ dimensional plane = differential form of $$S^n$$. 
+
+### Electric Field-Electric Charge Duality as a form of "Knowledge is Conserved"
+ 
+* The well known Law relating Electric Field to Electric Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
+
+$$ measure(q) = measure(E) $$
+
+* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law which Gauss had also discovered.
+
+* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law, here Flux (from its Integral) becomes divergence (Differential form):
+
+$$ q  = divergence(E) $$
+
+
+### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
+ 
+ * The well known Law relating Magnetic Field to Magnetic Charge is just the statement "Knowledge stays conserved no matter how we represent (divide) it into different Languages". Knowledge in this case is the "measure" 
+
+$$ measure(q_{m}) = measure(B) $$
+
+* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Magnetic Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law- Gauss's Law for Magnetism had also discovered.
+
+* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law, here Flux (from its Integral) becomes divergence (Differential form):
+
+$$ q  = divergence (B) $$
+
+* Magnetic Monopoles do exist but not in our Universe. They exist in a Degree of Freedom that is Dual to our Universe. Hence, they cannot be seen. However they are Dual to Electric Charges. That is, Magnetic Monopoles create Electric Monopoles and vice Versa. The Orthogonality of meeting points of Magnetic and Electric Fields also shows that they are Dual to each other. Orthogonality is a form of Duality (Fundamental Law).
+ 
+### Space-Time Duality as a form of "Knowledge is Conserved"
+ 
+* Space and Time are duals of each other. 
+
+* Measure of space is equal to measure of Time is seen at the Equilibrium Phase Boundary of Space and Time: The Light Cone. This is what Einstein discovered in the Metric. The Einstein's Field Equations are the set of Maxwell's Relations that can be formed by composing Dualities.
+
+* Another way to see this is by seeing that Space and Time meet "orthogonal" to each other. This is a sign of Duality.
+
+* Space-Time Duality composed with Electro-Magnetic Duality produces Light or one may look at it in the Dual direction: Light produces Space-Time and Electro-Magnetism. Light is the Identity for Space Time and Electromagnetism.
+
+### Quantum Mechanics as a form of "Knowledge is Conserved"
+
+* Particle and Wave are the dual forms. Operators and Spectrums are the corresponding Duals in Mathematics.
+
+* The Duality of Fundamentals $$i$$ and $$\hbar$$ gives rise to $$i\hbar$$ being conserved.
+
+* Amount of Energy in Particles plus the amount of Energy in waves must stay conserved or together (Dual). Amount of Mass in Space Duality between Space-Time is stated in Qunatum Mechanics along with composing the Particle-Wave Duality. Hence this Equation is to be read in two Dual Directions- one involving space time duality and the other involving Particle-Wave Duality which is represented by the Wave function. The "New Space" produced by composing the two Dual directions is the Energy.
+
+* $$ (-d_{Space}d_{Space}+) \Psi =(i\hbar) d_{time}(\Psi) $$
+
+* The above equation is a Maxwell's Relation (Thermodynamics) corresponding to the Equilibrium Phase Diagram of Particle-Wave Duality.
+
+### Quantum-Gravity
+
+* If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy ($$E$$) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric (64 dimensional: 8 cross 8 matrix) then takes the form 
+
+$$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)-(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t))+ c^2(dt)^2-(dx)^2-(dy)^2-(dz)^2 $$
+
+* The condition for Equilibrium is then $$  dE =0$$ and it gives 
+
+$$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)+(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t)) = c^2dt^2-dx^2-dy^2-dz^2 $$
+
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= \frac{1}{c \hbar}$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$. That involves curvature of curvature. 
+
+* A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space-time) must be named. This force is then Dual to a Potential Energy of 64 dimensions.
+
+### The Integral Theories to Quantum-Gravity
+
+* When the Equation above was written it automatically sets up its dual equation which can be further composed with this one to go to higher and higher Degrees of Metrics. This is no different than doing Euclidean Geometry in Higher and Higher Dimensions. The fundamental Law of Each Dimension is just the Axis. 
+ 
+### Duality is a Fundamental Law - Every Fundamental Law is a Duality (an Equilibrium Phase Diagram)
+ 
+* Every Fundamental Law is a Duality.
+ 
+* Every **Fundamental Law** is a **Composition Law of Duality**. This means that every Fundamental Law is obtained by **Composing Dualities**. This is just a restatement of the fact that every Fundamental Law is an Equilibrium Phase Boundary. In particular, every Mathematically correct Equation is an Equilibrium Phase Boundary which can be obtained by **composing Dualities**. 
+ 
+* This is why **Fundamental Laws** are Natural: They **Appear and Disappear** naturally at the same time as expressions of Duality.
+ 
+* Every Equilibrium Phase Diagram is a Fundamental Law and all that is a Fundamental Law is a Phase Diagram. The Universe itslef is a Phase in a Phase Diagram. On the other side of the Equilibrium Phase boundary of our Universe is our Dual Universe. Differentiation and Integrations connects all Phases to one another and hence allows us to go to Higher Degrees of Freedom.
+ 
+* **The Fundamental Laws themselves have Degree of Freedom lesser than the Degree of freedom at which level they are the Fundamental Law**. This is obvious as Fundamental Laws are the Phase Boundary where two Phases of a level higher in  Degree meet.    
+ 
+* **Differentiating a Fundamental Law of Degree 1 gives two Fundamental Laws of Degree $$1/2$$ one corresponding to Even Parity and another corresponding to Odd Parity**. Similarly, on Differentiating further, one may obtain Fundamental Laws of degrees of freedom that are positive powers of $$1/2$$. Since they have **lesser than one Degree of Freedom**, they cannot be seen in the usual Positive Integer Valued Dimensional Spaces. However, they have **more than Zero Degrees of Freedom**. To go **below Zero degrees of Freedom**, one needs Differentiation of an entirely Different Degree- at a higher level than the Degree of Freedom of Differentiation.
+ 
+* **Dark Matter has Negative Degrees of Freedom and is a Dual Phase to our entire Universe**. **Their existence is obvious since every Phase must has its dual, so our Universe has its Dual too**. **We are separated from the Dual Universe by an Equilibrium Phase Boundary hence we do not have the Degree of Freedom to go there as we are. However, if we Differentiate ourselves, we can go there leading to cancelltion with our Dual Phase**. This is similar to how positive numbers when composed with Negative Numbers gives 0. Or Look at any equation where numbers are to be moved from one side to the other, there is opposite sign and then cancellation. This can be Imagined by seeing the Reflection Symmetry in Mirrors or composition in Numbers. Any Equation be it Stokes Theorem or Pythagoras Theorem is a display of this.  
+ 
+    - For example, **+ and - are Fundamental Laws in the Language of Numbers at the Degree of freedom 1**. Each of them individually have **Degree of Freedom** $$1/2$$. **+ corresponds to Even Symmetry, - corresponds to Odd Symmetry**.
+    
+    - For example, **Differentiation and Integration are Fundamental Laws in the Language of Duality Calculus at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Integration corresponds to Even Symmetry, Differentiation corresponds to Odd Symmetry**. 
+   
+    - For example, **Fermions and Bosons are Fundamental Laws in the Language of Particles at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Bosons correspond to Even Symmetry, Fermions correspond to Odd Symmetry**. 
+    
+    - For example, **Left and Right are Fundamental Laws in the English Language of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Left corresponds to Even Symmetry, Right corresponds to Odd Symmetry**. 
+    
+    - For example, **$$\sin{\theta}$$ and $$\cos{\theta}$$ are Fundamental Laws in the Euclidean Geometry of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **$$\sin{\theta}$$ corresponds to Even Symmetry, **$$\cos{\theta}$$ corresponds to Odd Symmetry**.
+
+* **Each Fundamental Law has its Dual Law**. They are Related by the **Duality Relations**, that is, one may be obtained by Differentiating the other may be obtained by **Integrating**. This can be restated as a statement of Mirror Symmetry: **Fundamental Laws are Mirror Reflections of Each other**. Hence, at the dimension $$n$$, there are $$2^n$$ Fundamental Laws.
+ 
+    - For Example: All **n-Spheres** for $$n$$ are **Fundamental Laws in the Language of Euclidean Measure**. For $$n$$ greater than 0, $$S^n$$ is a Fundamental Law at the the degree of freedom $$n+1$$ in the **Language of Euclidean Measure**. $$S^0$$ is a Fundamental Law at the the degree of freedom $$1$$ in the **Language of Euclidean Measure**. Each of them individually have **Degree of Freedom** $$1/2$$. **Point of $$S^0$$ on the Right side corresponds to Even Symmetry, Point of $$S^0$$ on the Left side corresponds to Odd Symmetry**. **Poincare Conjecture is a Fundamental Law because it is a composition of the Duality of    
+    
+### The Fundamental Laws in the Language of Number Theory
+* $$0$$ and $$\infty$$  are Dual to each other. 
+
+* $$0$$ and $$\infty$$ are the Fundamental Laws at the Degree 1. 
+
+* The above Fundamental law is stated as : Duality of $$0  \quad \infty$$.
+
+* **Whole Numbers are the Fundamental Laws in the Language of Number Theory**. The number $$n$$ is a Fundamental Law at the degree $$n+1$$.
+
+* This is interpreted as **Differentiating the $$\infty$$$ Language at the Degree $$i$$ requires going beyond the Degree**
+  
+### The Fundamental Laws in the Language of Complex Numbers  
+  
+*   Fundamental Laws are +,-. This composed with the Differentiation operator $$d$$ produce the Fundamental Laws $$\sin$$ and $$cos$$.
+  
+* **The Riemann Hypothesis is true and its a Fundamental Law** in a Sub-Language of the Language of Complex Numbers. This can be proved by showing that the **Composition of Fundamental Laws generated by Duality of negative evens with the Duality of $$\frac{1}{2}+it$$ produces the Zeta Function**. Details will be updated shortly.
+    
+### The Fundamental Laws in the Language of Euclidean Geometry
+
+* 1 is the Fundamental Identity.
+
+* **+ and - are Fundamental Laws in the Language of Euclidean Geometry**. **1 and -1 are Fundamental Laws in the Language of Euclidean Geometry**. 
+
+* $$\theta$$ is a Fundamental Law of Measure $$2\pi$$.
+
+* $$\sin(\theta)$$ and $$\cos(\theta)$$ are both Fundamental Laws in the Language of Euclidean Geometry obtained by composing the Duality of . Each of them individually have **Measure** $$2$$ since they are formed between the duality of $$-1$$ and $$1+$$, that is they Integrate to $$2$$. 
+ 
+### The Fundamental Laws in the Language of Powers
+
+* $$1$$ is the Fundamental Identity.
+
+* $$-\infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-\infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between $$-\infty$$ and $$\infty$$. 
+
+* The Black Holes seen in the Universe are a form of Logarithm. They lead to going to the Integral version of the current Universe (Language). Everything shown in Interstellar is a form of what is out there. Going to the Integral Universe in from this Universe through a Black Hole is what is referred to as "the stairway to Heaven in Religious Books". Just like we see movies on a screen, the Integral versions of the Universe can see their Differential forms. Each of us act as rigid objects-particles or numbers for the Integral Universe. That is, we are the Fundamental Laws of our Integral Universe.
+
+* $$0$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\exp$$.
+
+* **All remaining Fundamental Laws are formed by composition of these dualities**. Composition of Dualities is how one **Integrates**
+
+
+* This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations are pictures of Equilibrium Phase Diagrams and all of these are generated out of Identity simply by composing the Dualities involved. English and Art(drawing) are Integral versions of Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (most symmetric) is hence the most rigid material. 
+
+* All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
+
+* Duality exist because it does not exist. Duality exists because Non-Duality does.
+
+
 ### Summary
 
 * Introduced universal concept of Language to refer to all structures.
 * Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
 * Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration takes a more rigid structure at the sublevel for SubLanguages. That is, Calculus as a Language itself can be differentiated to go from the Calculus of a higher level Language (more fluid) to a lower level Language (more rigid). 
 * Thermodynamics governing Phase Transformations is seen as The Language of Calculus governing transformation from differential to integral forms and vice versa.
-* Art is to be recognized as the Inegral Language of Science and Science as the Integral Language of Mathematics.
+* Art is to be recognized as the Inegral Language of Science and Science as the Integral Language of Mathematics. They are all Dual to each other.
 
 ### Postscript
 
