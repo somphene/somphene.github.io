@@ -98,19 +98,21 @@ $$ q  = d(E) $$
 
 * Amount of Energy in Particles plus the amount of Energy in waves must stay conserved or together (Dual). Amount of Mass in Space Duality between Space-Time is stated in Qunatum Mechanics along with composing the Particle-Wave Duality. Hence this Equation is to be read in two Dual Directions- one involving space time duality and the other involving Particle-Wave Duality which is represented by the Wave function. The "Space" produced by composing the two Dual directions is the Energy.
 
-* $$ d_{Space} \Psi =(i\hbar) d_{time}(\Psi) $$
+* $$ -d_{Space} \Psi =(i\hbar) d_{time}(\Psi) $$
+
+* The above equation is a Maxwell's Relation corresponding to the Equilibrium Phase Diagram of Particle-Wave Duality.
 
 ### Quantum-Gravity
 
 * If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric then takes the form 
 
-$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\bar{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
+$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
 
 * The condition for Equilibrium is then $$  dE =0$$ and it gives 
 
-$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \bar{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
+$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
 
-* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $\S$ is given by $$\S^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
 
 * A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space time) must be named. This force is then Dual to a Potential Energy of even higher Degrees of Freedom.
 
