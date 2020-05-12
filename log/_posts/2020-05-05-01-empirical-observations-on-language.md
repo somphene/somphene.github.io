@@ -643,7 +643,7 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * Zeta and Mobius functions in different structures.
 
-### Exercise
+### Exercises
 
 * **Thermodynamics as Calculus** : The Language of Thermodynamics becomes the Calculus of all Languages in this interpretation. To know the regions in which different forms of a Language meet, one must do a Thermodynamical calculation and formulate the corresponding conditions in terms of Macroscopic Observables of a Language. 
 
