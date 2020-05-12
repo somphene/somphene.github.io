@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-published: false
+published: true
 title: Knowledge Conservation- Everything Amounts to Nothing
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
@@ -51,7 +51,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
 
 * Length along plane (Area) =  $$\theta r r\theta$$
 
-* Length along $$n-1$$ dimensional plane = length of differential form of $$S^n$$. 
+* Length along $$n-1$$ dimensional plane = differential form of $$S^n$$. 
 
 ### Electric Field-Electric Charge Duality as a form of "Knowledge is Conserved"
  
@@ -104,13 +104,13 @@ $$ q  = d(E) $$
 
 * If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, \S)$$ as the Independent Variables. The metric then takes the form 
 
-$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi*(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
+$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi^*(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
 
 * The condition for Equilibrium is then $$  dE =0$$ and it gives 
 
-$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
+$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi^*(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
 
-* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $\script{S}$ is given by $$\script{S}^2= i\hbar$$. 
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $\script{S}$ is given by $$\script{S}^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
 
 * A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space time) must be named. This force is then Dual to a Potential Energy of even higher Degrees of Freedom.
 
@@ -160,22 +160,25 @@ $$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi(x_1,x_2,x_3, t)\partial_a 
     
 ### The Fundamental Laws in the Language of Euclidean Geometry
 
-* **+ and - are Fundamental Laws in the Language of Euclidean Geometry at the Degree of freedom 1**. Each of them individually have **Degree of Freedom** $$1/2$$. **+ corresponds to Even Symmetry, - corresponds to Odd Symmetry**.
+* 1 is the Fundamental Identity.
 
+* **+ and - are Fundamental Laws in the Language of Euclidean Geometry**. **1 and -1 are Fundamental Laws in the Language of Euclidean Geometry**. 
 
-* $$\sin$$ and $$\cos$$ are both Fundamental Laws in the Language of Euclidean Geometry. Each of them individually have **Degree of Freedom** $$$$. **$$\sin$$ corresponds to Even Symmetry, $$\cos$$ corresponds to Odd Symmetry**.
+* $$\theta$$ is a Fundamental Law of Measure $$2\pi$$.
+
+* $$\sin$$ and $$\cos$$ are both Fundamental Laws in the Language of Euclidean Geometry. Each of them individually have **Measure** $$2$$. 
  
 ### The Fundamental Laws in the Language of Powers
 
-* $$-infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between 
+ 
+* $$1$$ is the Fundamental Identity.
+
+* $$-infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between $$-infty$$ and $$\infty$$. The Black Holes seen in the Universe are a form of Logarithm. They Lead to going to the Integral version of the current Universe (Language). Everything shown in Interstellar is a form of what is out there.
 
 * $$0$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\exp$$.
- 
-* $$e$$ is the Funndamental Laws of degree $$1$$.
 
-* $$\log$$ anf $$\exp$$ are Fundamental Laws arising from the Duality of .
  
-### The Fundamental Laws in the Language of Groups
+
  
 
 
