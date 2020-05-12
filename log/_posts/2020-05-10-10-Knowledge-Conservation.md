@@ -29,7 +29,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
 
 * By virtue of all Fundamental Laws being the Equilibrium Phase Boundaries of a Language, all the above made statements will follow. It will also be clear that all "Fundamental Laws" have no Degree of Freedom with respect to their Language at their Degree, that is, they cannot be Differentiated further in that Language at that Level. This is why they are Fundamental Laws: they are **Invariants of the Language**. This is **not to be confused** with: Fundamental Laws cannot exist in various forms- they can take as many forms as possible, and in fact, they do- "**There is a Fundamental Law at every Degree of Freedom in a Language**". The Key Point to note is that the Differentiation used needs to be in the Language of which they are the Equilibrium Phase Boundary and at the respective Degree of Freedom. **Fundamental Laws of a Language are related to each other by Differentiation and Integration**. 
 
-* The condition for a Law (E) to be a Fundamental Law ($$E^{*}$$) at the Degree of Freedom $$i$$ was derived in : 
+* The condition for a Law (E) to be a Fundamental Law ($$E^{*}$$) at the Degree of Freedom $$i$$ was derived in [Equilibrium Thermodynamics](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/) : 
  
   $$ d_{i}(E^{i+1})_{E^*} =0 $$
  
@@ -172,7 +172,6 @@ $$  (i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)
  
 ### The Fundamental Laws in the Language of Powers
 
- 
 * $$1$$ is the Fundamental Identity.
 
 * $$-\infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-\infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between $$-\infty$$ and $$\infty$$. 
@@ -183,7 +182,7 @@ $$  (i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)
 
 * All remaining Fundamental Laws are formed by composition of these dualities.
 
-* This is how Ramanjuan and other geniuses "generate Laws out of nowhere". English and Art are more Integral than Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (symmetric) is hence the most rigid material. 
+* This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations aree pictures of Phase Diagrams and all of these are generated out of Identity. English and Art are more Integral than Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (symmetric) is hence the most rigid material. 
 
 * All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
 
