@@ -106,11 +106,11 @@ $$ q  = d(E) $$
 
 * If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric then takes the form 
 
-$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
+$$ (dE)^2 = (-i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))+ c^2dt^2-dx^2-dy^2-dz^2 $$
 
 * The condition for Equilibrium is then $$  dE =0$$ and it gives 
 
-$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
+$$  (i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))= c^2dt^2-dx^2-dy^2-dz^2$$
 
 * This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
 
@@ -187,7 +187,7 @@ $$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t
 
 * All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
 
- 
+* Duality exist because it does not exist. Duality exists because Non-Duality does. 
 
  
 
