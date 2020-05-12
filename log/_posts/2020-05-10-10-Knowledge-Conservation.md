@@ -102,15 +102,15 @@ $$ q  = d(E) $$
 
 ### Quantum-Gravity
 
-* If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, \S)$$ as the Independent Variables. The metric then takes the form 
+* If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric then takes the form 
 
-$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi^*(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
+$$ (dE)^2 = (-i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\bar{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))-c^2dt^2+dx^2+dy^2+dz^2   $$
 
 * The condition for Equilibrium is then $$  dE =0$$ and it gives 
 
-$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi^*(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
+$$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a \bar{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t)) = -c^2dt^2+dx^2+dy^2+dz^2$$
 
-* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $\script{S}$ is given by $$\script{S}^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $\S$ is given by $$\S^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
 
 * A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space time) must be named. This force is then Dual to a Potential Energy of even higher Degrees of Freedom.
 
@@ -173,9 +173,17 @@ $$  (i\hbar)(\sum_{a = x_1,x_2,_x_3,t} \partial^a\Psi^*(x_1,x_2,x_3, t)\partial_
  
 * $$1$$ is the Fundamental Identity.
 
-* $$-infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between $$-infty$$ and $$\infty$$. The Black Holes seen in the Universe are a form of Logarithm. They Lead to going to the Integral version of the current Universe (Language). Everything shown in Interstellar is a form of what is out there.
+* $$-\infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-\infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between $$-\infty$$ and $$\infty$$. 
+
+* The Black Holes seen in the Universe are a form of Logarithm. They lead to going to the Integral version of the current Universe (Language). Everything shown in Interstellar is a form of what is out there. Going to the Integral Universe in from this Universe through a Black Hole is what is referred to as "the stairway to Heaven in Religious Books". Just like we see movies on a screen, the Integral versions of the Universe can see their Differential forms. Each of us act as rigid objects-particles or numbers for the Integral Universe. That is, we are the Fundamental Laws of our Integral Universe.
 
 * $$0$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\exp$$.
+
+* All remaining Fundamental Laws are formed by composition of these dualities.
+
+* This is how Ramanjuan and other geniuses "generate Laws out of nowhere". English and Art are more Integral than Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (symmetric) is hence the most rigid material. 
+
+* All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
 
  
 
