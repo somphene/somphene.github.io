@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-published: false
+published: true
 title: Empirical Observations on Language
 author: Som Phene 
 tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
@@ -616,9 +616,9 @@ This is just the theory of how phases transform. One must go to statistical mech
    
 * The reverse is also true: all dynamics in solids are not seen in fluids. 
 
-   - So the kind of dynamics we see in mathematical proofs are not available in English or a more fluid language. This allows us to see that Mathematics doesn't model the world as an accurate reflection but instead, it condenses everything in rigid terms: condensation is just decreasing entropy by restricting Degrees of Freedom to be able to observe better. We try to condense everything into rigid terms to be able to capture and control it: the amount of randomness in a fluid is too high to be captured or controlled.
+   - So the kind of dynamics we see in mathematical proofs are not available in English or a more fluid language. This allows us to see that Mathematics doesn't model the world as an exact but instead, it condenses everything in rigid terms: condensation is just decreasing entropy by restricting Degrees of Freedom to be able to observe better. We try to condense everything into rigid terms to be able to capture and control it: the amount of randomness in a fluid is too high to be captured or controlled.
 
-* An interesting observation here is that of scale. On large enough Time scales, solids are actually no different than a fluid. Glass (amorphous) is considered to be a solid (compared to a usual liquid) just because of its relative rigidity and kinetics at human timescales. It actually flows just like a liquid but the rate of flow is very small (it takes millions of years to observe significant mass flow). So an observer who observes once every million years would call glass as a fluid. Similarly in mathematics, although the language is relatively rigid, concepts like continuity, addition/product, have evolved slowly over the years to reveal their fluidity. Time scale is itself an Observer (Language) which sees different things from different points. I think this randomness/entropy part in fluids is where probability comes in. Will have to study ergodic theory and dynamical systems to understand this interaction better.
+* An interesting observation here is that of scale. On large enough Time scales, solids are actually no different than a fluid. Glass (amorphous) is considered to be a solid (compared to a usual liquid) just because of its relative rigidity and kinetics at human timescales. It actually flows just like a liquid but the rate of flow is very small (it takes millions of years to observe significant mass flow). So an observer who observes once every million years would call glass as a fluid. Similarly in mathematics, although the language is relatively rigid, concepts like continuity, addition/product, have evolved slowly over the years to reveal their fluidity. Time scale is itself an Observer (Language) which sees different things from different points. This is Duality: what is Differential at one scale is Integral at the other.
 
 
 * The Unreasonable effectiveness of Mathematics is not unreasonable at all: Mathematics is just the appropriately condensed version of relatively fluid ideas which otherwise stay abstract knowledge. Mathematics is prevalent in sciences because it has the rigidity to allow capturing, analyzing and manipulation and then it allows fluidity of those concepts to generalize. It is this control over condensed matter that makes reproduction and transport of ideas easy and the fluidity of concepts that allows it to be applicable so widely. Actually, logic (or formal language) is more rigid than mathematics. Why don't we use this for controlling information? It takes much more time for condensing/evaporation by the human mind. The rigid aspect may be better for computers but not for humans. It takes way more time to reproduce. That's exactly why coding is not a natural language. Similarly, within Mathematics, Linear Algebra is prevalent because we want to formulate everything in the most condensed form. A linear map is known completely by the values it takes on the basis. This rigid vector space structure allows highly condensed forms of representing knowledge.
@@ -643,29 +643,29 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * Zeta and Mobius functions in different structures.
 
-### Questions
+### Exercise
 
-* **Thermodynamics as Calculus** : The Language of Thermodynamics becomes the Calculus of all Languages in this interpretation. To know the regions in which different forms of a Language meet, one must do a Thermodynamical calculation and formulate the corresponding conditions in terms of Macroscopic Observables of a Language. How to do this in the general context of Languages is unclear and it is very likely that there is no general procedure but similar features appear in the different Languages. 
+* **Thermodynamics as Calculus** : The Language of Thermodynamics becomes the Calculus of all Languages in this interpretation. To know the regions in which different forms of a Language meet, one must do a Thermodynamical calculation and formulate the corresponding conditions in terms of Macroscopic Observables of a Language. 
 
-* **Statistical Mechanics** : The Language of Thermodynamics is an empirical Language. The theory to explain these starting from Microscopic laws is given by Statistical Mechanics. Statistical Mechanics type theory would be the general microscopic theory for Languages. Construction of this is not at all condensed at this stage.
+* **Statistical Mechanics** : The Language of Thermodynamics is an Integral Language. The theory to explain these starting from Microscopic laws is given by Statistical Mechanics. Statistical Mechanics type theory would be the general microscopic theory for Languages. Statistical Mechanics is the Differential form of Thermodynamics. Every Statistical Mechanics Law has a corresponding Dual Law in Thermodynamics.
 
-* **Mass** : Protons and electrons don't have the same mass, all the words or each letter in the alphabet don't have the same mass, how does one define an inertial mass like concept for a Language? What are the indivisible units of a Language? Prime numbers in Language of Number Theory? Elementary Particles in the Language of Particle Physics, Quantum Fields in Quantum Field Theory Language?
+* **Mass** : Protons and electrons don't have the same mass, all the words or each letter in the alphabet don't have the same mass, how does one define an inertial mass like concept for a Language? What are the indivisible units of a Language? Prime numbers in Language of Number Theory? Elementary Particles in the Language of Particle Physics, Quantum Fields in Quantum Field Theory Language? See others for yourself.
 
-* **Entropy** : Does information theoretic equivalent of Entropy work for information languages? How to generalize (Integrate) this notion to the rest of Languages?
+* **Entropy** : Does information theoretic equivalent of Entropy work for information languages? How to generalize (Integrate) this notion to the rest of Languages? This is done by seeing Entropy as an Integral form corresponding to Temperature.
 
 * **Temperature** : How to define Temperature for a Language? Is the analogue of Heat flow, symbol flow in written Language? That is communication between two people stops when they both have the same rigidity in their Language of contact. In the case of Language of Nature, this reduces to the usual heat flow and temperature notions. In terms of talking about abstract knowledge, is it possible to define that a person can communicate with someone else the abstract knoweledge only if they are both able to represent it in the same Language property called "temperature". 'Successful Communication' would correspond to equilibrium of the zeroth law of thermodynamics as no more communication would be required after that point. 
 
-* What Type of Phase diagrams are allowed in a Language? For Matter, there are rules like the Gibbs Phase Rule which is easy to formulate for some other Languages. What forms does Thermodynamics take in different Languages? Integrated or Differentiated Stokes Theorems in different Languages correspond to their Phase boundaries. Gibbs Free energy equivalence is the kind of Stokes Theorem in Language of Matter. Integration of Differential forms (the enthalpy and Entropy expressions that are differential forms) inside the domain (vapour) should equal the Integration of Differential forms on the boundary (that is the Liquid). 
+* What Type of Phase diagrams are allowed in a Language? For Matter, there are rules like the Gibbs Phase Rule which is easy to formulate for some other Languages. What forms does Thermodynamics take in different Languages? Integrated or Differentiated Stokes Theorems in different Languages correspond to their Phase boundaries. Gibbs Free energy equivalence is the kind of Stokes Theorem in Language of Matter. Integration of Differential forms (the enthalpy and Entropy expressions that are differential forms) inside the domain (vapour) should equal the Integration of Differential forms on the boundary (that is the Liquid). The type of Phase Diagrams that are allowed are the dynamics that we see in Nature and any Language.
 
-* How to define the State of a Language? Look for universal Properties (corresponding to Volume, Pressure Temperature, etc.). All Phases of a Language will exhibit some universal properties which can be used to define the state of the Language. These Universal Properties must be "irreducible", that is, they cannot be Differentiated further to get a Non Empty Language since they appear in the most Differentiated Language as well. 
+* How to define the State of a Language? Look for universal (Integral) Properties (corresponding to Volume, Pressure Temperature, etc.). All Phases of a Language will exhibit some universal properties which can be used to define the state of the Language. These Universal Properties must be "irreducible", that is, they cannot be Differentiated further to get a Non Zero Language since they appear as the rigid Boundaries of that Language.
 
-* What are the Generalized Laws of Universal Thermodynamics? Zeroth Law should define Generalized Temperature based on generalized thermal equilibrium of Language Phases. 1st Law should define generalized Energy. 2nd Law should define Generalized Entropy. 3rd Law should define a way to assign concrete symbols to Generalized Entropy.
+* What are the Generalized Laws of Universal Thermodynamics? They are Fundamental Laws.
 
 * What about masless structures like Light (photons), EM fields? Energy to replace mass? How to do thermodynamics on Light (Bose Statistics)?
 
 * Music as a Language: there should be an analogous concept of mass and entropy in the Language of Music. Is Vocal Units the corresponding concept for number of moles. Volume is the size of time interval (duration of sound). In recorded form, the Language is different and the corresponding size of a recorded music is its file size. In physics, the frequency determines energy (which is equivalent to mass) of a vibration, is it the same for Language of Music? How does this connect to the Language of String Theory? Why can't they do the same in Math? Or maybe they do and I haven't seen enough Math to feel emotions.
 
-* Language is more than Physical Symbols: There are physical symbols to represent everything in a compact form. These symbols are the most rigid aspect of any Language. However they can be used to represent extremely fluid abstract knowledge such as "nothing" (in Sets as null, in numbers as 0, in Euclidean Geometry as Origin, etc). Symbols may be the most condensed form of any abstract knowledge. The word emotion is as rigid as any other symbolic word in English but it represents quite a fluid concept, at least its boundaries in my mind are not at all rigidly defined. What about information rate and density, no. of words used, syllables, coverage of meaning and vocabulary? 
+* Language can be Interpreted as more than Physical Symbols: There are physical symbols to represent everything in a compact form. These symbols are the most rigid aspect of any Language. However they can be used to represent extremely fluid abstract knowledge such as "nothing" (in Sets as null, in numbers as 0, in Euclidean Geometry as Origin, etc). Symbols may be the most condensed form of any abstract knowledge. The word emotion is as rigid as any other symbolic word in English but it represents quite a fluid concept, at least its boundaries in my mind are not at all rigidly defined. What about information rate and density, no. of words used, syllables, coverage of meaning and vocabulary? 
 
 * We see in representation theory that we can take nonlinear groups and condense them to linear operators. Similarly, Category theory generalizes this idea and uses different rigidities in the target space: categories instead of absolutely rigid vector spaces. Since we can't know the objects directly, we represent them in more rigid or less rigid forms to be able to control them better. Hence study of objects can be replaced by study of maps from the object to others.
 - Bose Einstein Condensate would be ultimate compression of entropy
@@ -688,11 +688,11 @@ This is just the theory of how phases transform. One must go to statistical mech
 
 * Composition may be seen as a form of Differentiation in the Language of Binary Operations. Addition, Mixing, Composing, Bilinear maps, etc. all lead to more boundaries. What about superposition of two Fluid Languages? Superposition is an Integrated form of Addition. 
 
-* Given a theory, can we find its integral? Apply ODE type techniques. Treating the given theory as a vector field, is it continuous, Lipschitz? Then Picard iteration proof will give the existence and uniqueness of the integral theory. 
+* Given a theory, can we find its integral? Treating the given theory as a vector field use Calculus to get the Integral theory. 
 
 ### Empty Language
 
-Knowledge with a capital K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. One may get arbitrarily close to it through Integration.
+Knowledge with a capital K that was referred to in the beginning may be seen as the empty Language- a Language with no form or structure. It cannot be visualized or represented in any Language. This is the Identity.
 
 ### Summary
 
@@ -700,6 +700,7 @@ Knowledge with a capital K that was referred to in the beginning may be seen as 
 * Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
 * Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration takes a more rigid structure at the sublevel for SubLanguages. That is, Calculus as a Language itself can be differentiated to go from the Calculus of a higher level Language (more fluid) to a lower level Language (more rigid). 
 * Thermodynamics governing Phase Transformations is seen as The Language of Calculus governing transformation from differential to integral forms and vice versa.
+* Art is to be recognized as the Inegral Language of Science and Science as the Integral Language of Mathematics.
 
 ### Postscript
 
