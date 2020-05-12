@@ -13,7 +13,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
 
 ### "Knowledge is Conserved" (The Fundamental Law of Language Duality)
 
-* I want to state: "**Knowledge takes Form as Duality**" or even better: "**Knowledge is**", or its Integral form: "**Duality is**. But it will take us some time to get there.
+* I want to state: "**Knowledge takes Form as Duality**" or even better: "**Knowledge is**", or its Differential form: "**Duality is**". But it will take us some time to get there.
  
 * For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**".
 
@@ -35,7 +35,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
  
 * Fundamental Laws in a Language, at the degree of freedom $$i$$ arise from The Fundamental Law in the Language of Calculus:
  
- $$    -d_{i}d_{i}+ = 0 $$   
+ $$    - (-d_{i}) + (d_{i}+) = 0 $$   
  
 ### Mass Balance as a form of "Knowledge is Conserved"
  
@@ -61,9 +61,9 @@ $$ measure(q) = measure(E) $$
 
 * The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law which Gauss had also discovered.
 
-* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law:
+* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law, here Flux (from its Integral) becomes divergence (Differential form):
 
-$$ q  = d(E) $$
+$$ q  = divergence(E) $$
 
 
 ### Magnetic Field-Magnetic Charge Duality as a form of "Knowledge is Conserved"
@@ -72,11 +72,11 @@ $$ q  = d(E) $$
 
 $$ measure(q_{m}) = measure(B) $$
 
-* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Electric Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law which Gauss had also discovered.
+* The way to "measure" the "amount of Mass" at the degree in which Charge exists is simply its scalar value or its Fundamental Law (Scalar Values will be later seen to be the Fundamental Laws at the Degree 1). The way to "measure" the "amount of Mass" at the degree in which Magnetic Field exists to meet with its dual Charge is its Flux. This is the Fundamental Law- Gauss's Law for Magnetism had also discovered.
 
-* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law:
+* The Fundamental Law itself can be differentiated to give its Differential Form, which states that Charge is the Dual of Electric field, which is another way of stating a conservation law, here Flux (from its Integral) becomes divergence (Differential form):
 
-$$ q  = d(E) $$
+$$ q  = divergence (B) $$
 
 * Magnetic Monopoles do exist but not in our Universe. They exist in a Degree of Freedom that is Dual to our Universe. Hence, they cannot be seen. However they are Dual to Electric Charges. That is, Magnetic Monopoles create Electric Monopoles and vice Versa. The Orthogonality of meeting points of Magnetic and Electric Fields also shows that they are Dual to each other. Orthogonality is a form of Duality (Fundamental Law).
  
@@ -84,7 +84,7 @@ $$ q  = d(E) $$
  
 * Space and Time are duals of each other. 
 
-* Measure of space is equal to measure of Time is seen at the Equilibrium Phase Boundary of Space and Time: The Light Cone. This is what Einstein discovered in the Metric. 
+* Measure of space is equal to measure of Time is seen at the Equilibrium Phase Boundary of Space and Time: The Light Cone. This is what Einstein discovered in the Metric. The Einstein's Field Equations are the set of Maxwell's Relations that can be formed by composing Dualities.
 
 * Another way to see this is by seeing that Space and Time meet "orthogonal" to each other. This is a sign of Duality.
 
@@ -92,29 +92,29 @@ $$ q  = d(E) $$
 
 ### Quantum Mechanics as a form of "Knowledge is Conserved"
 
-* Energy takes the form of Mass here.
+* Particle and Wave are the dual forms. Operators and Spectrums are the corresponding Duals in Mathematics.
 
 * The Duality of Fundamentals $$i$$ and $$\hbar$$ gives rise to $$i\hbar$$ being conserved.
 
-* Amount of Energy in Particles plus the amount of Energy in waves must stay conserved or together (Dual). Amount of Mass in Space Duality between Space-Time is stated in Qunatum Mechanics along with composing the Particle-Wave Duality. Hence this Equation is to be read in two Dual Directions- one involving space time duality and the other involving Particle-Wave Duality which is represented by the Wave function. The "Space" produced by composing the two Dual directions is the Energy.
+* Amount of Energy in Particles plus the amount of Energy in waves must stay conserved or together (Dual). Amount of Mass in Space Duality between Space-Time is stated in Qunatum Mechanics along with composing the Particle-Wave Duality. Hence this Equation is to be read in two Dual Directions- one involving space time duality and the other involving Particle-Wave Duality which is represented by the Wave function. The "New Space" produced by composing the two Dual directions is the Energy.
 
-* $$ -d_{Space} \Psi =(i\hbar) d_{time}(\Psi) $$
+* $$ (-d_{Space}d_{Space}+) \Psi =(i\hbar) d_{time}(\Psi) $$
 
-* The above equation is a Maxwell's Relation corresponding to the Equilibrium Phase Diagram of Particle-Wave Duality.
+* The above equation is a Maxwell's Relation (Thermodynamics) corresponding to the Equilibrium Phase Diagram of Particle-Wave Duality.
 
 ### Quantum-Gravity
 
-* If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy (E) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric then takes the form 
+* If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy ($$E$$) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric (64 dimensional: 8 cross 8 matrix) then takes the form 
 
-$$ (dE)^2 = (-i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))+ c^2dt^2-dx^2-dy^2-dz^2 $$
+$$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)-(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t))+ c^2(dt)^2-(dx)^2-(dy)^2-(dz)^2 $$
 
 * The condition for Equilibrium is then $$  dE =0$$ and it gives 
 
-$$  (i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)\partial_a (\Psi(x_1,x_2,x_3, t))= c^2dt^2-dx^2-dy^2-dz^2$$
+$$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)+(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t)) = c^2dt^2-dx^2-dy^2-dz^2 $$
 
-* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= i\hbar$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$.
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= \frac{1}{c \hbar}$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$. That involves curvature of curvature. 
 
-* A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space time) must be named. This force is then Dual to a Potential Energy of even higher Degrees of Freedom.
+* A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space-time) must be named. This force is then Dual to a Potential Energy of 64 dimensions.
 
 ### The Integral Theories to Quantum-Gravity
 
@@ -143,11 +143,12 @@ $$  (i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)
     - For example, **Fermions and Bosons are Fundamental Laws in the Language of Particles at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Bosons correspond to Even Symmetry, Fermions correspond to Odd Symmetry**. 
     
     - For example, **Left and Right are Fundamental Laws in the English Language of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Left corresponds to Even Symmetry, Right corresponds to Odd Symmetry**. 
+    
+    - For example, **$$\sin{\theta}$$ and $$\cos{\theta}$$ are Fundamental Laws in the Euclidean Geometry of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **$$\sin{\theta}$$ corresponds to Even Symmetry, **$$\cos{\theta}$$ corresponds to Odd Symmetry**.
 
-  
-* **Each Fundamental Law has its Dual Law**. They are Related by the **Duality Relations**, that is, one may be obtained by Differentiating the other may be obtained by **Integrating**. This can be restated as a statement of Mirror Symmetry: **Fundamental Laws are Mirror Reflections of Each other**.
+* **Each Fundamental Law has its Dual Law**. They are Related by the **Duality Relations**, that is, one may be obtained by Differentiating the other may be obtained by **Integrating**. This can be restated as a statement of Mirror Symmetry: **Fundamental Laws are Mirror Reflections of Each other**. Hence, at the dimension $$n$$, there are $$2^n$$ Fundamental Laws.
  
-    - For Example: All **n-Spheres** for $$n$$ are **Fundamental Laws in the Language of Euclidean Measure**. For $$n$$ greater than 0, $$S^n$$ is a Fundamental Law at the the degree of freedom $$n+1$$ in the **Language of Euclidean Measure**. $$S^0$$ is a Fundamental Law at the the degree of freedom $$1$$ in the **Language of Euclidean Measure**. Each of them individually have **Degree of Freedom** $$1/2$$. **Point of $$S^0$$ on the Right side corresponds to Even Symmetry, Point of $$S^0$$ on the Left side corresponds to Odd Symmetry**.    
+    - For Example: All **n-Spheres** for $$n$$ are **Fundamental Laws in the Language of Euclidean Measure**. For $$n$$ greater than 0, $$S^n$$ is a Fundamental Law at the the degree of freedom $$n+1$$ in the **Language of Euclidean Measure**. $$S^0$$ is a Fundamental Law at the the degree of freedom $$1$$ in the **Language of Euclidean Measure**. Each of them individually have **Degree of Freedom** $$1/2$$. **Point of $$S^0$$ on the Right side corresponds to Even Symmetry, Point of $$S^0$$ on the Left side corresponds to Odd Symmetry**. **Poincare Conjecture is a Fundamental Law because it is a composition of the Duality of    
     
 ### The Fundamental Laws in the Language of Number Theory
 * $$0$$ and $$\infty$$  are Dual to each other. 
@@ -189,9 +190,7 @@ $$  (i\hbar)\sum_{a = x_1,x_2,_x_3,t} \partial^a \overline{\Psi}(x_1,x_2,x_3, t)
 * **All remaining Fundamental Laws are formed by composition of these dualities**. Composition of Dualities is how one **Integrates**
 
 
-
-
-* This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations aree pictures of Phase Diagrams and all of these are generated out of Identity. English and Art are more Integral than Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (symmetric) is hence the most rigid material. 
+* This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations are pictures of Equilibrium Phase Diagrams and all of these are generated out of Identity simply by composing the Dualities involved. English and Art(drawing) are Integral versions of Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (most symmetric) is hence the most rigid material. 
 
 * All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
 
