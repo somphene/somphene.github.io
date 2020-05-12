@@ -6,6 +6,14 @@ use-site-title: true
 image: img/me.jpg
 ---
 
+[Duality](https://somphene.github.io/tags/#Language)
+
+* [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
+
+* [Equilibrium Thermodynamics](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/)
+
+* [Fundamental Law-Knowledge Conservation](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
+
 <!---
 
 (click on the blue links for details)
