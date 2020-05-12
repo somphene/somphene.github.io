@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: Intensive-Extensive Duality
+title: Equilibrium Thermodynamics and Intensive-Extensive Duality
 author: Som Phene 
 tags: [Intensive, Extensive, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
@@ -55,7 +55,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * To capture **The above Paragraph** using symbols, let $$=$$ represent the words 'is the same in Structure as' let $$d$$ represent **differentiation particular to the Language whose Phases are being distinguished by it**, let the symbol $$0$$ denote the **Language with no Degrees of Freedom with respect to this Language**, that is the **absolutely Rigid Language**, let the symbol $$E$$ stand as a **variable** for all the various possible Phases within this Language, and let the symbol $$E*$$ denote the **Equilibrium Phase at the Phase Boundary of the Language**. In symbols the above paragraph says:
 
-   - $$d d = 0$$ or $$d^2 =0$$  
+   - $$- + = 0$$ or $$-dd+ =0$$  
    
    - $$(d E)_{E*} = 0$$.
    
@@ -65,9 +65,9 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * To clarify: this doesn't mean that there is no structure in equilibrium at the phase boundary, there is an Equilibrium Phase ($$E*$$) at the Boundary which is a structure (compilation of boundaries), just that with respect to this Language (Structure), there is no further differentiation (boundary) possible at equilibrium. Or, there is no way to create another boundary of this Language within the Equilibrium Phase at the Boundary. To state in other words, **differentiation (the particular form of Differentiation within this Language) of the Structures in this Language within the Phase Boundary is not possible, which is equivalent to saying that the Difference between two Phases of this Language doesn't exist at the Equilibrium Phase boundary**.
 
-* Let's Start with some given Phase (SubLanguage) of a Language. We may obtain another Phase in this Language by Differentiation, that is increasing boundaries (decreasing degrees of freedom) or Integration (increasing degrees of freedom). The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This  away from Equil
+* Let's Start with some given Phase (SubLanguage) of a Language. We may obtain another Phase in this Language by Differentiation, that is increasing boundaries (decreasing degrees of freedom) or Integration (increasing degrees of freedom). The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This is going away from Equilibrium. The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This is going away from Equilibrium. This is why the degree of Differentiation in one Phase must Match the degree of Differentiation in its Dual Phase. This takes the form of Maxwell's Equations or Stokes Theorem in Calculus. 
 
-* Corresponding to every  (or degrees of freedom). This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for.
+* Corresponding to every Phase (or degrees of freedom) there are as many ways to partition the Energy. This is what is known as Equipartitioning of Energy. The Measure of Energy given to each Dual Phase across the Boundary must be equal however they take different forms. This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for.
 
 * Thus we have seen Condensed-Fluid Duality:
 
@@ -87,5 +87,9 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
     
      Temperature | Entropy
      
- * The "Amount of Mass"     
+     - Force-Extension
+     
+ * The "Amount of Mass" in Thermodynamics is just the Energy. All Laws of Thermodynamics say that Energy is conserved no matter what forms it is divided into.
+ 
+ 
  
