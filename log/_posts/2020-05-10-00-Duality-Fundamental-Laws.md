@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-published: false
+published: true
 title: Duality is the Fundamental Law
 author: Som Phene 
 tags: [Duality, Composition, Fundamental, Laws, Mass, Balance, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
