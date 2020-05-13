@@ -14,7 +14,9 @@ image: img/me.jpg
 
 * [Fundamental Law-Knowledge Conservation](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
 
-<!---
+
+
+Previously:
 
 (click on the blue links for details)
 
@@ -57,4 +59,4 @@ Currently [writing](https://somphene.github.io/log/list/).
 # [Log](https://somphene.github.io/log/)
 * Almost daily Updates, Notes, resources, tutorials, etc. [posted raw](https://somphene.github.io/log/).
 
---->
+
