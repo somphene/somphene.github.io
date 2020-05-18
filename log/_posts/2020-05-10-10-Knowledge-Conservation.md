@@ -2,14 +2,14 @@
 layout: post
 blog-category: blog
 published: true
-title: Knowledge Conservation- Everything Amounts to Nothing
+title: Knowledge Conservation- Equilibrium is Complete
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Abstract
 
-Languages from Physics and Mathematics are represented in the Language of Duality. This reduces the known Languages to be a Form of "simple mass balance". Every Fundamental Law in Physics, Mathematics or any other Language is to be seen as a form of Duality. This is further reinterpreted as: it is this unique conserved quantity (Identity) which appears in all kinds of possible forms of Duality.
+Languages from Physics and Mathematics are represented in the Language of Duality. This represents the known Languages to be a Form of "simple mass balance". Every Fundamental Law in Physics, Mathematics or any other Language is represented to be seen as a form of Duality. This is further reinterpreted as: it is this unique conserved quantity (Identity) which appears in all kinds of possible forms of Duality.
 
 ### "Knowledge is Conserved" (The Fundamental Law of Language Duality)
 
