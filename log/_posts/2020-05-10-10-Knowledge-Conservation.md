@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: Knowledge Conservation- Equilibrium is Complete
+title: Knowledge Conservation- Nothing amounts to Everything
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
@@ -189,10 +189,11 @@ $$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_
 
 * **All remaining Fundamental Laws are formed by composition of these dualities**. Composition of Dualities is how one **Integrates**
 
-
 * This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations are pictures of Equilibrium Phase Diagrams and all of these are generated out of Identity simply by composing the Dualities involved. English and Art(drawing) are Integral versions of Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (most symmetric) is hence the most rigid material. 
 
 * All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
+
+* Equilibrium is Complete and Incomplete at the same time.
 
 * Duality exist because it does not exist. Duality exists because Non-Duality does. 
 
