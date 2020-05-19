@@ -14,18 +14,11 @@ image: img/me.jpg
 
 * [Fundamental Law-Knowledge Conservation](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
 
-
-
-Previously:
-
-(click on the blue links for details)
-
-
 # [Research](https://somphene.github.io/research/)
 
 * [Design Optimization of Metamaterials for Cloaking](https://somphene.github.io/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view): 4 page pdf summarizing the thesis)
 
- Provide a unified formalism for transformation media theory based on differential forms. Based on the work of Greenleaf-Uhlmann, Leonhardt, H. Ammari on inverse problems and Milton's Theory of Composites, using asymptotic expansions for Steklov eigenvalues and Gohberg-Sigal theory (Argument principle extended to infinite dimensional spaces via Fredholm operators), I with my advisor Prof. [Harsha Hutridurga](https://hutridurga.wordpress.com/research/) jointly with Prof. [Habib Ammari](http://www.sam.math.ethz.ch/~hammari/)) develop novel schemes of cloaking and analyze it with numerical simulations. This is done by the reformulation of cloaking in terms of non-unique solution to inverse problems such as Calderon's problem or electrical impedance tomography. For design optimization, the study of Girouard-Nadirashvili-Polterovich's work on Steklov spectral geometry led to study of Shape Analysis using Steklov operators.  
+ Provide a unified formalism for transformation media theory based on differential forms. Based on the work of Greenleaf-Uhlmann, Leonhardt, H. Ammari on inverse problems and Milton's Theory of Composites, using asymptotic expansions for Steklov eigenvalues and Gohberg-Sigal theory (Argument principle extended to infinite dimensional spaces via Fredholm operators), I with my advisor Prof. [Harsha Hutridurga](https://hutridurga.wordpress.com/research/) jointly with Prof. [Habib Ammari](http://www.sam.math.ethz.ch/~hammari/)) develop novel schemes of cloaking and analyze it with numerical simulations. This is done by the reformulation of cloaking in terms of non-unique solution to inverse problems such as Calderon's problem or electrical impedance tomography. Experimental part of this is being done by my advisor Prof. Shobha Shukla's NEMO research group. For design optimization, the study of Girouard-Nadirashvili-Polterovich's work on Steklov spectral geometry led to study of Shape Analysis using Steklov operators.  
 
 * [Geometric Analysis: Shape optimization for Steklov Eigenvalues](https://somphene.github.io/research/geometricanalysis/)
 
@@ -35,7 +28,7 @@ Previously:
 
 * [BCS Superconductivity and Josephson Junctions for Quantum Computing](https://somphene.github.io/research/bcssuperconductivity/)
 
-To be able to build materials for quantum computing, studied BCS theory and high temperature superconducting materials. Surveyed literature on solid state theory including BCS theory of superconductivity. Studying Josephson junctions and Google’s implementation of qubits for building Quantum computers. This builds on background in topological quantum computing for which course project was done on Kitaev Model and Majorana Fermions covering Jordan-Wigner Transforms, braiding and Non-Abelian Statistics. Studied Pontryagin's maximum principle and Optimal Control on Lie groups, theory of Cartan, KAK decomposition, Birkhoff, Schur convexity for SU(N) which extends to Kostant convexity in the general case of compact semisimple Lie Algebras. Learning spectroscopy techniques including NMR in optimal quantum control and error correction for quantum systems. (Report, Notes will be uploaded in one or two days).  
+To be able to build materials for quantum computing, studied BCS theory and high temperature superconducting materials. Surveyed literature on solid state theory including BCS theory of superconductivity. Studying Josephson junctions and Google’s implementation of qubits for building Quantum computers. This builds on background in topological quantum computing for which course project was done on Kitaev Model and Majorana Fermions covering Jordan-Wigner Transforms, braiding and Non-Abelian Statistics. Studied Pontryagin's maximum principle and Optimal Control on Lie groups, theory of Cartan, KAK decomposition, Birkhoff, Schur convexity for SU(N) which extends to Kostant convexity in the general case of compact semisimple Lie Algebras. Learning spectroscopy techniques including NMR in optimal quantum control and error correction for quantum systems. 
 
 * [Previous projects- DFT based simulation of Materials](https://somphene.github.io/research/)
 
