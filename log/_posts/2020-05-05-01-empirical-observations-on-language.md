@@ -9,7 +9,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 
 ### Abstract
 
- Language is seen in different forms. Language and representations of knowledge using Language are recognized. Structure and resulting Duality are seen as fundamental to Language. Symmetry and Degrees of Freedom of a Language are introduced based on Duality of structures. Calculus is reinvented as Phase Transformations in Thermodynamics to govern changes between Fluid and Condensed Forms of a Language. 
+ Language is seen in different forms. Language and representations of knowledge using Language are recognized. Structure and resulting Duality are seen as fundamental to Language. Symmetry and Degrees of Freedom of a Language are introduced based on Duality of structures. Calculus is reinvented as Phase Transformations in Thermodynamics to govern changes between Fluid and Condensed Forms of a Language. For Mathematicians reading this: Language can be represented as composition of groups which may be further reduced to a representation in terms of simple groups.
  
 ### Disclaimer
 
@@ -1049,9 +1049,10 @@ $$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_
 ### Summary
 
 * Introduced universal concept of Language to refer to all structures.
-* Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
+* Introduced a universal Calculus with notions of Differentiation and Integration to study transformations of different Phases of a  Language. This concept of Phase Transformations of a Language generalizes Thermodynamics as a prototype Empirical Theory of Languages. A microscopic theory (Statistical Mechanics) and Kinetics of Language may be introduced separately.
 * Each phase of a Language has Sub-Languages which are sub-Phases. Differentiation and Integration takes a more rigid structure at the sublevel for SubLanguages. That is, Calculus as a Language itself can be differentiated to go from the Calculus of a higher level Language (more fluid) to a lower level Language (more rigid). 
 * Thermodynamics governing Phase Transformations is seen as The Language of Calculus governing transformation from differential to integral forms and vice versa.
+* Language can be represented as composition of groups which may be further reduced to a representation in terms of simple groups.
 * Art is to be recognized as the Inegral Language of Science and Science as the Integral Language of Mathematics. They are all Dual to each other.
 
 ### Postscript
