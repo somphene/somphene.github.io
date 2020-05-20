@@ -9,7 +9,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 
 ### Abstract
 
- Language is seen in different forms. Language and representations of knowledge using Language are recognized. Structure and resulting Duality are seen as fundamental to Language. Symmetry and Degrees of Freedom of a Language are introduced based on Duality of structures. Calculus is reinvented as Phase Transformations in Thermodynamics to govern changes between Fluid and Condensed Forms of a Language. For Mathematicians reading this: Language can be represented as composition of groups which may be further reduced to a representation in terms of simple groups.
+ Language is seen in different forms. Language and representations of knowledge using Language are recognized. Structure and its inherent Duality are seen as fundamental to Language. Symmetry and Degrees of Freedom of a Language are introduced based on Duality of structures. Calculus is reinvented as Phase Transformations in Thermodynamics to govern changes between Fluid and Condensed Forms of a Language. For Mathematicians reading this: Language can be represented as composition of groups which may be further reduced to a representation in terms of simple groups.
  
 ### Disclaimer
 
@@ -955,13 +955,13 @@ $$ q  = divergence (B) $$
 
 * If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy ($$E$$) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric (64 dimensional: 8 cross 8 matrix) then takes the form 
 
-$$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)-(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t))+ c^2(dt)^2-(dx)^2-(dy)^2-(dz)^2 $$
+$$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)-(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t))-(c^2(dt)^2-(dx_1)^2-(dx_2)^2-(dx_3)^2) $$
 
 * The condition for Equilibrium is then $$  dE =0$$ and it gives 
 
 $$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)+(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t)) = c^2dt^2-dx^2-dy^2-dz^2 $$
 
-* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= \frac{1}{c \hbar}$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$. That involves curvature of curvature. 
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= \frac{1}{c \hbar}$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$. If reduced to derivatives in terms of $$(x_1,x_2,x_3,t)$$, there are $$2^8$$ Maxwell-Type Equations (same as those seen in thermodynamics). The equations would involve curvature of curvature. 
 
 * A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space-time) must be named. This force is then Dual to a Potential Energy of 64 dimensions.
 
