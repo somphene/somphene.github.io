@@ -5,7 +5,7 @@ subtitle:
 use-site-title: true
 
 ---
-<!--- 
+
 
 ### Student Seminar @ Mathematics, IIT Bombay
 * I lead the organization of Student Seminar at Mathematics, IITB. It provides opportunity for any student interested in Mathematics beyond the standard coursework to give a talk and/or attend talks by others. The following linked page- [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities. The primary aim is to get undergraduate students exposed to a wide variety of topics from logic to algebraic geometry to applied mathematics. 
@@ -28,6 +28,3 @@ use-site-title: true
 ### Notes from Seminars and Talks attended
 
 * Radial Symmetry and Symmetry breaking for interpolation Inequalities by Maria Esteban: Fractional Sobolev inequality, Caffarelli Kohn Nirenberg (CKN) inequality, symmetry breaking, Generalized CKN inequalities, Fisher info decay.  
-
-
---->
