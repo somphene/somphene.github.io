@@ -7,7 +7,7 @@ author: Som Phene
 tags: [Einstein, Identity, Energy-mass, Space-time, Compose, Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
-### Composing Energy-mass and Space-time to give Einstein's Identity
+### Composing Energy-mass and Space-time gives Einstein's Identity
 
 The Identity by Einstein $$E=mc^2$$ is seen as a composite of Energy-Mass Duality and Space-Time Duality, where $$E$$ is Energy, $$m$$ is mass and $$c$$ is the Speed of Light. We rearrange the equation as
 
