@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: Communication- Language Program
+title: Communication Language Program
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
@@ -23,11 +23,17 @@ The base in the Language of:
 
 * Mathematics : Classifying Simple Groups (Calculus being the simplest one). [Complete list of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). 
 
+   - Reflection: Groups are identified by their symmetry and symmetries can be seen as composition of reflections.
+   
    - Simple Calculus (Differentiation and Integration) is mapped to Groups in previous post (to be updated later). Category Theory is to be mapped back to Representation Theory. 
    
    - Langlands Program is an integral part of this. 
    
-   - Geometry: Euclidean Geometry. Hyperbolic, Riemannian Geometry are to be mapped back to Euclidean Geometry.
+   - Geometry: Euclidean Geometry. Hyperbolic, Riemannian Geometry are to be identified as Euclidean Geometry.
+   
+   - Algebraic Geometry : Algebra and Geometry are identified.
+   
+   - Combinatorics : Counting is identified with geometry, algebra and representations. Measure is to be identified as counting.
 
 * Nature (Physics) : Mass Balance. 
    
@@ -37,7 +43,9 @@ The base in the Language of:
     
     - I will update a post on how to identify Quantum Mechanics as Thermodynamics. This involves reinterpreting Quantum Mechanics without probability. Every Quantum Mechanical wave is identified as a composition of Eigenfunctions with appropriate amplitudes and a "Phase Mixture percentage" is the amplitude correspoding to each Eigenfunction as a Phase.
     
-    - General Relativity is identified as Space-time Duality composed with Energy-mass Duality. This reduces the Metric to Energy functional and the equilibrium condition as the Light Cone. Hence General Relativity is Identified with Thermodynamics to be seen as a Mass Balance.
+    - General Relativity is identified as Space-time Duality composed with Energy-mass Duality. This reduces the Metric to Energy functional and the equilibrium condition as the Light Cone. Hence General Relativity is Identified with Thermodynamics to be seen as a Mass Balance. Gravity is identified as the fabric of Space-time itself.
+    
+    - String Theory : Gravity is the fabric. Strings are threaded together to form the fabric. Space-time is identified as the Fabric and strings as the units from which the fabric is made. Strings represent Duality. Hence String Theory can be identified as a Mass Balance.
 
 * Materials Science : Phase Diagrams (Phase Transformations)
 
@@ -52,7 +60,14 @@ The base in the Language of:
     - Director is the base to compose everone together. Recognizes the characters as parts which compose together to tell a common story.
     
     - Actors see the Script through the Director's vision. They identify themself with the character.
+   
+* Symbolic Language : Binary.
 
-* Symmetry : Reflection.
+    - Symbols can be identified as duals to reduce them to binary.
 
-   - Symmetries can be seen as composition of reflections.
+* Natural Language: Vowels
+  
+    - Sanskrit, English, Marathi, Hindi and so on reduced to vowels.   
+   
+   
+The respective Language Masters and Translators may use these basis to thread together groups.
