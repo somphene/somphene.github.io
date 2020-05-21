@@ -31,13 +31,9 @@ $$ (E\,\, \circ_i \,\, m )\,\,\,\, \left( \,\, (-)\,\, \circ^d\,\, \left( \,\, (
 
 * For keeping track, in usual language, the above equation reads as $$\frac{E}{m} \left(-\,\, (\frac{X}{t})_{eq} \,\, (\frac{X}{t})_{eq} + \,\,\right) = 0 $$, where $$ (\frac{X}{t})_{eq} = c $$. 
 
-Back to where we were, since composition here is associative, we may drop the brackets (paranthesis) one by one, starting from inner to outer,
+Back to where we were, since composition here is associative, we may drop the brackets (paranthesis) one by one, starting from inner to outer, that is from the signs $$(-)$$ and $$(+)$$, we see 
 
-$$ (E\,\, \circ_i \,\, m) \,\,\,\, \left(\,\, (-)\,\, \circ^d\,\, \left(\,\, (X)\,\, \circ_i\,\, (t) \,\, \right)_0  \,\, \right)\,\, \circ^i\,\, \left( \,\, \left( \,\,(X)\,\, \circ_i\,\, (t) \right)^0 \,\, \circ_d (+) \,\,  \right) =0  $$
-
-$$ E\,\, \circ_i \,\, m \,\,\,\, \,\, (-)\,\, \circ^d\,\, \left(\,\, (X)\,\, \circ_i\,\, (t) \,\, \right)_0  \,\, \right)\,\, \circ^i\,\, \left( \,\, \left( \,\,(X)\,\, \circ_i\,\, (t) \right)^0 \,\, \circ_d (+) \,\, =0  $$
-
-
+$$ (E\,\, \circ_i \,\, m) \,\,\,\, \left(\,\, -\,\, \circ^d\,\, \left(\,\, (X)\,\, \circ_i\,\, (t) \,\, \right)_0  \,\, \right)\,\, \circ^i\,\, \left( \,\, \left( \,\,(X)\,\, \circ_i\,\, (t) \right)^0 \,\, \circ_d + \,\,  \right) =0  $$
 
 Note that writing $$=0$$ at the end of lines is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium. This shows that assuming existence of identity (0) is not needed, we can simply call the expression to be balanced, but we choose to do so as a pointer that all equilibriums are forms of expression of a common identity.
 
