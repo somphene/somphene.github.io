@@ -17,7 +17,7 @@ Recognizing the multiplication operation ($$\cdot$$) as $$compose^i$$ and the di
 
 $$ (Energy)\,\, compose_i \,\,(mass) = (Speed of Light)\,\, compose^i \,\,(Speed of Light) $$
 
-The two expressions on either side of the "equal to sign" are recognized as reflections of each other. Bring them on the same side of $$=$$ by Identifying them with the orientations $$\compose_d (+)$$ and $$(-) compose^d$$, (which are individually identity but duals to each other), to the two duals on the right hand side. They are brought to the left hand side side as:
+The two expressions on either side of the "equal to sign" are recognized as reflections of each other. Bring them on the same side of $$=$$ by Identifying them with the orientations $$(-) compose^d$$ and $$compose_d (+)$$ (which are individually identity but duals to each other), to the two duals on the right hand side. They are brought to the left hand side side as:
 
 $$ (Energy)\,\, compose_i \,\,(mass)\,\,\,\, \left( \,\, (-)\,\, compose^d \,\,(Speed of Light) )\,\, compose^i \,\,(  \,\,(Speed of Light) \,\, compose_d(+) \right) = 0 $$
 
