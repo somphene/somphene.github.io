@@ -43,7 +43,11 @@ Further peeling gives
 
 $$ E\,\, \circ_i \,\, m \,\,\,\, \,\, -\,\, \circ^d\,\, \left(\,\, X\,\, \circ_i\,\, t \,\, \right)_0  \,\, \,\, \circ^i\,\, \,\, \left( \,\,X\,\, \circ_i\,\, t \right)^0 \,\, \circ_d + \,\,   =0  $$
 
-This is the most reduced form which is equivalent to $$\frac{E}{m}-c \cdot c+=0$$.
+In Dirac's Bra-Ket notation, this is
+
+$$ <\,\,E\,\, | \,\, m\,\,> \,\,\,\, <\,\, -\,\,| \langle \,\, \langle\,\, X\,\, |\,\, t \,\, \rangle_0  \,\, \,\, |\,\, \,\, \langle \,\,X\,\, \circ_i\,\, t \rangle)^0 \,\, \rangle | \,\,  + \,\, >  =0  $$
+
+This is the most reduced form which is equivalent to $$\left(\frac{E}{m}\right)(-c \cdot c+)=0$$ or $$\frac{E}{m}-c \cdot c+=0$$.
 
 * This is interpreted as: Energy-mass Duality and Space-time Duality are dual to each other. The Energy-mass duality axis is Orthogonal to the Space-time Duality and they meet only at the Light Cone which is where Space and Time are at equilibrium with each other. Hence $$E=mc^2$$ is a two Phase Equilibrium between (Energy-mass) as one Phase and (Space-time) as another Phase. It may be reduced further to Energy, mass, Space ($$X = (x_1,x_2,x_3)\,\,$$) and time as its components. 
 
