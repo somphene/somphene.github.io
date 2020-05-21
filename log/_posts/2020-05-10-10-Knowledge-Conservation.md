@@ -15,7 +15,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
 
 * I want to state: "**Knowledge takes Form as Duality**" or even better: "**Knowledge is**", or its Differential form: "**Duality is**". But it will take us some time to get there.
  
-* For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**".
+* For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**". This can be restated as "Everything eventually goes to Equilibrium".
 
 * To some of us this might seem not to be a law at all, after all we have an entire education system which gives us more knowledge. I shall request that we be patient. I will first work out several detailed examples for us to follow.
 
