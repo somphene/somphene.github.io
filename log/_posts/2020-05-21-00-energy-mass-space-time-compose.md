@@ -35,7 +35,14 @@ Back to where we were, since composition here is associative, we may drop the br
 
 $$ (E\,\, \circ_i \,\, m) \,\,\,\, \left(\,\, -\,\, \circ^d\,\, \left(\,\, (X)\,\, \circ_i\,\, (t) \,\, \right)_0  \,\, \right)\,\, \circ^i\,\, \left( \,\, \left( \,\,(X)\,\, \circ_i\,\, (t) \right)^0 \,\, \circ_d + \,\,  \right) =0  $$
 
-Note that writing $$=0$$ at the end of lines is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium. This shows that assuming existence of identity (0) is not needed, we can simply call the expression to be balanced, but we choose to do so as a pointer that all equilibriums are forms of expression of a common identity.
+Now removing the brackets from $$(X)$$ and $$(t)$$, we see
+
+$$ (E\,\, \circ_i \,\, m) \,\,\,\, \left(\,\, -\,\, \circ^d\,\, \left(\,\, X\,\, \circ_i\,\, t \,\, \right)_0  \,\, \right)\,\, \circ^i\,\, \left( \,\, \left( \,\,X\,\, \circ_i\,\, t \right)^0 \,\, \circ_d + \,\,  \right) =0  $$
+
+
+* This is interpreted as: Energy-mass Duality and Space-time Duality are dual to each other.
+
+* Note that writing $$=0$$ at the end of lines is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium. This shows that assuming existence of identity (0) is not needed, we can simply call the expression to be balanced, but we choose to do so as a pointer that all equilibriums are forms of expression of a common identity.
 
 
 
