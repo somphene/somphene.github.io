@@ -9,7 +9,7 @@ tags: [Einstein, Identity, Energy-mass, Space-time, Compose, Conservation, Law, 
 
 ### Composing Energy-mass and Space-time gives Einstein's Identity
 
-![Energy-mass-Space-time](log/images/Energy mass light.PNG)
+![Energy-mass-Space-time](/log/images/Energy mass light.PNG)
 
 The Identity by Einstein $$E=mc^2$$ is seen as a composite of Energy-Mass Duality and Space-Time Duality, where $$E$$ is Energy, $$m$$ is mass and $$c$$ is the Speed of Light. We rearrange the equation as
 
@@ -59,7 +59,7 @@ This is the most reduced form which is equivalent to $$\left(\frac{E}{m}\right)(
 
 * In the Language of Group Theory, Energy and mass are inverses of each other with $$c^2$$ as the identity; Space and time are inverses of each other with $$c^2$$ as the identity and $$-$$ as the group operation. This only happens at equilibrium. When there is no equilibrium, the measure of how far is given by the Thermodynamic expression $$Em^{-1} -x_1^2-x_2^2-x_3^2 + c^2t^2$$, where $$E$$ acts as a functional on $$m$$ and the metric (-,-,-,+) acts as the functional to compose space and time as duals. This composition of a Group with addition to give a thermodynamic type scalar quantity can be represented as a Field. A field allows addition and subtraction; multiplication and division. Thus, Energy-mass and Space-time can be seen as corresponding to Field of Complex Numbers (Provided all three dimensions of space are identified as one). In other words, Complex Numbers represent a section of the Equilibrium Phase Boundary of the Phase Diagram of Energy-mass and Space-time.
 
-![Energy-mass-Space-time](log/images/Energy mass light.PNG)
+![Energy-mass-Space-time](/log/images/Energy mass light.PNG)
 
 
 
