@@ -45,7 +45,7 @@ $$ E\,\, \circ_i \,\, m \,\,\,\, \,\, -\,\, \circ^d\,\, \left(\,\, X\,\, \circ_i
 
 This is the most reduced form which is equivalent to $$\frac{E}{m}-c \cdot c+=0$$.
 
-* This is interpreted as: Energy-mass Duality and Space-time Duality are dual to each other. The Energy-mass duality axis is Orthogonal to the Space-time Duality and they meet only at the "Light Cone" which is where Space and Time are at equilibrium to each other. Hence $$E=mc^2$$ is a two Phase Equilibrium between Energy-mass as one Phase and Space-time as another Phase. It may be reduced further to Energy, mass, Space and time as the components. 
+* This is interpreted as: Energy-mass Duality and Space-time Duality are dual to each other. The Energy-mass duality axis is Orthogonal to the Space-time Duality and they meet only at the "Light Cone" which is where Space and Time are at equilibrium with each other. Hence $$E=mc^2$$ is a two Phase Equilibrium between (Energy-mass) as one Phase and (Space-time) as another Phase. It may be reduced further to Energy, mass, Space and time as its components. 
 
 * The Space-time Metric is what decides the amount (measure) of how far from Equilibrium the Space-time fabric is. The Light Cone in the resulting Phase Diagram gives the Equilibrium Phase Boundary between Space and Time as the Phases. Einstein's Field Equations are the corresponding Maxwell's relations for the Thermodynamics of Energy-mass and Space-time.
 
