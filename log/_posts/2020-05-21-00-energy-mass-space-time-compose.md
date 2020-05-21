@@ -13,7 +13,7 @@ The famous equation by Einstein $$E=mc^2$$ is seen as a composite of Energy-Mass
 
 $$ \frac{E}{m} = c \cdot c $$
 
-Recognizing the $$\cdot$$ as $$compose^i$$ and $$\frac{}{}$$ as $$compose_i$$, that is, multiplication is recognized as a form of division, 
+Recognizing the multiplication operation $$\cdot$$ as $$compose^i$$ and the division operation $$-$$ as $$compose_i$$, that is, multiplication is recognized as a form of division, 
 
 $$ (Energy) compose_i (mass) = (Speed of Light) compose^i (Speed of Light) $$
 
@@ -27,6 +27,7 @@ $$ (Energy) compose_i (mass) \left( (+) compose_d \left( (Space) compose_i (time
 
 In symbols, Recognize Energy as $$E$$, mass as $$m$$, Space as $$X$$, time as $$t$$, we see
 
-$$ (E compose_i m ) \left( (+) compose_d \left( (Space) compose_i (time) \right)_0  \right) compose^i \left( (-) compose^d \left( (Space) compose_i (time) \right)^0 \right) $$
+$$ (E compose_i m ) \left( (+) compose_d \left( (Space) compose_i (time) \right)_0  \right) compose^i \left( (-) compose^d \left( (Space) compose_i (time) \right)^0 \right) =0$$
 
+Note that writing $$=0$$ at the end of last few lines is for sake of completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium.
 
