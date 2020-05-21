@@ -45,7 +45,7 @@ $$ E\,\, \circ_i \,\, m \,\,\,\, \,\, -\,\, \circ^d\,\, \left(\,\, X\,\, \circ_i
 
 In Dirac's Bra-Ket notation, this is
 
-$$ <\,\,E\,\, | \,\, m\,\,> \,\,\,\, <\,\, -\,\,| \langle \,\, \langle\,\, X\,\, |\,\, t \,\, \rangle_0  \,\, \,\, |\,\, \,\, \langle \,\,X\,\, | \,\, t \rangle)^0 \,\, \rangle | \,\,  + \,\, >  =0  $$
+$$ <\,\,E\,\, | \,\, m\,\,> \,\,\,\, <\,\, -\,\,| \langle \,\, \langle\,\, X\,\, |\,\, t \,\, \rangle_0  \,\, \,\, |\,\, \,\, \langle \,\,X\,\, | \,\, t \rangle^0 \,\, \rangle | \,\,  + \,\, >  =0  $$
 
 This is the most reduced form which is equivalent to $$\left(\frac{E}{m}\right)(-c \cdot c+)=0$$ or $$\frac{E}{m}-c \cdot c+=0$$.
 
