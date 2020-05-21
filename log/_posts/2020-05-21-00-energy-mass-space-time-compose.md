@@ -29,7 +29,7 @@ In symbols, Recognize Energy as $$E$$, mass as $$m$$, Space as $$X$$, time as $$
 
 $$ (E\,\, \circ_i \,\, m )\,\,\,\, \left( (-)\,\, \circ^d\,\, \left( (X)\,\, \circ_i\,\, (t) \right)_0  \right)\,\, \circ^i\,\, \left( (+)\,\, compose_d  \left( (X)\,\, \circ_i\,\, (t) \right)^0 \right) =0  $$
 
-* For keeping track, in usual mathematics, the above equation reads as $$\frac{E}{m} - (\frac{X}{t})^2_{eq} =0 $$. 
+* For keeping track, in usual mathematics, the above equation reads as $$\frac{E}{m} \left(-\,\, (\frac{X}{t})_{eq} \,\, (\frac{X}{t}) + \,\,\right) =0 $$. 
 
 Note that writing $$=0$$ at the end of lines is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium.
 
