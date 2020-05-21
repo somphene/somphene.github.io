@@ -39,6 +39,10 @@ Now removing the brackets from $$(X)$$ and $$(t)$$, we see
 
 $$ (E\,\, \circ_i \,\, m) \,\,\,\, \left(\,\, -\,\, \circ^d\,\, \left(\,\, X\,\, \circ_i\,\, t \,\, \right)_0  \,\, \right)\,\, \circ^i\,\, \left( \,\, \left( \,\,X\,\, \circ_i\,\, t \right)^0 \,\, \circ_d + \,\,  \right) =0  $$
 
+Further,
+
+$$ (E\,\, \circ_i \,\, m) \,\,\,\, \,\, -\,\, \circ^d\,\, \left(\,\, X\,\, \circ_i\,\, t \,\, \right)_0  \,\, \,\, \circ^i\,\, \,\, \left( \,\,X\,\, \circ_i\,\, t \right)^0 \,\, \circ_d + \,\,   =0  $$
+
 
 * This is interpreted as: Energy-mass Duality and Space-time Duality are dual to each other.
 
