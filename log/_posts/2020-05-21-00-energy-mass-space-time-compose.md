@@ -57,11 +57,21 @@ This is the most reduced form which is equivalent to $$\left(\frac{E}{m}\right)(
 
 * The Space-time Metric is what decides the amount (measure) of how far from Equilibrium the Space-time fabric is. The Light Cone in the resulting Phase Diagram gives the Equilibrium Phase Boundary between Space and Time as the Phases. Einstein's Field Equations are the corresponding Maxwell's relations for the Thermodynamics of Energy-mass and Space-time.
 
-* We see that $$E = mc^2$$ is a special case (Equilibrium) of a general Thermodynamic Potential $$\mathcal{G}$$, which may be defined as $$  \mathcal{G} = (Em^{-1}) \,\,-x_1^2-x_2^2-x_3^2 + c^2t^2 $$
+* We see that $$E = mc^2$$ is a special case (Equilibrium) of a general Thermodynamic Potential Energy $$E$$, which may be defined as $$ E = mc^2 \,\,-x_1^2-x_2^2-x_3^2 + c^2t^2 $$
 
-* In the Language of Group Theory, Energy and mass are inverses of each other with $$c^2$$ as the identity; Space and time are inverses of each other with $$c^2$$ as the identity and $$-$$ as the group operation. This only happens at equilibrium. When there is no equilibrium, the measure of how far is given by the Thermodynamic expression $$Em^{-1} -x_1^2-x_2^2-x_3^2 + c^2t^2$$, where $$E$$ acts as a functional on $$m$$ and the metric (-,-,-,+) acts as the Integral to compose space and time as duals. This composition of a Group with addition and subtraction to give a thermodynamic type scalar quantity, and multiplication to give inverses with $$c^2$$ as the Identity can be represented as a Field. A field allows addition and subtraction; multiplication and division. Thus, Energy-mass and Space-time can be seen as corresponding to Field of Complex Numbers (Provided all three dimensions of space are identified as one). In other words, Complex Numbers represent a section of the Equilibrium Phase Boundary of the Phase Diagram of Energy-mass and Space-time.
+* In the Language of Group Theory: $$c^2$$ is the identity,  $$-$$ (Division) is the group operation. Energy ($$E$$) and mass ($$m$$) are inverses of each other with ; Space ($$X$$) and time ($$t$$) are inverses of each other.
+
+   - That is, $$\frac{E}{m}= c^2$$ and $$\frac{X}{t}= c^2$$. If we Identify $$c^2$$, the identity with the symbol $$e$$, then this reads $$\frac{E}{m}= e$$ and $$\frac{X}{t}= e$$. That is, Energy and mass are reflections of each other and Space and time are reflections of each other.
+   
+   - The other operation $$+$$ with 0 as Identity allows defining Energy to be the other identity. This makes the group into a Field. 
+   
+The above representation as a group only happens at equilibrium. When there is no equilibrium, the measure of how far from equilibrium is given by the Thermodynamic expression $$E= mc^2-x_1^2-x_2^2-x_3^2 + c^2t^2$$, where $$E$$ acts as a functional on $$m$$ and the metric (-,-,-,+) acts as the Integral to compose space and time as duals. This composition of a Group with addition and subtraction to give a thermodynamic type scalar quantity, and multiplication to give inverses with $$c^2$$ as the Identity can be represented as a Field. A field allows addition and subtraction; multiplication and division. Thus, Energy-mass and Space-time can be seen as corresponding to Field of Complex Numbers (Provided all three dimensions of space are identified as one). In other words, Complex Numbers represent the Phase Diagram of Energy-mass and Space-time with the axis as their Phase boundaries.
+
+* The above may seem to be dimensionally wrong but I request us to be patient and Identify all forms of energy as mass and all forms of distance as mass as well.
 
 ![Energy-mass-Space-time](/log/images/Energy mass light.PNG)
+
+### Identifying Identity as Equilibrium
 
 * Note that writing $$=0$$ at the end of lines is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium. This shows that assuming existence of identity (0) is not needed, we can simply call the expression to be balanced, but we choose to do so as a pointer that all equilibriums are forms of expression of a common identity.
 
