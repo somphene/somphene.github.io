@@ -1003,10 +1003,6 @@ $$ q  = divergence (B) $$
 
 * Another way to see this is by seeing that Space and Time meet "orthogonal" to each other. This is a sign of Duality. 
 
-* History keeps repeating itself. This form of Space-Time duality and other Laws of Geometry were known much before. Here is one such painting from 13th Century by Ambrogio Lorenzetti:
-
-![Space-Time Duality](/log/images/Ambrogio_Lorenzetti_002-detail-Temperance.jpg)
-
 * Space-Time Duality composed with Electro-Magnetic Duality produces Light or one may look at it in the Dual direction: Light produces Space-Time and Electro-Magnetism. Light is the Identity for Space Time and Electromagnetism.
 
 ### Quantum Mechanics as a form of "Knowledge is Conserved"
@@ -1125,4 +1121,4 @@ $$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_
 
 ### Postscript
 
-No matter how much is tried, there is a particular Language being used to represent these ideas which limits the scope of what is to be said. This implies that no justice can be done to create a theory or a "Universal Language" covering all Languages (or what is more popularly called "the theory of everything"). Simply introducing an object of rigidity higher than the upper bound found in the particular Language will give us a counterexample to claims of a "Universal Language" that covers everything. A trivial example to refute any such claims is the Empty Language. It is up to the observer to take their time to evaporate or condense the ideas represented here to their own liking.
+No matter how much is tried, there is a particular Language being used to represent these ideas which limits the scope of what is to be said. This implies that no justice can be done to create a theory or a "Universal Language" covering all Languages (or what is more popularly called "the theory of everything"). Simply introducing an object of rigidity outside the bounds found in the particular Language will give us a counterexample to claims of a "Universal Language" that covers everything. A trivial example to refute any such claims is the Empty Language which can only be obtained in a limiting case. It is up to the observer to take their time to evaporate or condense the ideas represented here to their own liking.
