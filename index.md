@@ -6,7 +6,7 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-[Duality](https://somphene.github.io/tags/#Language)
+[Non-Duality](https://somphene.github.io/tags/#Language)
 
 * [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 
