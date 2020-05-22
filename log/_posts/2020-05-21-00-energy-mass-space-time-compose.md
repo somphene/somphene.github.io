@@ -70,7 +70,7 @@ The above representation as a group only happens at equilibrium. When there is n
 * The above may seem to be dimensionally wrong but I request us to be patient and Identify all forms of energy as mass and all forms of distance as mass as well to see all equations as an Equilibrium Mass Balance.
 
 ![Energy-mass-Space-time](/log/images/Energy mass light.PNG)
-If Energy and Mass are identified, and Space and Time are Identified, the above graph of a two dimensional Euclidean Plane is seen as two Circles entangled with each other. Their meeting point is the Identity  which is called $$c^2$$.
+If Energy and Mass are identified, and Space and Time are Identified, the above graph of a two dimensional Euclidean Plane is seen as two Circles orthogonal to each other about a common axis. This represents the Globe, with Space-Time as the Equator and Energy-Mass as the Prime Meridian. Their meeting point at the South Pole as the Identity which is called $$c^2$$, whereas the North Pole to be the dual Identity.
 
 ### Identifying Identity as Equilibrium
 
