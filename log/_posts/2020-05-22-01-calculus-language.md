@@ -9,7 +9,7 @@ tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structur
 
 ### Abstract
 
-Calculus is represented as a cyclic group of order two (Integers mod 2).
+Differentiation and Integration in Calculus Language are represented as a cyclic group of order two (Integers mod 2).
 
 ### Calculus Language as a Group
 
