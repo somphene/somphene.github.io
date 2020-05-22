@@ -13,6 +13,6 @@ Calculus is reduced to a cyclic group of order two.
 
 ### Calculus Language as a Group
 
-* Let $$e$$ be the Identity. Then the group $$\{E^*, D, I\} $$ with relations $$I \,\,D \,\,= \,\, E^*$$ and $$I=D$$ represent the Calculus Language at any arbitrary but fixed level.
+* Let $$E$$ be the Identity. Then the group $$\{E, D, I\} $$ with relations $$I \,\,D \,\,= \,\, E$$ and $$I=D$$ represent the Calculus Language at any arbitrary but fixed level.
 
-* In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are duals to each other to produce Identity ($$E^*$$) of a Higher Degree (of higher measure). 
+* In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
