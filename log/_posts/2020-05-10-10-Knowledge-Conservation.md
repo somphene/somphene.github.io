@@ -106,13 +106,11 @@ $$ q  = divergence (B) $$
 
 * If Quantum Mechanics and Gravity are to be treated as Independent Variables (Dual Varibales): A new Energy ($$E$$) must be defined having degrees of freedom in Space-Time Duality as well as in Particle-Wave Duality, That is the new Hamiltonian now acts on $$(\Psi, S)$$ as the Independent Variables. The metric (64 dimensional: 8 cross 8 matrix) then takes the form 
 
-$$ (dE)^2 = (\hbar)^2 \partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)-(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t)+ c^2(dt)^2-(dx)^2-(dy)^2-(dz)^2 $$
+$$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)-(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t))-(c^2(dt)^2-(dx_1)^2-(dx_2)^2-(dx_3)^2) $$
 
-* The condition for Equilibrium is then $$  dE =0$$ and it gives 
+* The condition for Equilibrium is then $$  dE =0$$.
 
-$$ -(\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_1,x_2,x_3,t)+(\sum_{a = x_1,x_2,_x_3} \partial^a \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_a \Psi(x_1,x_2,x_3,t)) = c^2dt^2-dx^2-dy^2-dz^2 $$
-
-* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= \frac{1}{c \hbar}$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$. That involves curvature of curvature. 
+* This results in a new wave with a new fundamental speed of propagation in the direction orthogonal to the Space-Time and the Quantum mechanical wave. The new fundamental speed $$\S$$ is given by $$\S^2= \frac{1}{c \hbar}$$. The corresponding Mawxell-Type Equations are obtained by composing the Duality of $$\Psi$$ and $$S$$. 
 
 * A new force with these extra dimensions, a total of 8 (to combine both $$\Psi$$ and $$S$$) which is the Integral version of Gravity (of space-time) must be named. This force is then Dual to a Potential Energy of 64 dimensions.
 
