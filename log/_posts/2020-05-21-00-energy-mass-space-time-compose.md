@@ -67,13 +67,14 @@ This is the most reduced form which is equivalent to $$\left(\frac{E}{m}\right)(
    
 The above representation as a group only happens at equilibrium. When there is no equilibrium, the measure of how far from equilibrium is given by the Thermodynamic expression $$E= mc^2-x_1^2-x_2^2-x_3^2 + c^2t^2$$, where $$E$$ acts as a functional on $$m$$ and the metric (-,-,-,+) acts as the Integral to compose space and time as duals. This composition of a Group with addition and subtraction to give a thermodynamic type scalar quantity, and multiplication to give inverses with $$c^2$$ as the Identity can be represented as a Field. A field allows addition and subtraction; multiplication and division. Thus, Energy-mass and Space-time can be seen as corresponding to Field of Complex Numbers (Provided all three dimensions of space are identified as one). In other words, Complex Numbers represent the Phase Diagram of Energy-mass and Space-time with the axis as their Phase boundaries.
 
-* The above may seem to be dimensionally wrong but I request us to be patient and Identify all forms of energy as mass and all forms of distance as mass as well.
+* The above may seem to be dimensionally wrong but I request us to be patient and Identify all forms of energy as mass and all forms of distance as mass as well to see all equations as an Equilibrium Mass Balance.
 
 ![Energy-mass-Space-time](/log/images/Energy mass light.PNG)
+If Energy and Mass are identified, and Space and Time are Identified, the above graph of a two dimensional Euclidean Plane is seen as two Circles entangled with each other. Their meeting point is the Identity  which is called $$c^2$$.
 
 ### Identifying Identity as Equilibrium
 
-* Note that writing $$=0$$ at the end of lines is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium. This shows that assuming existence of identity (0) is not needed, we can simply call the expression to be balanced, but we choose to do so as a pointer that all equilibriums are forms of expression of a common identity.
+* Note that writing $$=0$$ at the end of lines in the scalar equations of energy is for completeness of mentioning it as the identity or to represent that the left hand expression is in equilibrium. This shows that assuming existence of identity (0) is not needed, we can simply call the expression to be balanced, but we choose to do so as a pointer that all equilibriums are forms of expression of a common abstract identity.
 
 
 
