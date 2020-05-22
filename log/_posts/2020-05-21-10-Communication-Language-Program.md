@@ -18,8 +18,10 @@ Language is seen in different forms. Language and representations of knowledge u
 
 Unify (Identify) various Languages by creating a mapping from one Language to another. Once the unification is done, reverse mapping one form of a Language to another to see the diversity in expression of forms. 
 
-Currently the Fundamental Base Language is that of Identity which takes froms as Dualities, the simplest example of which is $$(-x)(x+)=0$$ or $$x=x$$. How to map other Languages back to this? That is the program: to provide a base for each Language and then connecting back all the basis to Identity. These are relative and can change depending on circumstances. The most commonly recognized base for each Language is mentioned so that the mapping is quick.  
-The base in the Language of:
+Currently the Fundamental Base Language is that of Identity which takes froms as Dualities, the simplest example of which is $$(-x)(x+)=0$$ or $$x=x$$. How to map other Languages back to this? That is the program: to provide a base for each Language and then connecting back all the basis to Identity. These are relative and can change depending on circumstances. The most commonly recognized base for each Language is mentioned so that the mapping is quick. For visualization look at Language of Nature (Physics), for concrete communication, start from Language of Mathematics.
+
+
+### The Base in the Language of:
 
 * Mathematics : Classifying Simple Groups (Calculus being the simplest one). [Complete list of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). 
 
@@ -70,4 +72,4 @@ The base in the Language of:
     - Sanskrit, English, Marathi, Hindi and so on reduced to vowels.   
    
    
-The respective Language Masters and Translators may use these basis to thread together groups.
+The respective Language Masters and Translators may use these basis to thread together groups. The comments section is open and the tags for every post are useful to navigate.
