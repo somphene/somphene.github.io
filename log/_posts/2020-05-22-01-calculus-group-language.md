@@ -9,7 +9,7 @@ tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structur
 
 ### Abstract
 
-Differentiation and Integration in Calculus Language are represented as a cyclic group of order two (isomorphic to Integers mod 2).
+Differentiation and Integration in Calculus Language are represented as a cyclic group of order two (isomorphic to Integers mod 2). This is done by identifying the symmetry of Calculus in the dual operations of Differentiation and Integration. That is, Integration and Differentiation are reflections of each other.
 
 ### Calculus Language as a Group
 
