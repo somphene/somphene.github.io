@@ -49,7 +49,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
 
 * Length along line = $$\theta r$$
 
-* Length along plane (Area) =  $$\theta r$$ composed with $$r\theta$$ = $$r (\theta/2) r $$
+* Length along plane (Area) =  $$\theta r$$ composed with $$ \,\, r\theta\,\, = \,\, r \cdot r \,\, (\frac{\theta}{2})  = \,\, r^2 (\frac{\theta}{2}) $$
 
 * Length along $$n-1$$ dimensional plane = differential form of $$S^n$$. 
 
