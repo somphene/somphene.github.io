@@ -18,3 +18,9 @@ Differentiation and Integration in Calculus Language are represented as a cyclic
 * The above presentation of Calculus as a group is identified as the cyclic Group of order 2, that is $$C_2$$.
 
 * In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
+
+
+### Special cases
+
+As a consequence of the above representation of Differentiation as an element of a group, $$D\,\, \cdot D\,\, =E $$ or $$ I \,\, \cdot \,\, I =E $$.
+
