@@ -7,6 +7,24 @@ author: Som Phene
 tags: [Intensive, Extensive, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
+### Abstract
+
+See Equilibrium in Thermodynamics to be a form of mass balance. The "distance" of how far one is from equilibrium  is measured by the Thermodynamic potentials.
+
+
+### Intro
+
+First, we must assume that all physical quantities are themselves materials formed by phase mixture of duals. For example, space-time is formed by mixture of Space as one component and time as the other, Energy in one form is formed by mixture of Volume and Pressure, and so on. There are different levels at which Equilibrium occurs. Consider them one by one:
+
+ 1. Equilibrium for single chemical component material : Intensive and extensive variables can be treated as duals to each other (opposite ends that represent the components of a Phase Diagram). Their product (for example $$P \cdot V$$) is a measure of mass of energy in the form of $$PV$$ (% wt fraction along one Phase) . On the other hand there is $$T \cdot S$$ which gives a  measure of mass of energy in the form of $$TS$$  (% wt fraction along the other Phase). Equilibrium means both forms of mass are balanced. $$PV-TS=0$$. 'Gibbs free energy' $$ G= PV-TS $$ is what measures how far one is from this balance. 
+
+ 2. When the Equilibrium is to be considered among two materials, we must "match" the Energy in the form of mass of one material with the Energy in the form of Mass of the other material which is the condition $$G_1 = G_2$$ which in the differential form is ($$dG=0$$). 
+
+ 3. When Equilibrium is to be considered at the scale of all materials, assigning the value of Gibbs free potential energy is relative. A material at higher free energy will go towards equilibrium with that of a lower one, hence spontaneous reactions are given by the condition $$dG<0$$.
+
+Heat flow in materials from higher temperature to lower temperature can be seen as the prototype flow which connects two ends (dual phases) to bring them together to equilibrium. Similar Heat-type flow connects positive and negative charges: arrows of electric and magnetic fields show the flows. This flow in fluids also connects higher potential to lower potential. Einstein's Ricci flow connects points in space of higher curvature with those of lower curvature and so on. Gravitational Field is a Heat type flow.
+
+
 ### Differentiation and Integration
 
 The investigation into thinking led to the following observations:
@@ -89,7 +107,9 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
      
      - Force-Extension
      
- * The "Amount of Mass" in Thermodynamics is just the Energy. All Laws of Thermodynamics say that Energy is conserved no matter what forms it is divided into.
+ * The "Amount of Mass" in Thermodynamics is the Potential Energy. Thermodynamics say that Energy is conserved no matter what forms it is divided into.
  
+ ### Summary
  
+ Thermodynamics is identified as Mass Balance. Calculus is identified as Thermodynamics.
  
