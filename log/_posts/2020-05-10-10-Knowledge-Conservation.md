@@ -35,7 +35,7 @@ Languages from Physics and Mathematics are represented in the Language of Dualit
  
 * Fundamental Laws in a Language, at the degree of freedom $$i$$ arise from The Fundamental Law in the Language of Calculus:
  
- $$    - (-d_{i}) + (d_{i}+) = 0 $$   
+ $$    (-d_{i}) \,\, (d_{i}+) = 0 $$   
  
 ### Mass Balance as a form of "Knowledge is Conserved"
  
