@@ -53,6 +53,8 @@ $$ <\,\,E\,\, | \,\, m\,\,> \,\,\,\, <\,\, -\,\,| \,\, \langle \,\, \langle\,\, 
 
 This is the most reduced form which is equivalent to $$\left(\frac{E}{m}\right)(-c \cdot c+)=0$$ or $$\frac{E}{m}-c \cdot c+=0$$.
 
+* Starting with the reduced form above which is equivalent to $$c^2-c^2=0$$, we may reverse the steps to obtain a "composition" which is the Einstein's Identity. 
+
 * This is interpreted as: Energy-mass Duality and Space-time Duality are dual to each other. The Energy-mass duality axis is Orthogonal to the Space-time Duality and they meet only at the Light Cone which is where Space and Time are at equilibrium with each other. Hence $$E=mc^2$$ is a two Phase Equilibrium between (Energy-mass) as one Phase and (Space-time) as another Phase. It may be reduced further to Energy, mass, Space ($$X = (x_1,x_2,x_3)\,\,$$) and time as its components. 
 
 * The Space-time Metric is what decides the amount (measure) of how far from Equilibrium the Space-time fabric is. The Light Cone in the resulting Phase Diagram gives the Equilibrium Phase Boundary between Space and Time as the Phases. Einstein's Field Equations are the corresponding Maxwell's relations for the Thermodynamics of Energy-mass and Space-time.
@@ -70,6 +72,7 @@ The above representation as a group only happens at equilibrium. When there is n
 * The above may seem to be dimensionally wrong but I request us to be patient and Identify all forms of energy as mass and all forms of distance as mass as well to see all equations as an Equilibrium Mass Balance.
 
 ![Energy-mass-Space-time](/log/images/Energy mass light.PNG)
+
 If Energy and Mass are identified, and Space and Time are Identified, the above graph of a two dimensional Euclidean Plane is seen as two Circles orthogonal to each other about a common axis. This represents the Globe, with Space-Time as the Equator and Energy-Mass as the Prime Meridian. Their meeting point at the South Pole as the Identity which is called $$c^2$$, whereas the North Pole to be the dual Identity.
 
 ### Identifying Identity as Equilibrium
