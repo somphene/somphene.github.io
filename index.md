@@ -6,7 +6,7 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-[Symmetry](https://somphene.github.io/tags/#Language)
+[Sym](https://somphene.github.io/tags/#Language)
 
 * [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 
@@ -15,6 +15,8 @@ image: img/me.jpg
 * [Fundamental Law-Knowledge Conservation](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
 
 * [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/)
+
+* [Identity- Reflections to Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
 
 # [Research](https://somphene.github.io/research/)
 
