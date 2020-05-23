@@ -16,9 +16,25 @@ Language is seen in different forms. Language and representations of knowledge u
 
 ### Program
 
-Unify (Identify) various Languages by creating a mapping from one Language to another. Once the unification is done, reverse mapping one form of a Language to another to see the diversity in expression of forms. 
+Unify (Identify) various Languages by creating a connections from one Language to another. Once the unification is done, reverse mapping one form of a Language to another to see the diversity in expression of forms through various Languages. 
 
-Currently the Fundamental Base Language is that of Identity which takes froms as Dualities, the simplest example of which is $$(-x)(x+)=0$$ or $$x=x$$. How to map other Languages back to this? That is the program: to provide a base for each Language and then connecting back all the basis to Identity. These are relative and can change depending on circumstances. The most commonly recognized base for each Language is mentioned so that the mapping is quick. For visualization look at Language of Nature (Physics), for concrete communication, start from Language of Mathematics.
+Currently the Fundamental Base Language is that of Identity. Identity takes froms as Dualities, the simplest example of which is $$(-x)(x+)=0$$ or $$x=x$$. In the language of Symmetry, the simplest form is Reflection. In the language of Groups, the simplest form is $$S^0$$ or $$\mathbb{Z}_2$$.
+
+How to map other Languages back to Identity? That is the program: to provide a base (form closest to identity) for each Language and then connecting back all the basis to Identity. These are relative and can change depending on circumstances, which means, the base for different people may be different. A high school student may have a different base than an expert in a specialized area. It is one's own responsibility to choose the base with which one is most comfortable. The most commonly recognized base for each Language is mentioned below so that the mapping is quick. For visualization look at Language of Nature (Physics), for concrete communication, start from Language of Mathematics.
+
+There are many examples of Identification which each person does at several levels. I highlight those which are well known to many people so that most people can identify with the process. 
+
+  - Reading : We identify several alphabets together into a single word. The word is unification of letters. Similarly, a sentence is another level of unification which identifies several words together as a whole. The Paragraph is identification of Sentences.
+  
+  - Friends : Identifying people is a form of unification. We form groups by Identification. We form Networks by identification.
+  
+  - Balance : Balancing two different objects on either side requires connecting them by a common support.
+  
+  - Waves : Identifying droplets of water together to see a wave is a unification.
+  
+  - Algebra : The symbol $$x$$ identifies various values. For instance, various Numbers such as 1,2,3,.. are identified as a single symbol $$x$$ in Algebra. This is process is unification or Identification. In Calculus, the word "Integration" is used for the same. In Group Theory, symmetry or simply group is the word used. Groups can be differentiated to give Fields. Looking at it the other way round, Fields connect two groups. Commutative Algebra can be differentiated to give Non-Commutative Algebra. Looking at it the other way round, Non-commutative algebra connects two sides that are individually commutative to produce a new non-commutative algebra.
+  
+  - Calculus : Integration connects various forms. Differentiation is the separation of Identity into various forms. Looking at it the other way round, various identities are connected by differentiation to give a New Identity. 
 
 
 ### The Base in the Language of:
