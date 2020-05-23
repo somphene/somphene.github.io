@@ -17,6 +17,10 @@ The previous post [Empirical Observations on Language](https://somphene.github.i
 
 * Identifying Life as a phases of messing up and then Cleaning allows us to thread together a good fabric of Life. We keep creating structures that need cleaning. Placing things in their appropriate place is the process of cleaning. Art is a process of Cleaning. Mathematics is a process ofmaking structures and Cleaning them. Cleaning things allows them to reflect ourselves clearly in them. Mirrors need to be cleaned to show us our accurate reflection. Cleaning our home helps us see our own roots. Cleaning our surroundings helps us see our own history. Cleaning allows the structures themselves to see ourselves clearly. Language needs to see us as much as we need to see ourselves in our Language.
  
+* Identifying Past with Future allows us to thread them together into the now. We must practice for a phase (amount) before performing to be able to Identify with the future during the Performance. The measure of a performance is determined by how much amount goes into practicing it. For a perfectly clean person, practice is not needed since everything is already identified and kept in the right place.
+
+* Classification is identifying the Symmetries in structure. This allows us to see how one strcuture connect to another. Classification is a form of cleaning.
+ 
 * Identifying Electricity and Magnetism allows us to thread them together and form Light as the Wave form. 
 
 * Identifying Particle (rigid) and Wave (fluid) behaviour allows us to thread together the Wavefunction $$\Psi$$ in Quantum Mechanics.
