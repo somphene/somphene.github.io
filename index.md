@@ -8,9 +8,9 @@ image: img/me.jpg
 
 [Symmetry](https://somphene.github.io/tags/#Language)
 
-* [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
-
 * [Language Observes Empirically](https://somphene.github.io/2020-05-05-02-language-observes-empirically/)
+
+* [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 
 * [Equilibrium Thermodynamics](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/)
 
