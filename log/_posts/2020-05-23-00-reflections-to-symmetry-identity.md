@@ -15,15 +15,17 @@ Identity is Symmetry. Symmetry is Identity.
 
    - As a word, Symmetry reads as "same metric". Same metric is same measure is same amount is same mass. 
    
-   - Same amount of what? Same amount of assymetry. Same amount of sides. Same amount of the forms of identity.
+   - Same amount of what? Same amount of asymmetry. Same amount of sides. Same amount of the forms of identity.
    
    - Equilibrium is same amount is same mass. Equilibrium is mass balance.
 
 ### Identifying Reflections
 
-Symmetry expresses its forms through assymetry. Symmetry expresses in different forms through reflections. Reflection is asymmetry. Identifying the asymmetries gives symmetry. Composing asymmetry gives symmetry. Symmetry is Identity.
+Symmetry expresses its forms through assymetry. Symmetry expresses in different forms through reflections. Reflection is asymmetry. Identifying the asymmetries gives symmetry. Composing asymmetries together gives symmetry. Symmetry is Identity. We may diagrammatically represent 
 
    - In Matter language, one is condensed, the other is fluid. Equilibrium interface between the two identifies both forms condensed and fluid. Equilibrium interface is the symmetry. Equilibrium interface is the identity.
+   
+   Condensed $$ 0 $$ Fluid
    
    - In Natural language, Identity gets partitioned into two sides across a mirror. 
    
