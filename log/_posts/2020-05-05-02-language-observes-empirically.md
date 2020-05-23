@@ -25,7 +25,7 @@ The previous post [Empirical Observations on Language](https://somphene.github.i
 
 * Identifying Particle (rigid) and Wave (fluid) behaviour allows us to thread together the Wavefunction $$\Psi$$ in Quantum Mechanics.
 
-* Identifying Quantum Mechanics as a form of Classical Mechanics allows us to thread together 
+* Identifying Quantum Mechanics as a form of Classical Mechanics allows us to thread together past and present of Physics which in turn allows us to go further. Always identify our roots.  
 
 * Identifying Space and Time together allows us to thread together by the Space-time Metric the resulting Interval (Energy) and geodesics in General Relativity.
 
