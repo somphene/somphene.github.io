@@ -15,9 +15,15 @@ Identity is Symmetry. Symmetry is Identity.
 
    - As a word, Symmetry reads as "same metric". Same metric is same measure is same amount is same mass. 
    
-   - Same amount of what? Same amount of asymmetry. Same amount of sides. Same amount of the forms of identity.
+   - Same amount of what? Same amount of asymmetry on each side. Same amount (measure) of each side. Same amount of the forms of identity.
    
    - Equilibrium is same amount is same mass. Equilibrium is mass balance.
+   
+   - Symmetry is equilibrium.
+   
+   - Symmetry is mass balance.
+   
+   - Symmetry is Measure balance.
 
 ### Identifying Reflections
 
