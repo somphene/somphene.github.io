@@ -29,7 +29,7 @@ Distance is measure. Every action can be assigned a measure. Assign a measure fo
 
 * Triangle Inequality identifies straight line joining two points as a symmetry of the Euclidean Plane. Let, $$a, b, c$$ be the measures (distances) of the sides of a triangle opposite to vertices A, B and C respectively. An algorithm is needed for going from point A to point B then the triangle inequality identifies that increasing  asymmetry (increasing degrees of freedom or increasing measure) increases the total measure of the action to go from point A to point B in Euclidean Plane:
 
- $$  c \le \,\,a\,\,+\,\,b $$
+ $$  c \,\, \le \,\,a\,\,+\,\,b $$
  
 In other words, the optimal algorithm to go from a given point A to another given point B in the Euclidean Plane is to go along the straight line joining them. That is, the straight line joining two points is the symmetry connecting the two dual points.
 
