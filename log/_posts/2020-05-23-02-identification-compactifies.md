@@ -32,3 +32,7 @@ Identification of asymmetry represents both sides in equilibrium with each other
 * Reducing "space" or asymmetries or increasing symmetric are equivalent. Hence Identification leads to compactification.
 
 * In Calculus Language, Identification (Integration) is unifying elements from lower degree of freedom to a boundary of measure 0 in higher dimension. Line is identified to a circle, which is its compactification.
+
+* Identifying Operator (continuous) with its Spectrum (discrete) gives an Eigenvalue Equation. The solutions are Eigenfunctions which are compactified Identities to represent the remaining functions.
+   
+   - Electron orbits are discrete (Bohr's Model) which gives elliptic levels of energy as the Spectrum. These elliptic orbits are also seen as discrete orbits of Planets and in Number theory (elliptic curves). The Electron Wavefunction densities are continuous. The composition of spectra with the Operator gives Schrodinger Equation as the Eigenvalue equation. The solutions are Eigenfunctions which are the Orbitals. 
