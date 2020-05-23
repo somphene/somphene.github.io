@@ -23,8 +23,8 @@ Differentiation and Integration in Calculus Language are Identified to cyclic gr
 
 As a consequence of the above representation of Differentiation as an element of a group, $$D\,\, \cdot D\,\, =E $$ or $$ I \,\, \cdot \,\, I =E $$.
 
-### Identifynig the Usual Calculus of functions as a Cyclic Group of infinite order
+### Identifynig the Usual Calculus of functions as a Cyclic Group of Integers
 
-* The usual calculus of functions one uses a differentiated form of Fundamental Calculus. Differentiating the above cyclic Group of order $$2$$ into a cylic group of infinite order gives the usual calculus with $$d$$ as the element corresponding to one differentiation and $$i$$ as the inverse of differentiation, that is $$i = d^{-1}$$. That is, Calculus of functions is identified as the group isomorphic to $$\mathbb{Z}$$. 
+* The usual calculus of functions one uses a differentiated form of Fundamental Calculus. Differentiating the above cyclic Group of order $$2$$ into a cylic group of infinite order gives the usual calculus with $$d$$ as the element corresponding to one differentiation and $$i$$ as the inverse of differentiation, that is $$i = d^{-1}$$. That is, Calculus of functions is identified as the group isomorphic to the Integers ($$\mathbb{Z}$$). 
 
 $$ Calculus \,\,of\,\, functions \,\, = \{   \ldots d^{-3}, d^{-2}, d^{-1}, 1, d, d^2 , d^3,\ldots  \}
