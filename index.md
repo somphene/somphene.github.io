@@ -6,7 +6,7 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-[Non-Duality](https://somphene.github.io/tags/#Language)
+[Symmetry](https://somphene.github.io/tags/#Language)
 
 * [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 
