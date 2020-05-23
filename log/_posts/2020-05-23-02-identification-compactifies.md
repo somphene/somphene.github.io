@@ -30,3 +30,5 @@ Identification of asymmetry represents both sides in equilibrium with each other
 * Equations which involve composition of both $$\nabla \,\, \cdot$$ and $$\nabla \,\,\times$$ give the entire measure (of the space) which is called "Determinant". 
 
 * Reducing "space" or asymmetries or increasing symmetric are equivalent. Hence Identification leads to compactification.
+
+* In Calculus Language, Identification (Integration) is unifying elements from lower degree of freedom to a boundary of measure 0 in higher dimension. Line is identified to a circle, which is its compactification.
