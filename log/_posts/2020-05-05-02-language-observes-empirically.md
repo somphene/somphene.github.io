@@ -23,7 +23,7 @@ The previous post [Empirical Observations on Language](https://somphene.github.i
 
 * Identifying Charge (mass) and Field allows us to thread together a new Energy form in Physics.
 
-* Identifying discrete and continuous allows us to thread together a new form of Counting: Composing in Mathematics.
+* Identifying discrete and continuous allows us to thread together a new form of Counting : "Composing" in Mathematics.
 
 
 
