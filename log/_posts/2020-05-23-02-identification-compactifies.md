@@ -36,3 +36,7 @@ Identification of asymmetry represents both sides in equilibrium with each other
 * Identifying Operator (continuous) with its Spectrum (discrete) gives an Eigenvalue Equation. The solutions are Eigenfunctions which are compactified Identities to represent the remaining functions.
    
    - Electron orbits are discrete (Bohr's Model) which gives elliptic levels of energy as the Spectrum. These elliptic orbits are also seen as discrete orbits of Planets and in Number theory (elliptic curves). The Electron Wavefunction densities are continuous. The composition of spectra with the Operator gives Schrodinger Equation as the Eigenvalue equation. The solutions are Eigenfunctions which are the Orbitals. 
+   
+   - Theory of Light is incomplete without recognizing the Colours (Frequencies) as the spectrum of the waveform.
+   
+   - Sound waves and the fundamental frequencies of vibrations are to be identified.
