@@ -28,24 +28,21 @@ $$
 \end{array}
 $$
 
-$$
-\begin{array} {|c|c|c|}
-  \cdot & E & I  \\
-\cline{1-3}
-    $$E$$ & $$E$$ & $$I$$ \\
-    $$I$$ & $$I$$ & $$E$$ \\
-\end{array}
-$$
 or equivalently,
 
 $$
 \begin{array} {|c|c|c|}
-    \cdot & E & D  \\
-\cline{1-3}
-    $$E$$ & $$E$$ & $$D$$ \\
-    $$D$$ & $$D$$ & $$E$$ \\
+\hline 
+  \cdot & E & D \\ 
+\hline
+  E & E & D \\ 
+\hline 
+  D & D & E \\ 
+\hline
 \end{array}
 $$
+
+* We may identify how $$D \cdot D = E$$ appears in various forms in Calculus.
 
 * In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are identified as duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
 
