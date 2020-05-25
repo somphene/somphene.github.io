@@ -17,6 +17,8 @@ Let the Fundamental Identity be denoted by $$E$$. In group (symmetry) Language, 
 
 ### Identifying Fundamental Calculus Language as a Fundamental Cyclic Group of order 2
 
+* In the usual Calculus Language we have two operations, one being Differentiation denoted by $$D$$ and the other being Integration $$I$$. Here we start by identifying these two as the same operation and then further proceed with the usual notions in the next secions.
+
 * Let $$E$$ be the Identity. Then the group $$\{E, D, I\} $$ with relations $$I \,\,\cdot \,\, D \,\,= \,\, E$$ and $$I=D$$ identify the Calculus Language at any arbitrary but fixed degree as a Symmetry of differentiation $$D$$ and integration $$I$$. 
 
 * The above presentation of Calculus as a group is identified as $$\{E, I\}$$, with $$E$$ as identity and $$I^2=E$$. This is a Cyclic Group of order 2, that is $$C_2$$. The group operation table is:
