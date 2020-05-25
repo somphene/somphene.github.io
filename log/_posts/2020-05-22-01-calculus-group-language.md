@@ -68,4 +68,4 @@ As a consequence of the above representation of Differentiation as an element of
 
 * The usual calculus of functions one uses a differentiated form of Fundamental Calculus. Differentiating the above cyclic Group of order $$2$$ into a cylic group of infinite order gives the usual calculus with $$d$$ as the element corresponding to one differentiation and $$i$$ as the inverse of differentiation, that is $$i = d^{-1}$$. That is, Calculus of functions is identified as the group isomorphic to the Integers ($$\mathbb{Z}$$). 
 
-$$ Calculus \,\,of\,\, functions \,\, = \{   \ldots d^{-3}, d^{-2}, d^{-1}, 1, d, d^2 , d^3,\ldots  \}
+$$ Calculus \,\,of\,\, functions \,\, = \{   \ldots d^{-3}, d^{-2}, d^{-1}, 1, d, d^2 , d^3,\ldots  \}$$
