@@ -9,15 +9,33 @@ tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structur
 
 ### Abstract
 
-Differentiation and Integration in Calculus Language are Identified to cyclic group of order two $$C_2$$ (isomorphic to Integers mod 2). This is done by identifying the symmetry of Calculus in the dual operations of Differentiation and Integration. That is, Integration and Differentiation are reflections of each other which may be unified by identification.
+Differentiation and Integration in Calculus Language are Identified to Cyclic Group of order two ($$C_2$$, isomorphic to Integers mod 2). This is done by identifying the symmetry of Calculus in the dual operations of Differentiation and Integration. That is, Integration and Differentiation are reflections of each other which may be unified by identification. This simple case is extended to further Identify compositions of various degrees.
 
 ### Identifying Calculus Language as a Fundamental Group
 
-* Let $$E$$ be the Identity. Then the group $$\{E, D, I\} $$ with relations $$I \,\,\cdot \,\, D \,\,= \,\, E$$ and $$I=D$$ represent the Calculus Language at any arbitrary but fixed level.
+* Let $$E$$ be the Identity. Then the group $$\{E, D, I\} $$ with relations $$I \,\,\cdot \,\, D \,\,= \,\, E$$ and $$I=D$$ identify the Calculus Language at any arbitrary but fixed degree as a Symmetry of differentiation $$D$$ and integration $$I$$. 
 
-* The above presentation of Calculus as a group is identified as the cyclic Group of order 2, that is $$C_2$$.
+* The above presentation of Calculus as a group is identified as $$\{E, I\}$$, with $$E$$ as identity and $$I^2=E$$. This is a Cyclic Group of order 2, that is $$C_2$$. The group table is:
+$$
+\noindent\begin{tabular}{c | c c}
+    \cdot & E & I  \\
+    \cline{1-3}
+    $$E$$ & $$E$$ & $$I$$ \\
+    $$I$$ & $$I$$ & $$E$$ \\
+\end{tabular}
+$$
+or equivalently,
 
-* In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
+$$
+\noindent\begin{tabular}{c | c c}
+    \cdot & E & D  \\
+    \cline{1-3}
+    $$E$$ & $$E$$ & $$D$$ \\
+    $$D$$ & $$D$$ & $$E$$ \\
+\end{tabular}
+$$
+
+* In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are identified as duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
 
 * Thus $$C_2$$ is identified as the fundamental Group of Calculus Language.
 
