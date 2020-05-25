@@ -36,10 +36,20 @@ $$
 \end{array}
 $$
 
-$$\begin{array} {|r|r|}\hline $$\cdot$$ & E & I \\ \hline E & E & I \\ \hline I & I & E \\ \hline  \end{array}$$
+$$
+\begin{array} {|r|r|}
+  \hline 
+  $$\cdot$$ & E & I \\ 
+  \hline
+  E & E & I \\ 
+  \hline 
+  I & I & E \\ 
+  \hline
+\end{array}
+$$
 
 $$
-\noindent\begin{array}
+\begin{array}
     \cdot & E & I  \\
     \cline{1-3}
     $$E$$ & $$E$$ & $$I$$ \\
@@ -49,7 +59,7 @@ $$
 or equivalently,
 
 $$
-\noindent\begin{array}
+\begin{array}
     \cdot & E & D  \\
     \cline{1-3}
     $$E$$ & $$E$$ & $$D$$ \\
