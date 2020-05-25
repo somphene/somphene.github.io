@@ -36,23 +36,26 @@ Differentiation and Integration in Calculus Language are Identified to Cyclic Gr
 \end{array}
 \]
 
+
+$$\begin{array} {|r|r|}\hline $$\cdot$$ & E & I \\ \hline E & E & I \\ \hline I & I & E \\ \hline  \end{array}$$
+
 $$
-\noindent\begin{tabular}{c | c c}
+\noindent\begin{array}
     \cdot & E & I  \\
     \cline{1-3}
     $$E$$ & $$E$$ & $$I$$ \\
     $$I$$ & $$I$$ & $$E$$ \\
-\end{tabular}
+\end{array}
 $$
 or equivalently,
 
 $$
-\noindent\begin{tabular}{c | c c}
+\noindent\begin{array}
     \cdot & E & D  \\
     \cline{1-3}
     $$E$$ & $$E$$ & $$D$$ \\
     $$D$$ & $$D$$ & $$E$$ \\
-\end{tabular}
+\end{array}
 $$
 
 * In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are identified as duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
