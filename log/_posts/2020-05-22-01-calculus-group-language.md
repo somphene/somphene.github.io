@@ -15,7 +15,27 @@ Differentiation and Integration in Calculus Language are Identified to Cyclic Gr
 
 * Let $$E$$ be the Identity. Then the group $$\{E, D, I\} $$ with relations $$I \,\,\cdot \,\, D \,\,= \,\, E$$ and $$I=D$$ identify the Calculus Language at any arbitrary but fixed degree as a Symmetry of differentiation $$D$$ and integration $$I$$. 
 
-* The above presentation of Calculus as a group is identified as $$\{E, I\}$$, with $$E$$ as identity and $$I^2=E$$. This is a Cyclic Group of order 2, that is $$C_2$$. The group table is:
+* The above presentation of Calculus as a group is identified as $$\{E, I\}$$, with $$E$$ as identity and $$I^2=E$$. This is a Cyclic Group of order 2, that is $$C_2$$. The group operation table is:
+\[
+\begin{array}{|c|c|c|}
+\hline
+  \text{Set} & \text{Operation} & \text{Identity} \\ 
+\hline
+   \mathbb{Z} & + & 0 \\
+\hline
+   \mathbb{Q} & + & 0 \\
+\hline
+   \mathbb{R} & + & 0 \\ 
+\hline
+   \mathbb{Z} & \times & 1 \\
+\hline
+   \mathbb{Q} & \times & 1 \\
+\hline
+   \mathbb{R} & \times & 1 \\ 
+\hline
+\end{array}
+\
+
 $$
 \noindent\begin{tabular}{c | c c}
     \cdot & E & I  \\
