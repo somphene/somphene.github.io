@@ -15,7 +15,7 @@ Identifying two ends of a line forms a loop. When starting point and ending poin
 
 Identification of asymmetry represents both sides in equilibrium with each other at their meeting point. This is why Identification Compactifies. The Real Number line is not compact but the Circle which identifies ends of Real Line is compact. Homeomorphisms (flows preserving boundaries of closed structures) preserve compactness. The charts (homeomorphisms) used to represent Manifolds as composition of Euclidean Spaces form partitions of the Manifold. That is, the Manifold acts as the Identity (symmetry) which is expressed in asymmetric forms through the charts (homeomorphic flows projecting the manifold to Euclidean Spaces). This involves going from a symmetry (the manifold) which is compact to a composition of relatively less compact forms. This is similar to how in Group theory, Identity is unique and needs only one symbol to express itself whereas all other elements need its inverse symbol to compose together and form the identity. Circle (compact) cannot be represented as the Real Line (non-compact) using a single chart. Similarly, the partitions of unity involve expressing $$1$$ (the identity) into partitions. 
 
-* Identify the $$\partial$$ symbol as correspinding to English symbol, which means "only one side, there's more". 
+* Identify the $$\partial$$ symbol as corresponding to English symbol (,) which means "only one side (,) there's more". 
 
 * Identifying multiple flows (trajectories) arising in a vector field can be expressed as a Differential equation which is compact form of the various Integral flows.
 
