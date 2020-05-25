@@ -34,7 +34,7 @@ Differentiation and Integration in Calculus Language are Identified to Cyclic Gr
    \mathbb{R} & \times & 1 \\ 
 \hline
 \end{array}
-\
+\]
 
 $$
 \noindent\begin{tabular}{c | c c}
