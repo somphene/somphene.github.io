@@ -11,7 +11,11 @@ tags: [Group, Cyclic, Simple, Conservation, Law, Fundamental, Mass, Balance, Deg
 
 Differentiation and Integration in Calculus Language are Identified to Cyclic Group of order two (isomorphic to Integers mod two). This is done by identifying the symmetry of Calculus in the two operations of Differentiation and Integration. That is, Integration and Differentiation are reflections of each other which may be unified by Identification. This simple case of Identification is extended to further Identify compositions of various degrees.
 
-### Identifying Calculus Language as a Fundamental Group
+### Fundamental Identity
+
+Let the Fundamental Identity be denoted by $$E$$. In group (symmetry) Language, this is he trivial group: it comprises of only one element, $$E$$ itself. To identify with other structures, at least on other element must be produced as a form of Identity. However, having another identity element in the same group is redundant: $$E_1 \cdot E_2 = E_1 =E_2$$. This makes it necessary to "Differentiate" the Identity into two or more elements. Making any "partition" (we have seen in previous posts that creating a boundary is Differentiation) of Identity automatically creates two sides, one on either side of the boundary of partition. This defines an element and its inverse. In the simplest case, the Partition divides equally: that is the element is its own inverse. This forms the Cyclic group of order 2, which is the simplest non-trivial group. 
+
+### Identifying Fundamental Calculus Language as a Fundamental Cyclic Group of order 2
 
 * Let $$E$$ be the Identity. Then the group $$\{E, D, I\} $$ with relations $$I \,\,\cdot \,\, D \,\,= \,\, E$$ and $$I=D$$ identify the Calculus Language at any arbitrary but fixed degree as a Symmetry of differentiation $$D$$ and integration $$I$$. 
 
@@ -42,13 +46,17 @@ $$
 \end{array}
 $$
 
-* We may identify how $$D \cdot D = E$$ appears in various forms in Calculus.
+* We shall identify how $$D \cdot D = E$$ appears in various forms in Calculus.
 
 * In the above, Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are identified as duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
 
 * Thus $$C_2$$ is identified as the fundamental Group of Calculus Language.
 
-As a consequence of the above representation of Differentiation as an element of a group, $$D\,\, \cdot D\,\, =E $$ or $$ I \,\, \cdot \,\, I =E $$.
+We see through the above representation of Differentiation as an element of a group, $$D\,\, \cdot D\,\, =E $$ or $$ I \,\, \cdot \,\, I =E $$.
+
+### Identifying the Differential Form 
+
+
 
 ### Identifynig the Usual Calculus of functions as a Cyclic Group of Integers
 
