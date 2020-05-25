@@ -4,12 +4,12 @@ blog-category: blog
 published: true
 title: Calculus Group Language
 author: Som Phene 
-tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
+tags: [Group, Cyclic, Simple, Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Abstract
 
-Differentiation and Integration in Calculus Language are Identified to Cyclic Group of order two ($$C_2$$, isomorphic to Integers mod 2). This is done by identifying the symmetry of Calculus in the dual operations of Differentiation and Integration. That is, Integration and Differentiation are reflections of each other which may be unified by identification. This simple case is extended to further Identify compositions of various degrees.
+Differentiation and Integration in Calculus Language are Identified to Cyclic Group of order two (isomorphic to Integers mod two). This is done by identifying the symmetry of Calculus in the two operations of Differentiation and Integration. That is, Integration and Differentiation are reflections of each other which may be unified by Identification. This simple case of Identification is extended to further Identify compositions of various degrees.
 
 ### Identifying Calculus Language as a Fundamental Group
 
@@ -44,7 +44,7 @@ $$
 
 * We may identify how $$D \cdot D = E$$ appears in various forms in Calculus.
 
-* In the above Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are identified as duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
+* In the above, Differentiation ($$D$$) and Integration ($$I$$) at the same Degree (of the same measure) are identified as duals to each other to produce Identity ($$E$$) of Lower Degree (less measure). 
 
 * Thus $$C_2$$ is identified as the fundamental Group of Calculus Language.
 
