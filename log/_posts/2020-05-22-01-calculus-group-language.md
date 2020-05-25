@@ -39,13 +39,13 @@ $$
 
 $$
 \begin{array} {|c|c|c|}
-  \hline 
-  $$\cdot$$ & E & I \\ 
-  \hline
+\hline 
+  \cdot & E & I \\ 
+\hline
   E & E & I \\ 
-  \hline 
+\hline 
   I & I & E \\ 
-  \hline
+\hline
 \end{array}
 $$
 
