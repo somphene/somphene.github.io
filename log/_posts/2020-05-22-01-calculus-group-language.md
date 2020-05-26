@@ -76,7 +76,7 @@ $$
 
 We see through the above representation of Differentiation as an element of a group, $$ E \cdot E = E$$ and $$D\,\, \cdot D\,\, =E $$ or $$ I \,\, \cdot \,\, I =E $$.
 
-* In Language of Equations (Roots), the Identity $$E$$ has been Differentiated to obtain two roots one itself and the other a pair of indistinguishable parts $$D$$ and $$D$$ which are inverse to each other. Thus the single equation $$E \cdot E = E$$ gets differentiated into a pair of two equations:
+* In Language of Equations (Roots), the Identity $$E$$ has been Differentiated to obtain two roots: one itself and the other a pair of indistinguishable parts $$D$$ and $$D$$ which are inverse to each other. Thus the single equation $$E \cdot E = E$$ gets differentiated into a pair of two equations:
 
 $$
 \begin{eqnarray}
@@ -89,7 +89,7 @@ In Algebra (the Language of Eqautions), these are Identified as a Single equatio
 
 * In Symmetry Language, an single object taken to be Identity ($$E$$) can be reflected to obtain a copy which is renamed to distinguish from the original object. Visually, the change in orientation occurs naturally. 
 
-* In Calculus of Functions Language, the Operator Equation $$D \cdot D = E$$ when Identified with it's Spectrum gives the Eigenvalue Equation by acting on function $$f$$ to give $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, 1\,\,)\,\, f$$. Here for the Spectrum taking Identity as 1 for simplicity, it can be replaced by $$\lambda$$ later. "Two Roots of 1" in the above Eigenvalue equation correspond to $$\exp^{1+}$$ and its reflection, call it the $$\exp^{-1}$$ function. Corresponding to $$\lambda as Identity of Spectrum, we get $$\exp{\lambda+}$$ and its reflection $$exp^{-\lambda}$$ as the roots satisfying the Eigenvalue equation. 
+* In Calculus of Functions Language, the Operator Equation $$D \cdot D = E$$ when Identified with it's Spectrum gives the Eigenvalue Equation by acting on function $$f$$ to give $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, 1\,\,)\,\, f$$. Here for the Spectrum taking Identity as 1 for simplicity, it can be replaced by $$\lambda$$ later. "Two Roots of 1" in the above Eigenvalue equation correspond to $$\exp^{1+}$$ and its reflection, call it the $$\exp^{-1}$$ function. Corresponding to $$\lambda$$ as Identity of Spectrum, we get $$\exp{\lambda+}$$ and its reflection $$exp^{-\lambda}$$ as the roots satisfying the Eigenvalue equation. 
 
 * In the Orientations Sign Language, this corresponds to $$C_2 = \{ \,\, -\,\,,\,\, + \,\, \}$$ where $$+$$ is the Identity and $$-$$ corresponds to $$D$$.
 
