@@ -187,7 +187,7 @@ $$ \exp(\,\,-\,i\,\,) \,\,\cdot\,\, \exp(\,\,i+\,\,) = \,\,1 \,\,= (\,\, \cos \,
 
 Thus we see **the Fundamental Law**:
 
-$$ 1 \,\, =\,\, \cos \,\,\cdot\,\, \cos \,\, + \,\, (\,\, -i \,\, \cdot \,\,i+) \sin \,\, \cdot \,\, \sin$$
+$$ 1 \,\, =\,\, \cos \,\,\cdot\,\, \cos \,\, + \,\, (\,\, -i \,\, \cdot \,\,i+) \,\, \sin \,\, \cdot \,\, \sin$$
 
 Using the naming of $$i$$ to satisfy the equation $$i \cdot i =\,\,-\,1$$, we see
 
