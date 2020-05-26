@@ -15,6 +15,12 @@ Differentiation and Integration in Calculus Language are Identified to Cyclic Gr
 
 Let the Fundamental Identity be denoted by $$E$$. In group (symmetry) Language, this is he trivial group: it comprises of only one element, $$E$$ itself with the trivial operation $$ E \cdot E = E$$. To identify with other structures, at least on other element must be produced as a form of Identity. However, having another identity element in the same group is redundant: $$E_1 \cdot E_2 = E_1 =E_2$$. This makes it necessary to "Differentiate" the Identity into two or more elements. Making any "partition" (we have seen in previous posts that creating a boundary is Differentiation) of Identity automatically creates two sides, one on either side of the boundary of partition. This defines an element and its inverse. In the simplest case, the Partition divides equally: that is the element is its own inverse. This forms the Cyclic group of order 2, which is the simplest non-trivial group. 
 
+* In Language of Algebra (Equations), the Identity is $$1$$ and the trivial Equation is $$X=1$$ where $$X$$ acts as the identifier of elements satisfying the Equation.
+
+* In Usual Calculus Language, $$1$$ as an operation on Functions is the Identity.
+
+* In Orientations Sign Language, $$+$$ is the Identity.
+
 ### Identifying Fundamental Calculus Language as a Fundamental Cyclic Group of order 2
 
 * In the usual Calculus Language we have two operations, one being Differentiation denoted by $$D$$ and the other being Integration $$I$$. Here we start by identifying these two as the same operation and then further proceed with the usual notions in the next secions.
@@ -88,9 +94,7 @@ Now we Further Differentiate the element $$E$$ in Cyclic Group of Order 2 to giv
   
   Differentiating the Identity $$E$$, satisfying the relation $$E \,\,=\,\, D\,\, \cdot\,\, D$$ into two elements is a repeat of the procedure we did to obtain Cyclic group of order two from the trivial group. That is, we may embed a Cyclic Group of order $$2$$ inside . In other words, each $$D$$ can be split into a cyclic Group of Order $$2$$. 
 
-
-
-### Identifynig the Usual Calculus of functions as a Cyclic Group of Integers
+### Identifying the Usual Calculus of functions as a Cyclic Group of Integers
 
 * The usual calculus of functions one uses a differentiated form of Fundamental Calculus. Differentiating the above cyclic Group of order $$2$$ into a cylic group of infinite order gives the usual calculus with $$d$$ as the element corresponding to one differentiation and $$i$$ as the inverse of differentiation, that is $$i = d^{-1}$$. That is, Calculus of functions is identified as the group isomorphic to the Integers ($$\mathbb{Z}$$). 
 
