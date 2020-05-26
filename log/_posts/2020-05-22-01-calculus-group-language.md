@@ -9,7 +9,7 @@ tags: [Group, Cyclic, Simple, Conservation, Law, Fundamental, Mass, Balance, Deg
 
 ### Abstract
 
-Differentiation and Integration in Calculus Language are Identified to Cyclic Group of order two (isomorphic to Integers mod two). This is done by identifying the symmetry of Calculus in the two operations of Differentiation and Integration. That is, Integration and Differentiation are symmetries of each other which may be unified by Identification. This simple case of Identification is extended to further Identify compositions of various degrees.
+Differentiation and Integration in Calculus Language are Identified to Cyclic Group of order two (isomorphic to Integers mod two). This is done by identifying the symmetry of Calculus in the two operations of Differentiation and Integration. That is, Integration and Differentiation are symmetries of each other which may be unified by Identification. This simple case of Identification is extended to further Identify compositions of various degrees. These compositions identify various forms of constructions such as those seen in Numbers (Real Number Line Construction), Groups (Composition of finite Simple Groups), Calculus (Differentiable Structures) and other Languages.
 
 ### Fundamental Identity
 
@@ -20,6 +20,8 @@ Let the Fundamental Identity be denoted by $$E$$. In group (symmetry) Language, 
 * In Calculus Language, Integration is the Identity $$E$$ and Differentiation is $$D$$.
 
 * In Usual Calculus Language, $$1$$ as an operation on Functions is the Identity giving $$1 \cdot f = f$$ for any function.
+   
+    - In Calculus of Functions, $$d$$ as an operation on functions gives $$d \cdot (f)= 1\cdot (f)$$ as the Eigenvalue equation. Name the solution of this Equation to be the Identity ($$E$$) function of calculus ($$\exp$$) which will later be seen as the Exponential function. 
 
 * In Orientations Sign Language, $$+$$ is the Identity. Thus, acting on any orientation with $$+$$ maintains the orientation.
 
@@ -31,7 +33,7 @@ Let the Fundamental Identity be denoted by $$E$$. In group (symmetry) Language, 
    
    - In Calculus, Integration stays preserved as one of the operations on Differentiation.
    
-   - In Orientation, $$+$$ stays as one of the signs on Differentiation  ($$-$$, $$+$$).
+   - In Orientation, $$+$$ stays as one of the signs on Differentiation (to ($$-$$, $$+$$)).
 
 ### Identifying Fundamental Calculus Language as a Fundamental Cyclic Group of order 2
 
@@ -83,9 +85,13 @@ D \,\,\cdot \,\, D \,\, = \,\, E
 \end{eqnarray}
 $$
 
-In Algebra (the Language of Eqautions), these are Identified as a Single equation $$x^2 = 1$$ and the roots are given by $$1$$ and $$-1$$, where $$1$$ is the identity and acts as its own root and $$-1$$ corresponds to $$D$$. This shows how we start from $$\{E\}$$, the trivial group which can be partitioned (allowing redundancy) to $$\{ E, E\}$$ which is two copies of the same Identity element, both being inverses to each other to give $$E\,\, \cdot\,\, E\,\,= \,\,E$$. One of the $$E$$'s is then Differentiated (partitioned) further into two halves $$\{E_{*}, E_{*}\}$$ which are renamed as $$\{D, D\}$$ to recognize that they are at a lower degree (D stands for down or differentiated). Correspondingly, in Equations we start with $$1$$ as the Identity. $$x$$ is the identifier for all elements in the group, that is, all elements in a group may be identified to $$x$$. Thus, $$x = 1$$. To go further, differentiating $$x$$ into two halves requires producing two $$x$$'s, this is done by identifying the elements with themselves or the equation with itself (symmetry) : $$x \cdot x = 1 \cdot 1$$ which is $$x^2 =1$$ and gives $$\{-1,1\}$$ as roots. Thus the cyclic group of order $$2$$ ($$C_2$$) in Calculus is the pair of roots $$\{-1,1\}$$ in Algebra. This is analogous to reflection in Symmetry Language. Allowing redundancy, or Identifying two copies of the same is required for differentiating. In other words, increasing Degrees of freedom (up) gives corresponding roots (down). Or, Integration gives Differentitation. This flow of thought can be reversed.  
+In Algebra (the Language of Eqautions), these are Identified as a Single equation $$x^2 = 1$$ and the roots are given by $$1$$ and $$-1$$, where $$1$$ is the identity and acts as its own root and $$-1$$ corresponds to $$D$$. This shows how we start from $$\{E\}$$, the trivial group which can be partitioned (allowing redundancy) to $$\{ E, E\}$$ which is two copies of the same Identity element, both being inverses to each other to give $$E\,\, \cdot\,\, E\,\,= \,\,E$$. One of the $$E$$'s is then Differentiated (partitioned) further into two halves $$\{E_{*}, E_{*}\}$$ which are renamed as $$\{D, D\}$$ to recognize that they are at a lower degree (D stands for down or differentiated). Correspondingly, in Equations we start with $$1$$ as the Identity. $$x$$ is the identifier for all elements in the group, that is, all elements in a group may be identified to $$x$$. Thus, $$x = 1$$. To go further, differentiating $$x$$ into two halves requires producing two $$x$$'s, this is done by identifying the elements with themselves or the equation with itself (symmetry) : $$x \cdot x = 1 \cdot 1$$ which is $$x^2 =1$$ and gives $$\{-1,1\}$$ as roots. Thus the cyclic group of order $$2$$ ($$C_2$$) in Calculus is the pair of roots $$\{-1,1\}$$ in Algebra. This is analogous to reflection in Symmetry Language. Allowing redundancy, or Identifying two copies of the same is required for differentiating. In other words, increasing Degrees of freedom (up) gives corresponding roots (down). Or, Integration gives Differentitation. This flow of thought can be reversed to see Differentiation as Identification (Integration).
 
-* In the Orientations Sign Language, this is $$C_2 = \{ \,\, -\,\,,\,\, + \,\, \}$$ where $$+$$ is the Identity and $$-$$ corresponds to $$D$$.
+* In Symmetry Language, an single object taken to be Identity ($$E$$) can be reflected to obtain a copy which is renamed to distinguish from the original object. Visually, the change in orientation occurs naturally. 
+
+* In Calculus of Functions Language, the Operator Equation $$D \cdot D = E$$ when Identified with it's Spectrum gives the Eigenvalue Equation by acting on function $$f$$ to give $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, 1\,\,)\,\, f$$. Here for the Spectrum taking Identity as 1 for simplicity, it can be replaced by $$\lambda$$ later. "Two Roots of 1" in the above Eigenvalue equation correspond to $$\exp^{1+}$$ and its reflection, call it the $$\exp^{-1}$$ function. Corresponding to $$\lambda as Identity of Spectrum, we get $$\exp{\lambda+}$$ and its reflection $$exp^{-\lambda}$$ as the roots satisfying the Eigenvalue equation. 
+
+* In the Orientations Sign Language, this corresponds to $$C_2 = \{ \,\, -\,\,,\,\, + \,\, \}$$ where $$+$$ is the Identity and $$-$$ corresponds to $$D$$.
 
 * In Geometry $$S^0$$ is $$C_2$$, where the left hand point corresponds to $$D$$ and the right hand point corresponds to the Identity $$E$$.
 
@@ -95,7 +101,7 @@ In Algebra (the Language of Eqautions), these are Identified as a Single equatio
 
 ### Identifying the Differential Forms of Fundamental Calculus (Cyclic Groups of order $$2^n$$)
 
-To put in order the story so far: We start with the Trivial Group consisting of only one element called the Identity $$E$$. Next we "Differentiate the Identity" into two parts- an element and it's inverse. In the simplest case, this Differentiation is Symmetric so as to give the element as its own inverse resulting in creation of a Cyclic Group of order 2, that is $$C_2 = \{\,\,E\,\,,\,\, D\,\,\}$$ with $$D \,\,\cdot\,\, D \,\,=\,\,E$$ . This Fundamental Cyclic Group appears in various forms in different Languages- $$S^0$$ in Geometry, Orientations $-$ and $+$, Binary Language $$\{\,\,0\,\,,1\,\,\}$$ Morse Code $$\{\,\,\cdot\,\,,\,\,-\,\,\}$$ and so on. 
+To put in order the story so far: We start with the Trivial Group consisting of only one element called the Identity $$E$$. Next we "Differentiate the Identity" into two parts- an element and it's inverse. In the simplest case, this Differentiation is Symmetric so as to give the element as its own inverse resulting in creation of a Cyclic Group of order 2, that is $$C_2 = \{\,\,E\,\,,\,\, D\,\,\}$$ with $$D \,\,\cdot\,\, D \,\,=\,\,E$$ . This Fundamental Cyclic Group appears in various forms in different Languages- $$S^0$$ in Geometry, Orientations $$\{\,\,-\,\,,\,\,+\,\,\}$$, Binary Language $$\{\,\,1\,\,,0\,\,\}$$, Morse Code $$\{\,\,-\,\,,\,\,\cdot\,\,\}$$, Parity $${Odd, Even}$$, Physics- Spin down and Spin up, Bosons and Fermions and so on. 
 
 Now we Further Differentiate the element $$D$$ in Cyclic Group of Order 2 to give two distinguishable sub-elements. Together, these will be called "fourth roots of Identity" (think of roots of trees coming from Identity). Through equations, we may see this as follows:
 
