@@ -176,7 +176,7 @@ d \,\, \cdot \,\, F \,\, = d \,\, \cdot \,\,(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,) 
 $$
 The last equation is $$ (d \cdot\,\, d \,\,) F = - F $$ which is the Eigenvalue Equation we were trying to represent.
 
-This suggests that $$(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,)$$ corresponds to $$\exp\{\,\,i\,\,\} and its second component sign reflection $$(\,\, \cos\, +\,\,,\,\,-\,\,\sin\,\,)$$ corresponds to the reflection $$\exp\{\,\,-\,i\,\,\}. 
+This suggests that $$(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,)$$ corresponds to $$\exp\{\,\,i\,\,\}$$ and its second component sign reflection $$(\,\, \cos\, +\,\,,\,\,-\,\,\sin\,\,)$$ corresponds to the reflection $$\exp\{\,\,-\,i\,\,\}$$. 
  
    - Another way to see the above is by the Algebra homomorphism $$(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,)= \,\, \cos \,\,+ \,\,i\, \sin$$ since reflection of $$i$$ to $$-i$$ gives the corresponding result as  $$\,\, \cos \,\,+ \,\,-\,i\, \sin$$. Hence $$\exp(i)\,\, = \,\, \cos \,\,+ \,\,i\, \sin$$ and $$\exp(-i) \,\, =\,\, \cos \,\,+ \,\,-\,i\, \sin$$. 
    
