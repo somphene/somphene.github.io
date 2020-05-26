@@ -93,7 +93,7 @@ In Algebra (the Language of Eqautions), these are Identified as a Single equatio
 
 $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, 1\,\,)\,\, f$$
 
-  Here for the Spectrum taking Identity as 1 for simplicity, it can be replaced by $$\lambda$$ later. "Two Roots of 1" in the above Eigenvalue equation correspond to $$\exp^{1+}$$ and its reflection, call it the $$\exp^{-1}$$ function. Corresponding to $$\lambda$$ as Identity of Spectrum, we get $$\exp\{\lambda+\\,\,}$$ and its reflection $$exp\{-\lambda\,\,\}$$ as the roots satisfying the Eigenvalue equation. 
+  Here for the Spectrum taking Identity as 1 for simplicity, it can be replaced by $$\lambda$$ later. "Two Roots of 1" in the above Eigenvalue equation correspond to $$\exp\{\,\,1\,+\,\,\}$$ and its reflection, call it the $$\exp\{\,\,-\,1\,\,\}$$ function. Corresponding to $$\lambda$$ as Identity of Spectrum, we get $$\exp\{\lambda+\,\,\}$$ and its reflection $$exp\{-\lambda\,\,\}$$ as the roots satisfying the Eigenvalue equation. 
 
 * In the Orientations Sign Language, this corresponds to $$C_2 = \{ \,\, -\,\,,\,\, + \,\, \}$$ where $$+$$ is the Identity and $$-$$ corresponds to $$D$$.
 
@@ -103,7 +103,7 @@ $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, 1\,\,)\,\, f$$
 
 * In Particle Physics, Fermion is $$D$$ and Boson is Identity $$E$$.
 
-### Identifying the Differential Forms of Fundamental Calculus (Cyclic Groups of order $$2^n$$)
+### Identifying the Differential Forms of Fundamental Calculus (Cyclic Groups of finite order) 
 
 To put in order the story so far: We start with the Trivial Group consisting of only one element called the Identity $$E$$. Next we "Differentiate the Identity" into two parts: an element and it's inverse. In the simplest case, this Differentiation is Symmetric so as to give the element as its own inverse resulting in creation of a Cyclic Group of order 2, that is $$C_2 = \{\,\,E\,\,,\,\, D\,\,\}$$ where $$D \,\,\cdot\,\, D \,\,=\,\,E$$ . This Fundamental Cyclic Group appears in various forms in different Languages- $$S^0$$ in Geometry, in Algebra $$\{\,\,-1\,\,,\,\,1+\,\,\}$$, Orientations $$\{\,\,-\,\,,\,\,+\,\,\}$$, Binary Language $$\{\,\,1\,\,,0\,\,\}$$, Morse Code $$\{\,\,-\,\,,\,\,\cdot\,\,\}$$, Parity $$\{Odd, Even\}$$, Physics- Spin down and Spin up, Bosons and Fermions and so on. 
 
@@ -118,7 +118,7 @@ Now we Further Differentiate the element $$D$$ in Cyclic Group of Order 2 to giv
    
    $$  x \,\,\cdot\,\, x = -1$$
    
-   - Name the two roots to the above equation as $$-i$$ and $$i+$$. 
+   - Name the two roots to the above equation as $$-i$$ and $$i+$$. Thus $$\,\,-i\,\, \cdot\,\, -i \,\,= \,\,i\,\, \cdot \,\,i = \,\,-\,1 $$
    
    - Identifying all together, we get the Cyclic group of order $$2 \cdot 2$$ or $$2^2$$ or $$4$$. This is called $$C_4$$ and written as $$\{ \,\,-\,i\,\,, \,\,-\,1\,\,,\,\, \,\,i\,+\,\,,\,\, 1\,+\,\, \}$$
    
@@ -139,19 +139,67 @@ $$
     
     $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, 1\,\,)\,\, f$$
     
-    Whose solutions were named as $$\exp^{-1}$$ and $$\exp^{1+}$$.
+    Whose solutions were named as $$\exp\{\,\,-\,1\,\,\}$$ and $$\exp\{\,\,1\,+\,\,\}$$.
     
     - We further Identify the left hand side of the above with $$-1$$ as the new Identity of the Spectrum to see the new Eigenvalue Equation:
     
-    $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, -1\,\,)\,\, f$$
+    $$(\,\,D \,\,\cdot\,\, D\,\,)\,\, f \,\,= \,\,(\,\, -\,1\,\,)\,\, f$$
     
-    Borrowing the symbols from Algebra Language, we name the two solutions to this as $$\exp^{-i}$$ and $$\exp^{i+}$$. 
+    Borrowing the symbols from Algebra Language, we name the two solutions to this as $$\exp\{-i\}$$ and $$\exp\{i+\}$$. 
     
-    - We may identify these separate solutions by defining a new function which takes values in two dimensions. That is instead of working with a function from one variable to one variable, we define a new finction $$F \colon U \to V $$, where $$U \subseteq \mathbb{R}$$ and $$V \subseteq \mathbb{R}^2$$. Let us name the function in the first component to be cosine (denoted by $$\cos$$) and the function in the second component to be sine (denoted by $$\sin$$). Thus $$F \,\, = \,\,(\,\,\cos\,\,,\,\, \sin\,\,)$$.  If we are to compare with Cyclic group of order $$2$$, here $$\cos$$ shall behave as $$+$$ (Even) and $$\sin$$ shall behave as $$-$$ (Odd). We are to assign two reflections corresponding to two Differentiations so as to reproduce the behaviour seen in the Cyclic Group of Order 4.
+    - We may identify these separate solutions by defining a new function which takes values in two dimensions. That is instead of working with a function from one variable to one variable, we define a new finction $$F \colon U \to V $$, where $$U \subseteq \mathbb{R}$$ and $$V \subseteq \mathbb{R}^2$$. Let us name the function in the first component to be cosine (denoted by $$\cos$$) and the function in the second component to be sine (denoted by $$\sin$$). Thus $$F \,\, = \,\,(\,\,\cos\,\,,\,\, \sin\,\,)$$.  If we are to compare with Cyclic group of order $$2$$, here $$\cos$$ shall behave as (Even) and $$\sin$$ shall behave as (Odd). We are to assign two reflections corresponding to two Differentiations so as to reproduce the behaviour seen in the Cyclic Group of Order 4. Let us use the signs $$-$$ and $$+$$ to denote a pair of reflections. Composing signs with the individual element functions, we obtain the four elements which are $$\{\,\,-\,\,\sin\,\,,\,\,-\,\,\cos\,\,,\,\,\sin\,\,+\,\,,\,\,\cos\,\,+\,\, \}$$. 
+    Let the Differentiations (reflections) be as follows:
     
+$$
+\begin{eqnarray}
+d \,\, \cdot \,\, \sin \,\, = \,\, \cos +  \\
+d \,\, \cdot \,\, \cos \,\, = \,\, -\sin 
+\end{eqnarray}
+$$
     
+On further composing with Differentiation (reflection), This implies that :   
+
+$$
+\begin{eqnarray}
+d \,\, \cdot \,\, d \,\, \cdot \,\, \sin \,\, = d \,\, \cdot \,\, \cos + \,\,= \,\, -\,\sin  \\
+d \,\, \cdot \,\, d \,\, \cdot \,\, \cos \,\, = d \,\, \cdot \,\, -\sin \,\,= \,\,-\, \cos
+\end{eqnarray}
+$$
+
+Combining these as a two component function gives:
+
+$$
+\begin{eqnarray}
+d \,\, \cdot \,\, F \,\, = d \,\, \cdot \,\,(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,) = \,\,(\,\, -\,\sin\,\, , \,\,\cos\,+\,\,) \\
+\implies d \,\, \cdot \,\, d \,\, \cdot \,\, F \,\, = \,\,d \,\, \cdot \,\,(\,\, -\,\sin\,\, , \,\,\cos\,+\,\,) = (\,\, -\,\, \cos,\,\,-\,\,\sin\,\,)= \,\,-\,\, F
+\end{eqnarray}
+$$
+The last equation is $$ (d \cdot\,\, d \,\,) F = - F $$ which is the Eigenvalue Equation we were trying to represent.
+
+This suggests that $$(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,)$$ corresponds to $$\exp\{\,\,i\,\,\} and its second component sign reflection $$(\,\, \cos\, +\,\,,\,\,-\,\,\sin\,\,)$$ corresponds to the reflection $$\exp\{\,\,-\,i\,\,\}. 
+ 
+   - Another way to see the above is by the Algebra homomorphism $$(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,)= \,\, \cos \,\,+ \,\,i\, \sin$$ since reflection of $$i$$ to $$-i$$ gives the corresponding result as  $$\,\, \cos \,\,+ \,\,-\,i\, \sin$$. Hence $$\exp(i)\,\, = \,\, \cos \,\,+ \,\,i\, \sin$$ and $$\exp(-i) \,\, =\,\, \cos \,\,+ \,\,-\,i\, \sin$$. 
+   
+Thus we obtain the **Fundamental Identity**:
+
+$$ \exp(\,\,-\,i\,\,) \,\,\cdot\,\, \exp(\,\,i+\,\,) = \,\,1 \,\,= (\,\, \cos \,\,+ \,\,-\,i\, \sin)\,\, \cdot \,\,(\,\, \cos \,\,+ \,\,i\, \sin) $$
+
+Thus we see **the Fundamental Law**:
+
+$$ 1 \,\, =\,\, \cos \,\,\cdot\,\, \cos \,\, + \,\, (\,\, -i \,\,cdot\,\,i+) \sin \,\, \cdot \,\, \sin$$
+
+Using the naming of $$i$$ to satisfy the equation $$i \cdot i =\,\,-\,1$$, we see
+
+$$ 1 \,\, =\,\, \cos \,\,\cdot\,\, \cos \,\, + \,\, \sin \,\, \cdot \,\, \sin $$
+
+This is also known as **Pythagoras Theorem**.
+
+
+* The procedure seen above can be repeated to generate the corresponding Cyclic groups of order $$n$$ by simply mapping it to the algebraic equation $$x^n= 1$$ which produces the $$n^{th}$$ roots of Identity as the elements of the cyclic group.
 
 ### Identifying the Usual Calculus of functions as a Cyclic Group of Integers
+
+The procedure above in the limiting case reproduces the cyclic group of all Integers.
 
 * The usual calculus of functions one uses a differentiated form of Fundamental Calculus. Differentiating the above cyclic Group of order $$2$$ into a cylic group of infinite order gives the usual calculus with $$d$$ as the element corresponding to one differentiation and $$i$$ as the inverse of differentiation, that is $$i = d^{-1}$$. That is, Calculus of functions is identified as the group isomorphic to the Integers ($$\mathbb{Z}$$). 
 
