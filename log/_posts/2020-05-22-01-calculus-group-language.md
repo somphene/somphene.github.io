@@ -174,6 +174,7 @@ d \,\, \cdot \,\, F \,\, = d \,\, \cdot \,\,(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,) 
 \implies d \,\, \cdot \,\, d \,\, \cdot \,\, F \,\, = \,\,d \,\, \cdot \,\,(\,\, -\,\sin\,\, , \,\,\cos\,+\,\,) = (\,\, -\,\, \cos,\,\,-\,\,\sin\,\,)= \,\,-\,\, F
 \end{eqnarray}
 $$
+
 The last equation is $$ (d \cdot\,\, d \,\,) F = - F $$ which is the Eigenvalue Equation we were trying to represent.
 
 This suggests that $$(\,\, \cos\, +\,\,,\,\,\sin\,+\,\,)$$ corresponds to $$\exp\{\,\,i\,\,\}$$ and its second component sign reflection $$(\,\, \cos\, +\,\,,\,\,-\,\,\sin\,\,)$$ corresponds to the reflection $$\exp\{\,\,-\,i\,\,\}$$. 
