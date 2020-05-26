@@ -95,7 +95,7 @@ In Algebra (the Language of Eqautions), these are Identified as a Single equatio
 
 ### Identifying the Differential Forms of Fundamental Calculus (Cyclic Groups of order $$2^n$$)
 
-To put in order the story so far: We start with the Trivial Group consisting of only one element called the Identity $$E$$. Next we "Differentiate the Identity" into two parts- an element and it's inverse. In the simplest case, this Differentiation is Symmetric so as to give the element as its own inverse resulting in creation of a Cyclic Group of order 2, that is $$C_2 = \{\,\,E\,\,,\,\, D\,\,\}$$ with $$D \,\,\cdot\,\, D \,\,=\,\,E$$ . This Fundamental Cyclic Group appears in various forms in different Languages- $$S^0$$ in Geometry, Orientations $-$ and $+$, Binary Language $$\{\,\,0\,\,,1\,\,\}$$ Morse Code $$\{\,\,\cdot\,\,,\,\,$$-$$\,\,\} and so on. 
+To put in order the story so far: We start with the Trivial Group consisting of only one element called the Identity $$E$$. Next we "Differentiate the Identity" into two parts- an element and it's inverse. In the simplest case, this Differentiation is Symmetric so as to give the element as its own inverse resulting in creation of a Cyclic Group of order 2, that is $$C_2 = \{\,\,E\,\,,\,\, D\,\,\}$$ with $$D \,\,\cdot\,\, D \,\,=\,\,E$$ . This Fundamental Cyclic Group appears in various forms in different Languages- $$S^0$$ in Geometry, Orientations $-$ and $+$, Binary Language $$\{\,\,0\,\,,1\,\,\}$$ Morse Code $$\{\,\,\cdot\,\,,\,\,-\,\,\}$$ and so on. 
 
 Now we Further Differentiate the element $$D$$ in Cyclic Group of Order 2 to give two distinguishable sub-elements. Together, these will be called "fourth roots of Identity" (think of roots of trees coming from Identity). Through equations, we may see this as follows:
 
@@ -113,7 +113,6 @@ Now we Further Differentiate the element $$D$$ in Cyclic Group of Order 2 to giv
 $$ Calculus \,\,of\,\, functions \,\, = \{   \ldots d^{-3}, d^{-2}, d^{-1}, 1, d, d^2 , d^3,\ldots  \}$$
 
 ### Reference to usual Number Groups 
-
 
 $$
 \begin{array}{|c|c|c|}
