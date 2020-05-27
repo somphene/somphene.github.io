@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: Art is Mathematics
+title: Art is Mathematics is Art
 author: Som Phene 
 tags: [Group, Cyclic, Simple, Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
