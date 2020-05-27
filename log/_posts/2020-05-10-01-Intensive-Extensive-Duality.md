@@ -2,19 +2,32 @@
 layout: post
 blog-category: blog
 published: true
-title: Equilibrium Thermodynamics and Intensive-Extensive Duality
+title: Equilibrium Thermodynamics Identifies Intensive-Extensive Duality
 author: Som Phene 
 tags: [Intensive, Extensive, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Abstract
 
-See Equilibrium in Thermodynamics to be a form of mass balance. The "distance" of how far one is from equilibrium  is measured by the Thermodynamic potentials.
-
+See Equilibrium in Thermodynamics to be a form of mass balance. The "distance" of how far one is from equilibrium  is measured by the Thermodynamic potentials. Scalar Potentials are to be seen as a form of distance (measure) with the appropriate Identity to be the Equilibrium Phase boundary. In mathematics language, Thermodynamics is a symmetry, which is same measure of asymmetric forms of energy (mass).
 
 ### Intro
 
-First, we must assume that all physical quantities are themselves materials formed by phase mixture of duals. For example, space-time is formed by mixture of Space as one component and time as the other, Energy in one form is formed by mixture of Volume and Pressure, and so on. There are different levels at which Equilibrium occurs. Consider them one by one:
+First, we must identify all physical quantities to be materials formed by phase composition of duals (two opposite end components in a Phase Diagram). For example, 
+
+   - Space-time is formed by composition (mixture) of Space as one component and time as the other
+   
+   - Energy in one form is formed by composition (mixture) of Volume ($$V$$) and pressure ($$p$$)
+   
+   - Energy in another form is by composition (mixture) of Force ($$F$$) and displacement ($$x$$)
+   
+   - Speed is formed by composition of Space ($$X$$) and time ($$t$$)
+   
+   - Each fundamental quantity is itself formed by composition of High and low amounts
+   
+   - Thermodynamic Potentials are formed by composing (with orientations $$-$$ and $$+$$) the composition of Extensive and intensive quatities which give forms of energy.
+   
+There are different levels at which Equilibrium occurs. Consider them one by one:
 
  1. Equilibrium for single chemical component material : Intensive and extensive variables can be treated as duals to each other (opposite ends that represent the components of a Phase Diagram). Their product (for example $$P \cdot V$$) is a measure of mass of energy in the form of $$PV$$ (% wt fraction along one Phase) . On the other hand there is $$T \cdot S$$ which gives a  measure of mass of energy in the form of $$TS$$  (% wt fraction along the other Phase). Equilibrium means both forms of mass are balanced. $$PV-TS=0$$. 'Gibbs free energy' $$ G= PV-TS $$ is what measures how far one is from this balance. 
 
