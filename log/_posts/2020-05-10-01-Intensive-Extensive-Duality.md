@@ -31,12 +31,11 @@ There are different levels at which Equilibrium occurs. Consider them one by one
 
  1. Equilibrium for single chemical component material : Intensive and extensive variables can be treated as duals to each other (opposite ends that represent the components of a Phase Diagram). Their product (for example $$P \cdot V$$) is a measure of mass of energy in the form of $$PV$$ (% wt fraction along one Phase) . On the other hand there is $$T \cdot S$$ which gives a  measure of mass of energy in the form of $$TS$$  (% wt fraction along the other Phase). Equilibrium means both forms of mass are balanced. $$PV-TS=0$$. 'Gibbs free energy' $$ G= PV-TS $$ is what measures how far one is from this balance. 
 
- 2. When the Equilibrium is to be considered among two materials, we must "match" the Energy in the form of mass of one material with the Energy in the form of Mass of the other material which is the condition $$G_1 = G_2$$ which in the differential form is ($$dG=0$$). 
+ 2. When the Equilibrium is to be considered among two materials, we must "match" the Energy in the form of mass of one material with the Energy in the form of Mass of the other material which is the condition $$G_1 = G_2$$ or $$G_1 - G_2 = 0$$, which in the differential form is $$dG=0$$. 
 
  3. When Equilibrium is to be considered at the scale of all materials, assigning the value of Gibbs free potential energy is relative. A material at higher free energy will go towards equilibrium with that of a lower one, hence spontaneous reactions are given by the condition $$dG<0$$.
 
-Heat flow in materials from higher temperature to lower temperature can be seen as the prototype flow which connects two ends (dual phases) to bring them together to equilibrium. Similar Heat-type flow connects positive and negative charges: arrows of electric and magnetic fields show the flows. This flow in fluids also connects higher potential to lower potential. Einstein's Ricci flow connects points in space of higher curvature with those of lower curvature and so on. Gravitational Field is a Heat type flow.
-
+Heat flow in materials from higher temperature to lower temperature can be seen as the prototype flow which connects two end components (dual phases) to bring them together to equilibrium. Similar Heat-type flow connects positive and negative charges: arrows of electric and magnetic fields show the flows. This flow in fluids also connects higher potential to lower potential. Einstein's Gravity (Ricci type flow) connects points in space of higher curvature with those of lower curvature and so on. Gravitational Field is a Heat type flow.
 
 ### Differentiation and Integration
 
@@ -64,7 +63,7 @@ The investigation into thinking led to the following observations:
    
 I would like to focus only on these two fundamental operations involving mental structures- thought and abstraction as explained above. To avoid much debate away from the focus of this write up, we introduce two new terms to replace 'thought' and 'abstraction'. Let us call the process of creating boundaries (thought) as 'Differentiation' and the process of dissolving them (abstraction) as 'Integration'. Note that the capital D and I are used to avoid confusion with the terms from the corresponding operations used in the Language of Mathematics, which we will later see to be particular cases of the former.
 
-* Language Duality:
+* Language Duality as a symmetry:
 
  Differentiation | Integration
  
@@ -90,7 +89,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
    
    - $$(d E)_{E*} = 0$$.
    
-   - The first equation above, holds as a property of the Language of Differentiation. That is, be it any Language (Structure), one cannot create a Boundary of that Language within a Boundary already made in that Language. This is clear since, any sub-Boundary within itself within  two Phases on either side, any other boundary which also Differentiates the two   or some other structure (Language), it always holds. The second 
+   - The first equation above, holds as a property of the Language of Differentiation. That is, be it any Language (Structure), one cannot create a Boundary of that Language within a Boundary already made in that Language. This is clear since, any sub-Boundary within itself within  two Phases on either side, any other boundary which also Differentiates the two must coincide with the same. The second equation above holds at every Degree of a Language independently.
 
 * (As a sidenote) The above paragraph is an example of a language differentiation process which takes English Language and reduces its degrees of freedom by compressing it to rigid symbols. That is, a statement of some length (one dimension) was reduced to a Rigid symbol of zero dimension, which is a loss of degree of freedom. This differential form of English Language is called Language of Mathematics (this will be seen later).  
 
@@ -98,7 +97,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
 
 * Let's Start with some given Phase (SubLanguage) of a Language. We may obtain another Phase in this Language by Differentiation, that is increasing boundaries (decreasing degrees of freedom) or Integration (increasing degrees of freedom). The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This is going away from Equilibrium. The more the degree of Differentiation, meaning more boundaries created in a structure, the lesser there are degrees of freedom in a Language. This is going away from Equilibrium. This is why the degree of Differentiation in one Phase must Match the degree of Differentiation in its Dual Phase. This takes the form of Maxwell's Equations or Stokes Theorem in Calculus. 
 
-* Corresponding to every Phase (or degrees of freedom) there are as many ways to partition the Energy. This is what is known as Equipartitioning of Energy. The Measure of Energy given to each Dual Phase across the Boundary must be equal however they take different forms. This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as Duality or Language as a form of Duality, that we will look for.
+* Corresponding to every Phase (or degrees of freedom) there are as many ways to partition the Energy. This is what is known as Equipartitioning of Energy. The Measure of Energy given to each Phase across the Boundary must be equal however they take different forms. This is the behaviour that we want to see in all Languages. These are the common features (universal)- Structure as symmetry od Duality or Language as a form of Symmetry of Duality, that we will look for.
 
 * Thus we have seen Condensed-Fluid Duality:
 
@@ -120,7 +119,7 @@ The simplest theory to pick and demonstrate the ideas involved in Language is pr
      
      - Force-Extension
      
- * The "Amount of Mass" in Thermodynamics is the Potential Energy. Thermodynamics say that Energy is conserved no matter what forms it is divided into.
+ * The "Amount of Mass" in Thermodynamics is the Potential Energy. Thermodynamics says that Energy is conserved no matter what forms it is divided into.
  
  ### Summary
  
