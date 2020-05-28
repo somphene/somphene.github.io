@@ -20,6 +20,6 @@ While cleaning my bathroom I would initially feel bad to look at dirt and push i
 
 ### The Universe Cleans
 
-Light does the act of Cleaning in the Universe. The Sun is the source which provides light to clean. Daylight provides space for pure to come together. NightLight provides space for the dust to settle. Day is full of energy and Night is rest. Rest allows time to renew. 
+Light does the act of Cleaning in the Universe. The Sun is the source which provides light to clean. Daylight provides space for pure to come together. NightLight provides space for the dust to settle. Day is full of energy and Night is rest. Rest allows time to renew. Thus, Day and night are a cleaning act (mass balance). Different people have different schedules which determine their own balance. Some people like to have a lot more time awake and stay active much longer than the amount for which they sleep. 
 
 Sun is the Source of light and a Black Hole is the sink (the other end where dust is placed temporarily). Hence the black hole is Logarithmic and acts as a springboard for time. 
