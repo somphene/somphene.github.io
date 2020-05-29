@@ -27,3 +27,5 @@ The Water Cycle shows how important it is to purify something before it is put t
 The food cycle shows how the top of the Food chain depends heavily on the bottom to be able to continue the cycle and survive. 
 
 Sun is the Source of light and a Black Hole is the sink (the other end where dust is placed temporarily). Hence the black hole is Logarithmic and acts as a springboard for time. 
+
+Mahabharata can be seen as an act of Cleaning. To keep the balance, one must be able to look at both sides: the pure and the dust with the same eyes. Thus, Krishna had to stay out of it, neither taking part in one side nor the other. It is the same with a mirror that maintains balance between the reflections and hence its in between the two.  
