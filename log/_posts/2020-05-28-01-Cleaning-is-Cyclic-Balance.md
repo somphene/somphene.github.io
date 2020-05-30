@@ -22,6 +22,8 @@ While cleaning my bathroom I would initially feel bad to look at dirt and push i
 
 Light does the act of Cleaning in the Universe. The Sun is the source which provides light to clean. Daylight provides space for pure to come together. NightLight provides space for the dust to settle. Day is full of energy and Night is rest. Rest allows time to renew. Thus, Day and night are a cleaning act (mass balance). Different people have different schedules (scales) which determine their own balance. Some people like to have a lot more time awake and stay active much longer than the amount for which they sleep. 
 
+Light itself has to balance between Electricity and Magnetism to travel ahead. Light is a translation (forward movement of a Cycle) formed by balancing Electricity and Magnetism on either side. Electricity and Magnetism come in Phases. 
+
 The Water Cycle shows how important it is to purify something before it is put to temporary rest. The Natural Process of evaporation and condensation makes sure that the water is pure (distilled) before coming down as rain. We must also make sure that the waste that we put in for recycling should be purified before it is comperessed.
 
 The food cycle shows how the top of the Food chain depends heavily on the bottom to be able to continue the cycle and survive. 
@@ -33,3 +35,7 @@ Mahabharata can be seen as an act of Cleaning. To keep the balance, one must be 
 Farming is Cleaning. Sowing seeds in the mud, followed by water, light and food to let a plant grow involves a tremendous amount of balance. For the body of the plant itself, growing upwards towards the Light provided by Sun requires growing roots away from light down in the mud. The body of the plant itself displays Cleaning as a Balance. 
 
 Breathing is Cleaning. Breathing in allows air to enter and breathing out lets the exhaust to be let out. Breathing in and out in cycles isthe Balance in Cleaning. Similarly, Heart beats set the Circadian cycle by pumping in and out alternatively to keep balance.
+
+Our own body is Cleaning in cycles. We provide it food, light, air and other forms of energy. It uses the right amount to retain and then lets the left (remaining ) amount to be excreted. To build the body, input and ouptut are to be balanced appropriately. This is the balance that the body manages to do everyday. 
+
+Balance of Money is Cyclic Cleaning. We earn, we spend in phases. Some amount of the money we earn is saved, the rest is spent. Everything that goes also comes back (cycle): in terms of money, the amount spent comes back in renewed form as some product that we buy.  
