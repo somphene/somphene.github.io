@@ -2,18 +2,18 @@
 layout: post
 blog-category: blog
 published: true
-title: Knowledge Conservation- Nothing amounts to Everything
+title: Knowledge Conservation Cycle
 author: Som Phene 
 tags: [Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Abstract
 
-Languages from Physics and Mathematics are represented in the Language of Duality. This represents the known Languages to be a Form of "simple mass balance". Every Fundamental Law in Physics, Mathematics or any other Language is represented to be seen as a form of Duality. This is further reinterpreted as: it is this unique conserved quantity (Identity) which appears in all kinds of possible forms of Duality.
+Languages from Physics and Mathematics are represented in the Language of a Conservative Cycle. This represents the known Languages to be a Form of "simple mass balance". Every Fundamental Law in Physics, Mathematics or any other Language is represented to be seen as a form of Duality of Knowledge which is Identified as a Cycle to give a Conserved Quantity. This is further reinterpreted as: it is this Conserved Quantity (Identity) which takes all kinds of possible Forms in the Cycle. In Symmetry Language, Asymmetries may be Identified to Symmetry (Identity). In Nature Language, Equilibrium is a Dynamic exchange between two Phases which is a Cyclic Balance. 
 
-### "Knowledge is Conserved" (The Fundamental Law of Language Duality)
+### "Knowledge is Conserved" (The Fundamental Law of Language Cycle)
 
-* I want to state: "**Knowledge takes Form as Duality**" or even better: "**Knowledge is**", or its Differential form: "**Duality is**". But it will take us some time to get there.
+* I want to state: "**Knowledge takes Cyclic Form**" or just : "**Knowledge is**", or its Differential form: "**Dual Forms is Identified**". But it will take us some time to get there.
  
 * For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**". This can be restated as "Everything eventually goes to Equilibrium".
 
