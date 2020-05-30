@@ -17,7 +17,7 @@ Language is formed by Identity. Identity takes various forms. Sometimes Identity
  
 ### Translation is Change of Basis
 
-Lattices (Crystals) are formed by Translation symmetry of discrete type. This involves Change of Basis.
+Lattices (Crystals) are formed by Translation symmetry of discrete type. This involves Change of Basis by translating the origin (Fundamental Identity) to different Lattices Points to act as new Identities (New Basis). Translation of Languages in the usual sense also involves a similar process in which one has to translate the words from one Language (Former Basis) to  words in another Language (new Basis). 
 
 ### Rotation is Change of Basis
 
