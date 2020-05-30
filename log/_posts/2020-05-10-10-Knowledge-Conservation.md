@@ -148,7 +148,7 @@ $$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_
     
     - For example, **Left and Right are Fundamental Laws in the English Language of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **Left corresponds to Even Symmetry, Right corresponds to Odd Symmetry**. 
     
-    - For example, **$$\sin{\theta}$$ and $$\cos{\theta}$$ are Fundamental Laws in the Euclidean Geometry of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **$$\sin{\theta}$$ corresponds to Even Symmetry, **$$\cos{\theta}$$ corresponds to Odd Symmetry**.
+    - For example, **$$\sin{\theta}$$ and $$\cos{\theta}$$ are Fundamental Laws in the Euclidean Geometry of Space at the Degree of freedom 1**. Each of them have **Degree of Freedom** $$1/2$$. **$$\sin{\theta}$$ corresponds to Even Symmetry, $$\cos{\theta}$$ corresponds to Odd Symmetry**.
 
 * **Each Fundamental Law has its Dual Law**. They are Related by the **Duality Relations**, that is, one may be obtained by Differentiating the other may be obtained by **Integrating**. This can be restated as a statement of Mirror Symmetry: **Fundamental Laws are Mirror Reflections of Each other**. Hence, at the dimension $$n$$, there are $$2^n$$ Fundamental Laws.
  
