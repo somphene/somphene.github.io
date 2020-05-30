@@ -94,7 +94,9 @@ $$ q  = divergence (B) $$
 
 ### Quantum Mechanics as a form of "Knowledge is Conserved"
 
-* Particle and Wave are the dual forms. Operators and Spectrums are the corresponding Duals in Mathematics.
+* Particle and Wave are the dual forms. Spectrum and Operator are the corresponding Duals in Mathematics giving the eigevalue equation:
+
+$$ \hat{H} \,\,\Psi = E\,\, \Psi$$ 
 
 * The Duality of Fundamentals $$i$$ and $$\hbar$$ gives rise to $$i\hbar$$ being conserved.
 
