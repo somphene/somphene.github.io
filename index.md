@@ -5,8 +5,9 @@ subtitle:
 use-site-title: true
 image: img/me.jpg
 ---
+# [Research](https://somphene.github.io/research/)
 
-[Symmetry](https://somphene.github.io/tags/#Language)
+## [Symmetry](https://somphene.github.io/tags/#Language)
 
 * [Language Observes Empirically](https://somphene.github.io/2020-05-05-02-language-observes-empirically/)
 
@@ -20,7 +21,6 @@ image: img/me.jpg
 
 * [Identity- Reflections to Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
 
-# [Research](https://somphene.github.io/research/)
 
 * [Design Optimization of Metamaterials for Cloaking](https://somphene.github.io/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view): 4 page pdf summarizing the thesis)
 
