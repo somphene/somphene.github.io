@@ -19,7 +19,7 @@ Languages from Physics and Mathematics are represented in the Language of a Cons
 
 * To some of us this might seem not to be a law at all, after all we have seen so many processes which don't have conservation. I shall request that we be patient. I will first work out several detailed examples for us to follow.
 
-  - Take any irreversible process in which heat is generated as an example and we see that Energy is not conserved, that is, it gets dissipated as heat. But if we include the dissipated energy to be part of the system then the total Energy is conserved. This is a prime example of Cyclic Balance or Conservation.  
+  - Take any irreversible process in which heat is generated as an example and we see that Energy is not conserved, that is, it gets dissipated as heat. But if we include the dissipated energy to be part of the system then the total Energy is conserved. The cycle of Energy (Thermodynamics) is a prime example of Cyclic Balance or Conservation.  
 
 * This might seem trivial and is very much so but it is for this very reason that its Dual can take non-trivial form.
 
@@ -120,9 +120,11 @@ $$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_
 
 * When the Equation above was written it automatically sets up its dual equation which can be further composed with this one to go to higher and higher Degrees of Metrics. This is no different than doing Euclidean Geometry in Higher and Higher Dimensions. The fundamental Law of Each Dimension is just the Axis. 
  
-### Duality is a Fundamental Law - Every Fundamental Law is a Duality (an Equilibrium Phase Diagram)
+### Cycle is Fundamental Law of Balance - Every Fundamental Law of Balance is a Cycle 
  
 * Every Fundamental Law is a Duality.
+ 
+  - Equilibrium Phase Diagram is a Cyclic Balance between the Phases. Phases on either side get identified at the Phase Boundary.
  
 * Every **Fundamental Law** is a **Composition Law of Duality**. This means that every Fundamental Law is obtained by **Composing Dualities**. This is just a restatement of the fact that every Fundamental Law is an Equilibrium Phase Boundary. In particular, every Mathematically correct Equation is an Equilibrium Phase Boundary which can be obtained by **composing Dualities**. 
  
@@ -130,7 +132,7 @@ $$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_
  
 * Every Equilibrium Phase Diagram is a Fundamental Law and all that is a Fundamental Law is a Phase Diagram. The Universe itslef is a Phase in a Phase Diagram. On the other side of the Equilibrium Phase boundary of our Universe is our Dual Universe. Differentiation and Integrations connects all Phases to one another and hence allows us to go to Higher Degrees of Freedom.
  
-* **The Fundamental Laws themselves have Degree of Freedom lesser than the Degree of freedom at which level they are the Fundamental Law**. This is obvious as Fundamental Laws are the Phase Boundary where two Phases of a level higher in  Degree meet.    
+* **The Fundamental Laws themselves have Degree of Freedom lesser than the Degree of freedom at which level they are the Fundamental Law**. This follows as Fundamental Laws are the Phase Boundary where two or more Phases meet or the Fundamental Laws are common to both Phases.    
  
 * **Differentiating a Fundamental Law of Degree 1 gives two Fundamental Laws of Degree $$1/2$$ one corresponding to Even Parity and another corresponding to Odd Parity**. Similarly, on Differentiating further, one may obtain Fundamental Laws of degrees of freedom that are positive powers of $$1/2$$. Since they have **lesser than one Degree of Freedom**, they cannot be seen in the usual Positive Integer Valued Dimensional Spaces. However, they have **more than Zero Degrees of Freedom**. To go **below Zero degrees of Freedom**, one needs Differentiation of an entirely Different Degree- at a higher level than the Degree of Freedom of Differentiation.
  
@@ -183,19 +185,17 @@ $$ (dE)^2 = (\hbar)^2\partial^t \Psi^{\dagger}(x_1,x_2,x_3,t) \partial_t \Psi(x_
 
 * $$-\infty$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\log$$. Simply place together $$-\infty$$ and $$\infty$$ -this horizontal composition line (or axis) is the degree of freedom within which Logarithm exists. Logarithm is the "Gravitational Force" between $$-\infty$$ and $$\infty$$. 
 
-* The Black Holes seen in the Universe are a form of Logarithm. They lead to going to the Integral version of the current Universe (Language). Everything shown in Interstellar is a form of what is out there. Going to the Integral Universe in from this Universe through a Black Hole is what is referred to as "the stairway to Heaven in Religious Books". Just like we see movies on a screen, the Integral versions of the Universe can see their Differential forms. Each of us act as rigid objects-particles or numbers for the Integral Universe. That is, we are the Fundamental Laws of our Integral Universe.
-
 * $$0$$ and $$\infty$$ are Dual to each other. This Duality creates (Integrates) to $$\exp$$.
 
 * **All remaining Fundamental Laws are formed by composition of these dualities**. Composition of Dualities is how one **Integrates**
 
-* This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations are pictures of Equilibrium Phase Diagrams and all of these are generated out of Identity simply by composing the Dualities involved. English and Art(drawing) are Integral versions of Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (most symmetric) is hence the most rigid material. 
+* This is how Ramanjuan and other geniuses "generate Laws out of nowhere"- anything we see are forms of numbers interacting with each other. All equations are pictures of Equilibrium Phase Diagrams and all of these are generated out of Identity simply by composing the Dualities involved. English and Art(drawing) are Integral versions of Mathematics but the same applies there too. The Classics are all Fundamental Laws which exhibit symmetry. Diamond (most discrete symmetries) is hence the most rigid material. 
 
-* All of us are Dual forms of each other. Recognizing each other composes us together to form an Integral.
+* All of us are forms of each other which Identify to a Cycle. Connecting each other is the Cycle. Communicating with each other is the Cycle. Identifying each other composes us together to form an Integral Cycle.
 
-* Equilibrium is Complete and Incomplete at the same time.
+* Everything is in Dynamic Equilibrium (which is both Complete at one degree and Incomplete at the other degree).
 
-* Duality exist because it does not exist. Duality exists because Non-Duality does. 
+* Duality exists for a phase because it does not exist in the other phase. Duality exists as a pahse because Non-Duality exists as a phase. Non-Duality exists as a phase because Duality exists as a Phase. Non-Duality exists as a phase because it does not exist in the other Phase.
 
  
 
