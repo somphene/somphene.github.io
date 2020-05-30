@@ -15,9 +15,11 @@ Languages from Physics and Mathematics are represented in the Language of a Cons
 
 * I want to state: "**Knowledge takes Cyclic Form**" or just : "**Knowledge is**", or its Differential form: "**Dual Forms is Identified**". But it will take us some time to get there.
  
-* For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved**". This can be restated as "Everything eventually goes to Equilibrium".
+* For now, let us state the Fundamental Law as: Knowledge takes various forms but the "**Amount of Knowledge**" is the same or "**Knowledge is conserved in a Cycle**". "Everything is an Equilibrium Cycle and part of a greater Equilibrium Cycle until Identity is reached".
 
-* To some of us this might seem not to be a law at all, after all we have an entire education system which gives us more knowledge. I shall request that we be patient. I will first work out several detailed examples for us to follow.
+* To some of us this might seem not to be a law at all, after all we have seen so many processes which don't have conservation. I shall request that we be patient. I will first work out several detailed examples for us to follow.
+
+  - Take any irreversible process in which heat is generated as an example and we see that Energy is not conserved, that is, it gets dissipated as heat. But if we include the dissipated energy to be part of the system then the total Energy is conserved. This is a prime example of Cyclic Balance or Conservation.  
 
 * This might seem trivial and is very much so but it is for this very reason that its Dual can take non-trivial form.
 
