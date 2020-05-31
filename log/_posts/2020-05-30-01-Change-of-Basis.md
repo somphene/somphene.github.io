@@ -7,7 +7,7 @@ author: Som Phene
 tags: [Identity, Renaming, Basis, Change, Cleaning, Group, Cyclic, Simple, Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
-### Basis in Language
+### Identities: Basis in Language
 
 Language is formed by Identity. Identity takes various forms. Sometimes Identity is called Base. When there are multiple Identities of same degree, they are called Basis. For example:
   
@@ -15,7 +15,7 @@ Language is formed by Identity. Identity takes various forms. Sometimes Identity
   
   - In the Cartesian Plane, Origin ($$0$$) is the Fundamental Identity or the Base. The Coordinate Axes form the Base at higher degree. 
  
-### Translation is Change of Basis
+### Translation is Change of Basis is Renaming Identity
 
 Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis by translating the origin (Fundamental Identity) to different Lattices Points to act as new Identities (New Basis).
 
@@ -42,12 +42,16 @@ Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis 
   
   $$ \left(\,\, F \,\,\cdot\,\, \left(\,\,x_1 \,\,-\,\,x_0\,\,\right)\,\,\right)\,\, =\,\, E $$
   
+* Thus, I see Force is a form of translation. Force and Translation are inverse to each other and can be identified by placing them together.
   
 Translating $$1$$ to a new Identity say $$2$$ is same as the Translation of $$0$$ to $$1$$. This can be seen by  simply renaming $$1$$ to be $$0$$ and $$2$$ to be $$1$$. This is called isomorphism in Mathematics Languae. Hence, it suffices to see the Translation of Identity from $$0$$ to $$1$$ and then reproduce all other forms as composition of this. This is what makes Newton's Laws of Motion fundamental. In the Third Law, Newton Identifies the Ultimate Symmetry by Identifying that every action has an equal and oppsosite reaction, thus showing the Existence of Identity formed by placing these inverse forces together as a group.  
 
 Translation of Languages in the usual sense also involves a similar process in which one has to translate the words from one Language (Former Basis) to  words in another Language (new Basis). Knowledge Conservation in different Languages is a statement about Translated Identites. For example:
 
-  - 
+  - Knowledge stays conserved in all Languages translates to Laws of Nature stay the same in all Inertial Frames of Reference (Special Relativity).
+
+
+In Phase Transformations, Condensation and Decondensation act as the two opposites to go from one Phase to the other just like .
 
 ### Rotation is Change of Basis
 
