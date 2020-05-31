@@ -32,7 +32,8 @@ Gaussian is Identity of Fourier Transform.
 
 ### Reference
 
-* [Logunov and Malinnikova's Zero Sets of Laplace Eigenfunctions Review](https://arxiv.org/pdf/1908.01639.pdf)
+* [Logunov and Malinnikova's Zero Sets of Laplace Eigenfunctions Review](https://arxiv.org/pdf/1908.01639.pdf), [related course](https://sites.math.washington.edu/~blwilson/Nodal/index.html)
+
 * [Nodal Domains](https://www.math.ucdavis.edu/~saito/courses/LapEig/lecpdf/lecture7.pdf)
 
 
