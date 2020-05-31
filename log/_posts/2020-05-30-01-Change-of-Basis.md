@@ -27,9 +27,9 @@ Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis 
   \begin{eqnarray}
    x \,\, =\,\,0    \quad \textrm{(Position is Fundamental Identity)}\\ 
    
-   Translation \,\,  of \,\, Identity \,\, = 0 \to 1  \quad \textrm{Translation gives New Identity}\\
+   Translation \,\,  of \,\, Identity \,\, = 0 \to 1  \quad \textrm{(Translation gives New Identity)}\\
    
-   \dot{x}\,\, =\,\, 1 \quad or \quad  \dot{x}\,\,m\,\, =\,\, 1\\
+   \dot{x}\,\, =\,\, 1 \quad or \quad  \dot{x}\,\,(m)\,\, =\,\, 1   \\
       
    F = 1 \to 0 \\
   
@@ -44,6 +44,8 @@ Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis 
 * Thus, I see Force is a form of translation. Force and Translation are inverse to each other and can be identified by placing them together.
   
 Translating $$1$$ to a new Identity say $$2$$ is same as the Translation of $$0$$ to $$1$$. This can be seen by  simply renaming $$1$$ to be $$0$$ and $$2$$ to be $$1$$. This is called isomorphism in Mathematics Languae. Hence, it suffices to see the Translation of Identity from $$0$$ to $$1$$ and then reproduce all other forms as composition of this. This is what makes Newton's Laws of Motion fundamental. In the Third Law, Newton Identifies the Ultimate Symmetry by Identifying that every action has an equal and oppsosite reaction, thus showing the Existence of Identity formed by placing these inverse forces together as a group.  
+
+Time ($$t$$) comes in as a "Normalization" to rescale things back with respect to the Fundamental Time scale. Hence every expression on the right hand side can be rescaled with respect to time. This means dividing the expressions on the right hand side by $$t_1 - t_0$$. In calculus Language, this takes the form $$d\,\,\cdot \,\,t$$.
 
 Translation of Languages in the usual sense also involves a similar process in which one has to translate the words from one Language (Former Basis) to  words in another Language (new Basis). Knowledge Conservation in different Languages is a statement about Translated Identites. For example:
 
