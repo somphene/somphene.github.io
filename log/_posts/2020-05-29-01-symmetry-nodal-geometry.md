@@ -21,7 +21,9 @@ In Calculus, there are two fundamental flows: The Gradient and the Divergence. G
 
 I would like to propose a slight change in the symbols used to denote these. First, I would like to smoothen (mollify) the edges of the Traingles used. I would like to denote Gradient by a lower smooth traingle and the Divergence by an upper smooth triangle. Their composition in the order: Gradient followed by Divergence which is (Divergence of Gradient) gives Identity which is named the Laplacian. I would like to use the placing of lower smooth traingle (Gradient) and upper smooth traingle (Divergence) to meet at their vertex and form $$8$$ as the Symbol for the Laplacian (Identity). This is identified as an Equilibrium Cone (reminds of an hourglass). It is rotated $$\infty$$ (reflection of horzontal about equiaxis between vertical and horizontal) so as to Identify with Elliptic Regularity as a Fundamental Law arising from the Cyclic Identification of Gradient and Divergence. The meeting point of the two smooth triangles is the node (Fundamental Origin). Both $$\sin$$ and $$\cos$$ emerge as solutions to the Laplace Eigenvalue Equation  Letting the  
 
+### Fourier Transform
 
+Gaussian is Identity of Fourier Transform.
 
 
 
