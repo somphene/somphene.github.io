@@ -33,8 +33,7 @@ Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis 
       
    F = 1 \to 0 \\
   
-  (\,\,\,F\,\,)\,\,= (\,\,\dot{x} \,\,m  \,\,) - 0 $$
-  
+  (\,\,\,F\,\,)\,\,= (\,\,\dot{x} \,\,m  \,\,) - 0 
   \end{eqnarray}
   $$
   
