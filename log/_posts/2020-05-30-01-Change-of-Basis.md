@@ -37,11 +37,11 @@ Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis 
   \end{eqnarray}
   $$
   
-  So, Force ($$1 \to 0$$) is seen as the dual (opposite) of Translation ($$ 0 \to 1$$). Hence, Identifying Force with translation (displacement) gives Energy ( $$E$$, Identity of Distance). That is :
+  So, Force ($$1 \to 0$$) is seen as the dual (opposite) of Translation ($$ 0 \to 1$$). Hence, Identifying Force with translation (displacement) gives Energy ( $$E$$, Identity of Distance). This forms the Energy cycle. That is :
   
   $$ \left(\,\, F \,\,\cdot\,\, \left(\,\,x_1 \,\,-\,\,x_0\,\,\right)\,\,\right)\,\, =\,\, E $$
   
-* Thus, I see Force is a form of translation. Force and Translation are inverse to each other and can be identified by placing them together.
+* Thus, I see Force is a form of translation. Force and Translation are inverse to each other and can be identified by placing them together. This completes the cycle.
   
 Translating $$1$$ to a new Identity say $$2$$ is same as the Translation of $$0$$ to $$1$$. This can be seen by  simply renaming $$1$$ to be $$0$$ and $$2$$ to be $$1$$. This is called isomorphism in Mathematics Languae. Hence, it suffices to see the Translation of Identity from $$0$$ to $$1$$ and then reproduce all other forms as composition of this. This is what makes Newton's Laws of Motion fundamental. In the Third Law, Newton Identifies the Ultimate Symmetry by Identifying that every action has an equal and oppsosite reaction, thus showing the Existence of Identity formed by placing these inverse forces together as a group.  
 
