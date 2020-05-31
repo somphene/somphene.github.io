@@ -6,26 +6,41 @@ use-site-title: true
 
 ---
 
-### Major Research Themes
+## Major Research Themes
 These are guided by fundamental questions that have emerged repeatedly in my natural experience over the years. Please click on the links for detailed description.
+
 * [Design Optimization of Metamaterials for Cloaking](/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view?usp=sharing))
+
 * [Geometric Analysis and Steklov Eigenvalues](/research/geometricanalysis)
+
 * [BCS Superconductivity, high Tc superconductors and Quantum Computing](/research/bcssuperconductivity)
+
 * [Density Functional Theory (DFT) based simulation of materials](/research/densityfunctionaltheory)
 
+* [Symmetry](https://somphene.github.io/tags/#Symmetry)
+
 ### Plasmonics and Metamaterials
+
 * [Literature Review (Slides)](/plasmonics_metamaterials.pdf).
+
 * Analysis of Extraordinary transmission of plasmonic microlens in square gold plate using [Lumerical FDTD](https://www.lumerical.com/products/fdtd/) simulations.
+
 * Applied photonics in Metamaterials [Seminar report](/applied_photonics_in_metamaterials.pdf).
 
 ### Steklov Eigenvalues
+
 * Studied literature, specifically extremal eigenvalue problems in connection to minimal surfaces. [Notes](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=drivesdk) based on Prof. Richard Schoen's talk. 
+
 * [Hersch's Theorem](https://drive.google.com/file/d/1JbBvVg-sBR2VhEAC3zZkH1q3kISvd5Jn/view?usp=drivesdk) for first Steklov Eigenvalue convergence.
-* [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk)
+
+* [Harmonic Maps and egienvalues](https://drive.google.com/file/d/1JjyJwfY6AgYGAqCYRTC2R5GBXr8LIWNg/view?usp=drivesdk) 
+
 * [Harmonic Maps in Analysis of Nonlinear Geometric PDEs](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk)- Stratification and Regularity theory based on Prof. Aaron Naber's lectures at IITB.
 
 ### Density Functional Theory (DFT) 
+
 * Density Functional Theory based IR and Raman spectrum calculations using [Quantum Espresso](https://www.quantum-espresso.org/).
+
 * DFT Calculations for Thermoelectric Properties of Doped Semiconductors using [VASP](https://www.vasp.at/), [BoltzTrap](https://www.imc.tuwien.ac.at//forschungsbereich_theoretische_chemie/forschungsgruppen/prof_dr_gkh_madsen_theoretical_materials_chemistry/boltztrap/).
 
 ## Course Projects
@@ -68,6 +83,10 @@ These are guided by fundamental questions that have emerged repeatedly in my nat
 * Reading the following [references](https://drive.google.com/file/d/1DtQNvEjlCHVOs2aDuuZgZvHBln7l7thH/view?usp=sharing)
 
 ### Harmonic Analysis
+
+Seeing the following sources:
+
+* [Uncertainty through Fourier transforms](https://en.wikipedia.org/wiki/Fourier_transform#Uncertainty_principle)
 
 * Defining Measure for Feynman Path Integrals through [Fourier Transform on Compact Groups](https://en.wikipedia.org/wiki/Fourier_transform#Locally_compact_abelian_groups)
 
