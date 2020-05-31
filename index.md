@@ -56,6 +56,6 @@ Currently [writing](https://somphene.github.io/log/list/).
 * Organizing the [Student Seminar](https://student-seminar-math-iitb.github.io/list/), Department of Mathematics, IIT Bombay.
 
 # [Log](https://somphene.github.io/log/)
-* Almost daily Updates, Notes, resources, tutorials, etc. [posted raw](https://somphene.github.io/log/).
+* Almost daily Updates, Notes, resources, tutorials, etc. [posted naturally](https://somphene.github.io/log/).
 
 
