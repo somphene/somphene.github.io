@@ -25,3 +25,4 @@ $$ \frac{(\,\, d \,\, \cdot \,\, x \,\,)^2 \,\, + \,\, (\,\, d \,\, \cdot \,\, y
   
   - Energy and Mass identify to Light as Identity. All Cyclic Groups in Nature meet together to identify as Light. Hence Light is the Ultimate Identity. Light is The Balance. Light is Equilibrium. 
 
+  - Correspondingly in Particles, Boson is the Identity. Fermions are relative images of Bosons.
