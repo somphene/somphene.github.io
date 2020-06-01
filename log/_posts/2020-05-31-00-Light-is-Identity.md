@@ -11,7 +11,7 @@ tags: [Light, Identity, Renaming, Basis, Change, Cleaning, Group, Cyclic, Simple
 
 Light is The Fundamental Identity. 
 
-* Terminology: In terms of Intensity, Dark is Identified as form of Light. Names used at ends of a linear scale are identified to give Light as the Cycle. More Light or less Light but its all Light instead of calling it something else.
+* Terminology: In terms of Intensity, Dark is Identified as form of Light. Names used at ends of a linear scale  (Light/Dark or White/Black) are identified to give Light as a Cycle. More Light or less Light but its all Light instead of calling it something else.
 
   - Space and Time identify to Light as Identity. This is seen through Einstein's Scale connecting sapce and time. The Metric $$\,\,d\,\, \cdot\,\, S^2 \,\,=\,\, (\,\, d \,\, \cdot \,\, x \,\,)^2 \,\, + \,\, (\,\, d \,\, \cdot \,\, y \,\,)^2 \,\,+ \,\, (\,\, d \,\, \cdot \,\, z \,\,)^2 \,\, -\,\, c^2 (\,\, d \,\, \cdot \,\, t \,\,)^2$$ gives Equilibrium when $$\,\,d\,\, \cdot\,\, S^2 \,\,=\,\, 0$$, that is :
   
