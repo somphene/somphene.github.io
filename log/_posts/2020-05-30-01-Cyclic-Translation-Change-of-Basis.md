@@ -2,14 +2,14 @@
 layout: post
 blog-category: blog
 published: true
-title: Change of Basis is Renaming Identity
+title:  Cyclic Translation (Change of Basis is Renaming Identity)
 author: Som Phene 
 tags: [Identity, Renaming, Basis, Change, Cleaning, Group, Cyclic, Simple, Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Identities: Basis in Language
 
-Language is formed by Identity. Identity takes various forms. Sometimes Identity is called Base. When there are multiple Identities of same degree, they are called Basis. For example:
+Language is formed by Identity. Identity forms Language. **Identity is defined as the source of Language**. Identity takes various forms. Since Identity is the origin, a relative Identity which gives rise to specific Languages within the given Language is called Base. When there are multiple Identities of same degree, they are called Basis. For example:
   
   - In Euclidean Plane, Origin ($$0$$) is the Fundamental Identity or the Base. At the higher degree, circles form Basis, these can be projected along cones to get Ellipse, Parabola, Lines, Hyperbola as a basis at various degrees. 
   
@@ -45,7 +45,7 @@ Lattices (Crystals) are formed by Translation symmetry. This is Change of Basis 
   
 Translating $$1$$ to a new Identity say $$2$$ is same as the Translation of $$0$$ to $$1$$. This can be seen by  simply renaming $$1$$ to be $$0$$ and $$2$$ to be $$1$$. This is called isomorphism in Mathematics Languae. Hence, it suffices to see the Translation of Identity from $$0$$ to $$1$$ and then reproduce all other forms as composition of this. This is what makes Newton's Laws of Motion fundamental. In the Third Law, Newton Identifies the Ultimate Symmetry by Identifying that every action has an equal and oppsosite reaction, thus showing the Existence of Identity formed by placing these inverse forces together as a group.  
 
-Time ($$t$$) comes in as a "Normalization" to rescale things back with respect to the Fundamental Time scale. Hence every expression on the right hand side can be rescaled with respect to time. This means dividing the expressions on the right hand side by $$t_1 - t_0$$. In calculus Language, this takes the form $$d\,\,\cdot \,\,t$$.
+* **Time** ($$t$$) comes in as a "Normalization" to rescale things back with respect to the Fundamental Scalar Identity $$1$$ (Time scale is uniform scalar metric). That is, if we identify points on a uniform scalar scale by the name $$t$$, then $$ I\,\, = \,\, \int_0^1 \,\,1\,\, dt $$ which gives $$ I\,\, =\,\, t_1 -t_0$$, which is simply the connection of points on the uniform scale where the action ended and started. Hence every expression on the right hand side can be rescaled with respect to time. This means dividing the expressions on the right hand side by $$t_1 - t_0$$. This renormalization gives time as a base scale in which other actions can be compared. In calculus Language, this takes the  differential form $$d\,\,\cdot \,\,t$$. In some fancy Language this is called Renormalization group where instead of the scalar group, several other groups can be used to rescale. In one way, this write up is to show that all theories can be written as a composition of relationship between two scales, each with their own identity. I name this process of relating the two scales as **Cyclic Translation**.
 
 Translation of Languages in the usual sense also involves a similar process in which one has to translate the words from one Language (Former Basis) to  words in another Language (new Basis). Knowledge Conservation in different Languages is a statement about Translated Identites. For example:
 
