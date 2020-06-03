@@ -9,7 +9,7 @@ tags: [Nature, Light, Identity, Translation, Renaming, Basis, Change, Cleaning, 
  
 ### Identify that India Identifies
 
-Since childhood I used to feel like there is no one to look up to in the field of fundamental Natural Sciences. All the famous, Bigshots and Prize winners to whom people looked up to seemed to be foreigners. However, to my surprise, after having studied some parts of Fundamental Science, I have come to identify that India has always produced people who gave Fundamental Identities to the Universe.
+Since childhood I used to feel like there is no one to look up to in the field of fundamental Natural Sciences in India. All the famous, Bigshots and Prize winners to whom people looked up to seemed to be foreigners or Indians who were trained abroad. However, to my surprise, after having studied some parts of Fundamental Science, I have come to identify that India has always produced people who gave Fundamental Identities to the Universe.
 
   - [Aryabhata (आर्यभट)](https://en.wikipedia.org/wiki/Aryabhata) in their work Aryabhatiya gave the concept of zero as the Identity of Mathematics.
   
