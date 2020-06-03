@@ -27,7 +27,7 @@ Apart from Natural Sciences, we have seen plenty of Identities such as
   
   - [Swami Vivekanada](https://en.wikipedia.org/wiki/Swami_Vivekananda) gave interfaith awareness with Hinduism as an example of it to religious world. Best known for his speech which began with the words - "Sisters and brothers of America..." in which he Identified people of a foreign land to be his own family.
   
-    - [Chankaya (Kauṭilya or Vishnugupta)](https://en.wikipedia.org/wiki/Chanakya) gave his work "Arthashastra" as the Identity of political science and economics.
+  - [Chankaya (Kauṭilya or Vishnugupta)](https://en.wikipedia.org/wiki/Chanakya) gave his work "Arthashastra" as the Identity of political science and economics.
   
   - [Mahatma Gandhi](https://en.wikipedia.org/wiki/Mahatma_Gandhi) identified Nonviolence as the Identity of Interaction of forces. Allowing each other to smoothly meet and communicate each other's differences is the harmonic way to bring together diverse forms. His "Charkha" was another Cyclic Identity which allowed people to work indegeneously. His Self-rule concept was another cyclic Identity which allowed India to be free.
   
