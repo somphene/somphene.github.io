@@ -19,6 +19,8 @@ Since childhood I used to feel like there is no one to look up to in the field o
   
   - [Raman Chandrasekhara Venkata](https://en.wikipedia.org/wiki/C._V._Raman) provided Raman Scattering as the Language of Light's communication with matter. The tremendous Experimental efforts made by him were within India.
   
+  - [Srinivasa Ramanujan](http://en.wikipedia.org/wiki/Srinivasa_Ramanujan) provided Ramanujan Theta function and nearly 3900 other Identities. He once said, "An equation for me has no meaning unless it expresses a thought of God." His identities and conjectures gave rise to new areas where automorphic and modular forms were studied. 
+  
   - [Harish Chandra](https://en.wikipedia.org/wiki/Harish-Chandra) provided his "c-function" as the identity for intertwining operators in measure of semisimple Lie (read "Lee") Groups.
 
 Apart from Natural Sciences, we have seen plenty of Identities such as
@@ -35,7 +37,7 @@ Apart from Natural Sciences, we have seen plenty of Identities such as
   
   - Yogis and Sages of India who gave Yoga as the Identity connecting Physical and Mental Harmony. [Patanjali's Yoga Sutras](https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali) provides the theory for Yoga practice.
   
-  - [Sachin Tendulkar](https://en.wikipedia.org/wiki/Sachin_Tendulkar) widely accepted as God of Cricket.
+  - [Sachin Tendulkar](https://en.wikipedia.org/wiki/Sachin_Tendulkar) gave his batting style as the one which identifies bowlers universally. He is widely acknowledged as a God of Cricket.
   
   - [A. R. (Allahrakka) Rahman](https://en.wikipedia.org/wiki/A._R._Rahman) provided his Music compositions as the Identity.
   
