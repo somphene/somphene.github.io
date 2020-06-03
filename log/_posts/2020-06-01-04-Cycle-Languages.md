@@ -9,7 +9,7 @@ tags: [Nature, Bengali, Rabindranath Tagore, Kannada, Girish Karnad, Light, Iden
 
 ### Base 0 Translation
 
-Doing a perfect translation of Languages is only possible for Masters. As with our actions, there is always some (heat) loss in translation if the action is not done smoothly. For avoiding loss in translation, one may fix a base language. This base Language is usually our mother tongue. For example [Maryam Mirzakhani](https://en.wikipedia.org/wiki/Maryam_Mirzakhani) always took her class notes in Persian. 
+Doing a perfect translation of Languages is only possible for Masters. As with our actions, there is always some (heat) loss in translation if the action is not done smoothly. For avoiding loss in translation, one may fix a base language. This base Language is usually our mother tongue. For example, [Maryam Mirzakhani](https://en.wikipedia.org/wiki/Maryam_Mirzakhani) always took her class notes in Persian. 
 
 ### Cycle $$\circ$$ Language Nature
 
