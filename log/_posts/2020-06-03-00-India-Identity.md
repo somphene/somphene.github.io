@@ -25,6 +25,8 @@ Since childhood I used to feel like there is no one to look up to in the field o
 
 Apart from Natural Sciences, we have seen plenty of Identities such as
 
+  - [Gautama Buddha](https://en.wikipedia.org/wiki/Gautama_Buddha) gave Buddhism as the Identity. To Identify with suffering ends it. Cycle of rebirth and Karma as a Cycle are the other Cyclic Identities that he gave.
+  
   - [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore) with his concept of universal freedom gave a fundamental Identity to Communication. India's National Anthem is another Identity provided by him.
   
   - [Swami Vivekanada](https://en.wikipedia.org/wiki/Swami_Vivekananda) gave interfaith awareness with Hinduism as an example of it to religious world. Best known for his speech which began with the words - "Sisters and brothers of America..." in which he Identified people of a foreign land to be his own family.
