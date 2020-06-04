@@ -4,12 +4,12 @@ blog-category: blog
 published: true
 title: $$\circ$$ Thermodynamics Identifies Conservative Cycles
 author: Som Phene 
-tags: [Thermodynamics, Conservative, Cycles, Intensive, Extensive, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
+tags: [Thermodynamics, Conservative, Cycle, Intensive, Extensive, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Identity
 
-Identity is one. Identity is unique. Identity is one which brings all together. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that the unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to capture Aryabhata's concept of zero as the identity (unique cycle). 
+Identity is one. Identity is unique. Identity is one which brings all together. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that the unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to capture Aryabhata's concept of zero as the identity (unique cycle). A blank white space would also work but it is easily missed. Thus, Identity is Cycle.
 
 ### Identity of Thermodynamics
 
@@ -17,8 +17,9 @@ Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows ho
  
 ### Cycle $$\circ$$ Energy is Conserved
  
-Cycle is Identity. Identity is Conserved is to state that Cycle is unique. Energy is the Idenetity is the Cycle in Thermodynamics.
+Cycle is Identity. Identity is Conserved is to state that Identity is unique. Identity Cycle is unique. Energy is the Idenetity is the Unique Cycle in Thermodynamics.
 
-### Connection
+### Connection is Smooth Translation
 
-A cycle is called "not conservative" or "non-conservative" if it is not the Unique Cycle (Identity). That is to say that if a cycle is not unique, it can be completed by connecting it to its "complementary pair".
+A cycle is called "not conservative" or "non-conservative" if it is not the Unique Cycle (Identity) but one part of it. A part can be formed only if there is a division of the Unique Identity Cycle into two or more parts. Let us consider one boundary which divides the cycle into two parts. These two parts are a Complementary pair that are connected by a boundary to all together form the Identity Cycle. The two parts are relative Identities in themselves. Hence one may consider them as cycles individually that are connected through the Boundary as their Identity. That is to say that if a cycle is not unique, it is completed (complemented) by connecting it to its "complementary pair" and form a Unique Identity Cycle. The process of Connection is smooth translation to continuously extend a form to its complete Cycle. This can only be done if the boundary which bounds one from being complete with it's other is dissolved.
+
