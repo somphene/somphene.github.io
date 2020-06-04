@@ -17,7 +17,7 @@ Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows ho
  
 ### Cycle $$\circ$$ Energy is Conserved
  
-Cycle is Identity. Identity is Conserved is to state that Identity is unique. Identity Cycle is unique. Energy is the Idenetity is the Unique Cycle in Thermodynamics.
+Cycle is Identity. Identity is Conserved is to state that Identity is unique. Identity Cycle is unique. Energy is the Identity is the Unique Cycle in Thermodynamics.
 
 ### Connection is Smooth Translation
 
