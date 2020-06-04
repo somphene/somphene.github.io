@@ -7,30 +7,30 @@ image: img/me.jpg
 ---
 # [Research](https://somphene.github.io/research/)
 
-## [Symmetry](https://somphene.github.io/tags/#Language)
+## [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
 
 * [Language Observes Empirically](https://somphene.github.io/2020-05-05-02-language-observes-empirically/)
 
 * [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
 
-* [Equilibrium Thermodynamics](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/)
+* [Thermodynamics is Conservative Cycles](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/)
 
-* [Fundamental Law-Knowledge Conservation](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
+* [Knowledge Conservation Cycles](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
 
 * [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/)
 
-* [Identity- Reflections to Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
+* [Identity is Reflections to Cyclic Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
 
 
 * [Design Optimization of Metamaterials for Cloaking](https://somphene.github.io/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view): 4 page pdf summarizing the thesis)
 
- Provide a unified formalism for transformation media theory based on differential forms. Based on the work of Greenleaf-Uhlmann, Leonhardt, H. Ammari on inverse problems and Milton's Theory of Composites, using asymptotic expansions for Steklov eigenvalues and Gohberg-Sigal theory (Argument principle extended to infinite dimensional spaces via Fredholm operators), I with my advisor Prof. [Harsha Hutridurga](https://hutridurga.wordpress.com/research/) jointly with Prof. [Habib Ammari](http://www.sam.math.ethz.ch/~hammari/)) develop novel schemes of cloaking and analyze it with numerical simulations. This is done by the reformulation of cloaking in terms of non-unique solution to inverse problems such as Calderon's problem or electrical impedance tomography. Experimental part of this is being done by my advisor Prof. Shobha Shukla's NEMO research group. For design optimization, the study of Girouard-Nadirashvili-Polterovich's work on Steklov spectral geometry led to study of Shape Analysis using Steklov operators.  
+ Provide a unified formalism for transformation media theory based on differential forms. Based on the work of Greenleaf-Uhlmann, Leonhardt, H. Ammari on inverse problems and Milton's Theory of Composites, using asymptotic expansions for Steklov eigenvalues and Gohberg-Sigal theory (Argument principle extended to infinite dimensional spaces via Fredholm operators), I with my advisor Prof. [Harsha Hutridurga](https://hutridurga.wordpress.com/research/) jointly with Prof. [Habib Ammari](http://www.sam.math.ethz.ch/~hammari/)) develop novel schemes of cloaking and analyze it with numerical simulations. This is done by the reformulation of cloaking in terms of non-unique solution to inverse problems such as Calderon's problem or electrical impedance tomography. Experimental part of this is being done with my advisor Prof. Shobha Shukla's NEMO research group. For design optimization, the study of Girouard-Nadirashvili-Polterovich's work on Steklov spectral geometry led to study of Shape Analysis using Steklov operators.  
 
 * [Geometric Analysis: Shape optimization for Steklov Eigenvalues](https://somphene.github.io/research/geometricanalysis/)
 
  [Surveyed literature](https://drive.google.com/file/d/1HlPlz26229wFDLLkmAhkfWiD9xeZdRQV/view?usp=sharing) (16 page pdf summary) on spectral geometry of the Laplacian, including works of Lichneroqicz-Obata, Gromov, [Li-Yau](https://drive.google.com/file/d/1OkAuvFcQ5vfir-J8IEp4QRTbwYdQLaoW/view) (8 page notes pdf), Hoffman-Ostenhoff-Nadirashvili. Particularly interested in the nodal geometry of Laplace eigenfunctions in the [compact setting](https://drive.google.com/file/d/1OkDGbe9pG0qZs-7r4WOW5lEJp0_LIHM7/view), including works of Mangoubi (inner radius estimates), Colding-Minicozzi, [Georgiev](https://arxiv.org/abs/1608.05344)-[Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/research). Highly interested in local elliptic techniques, as exemplified in the recent work of [Logunov-Malinnikova](https://arxiv.org/abs/1605.02595) on the size of nodal sets. Interested in seeing how such frequency function based local elliptic techniques carry over to the Steklov setting as well, and read some works of Bellova-Lin, Zhu, Georgiev-Roy-Fortin, in that direction. Inspired from my thesis, seeing how frequency function based local elliptic techniques apply in Steklov setting and studying global methods of semiclassical analysis in eigenfunction mass concentration and quantum ergodicity. For instance, billiard flow problems as in Marzuola, Hassell-Hillairet-Marzuola, Cekic-Georgiev-Mukherjee.
 
- Studied relationship of extremal Steklov eigenvalues with [minimal surfaces](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=sharing), Hersch's theorem and [Harmonic maps](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk) (5 page pdf).
+Studied relationship of extremal Steklov eigenvalues with [minimal surfaces](https://drive.google.com/file/d/1JaXzKlY5MVkxv6FuQ2hvp5rxS7xn6PY3/view?usp=sharing), Hersch's theorem and [Harmonic maps](https://drive.google.com/file/d/1TkVEcccQj2aQEvRGwUagY1D6LXugyAtC/view?usp=drivesdk) (5 page pdf).
 
 * [BCS Superconductivity and Josephson Junctions for Quantum Computing](https://somphene.github.io/research/bcssuperconductivity/)
 
