@@ -6,9 +6,9 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-I Identifies you. I cycles bicycles. I $$c$$ and I knows things.
+I Identifies. I Identifies you. I cycles bicycles. I $$c$$ and I knows things.
 
-# [Research](https://somphene.github.io/research/)
+# Recycle
 
 ## [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
 
@@ -23,6 +23,8 @@ I Identifies you. I cycles bicycles. I $$c$$ and I knows things.
 * [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/)
 
 * [Identity is Reflections to Cyclic Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
+
+# [Research](https://somphene.github.io/research/)
 
 * [Design Optimization of Metamaterials for Cloaking](https://somphene.github.io/research/cloakingviametamaterials/) ([Synopsis](https://drive.google.com/file/d/1Gdp19Fz_jpsbY8ZORdrKV8IRrjAaBexW/view): 4 page pdf summarizing the thesis)
 
