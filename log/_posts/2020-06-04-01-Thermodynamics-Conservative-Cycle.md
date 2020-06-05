@@ -9,17 +9,17 @@ tags: [Thermodynamics, Conservative, Cycle, Intensive, Extensive, Language, Stru
 
 ### Identity
 
-Identity is one. Identity is unique. Identity is one which brings all together. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that this unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to capture Aryabhata's concept of zero as the identity (unique cycle). A blank white space would also work but it is easily missed. Thus, Identity is Cycle.
+Identity is one. Identity is unique. Identity is one which is all together. Identity brings (places) all together. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that this unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to capture Aryabhata's concept of zero as the identity (unique cycle). A blank white space would also work but it is easily missed. Thus, Identity is Cycle. Cycle is Identity.
 
 ### Identity of Thermodynamics
 
-Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique. The name equilibrium corresponds to the mathematical concept of  equals to $$=$$. Thus Unique Identification is Equilibrium. This can be simplified to looking at a pair of complementary relative Identites which identified together complete a cycle.
+Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique. The name equilibrium corresponds to the mathematical concept of  equals to ($$=$$) or balance. Thus Unique Identification is Equilibrium. This can be simplified to: looking at a pair of complementary relative Identites which identified together at the Boundary between them complete a cycle.
  
 ### Cycle $$\circ$$ Energy is Conserved
  
 Cycle is Identity. Identity is Conserved. This is the same as "Identity is unique". Identity Cycle is unique. Energy is the Identity is the Unique Cycle in Thermodynamics. 
 
-### Connection is Smooth Translation (Flow)
+### $$\circ$$ Connection is Smooth Translation (Flow)
 
 A cycle is called "not conservative" or "non-conservative" if it is not the Unique Cycle (Identity) but one part of it which is separated from the rest. A separate part is formed if only if there is a division of the Unique Identity Cycle into two or more parts by boundaries. Let us consider a Unique Boundary which divides the cycle into two parts. These two parts are a Complementary pair that are connected by a boundary to all together form the Identity Cycle. The two parts are relative Identities in themselves. Hence one may consider them as cycles individually that are connected through the Boundary as their Identity. That is to say that if a cycle is not unique, it is completed (complemented) by connecting it to its "complementary pair" and form a Unique Identity Cycle. The process of Connection is smooth translation to continuously extend a form to its complete Cycle. This can be done if the boundary which bounds one from being complete with it's other part is Identified. This is the same as one part identifying the other. It is the same as meeting of two parts. All processes essentially do the same as Identifying a Unique Cycle.
 
