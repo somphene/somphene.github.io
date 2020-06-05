@@ -5,6 +5,9 @@ subtitle:
 use-site-title: true
 image: img/me.jpg
 ---
+
+I cycle bicycle. I $$c$$ and I know things.
+
 # [Research](https://somphene.github.io/research/)
 
 ## [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
