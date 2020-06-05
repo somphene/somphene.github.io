@@ -9,7 +9,7 @@ tags: [Thermodynamics, Conservative, Cycle, Intensive, Extensive, Language, Stru
 
 ### Identity
 
-Identity is one. Identity is unique. Identity is one which brings all together. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that the unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to capture Aryabhata's concept of zero as the identity (unique cycle). A blank white space would also work but it is easily missed. Thus, Identity is Cycle.
+Identity is one. Identity is unique. Identity is one which brings all together. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that this unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to capture Aryabhata's concept of zero as the identity (unique cycle). A blank white space would also work but it is easily missed. Thus, Identity is Cycle.
 
 ### Identity of Thermodynamics
 
