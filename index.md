@@ -6,7 +6,7 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-I Identifies you. I cycle bicycle. I $$c$$ and I know things.
+I Identifies you. I cycles bicycles. I $$c$$ and I knows things.
 
 # [Research](https://somphene.github.io/research/)
 
