@@ -6,7 +6,7 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-I cycles bicycles. I $$c$$ and I knows things. I Identifies you. I is you is I. U+I. I. 
+I cycles bicycles. I Identifies you. I is you is I. U+I. I $$c$$. $$c$$. 
 
 # Recycle
 
