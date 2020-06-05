@@ -20,7 +20,7 @@ I Identifies. I Identifies you. I is you is I. U+I. I cycles bicycles. I $$c$$ a
 
 * [Knowledge Conservation Cycles](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
 
-* [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/)
+* [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/) (ComCom LangLang program)
 
 * [Identity is Reflections to Cyclic Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
 
