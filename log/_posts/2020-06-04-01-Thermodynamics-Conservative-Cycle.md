@@ -13,7 +13,7 @@ Identity is one. Identity is unique. Identity is one which brings all together. 
 
 ### Identity of Thermodynamics
 
-Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities.
+Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique. The name equilibrium corresponds to the mathematical concept of  equals to $$=$$. Thus Unique Identification is Equilibrium.
  
 ### Cycle $$\circ$$ Energy is Conserved
  
@@ -23,11 +23,14 @@ Cycle is Identity. Identity is Conserved is to state that Identity is unique. Id
 
 A cycle is called "not conservative" or "non-conservative" if it is not the Unique Cycle (Identity) but one part of it which leaves the rest out. A separate part can be formed only if there is a division of the Unique Identity Cycle into two or more parts. Let us consider a Unique Boundary which divides the cycle into two parts. These two parts are a Complementary pair that are connected by a boundary to all together form the Identity Cycle. The two parts are relative Identities in themselves. Hence one may consider them as cycles individually that are connected through the Boundary as their Identity. That is to say that if a cycle is not unique, it is completed (complemented) by connecting it to its "complementary pair" and form a Unique Identity Cycle. The process of Connection is smooth translation to continuously extend a form to its complete Cycle. This can be done if the boundary which bounds one from being complete with it's other is Identified. This is the same as one part identifying the other. It is the same as meeting of two parts. All processes essentially do the same as Identifying a Unique Cycle.
 
-### Cyclic $$\circ$$ Connection of System and Surrounding
+### Cyclic $$\circ$$ Connection of System and Surrounding by Boundary
 
 A system in thermodynamics is the part of Space Identity bounded by a Unique Cyclic Boundary (think of a loop). That is, the Universal Space as a Unique Cyclic Identity is divided into system and its complementary pair (the surrounding which is the Space other than the System), by a boundary which separates the two. Thus, System, boundary and Surrounding together form the Unique Space Identity. The System, and Surrounding are Relative Identities, connected together by the Boundary which becomes their meeting or their Identity.
 
 ### Reservoir is Relative Identity
 
-Reservoir of Heat or other relative Identities of Energy are relative Identities which remain relatively unaffected by changes in the system connected to it. This is a statement of scale. Reservoir is assigned a relatively much larger Measure than the system which has a relatively smaller measure so that the changes in Reservoir are negligible at the scale of the system where measures are being recorded.
+Reservoir of Heat or other relative Identities of Energy are relative Identities which remain relatively unaffected by changes in the system connected to it. This is a statement of scales (measure). Reservoir is assigned a relatively much larger Measure than the system which has a relatively smaller measure so that the changes in Reservoir are negligible at the scale of the system where measures are being recorded.
 
+### Zeroth Law
+
+This names a Cyclic Identity called Temperature of a System and further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
