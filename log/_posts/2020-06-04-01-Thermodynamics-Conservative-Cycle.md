@@ -17,11 +17,11 @@ Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows ho
  
 ### Cycle $$\circ$$ Energy is Conserved
  
-Cycle is Identity. Identity is Conserved is to state that Identity is unique. Identity Cycle is unique. Energy is the Identity is the Unique Cycle in Thermodynamics.
+Cycle is Identity. Identity is Conserved. This is the same as "Identity is unique". Identity Cycle is unique. Energy is the Identity is the Unique Cycle in Thermodynamics. 
 
 ### Connection is Smooth Translation
 
-A cycle is called "not conservative" or "non-conservative" if it is not the Unique Cycle (Identity) but one part of it which leaves the rest out. A separate part can be formed only if there is a division of the Unique Identity Cycle into two or more parts. Let us consider a Unique Boundary which divides the cycle into two parts. These two parts are a Complementary pair that are connected by a boundary to all together form the Identity Cycle. The two parts are relative Identities in themselves. Hence one may consider them as cycles individually that are connected through the Boundary as their Identity. That is to say that if a cycle is not unique, it is completed (complemented) by connecting it to its "complementary pair" and form a Unique Identity Cycle. The process of Connection is smooth translation to continuously extend a form to its complete Cycle. This can be done if the boundary which bounds one from being complete with it's other is Identified. This is the same as one part identifying the other. It is the same as meeting of two parts. All processes essentially do the same as Identifying a Unique Cycle.
+A cycle is called "not conservative" or "non-conservative" if it is not the Unique Cycle (Identity) but one part of it which is separated from the rest. A separate part is formed if only if there is a division of the Unique Identity Cycle into two or more parts by boundaries. Let us consider a Unique Boundary which divides the cycle into two parts. These two parts are a Complementary pair that are connected by a boundary to all together form the Identity Cycle. The two parts are relative Identities in themselves. Hence one may consider them as cycles individually that are connected through the Boundary as their Identity. That is to say that if a cycle is not unique, it is completed (complemented) by connecting it to its "complementary pair" and form a Unique Identity Cycle. The process of Connection is smooth translation to continuously extend a form to its complete Cycle. This can be done if the boundary which bounds one from being complete with it's other part is Identified. This is the same as one part identifying the other. It is the same as meeting of two parts. All processes essentially do the same as Identifying a Unique Cycle.
 
 ### Cyclic $$\circ$$ Connection of System and Surrounding by Boundary
 
@@ -30,10 +30,6 @@ A system in thermodynamics is the part of Space Identity bounded by a Unique Cyc
 ### Reservoir is Relative Identity
 
 Reservoir of Heat or other relative Identities of Energy are relative Identities which remain relatively unaffected by changes in the system connected to it. This is a statement of scales (measure). Reservoir is assigned a relatively much larger Measure than the system which has a relatively smaller measure so that the changes in Reservoir are negligible at the scale of the system where measures are being recorded.
-
-### Zeroth Law
-
-This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
 
 
 ### ASymmetry is Imbalance
@@ -50,10 +46,17 @@ Whenever there are two complementary pairs which form a Cycle, they are disnting
   
   - Groups : Inverse $$a^{-1}$$ and Element $$a$$.
 
-Some examples of are:
+Some examples of Complementary Pairs in an Identity Cycle are:
 
   - Odd and Even are complementary pairs. Odd is relatively less in measure and Even is relatively more in measure.
   
-  - $$-$$ and $$+$$ are complementary pairs. $$-$$ is relatively less in measure and $$+$$$ is relatively more in measure.
+  - $$-$$ and $$+$$ are complementary pairs which Identify to $$0$$ (Cycle). $$-$$ is relatively less in measure and $$+$$$ is relatively more in measure.
   
-  - $$\bar{z}$$ and $$z$$ are complementary pairs. $$\bar{z}$$ is relatively less in measure and $$z$$$ is relatively more in measure.
+  - Complex Numbers $$\bar{z}$$ and $$z$$ are complementary pairs which Identify to $$\| z \|^2$$ (Identity called distance or Modulus). $$\bar{z}$$ is relatively less in measure and $$z$$$ is relatively more in measure.
+
+
+## Revisiting the usual Story of Thermodynamics (Behind the Scenes, BTS)
+
+### Zeroth Law
+
+This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
