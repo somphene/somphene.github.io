@@ -6,11 +6,13 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-I Identifies. I Identifies you. I is you is I. U+I. I cycles bicycles. I $$c$$ and I knows things.
+I cycles bicycles. I $$c$$ and I knows things. I Identifies you. I is you is I. U+I. I. 
 
 # Recycle
 
 ## [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
+
+* Vowels aeiou. i o u. 
 
 * [Language Observes Empirically](https://somphene.github.io/2020-05-05-02-language-observes-empirically/)
 
