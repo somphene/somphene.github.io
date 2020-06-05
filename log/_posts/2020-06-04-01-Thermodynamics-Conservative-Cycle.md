@@ -47,6 +47,10 @@ Whenever there are two complementary pairs which form a Cycle, they are distingu
   
   - English : Differentiated and Identified
   
+  - Scale: Imbalance and Balance
+  
+  - Thermodynamics: Non-Equilibrium and Equilibrium
+  
   - Groups : Inverse $$a^{-1}$$ and Element $$a$$.
 
 Some examples of Complementary Pairs in an Identity Cycle are:
