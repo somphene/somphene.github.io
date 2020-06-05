@@ -13,7 +13,7 @@ Identity is one. Identity is unique. Identity is one which brings all together. 
 
 ### Identity of Thermodynamics
 
-Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique. The name equilibrium corresponds to the mathematical concept of  equals to $$=$$. Thus Unique Identification is Equilibrium.
+Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique. The name equilibrium corresponds to the mathematical concept of  equals to $$=$$. Thus Unique Identification is Equilibrium. This can be simplified to looking at a pair of complementary relative Identites which identified together complete a cycle.
  
 ### Cycle $$\circ$$ Energy is Conserved
  
@@ -33,4 +33,27 @@ Reservoir of Heat or other relative Identities of Energy are relative Identities
 
 ### Zeroth Law
 
-This names a Cyclic Identity called Temperature of a System and further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
+This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
+
+
+### ASymmetry is Imbalance
+
+Whenever there are two complementary pairs which form a Cycle, they are disntinguishable because of their Relative Scales (Measure). If they had the same scale (measure), they would be in perfect balance with each other and hence in Equilibrium (by definition equilibrium is balance or symmetry (same measure)). Thus, Asymmetry is inherent to distinguish between two complementart pairs which together form a cycle. For uniformity in naming, we name the relative less measure Identity as Differential form and the relative more measure Identity as Integral form. These have been given different names in literature. Some of them are:
+
+  - Natural Science: Condensed and Fluid
+  
+  - Calculus: Differential Form and Integral Form
+  
+  - Symmetery: Image and Object, or , Reflection and Object 
+  
+  - English : Differentiated and Identified
+  
+  - Groups : Inverse $$a^{-1}$$ and Element $$a$$.
+
+Some examples of are:
+
+  - Odd and Even are complementary pairs. Odd is relatively less in measure and Even is relatively more in measure.
+  
+  - $$-$$ and $$+$$ are complementary pairs. $$-$$ is relatively less in measure and $$+$$$ is relatively more in measure.
+  
+  - $$\bar{z}$$ and $$z$$ are complementary pairs. $$\bar{z}$$ is relatively less in measure and $$z$$$ is relatively more in measure.
