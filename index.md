@@ -12,7 +12,7 @@ Hi! I am named Som Phene (सोम फेणे, Sōma phēṇē). Som means Mo
 
 ### Hobbies
 
-I cycles bicycles. I Identifies you. I is you is I. U+I. I $$c$$. I. $$c$$. I
+I cycles bicycles. I $$c$$. I. $$c$$. I
 
 # Recycle
 
