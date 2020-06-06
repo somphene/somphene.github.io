@@ -9,15 +9,19 @@ tags: [Thermodynamics, Conservative, Cycle, Conserved, Nature, Natural, Intensiv
 
 ### Identity
 
-Identity is one. Identity is unique. Identity is one, which is all together. Identity brings (places) all together smoothly. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that this unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to express Aryabhata's concept of zero as the Identity (unique cycle). A blank white space would also work but it is easily missed. Thus, Identity is Cycle. Cycle is Identity.
+Identity is one. Identity is unique. Identity is one, which is all together. Identity brings (places) all together smoothly. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that this unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to express Aryabhata's concept of zero as the Identity (unique cycle). A blank white space might have worked but it is easily missed. Thus, Identity is Cycle. Cycle is Identity.
 
 ### Identity of Thermodynamics
 
-Cycle is Identity. In Thermodynamics it is named Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique. The name equilibrium corresponds to the mathematical concept of  equals to ($$=$$) or balance. Thus Unique Identification is Equilibrium. This can be simplified to: looking at a pair of complementary relative Identites which identified together at the Boundary between them complete a cycle.
- 
+Cycle is Identity. In Thermodynamics, it is named (identified as) Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique one. The name equilibrium corresponds to the mathematical concept of equals to ($$=$$) or balance. Thus, Unique Identification is Equilibrium. This can be simplified to: see a pair of complementary relatively lower Identites which identified together at the Boundary between them complete a cycle. This Cycle is the relatively Higher Identity.
+
+### Scale 
+
+A Scale is naming of Relative Identities. The usual metre scale is a prototype example of a Scale. In Thermodynamics, less corresponds to Intensive and more corresponds to Extensive. 
+
 ### Cycle $$\circ$$ Energy is Conserved
  
-Cycle is Identity. Identity is Conserved. This is the same as "Identity is unique". Identity Cycle is unique. Energy is the Identity is the Unique Cycle in Thermodynamics. 
+Cycle is Identity. Identity is Conserved. This is the same as "Identity is unique". Identity Cycle is unique. Energy is the Identity is the Unique Cycle in Thermodynamics. Stated the other way round, a conserved quantity is an Identity (at appropriate scale).
 
 ### $$\circ$$ Connection is Smooth Translation (Flow)
 
@@ -31,9 +35,9 @@ A system in thermodynamics is the part of Space Identity bounded by a Unique Cyc
 
 Identity Cycle can be separated into System and Reservoir. Reservoir of Heat or other relative Identities of Energy are relative Identities which remain relatively unaffected by changes in the system connected to it. This is a statement of scales (measure). Reservoir is assigned a relatively much larger Measure than the system which has a relatively smaller measure so that the changes in Reservoir are negligible at the scale of the system where measures are being recorded.
 
-### ASymmetry is Imbalance
+### ASymmetry is Balance at Relatively less Scale and Imbalance at Relatively more Scale
 
-Whenever there are two complementary pairs which form a Cycle, they are distinguishable because of their Relative Scales (Measure). If they had the same scale (measure), they would be in perfect balance with each other and hence in Equilibrium (by definition, equilibrium is balance or symmetry (same measure)). Thus, Asymmetry is inherent to distinguish between two complementart pairs which together form a cycle. For uniformity in naming, we name the relative less measure Identity as Differential form and the relative more measure Identity as Integral form. These have been given different names in literature. Some of the names are:
+Each Relative Identity is itself a cycle. Hence it is relatively conserved . Whenever there are two complementary pairs which form a Cycle, they are distinguishable because of their Relative Scales (Measure). If they had the same scale (measure), they would be in perfect balance with each other and hence in Equilibrium (by definition, equilibrium is balance or symmetry (same measure)). Thus, Asymmetry is inherent to distinguish between two complementary pairs which together form a cycle. For uniformity in naming, we name the relative less measure Identity as Differential form and the relative more measure Identity as Integral form. These have been given a variety of names in literature. Some of the names are:
 
   - Mathematics: Less and More, or, $$-$$ and $$+$$
   
