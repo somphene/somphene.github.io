@@ -6,7 +6,13 @@ use-site-title: true
 image: img/me.jpg
 ---
 
-I cycles bicycles. I Identifies you. I is you is I. U+I. I $$c$$. $$c$$. 
+## Identity
+
+Hi! I am named Som Phene (सोम फेणे, Sōma phēṇē). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon reflects the Light of Sun to the Earth. My name has many other translations which I explore through my life. What is your name?
+
+### Hobbies
+
+I cycles bicycles. I Identifies you. I is you is I. U+I. I $$c$$. I. $$c$$. I
 
 # Recycle
 
