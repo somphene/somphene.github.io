@@ -10,13 +10,13 @@ image: img/me.jpg
 
 Hi! I am named Som Phene (सोम फेणे, Sōma phēṇē). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon reflects the Light of Sun to the Earth. My name has many other translations which I explore through my life. What is your name?
 
-### Hobbies
+## Hobbies
 
 I cycles bicycles. I $$c$$. I. $$c$$. I
 
-# Recycle
+## Recycle
 
-## [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
+### [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
 
 * Vowels aeiou. i o u. 
 
