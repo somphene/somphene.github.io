@@ -62,8 +62,12 @@ Each Relative Identity is itself a cycle. Hence it is relatively conserved . Whe
   
   - Scale: Imbalance and Balance
   
-  - Thermodynamics: Non-Equilibrium and Equilibrium
-  
+  - Thermodynamics:
+    
+    - Intensive and Extensive
+    
+    -Non-Equilibrium and Equilibrium
+    
   - Groups : Inverse $$a^{-1}$$ and Element $$a$$.
 
 Some examples of Complementary Pairs in an Identity Cycle are:
