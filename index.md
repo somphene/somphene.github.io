@@ -69,5 +69,6 @@ Currently [writing](https://somphene.github.io/log/list/).
 
 # [Log](https://somphene.github.io/log/)
 * Almost daily Updates, Notes, resources, tutorials, etc. [posted naturally](https://somphene.github.io/log/).
+* लोग क्या कहते है
 
 
