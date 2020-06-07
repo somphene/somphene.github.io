@@ -11,13 +11,22 @@ tags: [Thermodynamics, Conservative, Cycle, Conserved, Nature, Natural, Intensiv
 
 Identity is one. Identity is unique. Identity is one, which is all together. Identity brings (places) all together smoothly. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms and as a result we say that this unique Identity is conserved. The symbol to denote this is that of a cycle $$\circ$$. This is the symbol given by Brahmagupta to express Aryabhata's concept of zero as the Identity (unique cycle). A blank white space might have worked but it is easily missed. Thus, Identity is Cycle. Cycle is Identity.
 
-### Identity of Thermodynamics
+### Identity of Thermodynamics is Energy
 
-Cycle is Identity. In Thermodynamics, it is named (identified as) Energy. Thermodynamics shows how to smoothly translate from one form of Energy to another form of Energy (Identity). Energy is allowed to translate smoothly from one form to another in a cycle which forms the Identity. The different forms are given names as relative Identities. Equilibrium is the name given when two relative Identities are Identified to a unique one. The name equilibrium corresponds to the mathematical concept of equals to ($$=$$) or balance. Thus, Unique Identification is Equilibrium. This can be simplified to: see a pair of complementary relatively lower Identites which identified together at the Boundary between them complete a cycle. This Cycle is the relatively Higher Identity.
+Cycle is Identity. In Thermodynamics, it is named (identified as) Energy. In Thermodynamics we see how to smoothly translate from one form of Energy to another form of Energy. I repeat: Various forms of Energy belong to a unique Identity named Energy. Energy is allowed to translate smoothly from one form to another in a cycle which forms the Energy Identity. 
 
-### Scale 
+### Relative Identities of Energy (Scale)
 
-A Scale is naming of Relative Identities. The usual metre scale is a prototype example of a Scale. In Thermodynamics, less corresponds to Intensive and more corresponds to Extensive. 
+The various forms of Energy are given names as relative Identities. Hence, we may call Energy as the Absolute Identity of Thermodynamics. Compared to Energy (Absolute Identity), the various forms of Energy are Relative Identities. Within Relative Identities, there are further forms. A Scale is naming of Relative Identities. So we have obtained a scale of Identities. This can be imagined as a family tree. Thus a scale of Relative Identities is a family of Identities. First Relative Identities connect to form the Absolute Identity. Second Relative Identites connect to form First Relative Identities. Third Relative Identities connect to form Second Relative Identities and so on.  
+  
+  - The usual metre scale is a prototype example of a Scale. 
+  
+  - A family tree or Lineage is an example of a scale. At any given point, except the Highest and the Lowest, there are higher and lower points 
+  
+  - In Thermodynamics, less corresponds to Intensive and more corresponds to Extensive. 
+
+For simplicity, at some point in the scale let us consider two forms of Identity. Name the two forms $$A$$ and $$B$$. Each of $$A$$ and $$B$$ are relative Identities when compared to Energy ($$E$$). Equilibrium is the name given when two relative Identities are Identified to a unique one. The name equilibrium corresponds to the mathematical concept of equals to ($$=$$) or balance. Thus, Unique Identification is Equilibrium. This can be simplified to: see a pair of complementary relatively lower Identites which identified together at the Boundary between them complete a cycle. This Cycle is the relatively Higher Identity.
+
 
 ### Cycle $$\circ$$ Energy is Conserved
  
@@ -70,3 +79,5 @@ Some examples of Complementary Pairs in an Identity Cycle are:
 ### Zeroth Law
 
 This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
+
+  - (Exercise). We as a system are in Thermal Equilibrium with our surrounding. At every point 
