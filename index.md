@@ -8,7 +8,7 @@ image: img/me.jpg
 
 ## Identity
 
-Hi! I am named Som Phene (सोम फेणे, Sōma phēṇē). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon reflects the Light of Sun to the Earth. My name has many other translations which I explore through my life. What is your name and what does it mean?
+Hi! I am named Som Phene (Sōma phēṇē, सोम फेणे). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon reflects the Light of Sun to the Earth. My name has many other translations which I explore through my life. What is your name and what does it mean?
 
 ## Hobbies
 
