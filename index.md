@@ -12,7 +12,7 @@ Hi! I am named Som Phene (सोम फेणे, Sōma phēṇē). Som means Mo
 
 ## Hobbies
 
-I cycles bicycles. 
+I cycles bicycles. I like to communicate in various Languages. I like to identify people. I recycle. I reinterpret, revisit, replay, research, rewrite, read, renew. 
 
 ## Recycle
 
