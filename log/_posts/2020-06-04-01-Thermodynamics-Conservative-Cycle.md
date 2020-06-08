@@ -2,9 +2,9 @@
 layout: post
 blog-category: blog
 published: true
-title: $$\circ$$ Thermodynamics Identifies Conservative Cycles
+title: $$\circ$$ Thermodynamics Identifies Cycles to be Conserved
 author: Som Phene 
-tags: [Thermodynamics, Conservative, Cycle, Conserved, Nature, Natural, Intensive, Extensive, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
+tags: [Thermodynamics, Conservative, Cycle, Conserved, Nature, Natural, Intensive, Extensive, Language, Structure, Complementary Pairs, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
 ### Identity
@@ -17,19 +17,29 @@ The following statements are equivalent:
   
   - Identity is one, which is all together. 
   
-  - Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. 
+  - Identity is uniform, that is, Identity smoothly positions the various relative forms together to identify them as one. 
   
-  - Identity brings (places) all forms together smoothly.  
-  
-  - Different forms can be identified together to give one Identity. 
+  - Various forms can be identified together to give one Identity. 
   
   - Expressing completeness, we say that a unique Identity is conserved. 
 
-To present these statements as one, we use the concept of a cycle. The symbol usually used to denote Identity is $$0$$. I like to interpret this symbol to be a cycle: $$\circ$$. When a cycle ($$\circ$$, circle) is unique, there is no difference between any of its points Thus, Identity is Cycle. Cycle is Identity.
+To present these statements as one, we use the concept of a cycle. The symbol usually used to denote Identity is $$0$$. I like to interpret this symbol to be a cycle: $$\circ$$. When a cycle ($$\circ$$, circle) is unique, there is no difference between any of its points which shows uniformity. Naming is Identification. One may Relatively Name the points in a cycle to obtain various relative forms (forming Phases in a cycle). The cycle itself is uniform without any Relative Names given. In other words, 'Cycle' is the unique name given to identify various forms which make up the cycle. This shows how the concept of a cycle expresses all of the above equivalent statements. Thus, Identity is Cycle. Cycle is Identity.
+
+  - (Example). Water cycle is a an example of Identity as a cycle. Water is the Identity. The Water Cycle can be named at points to give a distribution of various forms. For example, Solid Liquid and Gas  The Identity is Amount of Water. When there is a unique cycle of Water (no interaction with anything else), the  
+ 
+Summary of what we have see:
+
+* Identity as a cycle.
+
+* Naming of points in a cycle as identification of two phases.
+
+* Naming of Phases in a cycle as identifying two points.
+
+Points and Phases are complementary to each other. A pair of points is identified by a Phase and a pair of Phases is identified by a point. Naming is Identifying. Identification can be done at relative levels.
 
 ### Identity of Thermodynamics is Energy
 
-Cycle is Identity. In Thermodynamics, it is named (identified as) Energy. In Thermodynamics we see how to smoothly translate from one form of Energy to another form of Energy. I repeat: Various forms of Energy belong to a unique Identity named Energy. Energy is allowed to translate smoothly from one form to another in a cycle which forms the Energy Identity. 
+Cycle is Identity. In Thermodynamics, it is renamed (identified) as Energy. In Thermodynamics, we see how to smoothly translate from one form of Energy to another form of Energy. I repeat: various forms of Energy belong to a unique Identity named Energy. Energy is allowed to translate smoothly from one form to another form in a cycle. The cycle which identifies all forms together is the Energy Identity. 
 
 ### Naming Relative Identities of Energy forms a Scale
 
