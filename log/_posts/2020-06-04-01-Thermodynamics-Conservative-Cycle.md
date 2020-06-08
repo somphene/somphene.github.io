@@ -17,11 +17,15 @@ The following statements are equivalent:
   
   - Identity is one, which is all together. 
   
-  - Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Identity brings (places) all forms together smoothly.  Thus, when identified together, there are no two different forms. 
+  - Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. 
+  
+  - Identity brings (places) all forms together smoothly.  
+  
+  - Different forms can be identified together to give one Identity. 
   
   - Expressing completeness, we say that a unique Identity is conserved. 
 
-To present these statements in one, we use the concept of a cycle. The symbol usually used to denote Identity is $$0$$. I like to interpret this symbol to be a cycle: $$\circ$$. Thus, Identity is Cycle. Cycle is Identity.
+To present these statements as one, we use the concept of a cycle. The symbol usually used to denote Identity is $$0$$. I like to interpret this symbol to be a cycle: $$\circ$$. When a cycle ($$\circ$$, circle) is unique, there is no difference between any of its points Thus, Identity is Cycle. Cycle is Identity.
 
 ### Identity of Thermodynamics is Energy
 
