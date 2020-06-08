@@ -9,7 +9,7 @@ tags: [Thermodynamics, Conservative, Cycle, Conserved, Nature, Natural, Intensiv
 
 ### Identity
 
-Identity is one. Identity is unique. Identity is one, which is all together. Identity brings (places) all together smoothly. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms. Expressing the completeness, we say that this unique Identity is conserved. The symbol usually used to denote this is $$0$$. I like to interpret this symbol to be a cycle $$\circ$$. A blank white space might have worked but it is easily missed. Thus, Identity is Cycle. Cycle is Identity.
+Identity is one. Identity is unique. Identity is one, which is all together. Identity brings (places) all together smoothly. Identity is uniform, that is, Identity smoothly blends the differences between forms to make them one. Thus there are no two different forms. Expressing the completeness, we say that this unique Identity is conserved. The symbol usually used to denote this is $$0$$. I like to interpret this symbol to be a cycle $$\circ$$. Thus, Identity is Cycle. Cycle is Identity.
 
 ### Identity of Thermodynamics is Energy
 
