@@ -7,9 +7,35 @@ author: Som Phene
 tags: [Classification, Conservative, Cycle, Conserved, Nature, Natural, Intensive, Extensive, Language, Structure, Complementary Pairs, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
+### Identity
+
+Identity is name. Unique Identity is Unique Name.
+
+### Identification 
+
+Whenever there are a variety of names (identities), they can be placed together and given a unique name. Thus, Identification of individual Identities is the same as giving them a unique name (Unique Identity). For example:
+
+  - In schools, Identification is what we do when we bring together a variety of individual students with their own names (individual identities) in a class. This process of giving a common name (Identity) to a group of students in the form of a 'Class' is an example of Identification.
+  
+  - In schools, Identification at a larger scale is what we do when we make individual students wear a common uniform. The uniform is the unique Identity of all students enrolled in the school.
+  
+  - In schools, Identification at an even larger scale is what we do when we give the Name of the school. The name of the School is what Identifies all students of a school from different years. 
+  
+Thus, we see that whenever there is a variety of Individual Identities, placing them together to give a Unique Identity creates a Unique Name (Identity). The Unique Identity may be seen to either be at the same degree or a higher degree than that of the Individual Identites or at a lower degree than the Individual Identities. That is, the Unique Identity obtained by Identification of individual elements is the complete cycle of which, the Individual Identities are the varieties. For example:
+
+   - In schools, Class is all students put together. The students in a Class are Individual Identities which together form the Class. Hence the Class itself is seen at higher degree than the individual students. The other way round, the Class itself is formed by the Identification of all students put together. Hence, the Class gets Identified by placing together the Individual Identities (names) of all students in the class. In this way, Identifying a Class is placing together a variety of Individual Names. Thus, the Class is seen as a Unique Identity at lower degree than that of the Individual Identities (since Class is one name which is lesser than the all number of names). A particular student who is representative of the Class may also act as the Unique Identity of the Class. 
+   
+   - In schools, Uniform Identifies students in all Classes. The Uniform is placed with every student and hence it doesn't distinguish any Individual Identity (student). So, the Individual Identity of any student is not affected by placing it together with the Unique Identity (uniform). However, by seeing the Uniform, every student sees that they have a Unique Identity. Thus the students who want to connect with each other (Identify with each other), may look at the Unique Identity instead of looking at the Individual Identities as a common base to Identify with another student. The uniform may not help at the level of individual interaction, but it serves as a common base to connect together students. This shows how the Uniform (Unique Identity) is at the same degree as that of its Parts (Individual Idnetities). It can be placed with the parts but does not affect their Individual Identity at all. However, it connects together the Individual Identities by forming a base (Unique Identity).
+   
+   - In Schools, Name of the school Identifies students who were part of the school over time. Thus, the Name Identifies students on a Larger Degree. 
+  
+### Complementary Pairs form a Cycle
+
+A cycle is formed by balancing two sides. I name the two sides to be complementary pairs. Thus, placing together (Identifying) complementary pairs forms a cycle. To express that the cycle contains both sides, we say that a cycle is conserved.
+
 ### Classifying Languages
 
-I started to classify Languages and realized that the result will match what has already been done in the Language of Mathematical Groups. This is seen by my formulation of Languages to emerge in complementary pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Cyclic group with one element. As an intermediate step, I will see Cyclic group with two elements (Cyclic group of order $$2$$).
+I started to classify Languages and realized that the result will match what has already been done in the Language of Mathematical Groups. This is seen by my formulation of Languages to emerge in complementary pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Identity Language (Cyclic group with one element as identity). As an intermediate step, I will see the Cyclic group with two elements (Cyclic group of order $$2$$).
 
 ### Degree of Cyclic Language
 
@@ -25,7 +51,9 @@ I started to classify Languages and realized that the result will match what has
   
   - A letter $$e$$.
   
-  - A circle $$\circ$$ as a unique cycle.
+  - A circle $$\circ$$ 
+  
+  - A unique cycle.
   
   - A sphere.
   
@@ -33,13 +61,13 @@ I started to classify Languages and realized that the result will match what has
   
   - A square
   
-While all of the above are equaivalent, I choose to picture this as the symbol ($$\circ$$) which shows a cycle. 
+While all of the above are equaivalent, for simplicity, I choose to picture this as the symbol $$\circ$$ which shows a cycle. 
 
 * Observe that the Identity Language can be reinterpreted to be a Group with any number of elements with all of them being the Identity element. This gives an isomorphism to Cyclic groups of order which is equal to the number of elements. For example:
 
-  - Identity element positioned with any element gives the element itself. Hence one may write $$\,\,E\,\, \cdot \,\, E\,\, =\,\, E\,\,$$. Thus we may think of a cyclic group with two elements both being Identity. Hence each element is its own inverse. One may name the elements to create variety and see that when one element is distinguished the other element becomes its inverse. This may be seen by writing the Group as $$\{E, I\}$$ and $$I \cdot I = E$$. This is isomorphic to the cyclic group of order $$2$$.
+  - Identity element positioned with any element gives the element itself. Hence one may write $$\,\,E\,\, \cdot \,\, E\,\, =\,\, E\,\,$$. Thus, we may think of this as a cyclic group with two elements, both being Identity. Here each element is its own inverse. One may give individual names (complementary identities) to the elements to create variety and see that when one element is distinguished the other element becomes its inverse. This may be seen by writing the Group as $$\{E, I\}$$ and $$I \cdot I = E$$. This is isomorphic to the cyclic group of order $$2$$.
   
-  - Similarly, we may write $$\,\,E\,\, \cdot \,\,E\,\, \cdot \,\,E\,\,= \,\,E\,\,$$ and think of a group with three elements, each being Identity. The element $$E$$ has $$E\,\,\cdot\,\, E$$ as its inverse and vice versa. One may rename these elements to create a variety and have an isomoorphism to a cyclic group of order $$3$$. That is, the group becomes $$\{I, I\cdot I, E\}$$ or $$\{I, I^2, E\}$$.
+  - Similarly, we may write $$\,\,E\,\, \cdot \,\,E\,\, \cdot \,\,E\,\,= \,\,E\,\,$$ and think of a group with three elements, each being Identity. The element $$E$$ has $$E\,\,\cdot\,\, E$$ as its inverse and vice versa. One may rename these elements to create a variety and have an isomorphism to a cyclic group of order $$3$$. That is, the group becomes $$\{I, I\cdot I, E\}$$ or $$\{I, I^2, E\}$$.
 
 ### Once upon a time, there was a circle $$\circ$$
 
