@@ -119,7 +119,7 @@ Every point on the circle $$\circ$$ is same when viewed from the center. That is
 
 This shows how given any Language, we can Identify it to the Identity Language. Simply, keep identifying complementary pairs. The reverse is also true. One may start with Identity Language and keep positioning complementary pairs which identify to generate a Language. The naming doesn't matter for the end. We could have identified all points as centres and the last statements would have read as:
 
-  - We rewrite the statement as: the center is its own Idnetity.
+  - We rewrite the statement as: the center is its own Identity.
   
   - We rewrite the statement as: the center is.
   
