@@ -81,13 +81,25 @@ This shows how given any Language, we can Identify it to the Identity Language. 
 
   - We rewrite the statement as: the center is its own Idnetity.
   
-  - We rewrite the statement as: the center is
+  - We rewrite the statement as: the center is.
   
-  - We rewrite the statement as: the center
+  - We rewrite the statement as: the center.
   
-  - We rewrite the statement as: center
+  - We rewrite the statement as: center.
   
-  - We rewrite the statement as: 
+  - We rewrite the statement as: .
+  
+  - We rewrite the statement as:
+  
+Another way is to identify 'the center' to 'is
+
+  - We rewrite the statement as: the center is.
+  
+  - We rewrite the statement as: is.
+  
+  - We rewrite the statement as: .
+  
+  - We rewrite the statement as:
 
 So we have seen that the story "Once upon a time there was a circle" is coming from the story "Once upon a time there was a point". A point is the circle.
 
