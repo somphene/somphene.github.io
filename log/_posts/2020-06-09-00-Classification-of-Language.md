@@ -131,7 +131,7 @@ This shows how given any Language, we can Identify it to the Identity Language. 
   
   - We rewrite the statement as:
   
-Another way is to identify 'the center' to 'is
+Another way is to identify 'the center' to 'is':
 
   - We rewrite the statement as: the center is.
   
