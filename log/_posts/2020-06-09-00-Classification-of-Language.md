@@ -149,5 +149,5 @@ Instead of seeing a unique symbol, we may see a cyclic Language comprised of two
 
   - Second Roots of Unity: $$-1$$ and $$1+$$ are two points on the Axis which form a complementary pair of Identities. These Identify together to form $$S^0$$ (I prefer to call it $$S^{\frac{1}{2}}$$) as the Identity. These Identify at a Lower Degree as the Identity $$1$$, which is the Origin. When these two points are connected (Identified) by the semicircles of the unit Circle they form $$S^1$$ as the Higher Degree Identity. 
   
-  - All the "we rewrite statements" above can be read in reverse order to see how to start from an Identity and proceed to higher and higher degrees of Identities.
+  - All the "we rewrite" statements above can be read in reverse order to see how to start from an Identity and proceed to higher and higher degrees of Identities.
   
