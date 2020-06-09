@@ -21,4 +21,4 @@ Based on [Classifying Languages](https://somphene.github.io/2020-06-09-00-Classi
  
  - Quantum Gravity
  
-All these can also be seen to be special cases of Knowledge Conservation Cycles.
+All these may also be seen to be special cases of [Knowledge Conservation Cycle](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/).
