@@ -92,7 +92,7 @@ Each Relative Identity is itself a cycle. Hence it is relatively conserved . Whe
     
     - Intensive and Extensive
     
-    -Non-Equilibrium and Equilibrium
+    - Non-Equilibrium and Equilibrium
     
   - Groups : Inverse $$a^{-1}$$ and Element $$a$$.
 
@@ -100,9 +100,9 @@ Some examples of Complementary Pairs in an Identity Cycle are:
 
   - Odd and Even are complementary pairs. Odd is relatively less in measure and Even is relatively more in measure.
   
-  - $$-$$ and $$+$$ are complementary pairs which Identify to $$0$$ (Cycle). $$-$$ is relatively less in measure and $$+$$$ is relatively more in measure.
+  - $$-$$ and $$+$$ are complementary pairs which Identify to $$0$$ (Cycle). $$-$$ is relatively less in measure and $$+$$ is relatively more in measure. These may also identify to $$S^1$$ (Cycle).
   
-  - Complex Numbers $$\bar{z}$$ and $$z$$ are complementary pairs which Identify to $$\| z \|^2$$ (Identity called distance or Modulus). $$\bar{z}$$ is relatively less in measure and $$z$$$ is relatively more in measure.
+  - Complex Numbers $$\bar{z}$$ and $$z$$ are complementary pairs which Identify to $$\| z \|^2$$ (Identity called distance or Modulus). $$\bar{z}$$ is relatively less in measure and $$z$$ is relatively more in measure.
 
 ## Revisiting the usual Story of Thermodynamics (BTS, Behind the Scenes)
 
@@ -110,4 +110,4 @@ Some examples of Complementary Pairs in an Identity Cycle are:
 
 This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
 
-  - (Exercise). We as a system are in Thermal Equilibrium with our surrounding. At every point 
+  
