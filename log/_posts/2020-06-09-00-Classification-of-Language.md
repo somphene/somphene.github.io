@@ -147,7 +147,7 @@ So we have seen that the story "Once upon a time there was a circle" is coming f
 
 Instead of seeing a unique symbol, we may see a cyclic Language comprised of two complementary pairs to be the representing the Identity Language. Since Languages come in pairs, in any image, we have meeting of two complementary languages. This comes from the identification of a pair of Languages to be a cycle. For example, the blank white space we imagine is always bounded by a less white boundary. A letter has its background as its complementary pair. Any symbol has its background as its complementary pair. The two together form a Higher Cyclic Identity and the two Identified at their Boundary form a Lower Cyclic Identity. For example:
 
-  - Second Roots of Unity: $$-1$$ and $$1+$$ are two points on the Axis which form a complementary pair of Identities. These Identify together to form $$S^0$$ as the Identity. These Identify at a Lower Degree as the Identity $$1$$, which is the Origin. When these two points are connected (Identified) by the semicircles of the unit Circle they form $$S^1$$ as the Higher Degree Identity. 
+  - Second Roots of Unity: $$-1$$ and $$1+$$ are two points on the Axis which form a complementary pair of Identities. These Identify together to form $$S^0$$ (I prefer to call it $$S^{\frac{1}{2}}$$) as the Identity. These Identify at a Lower Degree as the Identity $$1$$, which is the Origin. When these two points are connected (Identified) by the semicircles of the unit Circle they form $$S^1$$ as the Higher Degree Identity. 
   
   - All the "we rewrite statements" above can be read in reverse order to see how to start from an Identity and proceed to higher and higher degrees of Identities.
   
