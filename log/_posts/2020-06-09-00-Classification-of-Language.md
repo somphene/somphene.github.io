@@ -9,7 +9,7 @@ tags: [Classification, Conservative, Cycle, Conserved, Nature, Natural, Intensiv
 
 ### Classifying Languages
 
-I started to classify Languages and found that the result matched what had already been done in the Language of Mathematical Groups. This is seen by thinking of Languages to emerge in pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Cyclic group with one element. As an intermediate step, I will see Cyclic group with two elements (Cyclic group of order $$2$$).
+I started to classify Languages and found that the result matched what had already been done in the Language of Mathematical Groups. This is seen by my formulation of Languages to emerge in complementary pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Cyclic group with one element. As an intermediate step, I will see Cyclic group with two elements (Cyclic group of order $$2$$).
 
 ### Degree of Cyclic Language
 
@@ -25,15 +25,17 @@ I started to classify Languages and found that the result matched what had alrea
   
   - A letter $$e$$.
   
-  - A circle $$\circ$$$ as a unique cycle.
+  - A circle $$\circ$$ as a unique cycle.
   
   - A sphere.
   
-  - A sqaure.
-   
-I picture this as the symbol ($$\circ$$) which shows a cycle. 
+  - A cone.
+  
+  - A square
+  
+While all of the above are equaivalent, I choose to picture this as the symbol ($$\circ$$) which shows a cycle. 
 
-* Note that the Identity Language can be reinterpreted to be a Group with any number of elements, and all of them being the Identity element. This gives an isomorphism to Cyclic groups of order equal to the number of elements. For example:
+* Observe that the Identity Language can be reinterpreted to be a Group with any number of elements with all of them being the Identity element. This gives an isomorphism to Cyclic groups of order which is equal to the number of elements. For example:
 
   - Identity element positioned with any element gives the element itself. Hence one may write $$\,\,E\,\, \cdot \,\, E\,\, =\,\, E\,\,$$. Thus we may think of a cyclic group with two elements both being Identity. Hence each element is its own inverse. One may name the elements to create variety and see that when one element is distinguished the other element becomes its inverse. This may be seen by writing the Group as $$\{E, I\}$$ and $$I \cdot I = E$$. This is isomorphic to the cyclic group of order $$2$$.
   
