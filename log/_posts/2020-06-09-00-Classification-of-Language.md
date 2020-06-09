@@ -9,7 +9,7 @@ tags: [Classification, Conservative, Cycle, Conserved, Nature, Natural, Intensiv
 
 ### Classifying Languages
 
-I started to classify Languages and found that the result matched what had already been done in the Language of Mathematical Groups. This is seen by my formulation of Languages to emerge in complementary pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Cyclic group with one element. As an intermediate step, I will see Cyclic group with two elements (Cyclic group of order $$2$$).
+I started to classify Languages and realized that the result will match what has already been done in the Language of Mathematical Groups. This is seen by my formulation of Languages to emerge in complementary pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Cyclic group with one element. As an intermediate step, I will see Cyclic group with two elements (Cyclic group of order $$2$$).
 
 ### Degree of Cyclic Language
 
