@@ -9,12 +9,11 @@ tags: [Classification, Conservative, Cycle, Conserved, Nature, Natural, Intensiv
 
 ### Classifying Languages
 
-I started to classify Languages and found that the result matched what had already been done in the Language of Mathematical Groups. This is seen by thinking of Languages to emerge in pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**.
+I started to classify Languages and found that the result matched what had already been done in the Language of Mathematical Groups. This is seen by thinking of Languages to emerge in pairs (element and its inverse to form identity). Thus, Languages can be classified corresponding to the classification of finite simple groups. Here is the complete list [Classification of finite simple groups](https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups). Right now I focus on Cyclic Groups. I name the Languages corresponding to Cyclic Groups as **Cyclic Languages**. At some point, I will only focus on Cyclic group with one element. As an intermediate step, I will see Cyclic group with two elements (Cyclic group of order $$2$$).
 
 ### Degree of Cyclic Language
 
 **Degree of a Cyclic Language** is the Order of its corresponding Cyclic Group. 
-
 
 ### Identity Language
 
@@ -44,7 +43,7 @@ I picture this as the symbol ($$\circ$$) which shows a cycle.
 
 Every point on the circle $$\circ$$ is same when viewed from the center. That is, we see a difference in two points because of our position of viewing them. In positioning ourselves equally from all points, we identify all of them to be the same. The other way round, this can be seen as the points identifying to maintain equal position with respect to the center as their Identity. Thus, all points at equal distance from the center are Identified by the center and all points at equal distance from the center identify to the center.
 
-* Identifying the centre of a circle to be a point. 
+* Identifying the center of a circle to be a point. 
 
   - We rewrite the statement as: All points at equal distance from 'the' point are Identified by 'the' point and all points at equal distance from 'the' point identify to 'the' point. 
 
@@ -60,14 +59,38 @@ Every point on the circle $$\circ$$ is same when viewed from the center. That is
 
   - We rewrite the statement as: the point at its own distance identifies the point at its own distance.
 
-* Identifying own distance to be the point itself
+* Identifying 'own distance'as 'the point' itself
 
   - We rewrite the statement as: the point identifies the point
 
   - We rewrite the statement as: the point is its own identity.
+  
+* Identifying 'the point' as 'identity'
+ 
+  - We rewrite the statement as: the point is.
+  
+  - We rewrite the statement as: the point.
+  
+  - We rewrite the statement as: point.
+  
+  - We rewrite the statement as: .
+  
+  - We rewrite the statement as:
 
-This shows how given any Language, we can Identify it to the Identity Language. Simply, keep identifying complementary pairs. The reverse is also true. One may start with Identity Language and keep positioning complementary pairs which identify to generate a Language.
+This shows how given any Language, we can Identify it to the Identity Language. Simply, keep identifying complementary pairs. The reverse is also true. One may start with Identity Language and keep positioning complementary pairs which identify to generate a Language. The naming doesn't matter for the end. We could have identified all points as centres and the last statements would have read as:
 
-### Comlpementary Pairs as Identity Language ( Cyclic Group of Order 2)
+  - We rewrite the statement as: the center is its own Idnetity.
+  
+  - We rewrite the statement as: the center is
+  
+  - We rewrite the statement as: the center
+  
+  - We rewrite the statement as: center
+  
+  - We rewrite the statement as: 
 
-Instead of seeing a unique symbol, we may see a cyclic Language to be the  Since Languages come in pairs, in any image, we have meeting of two complementary languages. This comes from the identification of a pair of Languages to be a cycle. For example, the blank white space we imagine is always bounded by a less white boundary. A letter has its background as , any symbol has its background. 
+So we have seen that the story "Once upon a time there was a circle" is coming from the story "Once upon a time there was a point". A point is the circle.
+
+### Comlpementary Pairs as Identity Language (Cyclic Group of Order 2)
+
+Instead of seeing a unique symbol, we may see a cyclic Language to be the representing the Identity Language. Since Languages come in pairs, in any image, we have meeting of two complementary languages. This comes from the identification of a pair of Languages to be a cycle. For example, the blank white space we imagine is always bounded by a less white boundary. A letter has its background as , any symbol has its background. 
