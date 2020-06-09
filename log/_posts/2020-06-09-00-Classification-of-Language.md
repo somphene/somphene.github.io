@@ -143,7 +143,7 @@ Another way is to identify 'the center' to 'is':
 
 So we have seen that the story "Once upon a time there was a circle" is coming from the story "Once upon a time there was a point". A point is the circle. This serves to show that any Identity gives rise to its complementary Identity. These two composed together form another Identity. This new Identity again gives rise to its complementary Identity. It is our choice to see all as one single Idnetity or as a compositioning of multiple Identities. All points of view are equivalent. 
 
-### Comlpementary Pairs as Identity Language (Cyclic Group of Order 2)
+### Complementary Pairs as Identity Language (Cyclic Group of Order 2)
 
 Instead of seeing a unique symbol, we may see a cyclic Language comprised of two complementary pairs to be the representing the Identity Language. Since Languages come in pairs, in any image, we have meeting of two complementary languages. This comes from the identification of a pair of Languages to be a cycle. For example, the blank white space we imagine is always bounded by a less white boundary. A letter has its background as its complementary pair. Any symbol has its background as its complementary pair. The two together form a Higher Cyclic Identity and the two Identified at their Boundary form a Lower Cyclic Identity. For example:
 
