@@ -9,7 +9,7 @@ tags: [One, Communication, Identity, Language, Cycle, Conserved, Nature, Natural
 
 ## On Communication
 
-Communication is meeting of Languages. I use the word Language to express anything, be it a rigid structure or some fluid or a usual language. 
+Communication is meeting of Languages. I use the word Language to express anything we see. Be it a rigid structure or some fluid or a usual language. 
 
 ### Identity
 
@@ -48,8 +48,22 @@ We could have used another way. This is by naming the Identity Language as $$1$$
   - $$(1)$$
   
   - $$1$$
- 
+
 Alternatively, the symbols could have been interchanged to see the following steps:
+
+ $$-\,\,1 \,\,(\,\,-\,\,1 \,\,1\,\,+\,\,)\,\,1\,\,+$$
+  
+  - $$-\,\,1 \,\,(\,\,1 \,\,)\,\,1\,\,+$$
+  
+  - $$-\,\,1 \,\,1 \,\,1\,\,+$$
+  
+  - $$(-\,\,1 \,\, \,\,1\,\,+)$$
+  
+  - $$-\,\,1 1\,\,+$$
+  
+  - $$1$$
+ 
+Or, using $$0$$ as the Identity symbol,
 
   - $$-\,\,1 \,\,(\,\,-\,\,1 \,\,1\,\,+\,\,)\,\,1\,\,+$$
   
@@ -65,4 +79,23 @@ Alternatively, the symbols could have been interchanged to see the following ste
   
   -
 
-Thus, we see Identity Language.
+Or, the symbols could have been Identified in another way:
+
+  - $$(-\,\,1 \,\,-\,\,1\,\,) \,\,(\,\,1\,\,+\,\,1\,\,+\,\,)$$
+  
+  - $$(\,\,1 \,\,)\,\,(\,\,1 \,\,)$$
+  
+  - $$1$$
+  
+  
+Or, we may use $$0$$ as the Identity symbol:  
+  
+  - $$(-\,\,1 \,\,-\,\,1\,\,) \,\,(\,\,1\,\,+\,\,1\,\,+\,\,)$$
+  
+  - $$(\,\,0 \,\,)\,\,(\,\,0 \,\,)$$
+  
+  - $$0$$
+  
+  -
+
+Thus, we arrive to see Identity Language.
