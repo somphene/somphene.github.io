@@ -19,7 +19,13 @@ For once,
  
  - Let there be a complementary pair of Languages formed from the Identity Language.
 
-**Hypothesis**: Using the above to statements repeatedly (complementarily), we may generate a Language. Conversely, a given Language may be Identified to the Identity Language.
+**Hypothesis**: 
+
+  - Using the above to statements repeatedly (complementarily), we may generate a Language. 
+  
+  - Conversely, a given Language may be Identified to the Identity Language. 
+
+Identification is both ways (complementary). Hence, we may start from any one suitable Language and Identify the others with it. The repitition of steps involved may be finite or infinite depending on the Language.
 
 ### Complementary Pairs of Language
 
