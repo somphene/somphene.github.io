@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: $$\circ$$ Thermodynamics Identifies Cycles to be Conserved
+title: $$\circ$$ Let Thermodynamics Identify Energy Cycles to be Conserved
 author: Som Phene 
 tags: [Thermodynamics, Conservative, Cycle, Conserved, Nature, Natural, Intensive, Extensive, Language, Structure, Complementary Pairs, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
@@ -27,7 +27,7 @@ To present these statements as one, we use the concept of a cycle. The symbol us
 
   - (Example). Water cycle is an example of Identity as a cycle. Water is the Identity. The Water Cycle can be relatively named at points to give a distribution of various forms. For example, Condensation and De-condensation are relative names given to a points. Correspondingly, Solid Liquid and Gas are Relative identities. In the Physical Water Cycle, the Identity is Amount of Water. When there is a unique cycle of Water (no interaction with anything else), the amount of water in the cycle remains conserved. The forms are named as water droplets, water bodies and water vapour. These forms cycle from water droplets to water bodies to water vapour in one way of flow. The name given to identify two forms in this flow is de-condensation (evaporation). The other half is Condensation which forms   
  
-Summary of what we have see:
+Summary of what we have seen:
 
 * Identity as a cycle.
 
@@ -37,9 +37,9 @@ Summary of what we have see:
 
 Points and Phases are complementary to each other. A pair of points is identified by a Phase and a pair of Phases is identified by a point. Naming is Identifying. Identification can be done at relative levels.
 
-### Identity of Thermodynamics is Energy
+### Let Identity of Thermodynamics be Energy
 
-Cycle is Identity. In Thermodynamics, it is renamed (identified) as Energy. In Thermodynamics, we see how to smoothly translate from one form of Energy to another form of Energy. I repeat: various forms of Energy belong to a unique Identity named Energy. Energy is allowed to translate smoothly from one form to another form in a cycle. The cycle which identifies all forms together is the Energy Identity. 
+Cycle is Identity. In Thermodynamics, let it be named (identified) as Energy. In Thermodynamics, we see how to smoothly translate from one form of Energy to another form of Energy. I repeat: various forms of Energy may be Identified to a unique Identity named Energy. Energy is allowed to translate smoothly from one form to another form in a cycle. The cycle which identifies all forms together is the Energy Identity. 
 
 ### Naming Relative Identities of Energy forms a Scale
 
@@ -108,6 +108,6 @@ Some examples of Complementary Pairs in an Identity Cycle are:
 
 ### Zeroth Law
 
-This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium.
+This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium. In Mathematical Language, we may see Thermal Equilibrium to be a Cyclic Identity with the three systems in equilibrium forming a cyclic group of degree three. This is isomorphic to the cube roots of Identity $$\{1,\omega,\omega^2\}$$. Thus, the Zeroth Law says that whenever $$\omega$$ and $$\omega^2$$ are Identified to $$1$$, we way complete the cycle and Identify $$w$$ with $$\omega^2$$.
 
   
