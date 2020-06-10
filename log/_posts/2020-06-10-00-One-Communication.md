@@ -102,4 +102,11 @@ Thus, we arrive to see Identity Language.
 
 ### Complementary Pairing of Pairs of Languages
 
-Complementary pairing of Languages Identifies the Languages to an Identity Language. However we see that this involved, creating another complementary pair of points corrseponding to the complementary pair of Languages. These complementary pairs of points may themselves be seen to be complementary Languages. Thus, a Pair of Languages which Identifies to the Identity Language also has its corresponding complementary Pair of Languages which get Identified to the Identity Language in the process of Identifying the first pair. In Mathematical Language, this may be seen as a cyclic group of order 4.
+Complementary pairing of Languages Identifies the Languages to an Identity Language. However we see that this involved, creating another complementary pair of points corrseponding to the complementary pair of Languages. These complementary pairs of points may themselves be seen to be complementary Languages. Thus, a Pair of Languages which Identifies to the Identity Language also has its corresponding complementary Pair of Languages which get Identified to the Identity Language in the process of Identifying the first pair. In Mathematical Language, this may be seen as a cyclic group of order $$4$$. Thus, the previous process is equally valid to show how to Identify a group of 4 Languages with two pairs of complementary pairs.
+
+Repeating the above process of Identifying, we see that all Languages corresponding to elements in a cyclic group of order $$2^n$$ are Iedntified to the Identity Language by Identifying one complementary pair at a time.
+
+Identifying that pairs of complementary pairs may be Identified one at a time, a cyclic group of order $$4^n$$ are Identified to the Identity Language.
+
+
+
