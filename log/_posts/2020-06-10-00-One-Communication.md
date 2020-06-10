@@ -37,7 +37,7 @@ For the Complementary Pairs of Languages which form the Identity Language, we sh
   
   - $$0$$
   
-  -
+  - .
 
 We could have used another way. This is by naming the Identity Language as $$1$$. This works within the level of the given symbols for their Identification as seen in following steps:
 
@@ -77,7 +77,7 @@ Or, using $$0$$ as the Identity symbol,
   
   - $$0$$
   
-  -
+  - .
 
 Or, the symbols could have been Identified in another way:
 
@@ -96,6 +96,6 @@ Or, we may use $$0$$ as the Identity symbol:
   
   - $$0$$
   
-  -
+  - .
 
 Thus, we arrive to see Identity Language.
