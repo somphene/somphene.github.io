@@ -99,3 +99,7 @@ Or, we may use $$0$$ as the Identity symbol:
   - .
 
 Thus, we arrive to see Identity Language.
+
+### Complementary Pairing of Pairs of Languages
+
+Complementary pairing of Languages Identifies the Languages to an Identity Language. However we see that this involved, creating another complementary pair of points corrseponding to the complementary pair of Languages. These complementary pairs of points may themselves be seen to be complementary Languages. Thus, a Pair of Languages which Identifies to the Identity Language also has its corresponding complementary Pair of Languages which get Identified to the Identity Language in the process of Identifying the first pair. In Mathematical Language, this can be seen as a cyclic group of order 4.
