@@ -21,22 +21,3 @@ Based on [Classifying Languages](https://somphene.github.io/2020-06-09-00-Classi
 
 All these may also be seen to be special cases of [Knowledge Conservation Cycle](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/). These are based on recycles.
 
-## Recycle
-
-### [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
-
-* Vowels aeiou. i o u. 
-
-* [Language Observes Empirically](https://somphene.github.io/2020-05-05-02-language-observes-empirically/)
-
-* [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
-
-* [Thermodynamics is Conservative Cycles](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/)
-
-* [Knowledge Conservation Cycles](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
-
-* [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/) (ComCom LangLang program)
-
-* [Identity is Reflections to Cyclic Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
-
-
