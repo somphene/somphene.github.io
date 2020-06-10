@@ -14,31 +14,13 @@ I see.
 
 ## Hobbies
 
-I cycles bicycles. Everything else are translations. I like to communicate in various Languages. I like to identify people. I recycle. I restart, remember, restore, reinterpret, relive, relate, revisit, react, replay, research, rewrite, receive, read, reach, refresh, reconnect, revive, renew and reserve.  
-
-## Recycle
-
-### [Cyclic Symmetry](https://somphene.github.io/tags/#Language)
-
-* Vowels aeiou. i o u. 
-
-* [Language Observes Empirically](https://somphene.github.io/2020-05-05-02-language-observes-empirically/)
-
-* [Empirical Observations on Language](https://somphene.github.io/2020-05-05-01-empirical-observations-on-language/)
-
-* [Thermodynamics is Conservative Cycles](https://somphene.github.io/2020-05-10-01-Intensive-Extensive-Duality/)
-
-* [Knowledge Conservation Cycles](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/)
-
-* [Communication Language Program](https://somphene.github.io/2020-05-21-10-Communication-Language-Program/) (ComCom LangLang program)
-
-* [Identity is Reflections to Cyclic Symmetry](https://somphene.github.io/2020-05-23-00-reflections-to-symmetry-identity/)
+I cycles bicycles. Everything else are translations. I like to communicate in various Languages. I like to identify people. I recycle. 
 
 # [Research](https://somphene.github.io/research/)
 
 ## Research Identity
 
-I is my Research Identity. My Research is Cyclic Translation. I research myself through others. I research myself through others simply by Identifying others as myself. I research others through myself. I research myself. In Nature, I name Light to be Identity. In Mathematics, Identity in Cyclic ($$\circ$$) Groups is my Identity. 
+I is my Research Identity. My Research is Cyclic Translation. 
 
 Various Phases in the Cycle are listed below. These are guided by fundamental questions that have emerged repeatedly in my natural experience over the years. In usual Language, these are the Areas which I keep revisitng, these areas keep coming back to me. In the Language of Places, these are my homes. In the Language of Light, these are my reflections. In the Language of Arts, these are my Self Portraits. In the Language of Sound these are my Fundamental frequencies (I Resonate with these ideas). In the Language of Groups, these are my elements which form Identity. In the Language of Play, these are my Expressions. In the Language of Acting, these are my Characters. In the Language of Family, these are my Relatives. In the Language of Dance, these are my Complementary Pairs. In the Language of Writing, these are chapters of my Autobiography. In the Language of Photography, these are my pictures. In the Language of Languages, these are my Translations. In Natural Language, these are the elements of my Nature. In the Language of Devotion, I see how God expresses these as his forms. Every work shows how I make my own Universe. To be Interpreted as you wish. Here we go:
 
@@ -78,5 +60,7 @@ Currently [writing](https://somphene.github.io/log/list/).
 # [Log](https://somphene.github.io/log/)
 * Almost daily Updates, Notes, resources, tutorials, etc. [posted naturally](https://somphene.github.io/log/).
 * लोग क्या कहते है
+
+
 
 
