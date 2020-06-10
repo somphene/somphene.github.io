@@ -10,6 +10,8 @@ image: img/me.jpg
 
 Hi! I am named Som Phene (Sōma phēṇē, सोम फेणे). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon dances around and reflects the Light of Sun to the Earth. My name has many other translations which I express and explore through my life. What is your name and what does it mean?
 
+I see.
+
 ## Hobbies
 
 I cycles bicycles. Everything else are translations. I like to communicate in various Languages. I like to identify people. I recycle. I restart, remember, restore, reinterpret, relive, relate, revisit, react, replay, research, rewrite, receive, read, reach, refresh, reconnect, revive, renew and reserve.  
