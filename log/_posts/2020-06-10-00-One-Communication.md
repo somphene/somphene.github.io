@@ -9,17 +9,60 @@ tags: [One, Communication, Identity, Language, Cycle, Conserved, Nature, Natural
 
 ## On Communication
 
+Communication is meeting of Languages. I use the word Language to express anything, be it a rigid structure or some fluid or a usual language. 
+
 ### Identity
 
 For once, 
 
- - Let there be an Identity Language.
+ - Let there be a Identity Language.
  
  - Let there be a complementary pair of Languages formed from the Identity Language.
 
-**Hypothesis**: Using the above to statements repeatedly, we may generate any given Language. Conversely, Any given Language may be Identified to the Identity Language.
+**Hypothesis**: Using the above to statements repeatedly (complementarily), we may generate a Language. Conversely, a given Language may be Identified to the Identity Language.
 
 ### Complementary Pairs of Language
 
-First we shall show the converse: Given any Language, we will Identify it to the Identity Language. Then we shall do it the other way round. To simplify the process, we will use symbols. For the Identity Language, we shall use a circle: $$\circ$$ as the symbol. For the Complementary Pairs of Languages which form the Identity Language, we shall use two complementary halves of the circle $$\circ$$ expressed by $$-1$$ and $$1+$$. Here $$-1$$ expresses the left half of the circle and $$1+$$ expresses the right half of the circle. Picturing the halves, we see that the halves meet at two points on the circle $$\circ$$. These two points form another  which are expressed by  
+First we shall show the converse: Given a Language, we will Identify it to the Identity Language. Then we shall do it the other way round. When the cycle is complete, we will see that any given Language could have been used as the Identity Language. To simplify the process, we will use symbols. For the Identity Language, we shall use a circle: $$\circ$$ as the symbol. For the Complementary Pairs of Languages which form the Identity Language, we shall use two complementary pairs of the circle $$\circ$$. Each complementary pair misses one point on the circle. The corresponding complementary points are expressed by $$-1$$ and $$1+$$. We may name the complementary pairs corresponding to the missing points to be the complementary symbols $$-\,\,-\,\,1$$ and $$\,\,-\,\,1\,\,+\,\,$$ respectively. To simplify, the complementary pairs of the circle are expressed by $$-1$$ and $$1+$$ and the complementary points are expressed by $$1+$$ and $$-1$$ respectively.
 
+ - The simplest case is: Given two complementary pairs of Languages, how to identify them to Identity Language?
+
+For the Complementary Pairs of Languages which form the Identity Language, we shall use two complementary halves of the circle $$\circ$$ expressed by $$-1$$ and $$1+$$. Positioning the complementary halves $$-1$$ and $$1+$$ together by placing both on top of each other, we see that the complementary halves provide each other their missing point (that is, $$1+$$ and $$-1$$ respectively) which results in a complete circle $$\circ$$. This is seen in the expression $$(-\,\,1 \,\,\,\,1\,\,+)(-\,\,1 \,\,\,\,1\,\,+)$$. In Mathematical Language, the algebraic simplification of this expression is done by identifying together complementary pairs of symbols by an Identity symbol (the Identity Mathematical Language denoted $$0$$). This results in the following steps:
+
+  - $$(-\,\,1 \,\,\,\,1\,\,+)(-\,\,1 \,\,\,\,1\,\,+)$$
+
+  - $$(\,\,0\,\,)(\,\,0\,\,)$$
+  
+  - $$(0)$$
+  
+  - $$0$$
+  
+  -
+
+We could have used another way. This is by naming the Identity Language as $$1$$. This works within the level of the given symbols for their Identification as seen in following steps:
+
+  - $$(-\,\,1 \,\,\,\,1\,\,+)(-\,\,1 \,\,\,\,1\,\,+)$$
+
+  - $$(\,\,1\,\,)(\,\,1\,\,)$$
+  
+  - $$(1)$$
+  
+  - $$1$$
+ 
+Alternatively, the symbols could have been interchanged to see the following steps:
+
+  - $$-\,\,1 \,\,(\,\,-\,\,1 \,\,1\,\,+\,\,)\,\,1\,\,+$$
+  
+  - $$-\,\,1 \,\,(\,\,0 \,\,)\,\,1\,\,+$$
+  
+  - $$-\,\,1 \,\,0 \,\,1\,\,+$$
+  
+  - $$(-\,\,1 \,\,0 \,\,1\,\,+)$$
+  
+  - $$-\,\,1 1\,\,+$$
+  
+  - $$0$$
+  
+  -
+
+Thus, we see Identity Language.
