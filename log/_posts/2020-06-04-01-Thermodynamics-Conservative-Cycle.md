@@ -108,6 +108,14 @@ Some examples of Complementary Pairs in an Identity Cycle are:
 
 ### Zeroth Law
 
-This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium. In Mathematical Language, we may see Thermal Equilibrium to be a Cyclic Identity with the three systems in equilibrium forming a cyclic group of degree three. This is isomorphic to the cube roots of Identity $$\{1,\omega,\omega^2\}$$. Thus, the Zeroth Law says that whenever $$\omega$$ and $$\omega^2$$ are Identified to $$1$$, we way complete the cycle and Identify $$w$$ with $$\omega^2$$.
+This names a Cyclic Identity called Temperature of a System to be a relative Identity of Energy (The other relative part which completes the Identity of Energy cycle is called Entropy, it is the complementary pair of Temperature which will be introduced later). Further states that two systems are Identified with each other (to be at the same Temperature) if they are individually Identified to a common unique system (Identity). This is a statement of associative composition of the Temperature Identity. Usually, the Identification of Temperature of two systems is named Thermal Equilibrium. In Mathematical Language, we may see Thermal Equilibrium to be a Cyclic Identity with the three systems in equilibrium forming a cyclic group of degree three. This is isomorphic to the cube roots of Identity $$\{1,\omega,\omega^2\}$$. Thus, the Zeroth Law says that whenever $$\omega$$ and $$\omega^2$$ are Identified to $$1$$, we way complete the cycle and Identify $$\omega$$ with $$\omega^2$$. Written algebraically, if the two systems are named $$B$$ and $$C$$ which are in thermal equilibrium with a common system $$A$$ then this is expressed as:
 
-  
+ $$ B-A-C  \iff B=A=C $$
+
+### First Law of Thermodynamics
+
+This names Energy to be a Cyclic Identity of a System. The two complementary forms of Energy are given relative Identities (names) Work and Heat. Thus, Energy Identity of a system may be 
+
+ $$ E = W + Q $$
+ 
+## Second Law of Thermodynamics
