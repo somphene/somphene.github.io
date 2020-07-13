@@ -7,7 +7,7 @@ image:
 tags: [Computation, Materials, Science, Physics, Natural, Density Functional Theory, Ab-initio, DFT, Groups, Departments, Schools, People, Review, List]
 ---
 
-Some Departments and groups in the field of Computational Materials Science are reviewed:
+Some Departments and groups with respect to the field of Computational Materials Science are reviewed. These are purely based on my limited personal experiences and are not at all representative. I believe that it takes a few years to get accustomed to a place and see it as one's natural home. 
 
 
 ### Materials Science and Engineering Department in the College of Engineering at Carnegie Mellon University (CMU)
@@ -22,7 +22,7 @@ At first I was only aware of [CMU](https://www.cmu.edu/)'s excellence in computa
  
  I also found Professor Elizabeth A. Holm, Prof. Amit Acharya and Prof. Kaushik Dayal very suitable for computational modeling and simulation. CMU’s uniquely eclectic spectrum of faculty is like no other. 
  
- ### School of Engineering and Applied Sciences at Harvard
+### School of Engineering and Applied Sciences at Harvard
  
 
 ![alt text](/log/images/Som Harvard Baba.jpg) 
