@@ -28,15 +28,15 @@ At first I was only aware of [CMU](https://www.cmu.edu/)'s excellence in computa
 
 During my stay at [Harvard](https://www.harvard.edu/), interacting with professors and graduate students was slightly polarising. I naturally resonated with a small group of select people but it took some time to catch up to the high-fi style and way of life that the majority embodied. This is why it is not my natural place for the time being. Nevertheless, I got a feel for some nice work that is happening there.
 
-Identifying all traditional disciplines of Engineering such as Applied Physics, Materials Science and Electrical Engineering into SEAS makes it look like the Stem of a Tree which holds together various branches. SEAS’s interdisciplinary approach and stellar computational materials science and photonic materials faculty is well suited to my interests and background.  
+Identifying all traditional disciplines of Engineering such as Applied Physics, Materials Science, Applied Mathematics and Electrical Engineering into one integrated whole under the name of SEAS makes it like the Stem of a Tree which holds together various branches. SEAS’s interdisciplinary approach and stellar computational materials science, especially photonic materials faculty is well suited to my interests and background.  
 
 * Prof. Prineha Narang’s work on exciton dynamics using Feynman diagrammatic many body theory, DFT based methods for computation, use of NESSE for hot carrier transport in plasmonic nanostructures, quantum computing materials and algorithms (cofounded Aliro) demonstrates her integrated approach and is extraordinarily aligned with my interests and preparation.
 
 * Prof. Kozinsky and Prof. Kaxiras’s work computational design and materials informatics along with DFT simulations has also interested me. I have referred to Prof. Kaxiras' book in our library for many of the solid state courses.
 
-* Prof. Capasso’s work on optimal design of metasurfaces and Prof. Loncar’s nanophotonics approach to qubits via diamonds is intriguing. I have worked in multidisciplinary teams and developed a unique set of techniques in DFT and inverse problems for photonic materials which could further build on the work happening at SEAS. 
+* Prof. Capasso’s work on optimal design of metasurfaces and Prof. Loncar’s nanophotonics approach to qubits via diamonds is intriguing. I have worked in multidisciplinary teams and developed a unique set of techniques in DFT and inverse problems for photonic materials which could further build on the work happening here. 
 
-* For technology development driven by society’s diverse needs, CIQM, CNS, MRSEC, IACS, iLab and MPHQ are ideal to foster interdisciplinary collaborations.
+* For technology development driven by society’s diverse needs, [CIQM](http://ciqm.harvard.edu/), [CNS](https://cns1.rc.fas.harvard.edu/), [MRSEC](https://www.mrsec.harvard.edu/pages/people.php), [IACS](https://iacs.seas.harvard.edu/), [iLab](https://innovationlabs.harvard.edu/) and [MPHQ](https://mphq.physics.harvard.edu/) are ideal to foster interdisciplinary collaborations.
 
 
 
