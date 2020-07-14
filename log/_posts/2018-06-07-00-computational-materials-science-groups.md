@@ -43,9 +43,9 @@ Identifying all traditional disciplines of Engineering such as Applied Physics, 
 
 MIT DMSE has a stellar group in theoretical (including computational) as well as experimental materials science. Use of modern mathematical and computing developments such as geometric control and topological data analysis has enabled attacks to problems of materials optimization and design that were not possible before, exemplified by: 
 
-* [Prof. Juejun Hu](https://dmse.mit.edu/people/juejun-jj-hu)'s work on metasurfaces using deep learning.
+* [Prof. Juejun Hu](https://dmse.mit.edu/people/juejun-jj-hu)'s work on Huygens metasurfaces using deep learning.
 
-* [Prof. Rafael Gomez-Bombarelli](https://dmse.mit.edu/people/rafael-gomez-bombarelli)’s use of machine learning for materials discovery.
+* [Prof. Rafael Gomez-Bombarelli](https://dmse.mit.edu/people/rafael-gomez-bombarelli)’s use of machine learning for materials discovery (especially for batterries).
 
 * [Prof. Alfredo Alexander-Katz](https://dmse.mit.edu/people/alfredo-alexander-katz)’s computational work on dynamics of soft matter.
 
@@ -53,9 +53,10 @@ MIT DMSE has a stellar group in theoretical (including computational) as well as
 
 * [Prof. Geoffrey S.D. Beach](https://dmse.mit.edu/people/geoffrey-sd-beach)’s work on spintronics interests me and is aligned with my previous training. 
 
-The resources of [Materials Research Laboratory](https://mrl.mit.edu/) and [Research Laboratory of Electronics](https://www.rle.mit.edu/) brings together a diverse group of people to work on materials problems. Being part of such a community which fosters interdisciplinary collaboration will help to build a more comprehensive toolkit that is necessary to solve the world's diverse materials related problems.
+I know of some techniques from spectral inverse problems, homogenization, geometric control and optimization which could further build on the work mentioned above. The resources of [Materials Research Laboratory](https://mrl.mit.edu/) and [Research Laboratory of Electronics](https://www.rle.mit.edu/) brings together a diverse group of people to work on materials problems. Being part of such a community which fosters interdisciplinary collaboration will help to build a more comprehensive toolkit that is necessary to solve the world's diverse materials related problems.
 
 
+![alt text](/log/images/Som MIT_01.jpg) 
 
 
 
