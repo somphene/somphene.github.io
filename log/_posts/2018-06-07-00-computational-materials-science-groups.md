@@ -28,15 +28,34 @@ At first I was only aware of [CMU](https://www.cmu.edu/)'s excellence in computa
 
 During my time at [Harvard](https://www.harvard.edu/), interacting with professors and graduate students was slightly polarising. I naturally resonated with a small group of select people but it took some time to catch up to the high-fi style and way of life that the majority embodied. This is why it is not my natural place for the time being. Nevertheless, I got a feel for some nice work that is happening there.
 
-Identifying all traditional disciplines of Engineering such as Applied Physics, Materials Science, Applied Mathematics and Electrical Engineering into one integrated whole under the name of SEAS makes it like the Stem of a Tree which holds together various branches. SEAS’s interdisciplinary approach and stellar computational materials science, especially photonic materials faculty is well suited to my interests and background.  
+Identifying all traditional disciplines of Engineering such as Applied Physics, Materials Science, Applied Mathematics and Electrical Engineering into one integrated whole under the name of SEAS makes it like the Stem of a Tree which holds together various branches. SEAS’ interdisciplinary approach and stellar computational materials science, especially photonic materials faculty is well suited to my interests and background.  
 
-* Prof. Prineha Narang’s work on exciton dynamics using Feynman diagrammatic many body theory, DFT based methods for computation, use of NESSE for hot carrier transport in plasmonic nanostructures, quantum computing materials and algorithms (cofounded Aliro) demonstrates her integrated approach and is extraordinarily aligned with my interests and preparation.
+* [Prof. Prineha Narang](https://narang.seas.harvard.edu/prineha-narang)’s work on exciton dynamics using Feynman diagrammatic many body theory, DFT based methods for computation, use of NESSE for hot carrier transport in plasmonic nanostructures, quantum computing materials and algorithms (also cofounded Aliro) demonstrates her integrated approach and is extraordinarily aligned with my interests and preparation.
 
-* Prof. Kozinsky and Prof. Kaxiras’s work computational design and materials informatics along with DFT simulations has also interested me. I have referred to Prof. Kaxiras' book in our library for many of the solid state courses.
+* [Prof. Kozinsky](https://bkoz.seas.harvard.edu/people/boris-kozinsky) and [Prof. Kaxiras](https://www.physics.harvard.edu/people/facpages/kaxiras)’s work computational design and materials informatics along with DFT simulations has also interested me. I have referred to [Prof. Kaxiras' book](https://www.cambridge.org/core/books/quantum-theory-of-materials/755973CFD3AA7CF69B3C2380D3F5D16D) in our library for many of the solid state courses.
 
-* Prof. Capasso’s work on optimal design of metasurfaces and Prof. Loncar’s nanophotonics approach to qubits via diamonds is intriguing. I have worked in multidisciplinary teams and developed a unique set of techniques in DFT and inverse problems for photonic materials which could further build on the work happening here. 
+* [Prof. Capasso](https://capasso.seas.harvard.edu/)’s work on optimal design of metasurfaces and [Prof. Loncar](https://nano-optics.seas.harvard.edu/people/marko-loncar)’s nanophotonics approach to qubits via diamonds is intriguing. In the Capasso group, Dr Raphael Pestourie and my interests match quite well. I have worked in multidisciplinary teams and developed a unique set of techniques in DFT and inverse problems for photonic materials which could further build on the work happening here. 
 
 * For technology development driven by society’s diverse needs, [CIQM](http://ciqm.harvard.edu/), [CNS](https://cns1.rc.fas.harvard.edu/), [MRSEC](https://www.mrsec.harvard.edu/pages/people.php), [IACS](https://iacs.seas.harvard.edu/), [iLab](https://innovationlabs.harvard.edu/) and [MPHQ](https://mphq.physics.harvard.edu/) are ideal to foster interdisciplinary collaborations.
+
+
+### Department of Materials Science and Engineering (DMSE) at MIT
+
+MIT DMSE has a stellar group in theoretical (including computational) as well as experimental materials science. Use of modern mathematical and computing developments such as geometric control and topological data analysis has enabled attacks to problems of materials optimization and design that were not possible before, exemplified by: 
+
+* [Prof. Juejun Hu](https://dmse.mit.edu/people/juejun-jj-hu)'s work on metasurfaces using deep learning.
+
+* [Prof. Rafael Gomez-Bombarelli](https://dmse.mit.edu/people/rafael-gomez-bombarelli)’s use of machine learning for materials discovery.
+
+* [Prof. Alfredo Alexander-Katz](https://dmse.mit.edu/people/alfredo-alexander-katz)’s computational work on dynamics of soft matter.
+
+* [Prof. Jeffrey C. Grossman](https://dmse.mit.edu/people/jeffrey-c-grossman)’s modeling of fundamental phenomenon in 2D materials 
+
+* [Prof. Geoffrey S.D. Beach](https://dmse.mit.edu/people/geoffrey-sd-beach)’s work on spintronics interests me and is aligned with my previous training. 
+
+The resources of [Materials Research Laboratory](https://mrl.mit.edu/) and [Research Laboratory of Electronics](https://www.rle.mit.edu/) brings together a diverse group of people to work on materials problems. Being part of such a community which fosters interdisciplinary collaboration will help to build a more comprehensive toolkit that is necessary to solve the world's diverse materials related problems.
+
+
 
 
 
