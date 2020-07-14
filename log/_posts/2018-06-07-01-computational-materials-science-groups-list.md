@@ -13,7 +13,7 @@ Some groups and the corresponding people to watch out for in the field of Comput
 
 * [Kristin Persson](https://perssongroup.lbl.gov/): The Materials Project, Ab inito Computational methods and high-performance computing technology related work. 
 
-* 
+*  n
 
 * [Gerbrand Ceder](https://mse.berkeley.edu/people_new/ceder/): Computational work in DFT and Machine learning based design of novel materials.
 
