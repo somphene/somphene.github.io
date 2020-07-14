@@ -26,7 +26,7 @@ At first I was only aware of [CMU](https://www.cmu.edu/)'s excellence in computa
 
 ![alt text](/log/images/Som Harvard Baba.jpg) 
 
-During my stay at [Harvard](https://www.harvard.edu/), interacting with professors and graduate students was slightly polarising. I naturally resonated with a small group of select people but it took some time to catch up to the high-fi style and way of life that the majority embodied. This is why it is not my natural place for the time being. Nevertheless, I got a feel for some nice work that is happening there.
+During my time at [Harvard](https://www.harvard.edu/), interacting with professors and graduate students was slightly polarising. I naturally resonated with a small group of select people but it took some time to catch up to the high-fi style and way of life that the majority embodied. This is why it is not my natural place for the time being. Nevertheless, I got a feel for some nice work that is happening there.
 
 Identifying all traditional disciplines of Engineering such as Applied Physics, Materials Science, Applied Mathematics and Electrical Engineering into one integrated whole under the name of SEAS makes it like the Stem of a Tree which holds together various branches. SEAS’s interdisciplinary approach and stellar computational materials science, especially photonic materials faculty is well suited to my interests and background.  
 
