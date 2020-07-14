@@ -7,7 +7,7 @@ image:
 tags: [Computation, Materials, Science, Physics, Natural, Density Functional Theory, Ab-initio, DFT, Groups, Departments, Schools, People, Review, List]
 ---
 
-Some Departments and groups with respect to the field of Computational Materials Science are reviewed. These are purely based on my limited personal experiences and are not at all representative. I'd suggest treating these as just pointers which may be used for further exploration. All of these places are excellent and it is impossible to rank these in some given order. In the tough situation of making a choice, it would come down to the feelings at that time based on personal discussions with the concerned people. 
+Some Departments and groups with respect to the field of Computational Materials Science are reviewed. These are purely based on my limited personal experiences and are not at all representative. I'd suggest treating these as just pointers which may be used for further exploration. All of these places are excellent and it is impossible to rank these in some given order. In the tough situation of making a choice, it would come down to the feelings at that time based on personal discussions with the concerned people. If possible, please do visit the place in person to get a feel for it before deciding as it may happen that the people and work is great but the climate and food are not suited to one's nature. 
 
 ### Materials Science and Engineering Department in the College of Engineering at Carnegie Mellon University (CMU)
 
@@ -37,7 +37,7 @@ RPI being well known as one of the top engineering schools reflects the characte
 
 ![alt text](/log/images/Som Stanford 02.jpg) 
 
-[Stanford's stellar computational materials science](https://mse.stanford.edu/) and photonic materials faculty is suits my background naturally. The department conducts truly vibrant research and has a great environment. During my time there, interacting with graduate students made me believe that they were strongly driven by care for the society. Technology development driven by society's diverse needs fostering of interdisciplinary collaborations, for which [GLAM](https://glam.stanford.edu/), [SIMES](https://simes.stanford.edu/) and [ICME](https://icme.stanford.edu/) are perfect. 
+[Stanford's stellar computational materials science](https://mse.stanford.edu/) and photonic materials faculty is suits my background naturally. The department conducts truly vibrant research and has a great environment. During my time there, interacting with graduate students made me believe that they were strongly driven by care for the society. Technology development driven by society's diverse needs fostering of interdisciplinary collaborations, for which [GLAM](https://glam.stanford.edu/), [SIMES](https://simes.stanford.edu/) and [ICME](https://icme.stanford.edu/) are great. The overall research and place looks like a perfect fit for me. 
 
 * [Prof. Jornada](https://mse.stanford.edu/people/felipe-da-jornada)'s study of excited-state phenomena in materials and, in particular, combination of theory development with high-performance computer calculations to access complex excitation phenomena in real materials from first principles is a great match. I am especially interested in the study of exciton dynamics by ab inito computational methods and defect's optical properties for quantum information. Some work on computational complexity and optimizing algorithms such as Using GWPT+ Wannier Interpolation, Static Subspace Approximation which was implemented as $$O(N^3)$$ is crucial. Using hybrid stochastic approaches that could dramatically reduce the prefactor associated with the O(N^4) step while adding minimal stochastic noise. With data analytics booming, the interest in deep learning, optimization based methods of computing is rising. Some unique tools from spectral geometry that I have learnt for inverse design which may be applied in these kinds of problems along with learning the increasingly growing tools from statistics. Optimization-based methods to study a subset of problems that fall between traditional DFT and time-dependent DFT and Green’s-function formalism, to model a particular kernel of the many-body interaction which I believe would be suitable for deep-learning techniques. Even in AET (atomic electron tomography) iterative reconstruction could be accelerated using these. For more background read seminal papers by Hybertsen and Louie Phys. Rev. B 34, 5390–5413 (1986), other great references from the theory side are Hedin’s and Lundqvist’s review paper Solid State Physics 23, 1–181 (1970), and Strinati’s La Riv. del Nuovo Cim. 11, 1–86 (1988).
 
@@ -49,9 +49,42 @@ RPI being well known as one of the top engineering schools reflects the characte
 
 ![alt text](/log/images/Som Stanford 01.jpg) 
 
+### Materials Science and Engineering in School of Engineering at the University of California, Berkeley
+
+![alt text](/log/images/Som Berkeley.jpg) 
+
+[UC Berkeley's stellar computational materials](https://mse.berkeley.edu/) science faculty emphasizes a multidisciplinary approach. During my visit, interacting with graduate students was the best part as they took me on a food tour of the eclectic Euler Street. Fostering of interdisciplinary collaborations, such as with Berkeley Lab makes it all the more diverse. This will help to build an eclectic toolkit that is necessary to solve the world's diverse materials related problems. 
+
+* The Materials Project Director, [Prof. Kristin Persson](https://mse.berkeley.edu/people_new/persson/)'s use of materials informatics to study physics of materials, Ab inito Computational methods and high-performance computing technology work. There's some very nice insights into pure physics and natural sciences gained through this work. Her interdisciplinary group provides a very conducive environment for multi-disciplinary research.
+
+* [Prof. Gerbrand Ceder](https://ceder.berkeley.edu/)'s machine learning based computational design and discovery of materials. 
+
+* [Prof. Mark Asta](https://mse.berkeley.edu/people_new/asta/)'s DFT based simulations for functional materials. 
+
+* [Prof. Xiang Zhang](https://me.berkeley.edu/people/xiang-zhang/)'s work on metamaterials would be a continuation of the kind of work I did throughout undergraduate.
+
+### Department of Materials Science and Engineering (DMSE) at MIT
+
+![alt text](/log/images/Som MIT_02.jpg)
+
+[MIT DMSE](https://dmse.mit.edu/) has a stellar group in theoretical (including computational) as well as experimental materials science. Having strongly networked Condensed Matter and Photonics groups from Physics and Applied Math departments nearby also strenghtens the pure science base. Use of modern mathematical and computing developments such as geometric control and topological data analysis has enabled attacks to problems of materials optimization and design that were not possible before, exemplified by: 
+
+* [Prof. Juejun Hu](https://dmse.mit.edu/people/juejun-jj-hu)'s work on Huygens metasurfaces using deep learning.
+
+* [Prof. Rafael Gomez-Bombarelli](https://dmse.mit.edu/people/rafael-gomez-bombarelli)’s use of machine learning for materials discovery (especially for batterries).
+
+* [Prof. Alfredo Alexander-Katz](https://dmse.mit.edu/people/alfredo-alexander-katz)’s computational work on dynamics of soft matter.
+
+* [Prof. Jeffrey C. Grossman](https://dmse.mit.edu/people/jeffrey-c-grossman)’s modeling of fundamental phenomenon in 2D materials 
+
+* [Prof. Geoffrey S.D. Beach](https://dmse.mit.edu/people/geoffrey-sd-beach)’s work on spintronics interests me and is aligned with my previous training. 
+
+I know of some techniques from spectral inverse problems, homogenization, geometric control and optimization which could further build on the work mentioned above. The resources of [Materials Research Laboratory](https://mrl.mit.edu/) and [Research Laboratory of Electronics](https://www.rle.mit.edu/) brings together a diverse group of people to work on materials problems. Being part of such a community which fosters interdisciplinary collaboration will help to build a more comprehensive toolkit that is necessary to solve the world's diverse materials related problems. 
+
+![alt text](/log/images/Som MIT_01.jpg) 
+
 ### School of Engineering and Applied Sciences (SEAS) at Harvard
  
-
 ![alt text](/log/images/Som Harvard Baba.jpg) 
 
 During my time at [Harvard](https://www.harvard.edu/), interacting with professors and graduate students was slightly polarising. I naturally resonated with a small group of select people but it took some time to catch up to the high-fi style and way of life that the majority embodied. This is why it is not my natural place for the time being. Nevertheless, I got a feel for some nice work that is happening there.
@@ -68,26 +101,6 @@ Identifying all traditional disciplines of Engineering such as Applied Physics, 
 
 
 
-### Department of Materials Science and Engineering (DMSE) at MIT
-
-![alt text](/log/images/Som MIT_02.jpg)
-
-MIT DMSE has a stellar group in theoretical (including computational) as well as experimental materials science. Having strongly networked Condensed Matter and Photonics groups from Physics and Applied Math departments nearby also strenghtens the pure science base. Use of modern mathematical and computing developments such as geometric control and topological data analysis has enabled attacks to problems of materials optimization and design that were not possible before, exemplified by: 
-
-* [Prof. Juejun Hu](https://dmse.mit.edu/people/juejun-jj-hu)'s work on Huygens metasurfaces using deep learning.
-
-* [Prof. Rafael Gomez-Bombarelli](https://dmse.mit.edu/people/rafael-gomez-bombarelli)’s use of machine learning for materials discovery (especially for batterries).
-
-* [Prof. Alfredo Alexander-Katz](https://dmse.mit.edu/people/alfredo-alexander-katz)’s computational work on dynamics of soft matter.
-
-* [Prof. Jeffrey C. Grossman](https://dmse.mit.edu/people/jeffrey-c-grossman)’s modeling of fundamental phenomenon in 2D materials 
-
-* [Prof. Geoffrey S.D. Beach](https://dmse.mit.edu/people/geoffrey-sd-beach)’s work on spintronics interests me and is aligned with my previous training. 
-
-I know of some techniques from spectral inverse problems, homogenization, geometric control and optimization which could further build on the work mentioned above. The resources of [Materials Research Laboratory](https://mrl.mit.edu/) and [Research Laboratory of Electronics](https://www.rle.mit.edu/) brings together a diverse group of people to work on materials problems. Being part of such a community which fosters interdisciplinary collaboration will help to build a more comprehensive toolkit that is necessary to solve the world's diverse materials related problems. 
-
-
-![alt text](/log/images/Som MIT_01.jpg) 
 
 
 
