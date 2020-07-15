@@ -11,7 +11,7 @@ tags: [One, Communication, Identity, Identical, Variety, Language, Cycle, Conser
 
 ### Identical Variety
 
-Let $$\circ$$ be Identity. For variety, let $$c-\circ$$ and $$\circ-C$$ be named as Relative Identities of $$\circ$$. To simplify terminology, let us name these to be Identical Varieties. Thus, corresponding to the Identity $\circ$, we have Identical Varieties $$c-\circ$$, $$\circ$$ and $$\circ-C$$. In usual language, let the relative identities in the Identical Variety be called $$c$$-Identities.
+Let $$\circ$$ be Identity. For variety, let $$c-\circ$$ and $$\circ-C$$ be named as Relative Identities of $$\circ$$. To simplify terminology, let us name these to be Identical Varieties. Thus, corresponding to the Identity $$\circ$$, we have Identical Varieties $$c-\circ$$, $$\circ$$ and $$\circ-C$$. In usual language, let the relative identities $$c-\circ$$ and $$\circ-C$$ in the Identical Variety be called $$c$$-Identities.
 
   - For example: The statement "Identities are identified by Identification" may be expressed in terms of Identical Varieties. 
   
