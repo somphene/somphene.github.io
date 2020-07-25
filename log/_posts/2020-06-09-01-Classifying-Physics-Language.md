@@ -19,5 +19,5 @@ Based on [Classifying Languages](https://somphene.github.io/2020-06-09-00-Classi
 
 - Quantum Mechanics 
 
-All these may also be seen to be special cases of [Knowledge Conservation Cycle](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/). These are based on recycles.
+All these may also be seen to be special cases of [Knowledge Conservation Cycle](https://somphene.github.io/2020-05-10-10-Knowledge-Conservation/). These are based on recycles. Hence all Physics Languages will be seen to be Identical Varieties.
 
