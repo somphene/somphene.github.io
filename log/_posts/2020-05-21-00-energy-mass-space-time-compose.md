@@ -3,7 +3,8 @@ layout: post
 blog-category: blog
 published: true
 title: $$ E = m c^2$$
-author: Som Phene 
+author: Som Phene
+bigimg: log/images/portrait of a man on fire.png
 tags: [Einstein, Identity, Energy-mass, Space-time, Compose, Conservation, Law, Fundamental, Mass, Balance, Degree, Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
 
