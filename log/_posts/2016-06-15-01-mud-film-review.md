@@ -9,7 +9,7 @@ tags : [Films, Movies, Terrence Malick, Christopher Nolan]
 
 
 ### Mud 
-* Watched [Mud](https://www.imdb.com/title/tt1935179/). It was good to see Tye Sheridan in another important role, who formerly played as one of the kids in Terrence Malick's [Tree of Life](https://www.imdb.com/title/tt0478304/). Matthew McConaughey and Reese Witherspoon gave amazing performances (this performance of McConaughey is what landed him the role in Nolan's Interstellar). The theme was about letting go things we love, rather things we think we love. People tend to behave with self benefit in mind. They love someone only when it's proving good for them. Soon they get used to this profit and think they deserve more. Do we ever act selflessly? 
+* Watched [Mud](https://www.imdb.com/title/tt1935179/). It was good to see Tye Sheridan in another important role, who formerly played as one of the kids in Terrence Malick's [Tree of Life](https://www.imdb.com/title/tt0478304/). Matthew McConaughey and Reese Witherspoon gave amazing performances. This performance of McConaughey is what landed him the role in Nolan's Interstellar. The theme was about letting go things we love, rather things we think we love. We tend to behave with self benefit in mind. We love someone only when it's proving good for us. Soon we get used to this profit and think we deserve more. Do we ever act selflessly? 
 
 ### Think on these things
 
@@ -19,4 +19,4 @@ tags : [Films, Movies, Terrence Malick, Christopher Nolan]
 
 * Why should we be afraid of trying out things out of our comfort zone. Often great/mysterious things come up by trying something different and courageous. 
 
-* What am I? What are thoughts? How do I think? Still thinking on these 
+* What am I? What are thoughts? How do I think? Still thinking on these things. 
