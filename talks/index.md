@@ -17,13 +17,15 @@ use-site-title: true
 ### Worskhops
 * [Geometric Ananlysis](https://www.atmschools.org/school/2019/ais/ga), IIT Bombay, 9 Dec 2019 to 28 Dec 2019. This AIS aims to address a range of topics that illustrate the interplay of analysis and geometry / topology in the broad sense, with particular emphasis on the Yamabe problem.
 
-### B.Tech Seminar: Applied Photonics in Metamaterials [Report](https://somphene.github.io/research/applied_photonics_in_metamaterials.pdf) and [Slides](/applied_photonics_in_metamaterials_slides.pdf)
+### Undergraduate Seminars and Talks
 
-### Manufacturing Processes Seminar [BJT Manufacturing](/bjt_manufacturing.pdf)
+* Tech Seminar: Applied Photonics in Metamaterials [Report](https://somphene.github.io/research/applied_photonics_in_metamaterials.pdf) and [Slides](/applied_photonics_in_metamaterials_slides.pdf)
 
-### Talk on [Index Theory](https://docs.google.com/presentation/d/e/2PACX-1vS9bgRcnedoBFPlIKGGn7Vn-VtkNfd1HfeDI4B3rZNtzoVMwqg_RK--rt9ikXZjoFbAGC4cewGlUFRY/pub?start=false&loop=false&delayms=60000) 
+* Manufacturing Processes Seminar [BJT Manufacturing](/bjt_manufacturing.pdf)
 
-### Talk on [Finite Element Method](https://docs.google.com/presentation/d/1T3dr4a9Gov1vqSaI1jWNJJToVnrJDS4lBagVCL0WrUM/edit?usp=sharing)
+* Talk on [Index Theory](https://docs.google.com/presentation/d/e/2PACX-1vS9bgRcnedoBFPlIKGGn7Vn-VtkNfd1HfeDI4B3rZNtzoVMwqg_RK--rt9ikXZjoFbAGC4cewGlUFRY/pub?start=false&loop=false&delayms=60000) 
+
+* Talk on [Finite Element Method](https://docs.google.com/presentation/d/1T3dr4a9Gov1vqSaI1jWNJJToVnrJDS4lBagVCL0WrUM/edit?usp=sharing)
 
 ### Notes from Seminars attended
 
