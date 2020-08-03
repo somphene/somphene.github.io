@@ -6,17 +6,16 @@ use-site-title: true
 
 ---
 
+### Student Seminar @ Mathematics (SS@M), IIT Bombay
 
-### Student Seminar @ Mathematics, IIT Bombay
-
-* I organize the Student Seminar @ Mathematics, IITB. Any student interested in Mathematics may give a seminar and/or attend seminars by others. The following linked page- [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities. The primary aim is to get undergraduate students exposed to a wide variety of topics from logic to algebraic geometry to applied mathematics. 
+* I organize the Student Seminar @ Mathematics (SS@M), IITB. Any student interested in Mathematics may give a seminar and/or attend seminars by others. The following linked page- [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities.  
 
 * I gave the first talk on [Differentiable Manifolds](https://student-seminar-math-iitb.github.io/2019/09/26/s001/) as part of the Differential Geometry theme.
 
 * I gave the last talk on [Smooth dependence of trajectories on initial conditions/parameters](https://student-seminar-math-iitb.github.io/2019/11/07/s006/). 
 
 ### Worskhops
-* [Geometric Ananlysis](https://www.atmschools.org/school/2019/ais/ga), IIT Bombay, 9 Dec 2019 to 28 Dec 2019. This AIS aims to address a range of topics that illustrate the interplay of analysis and geometry / topology in the broad sense, with particular emphasis on the Yamabe problem. In the first two weeks, we propose an ATM School where we will develop preliminary material on (nonlinear) functional analysis, harmonic/PDE (mainly elliptic) and differential geometry. The third week will be a more advanced workshop, where we will cover topics dealing with spectral theory of the Laplacian, prescribing Gauss curvature and critical exponent equations related to the Yamabe problem. Undergraduates and grad students at IITB interested in attending this should email me : somphene1 at gmail dot com.
+* [Geometric Ananlysis](https://www.atmschools.org/school/2019/ais/ga), IIT Bombay, 9 Dec 2019 to 28 Dec 2019. This AIS aims to address a range of topics that illustrate the interplay of analysis and geometry / topology in the broad sense, with particular emphasis on the Yamabe problem.
 
 ### B.Tech Seminar: Applied Photonics in Metamaterials [Report](https://somphene.github.io/research/applied_photonics_in_metamaterials.pdf) and [Slides](/applied_photonics_in_metamaterials_slides.pdf)
 
