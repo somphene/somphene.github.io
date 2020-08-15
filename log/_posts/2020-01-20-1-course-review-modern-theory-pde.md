@@ -4,6 +4,7 @@ blog-category: blog
 title: Course Review, Modern Theory of PDEs
 author: Som Phene
 image: 
+tags: [Course, Review, Modern, Theory, Partial, Differential, Equations, MA 534, Mayukh Mukherjee]
 ---
 ### Modern Theory of Partial Differential Equations (PDEs) (MA 534, Spring 2019)
 by Prof.[Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/) at IITB.
