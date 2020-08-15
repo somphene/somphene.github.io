@@ -4,6 +4,7 @@ blog-category: blog
 title: Quantum Espresso for electronic band structure- basics and examples 
 author: Som Phene
 image: 
+tags: [Band, Structure, Quantum, Espresso, Resources, Input] 
 ---
 
 * [Basics Quantum Espresso](https://www-amdis.iaea.org/Workshops/ICTP2012/Paolo.Giannozzi-Lecture-QE-ICTP-2012-01-26.pdf)
