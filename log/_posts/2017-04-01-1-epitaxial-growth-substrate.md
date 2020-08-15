@@ -4,6 +4,7 @@ blog-category: blog
 title: DFT for simulation of materials growth
 author: Som Phene
 image: 
+tags: [DFT, Simulation, Materials, Growth, Orientation, Crystal] 
 ---
 
 ## Epitaxial Growth of a material on a substrate
