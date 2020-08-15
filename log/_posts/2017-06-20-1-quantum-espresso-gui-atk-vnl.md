@@ -4,6 +4,7 @@ blog-category: blog
 title: Quantum espresso getting started and GUI ATK VNL
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 * Quantum Espresso test run on Silicon
 
