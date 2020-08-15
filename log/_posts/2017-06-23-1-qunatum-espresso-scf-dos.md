@@ -4,6 +4,7 @@ blog-category: blog
 title: Quantum espresso, VNL, input- scf, nscf dos
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 * Qunatum Espresso input file can be automatically made by Virtual Nano Lab. 
 Open new project, Builder, Add to stash from database-Si (alpha)-right click  to export as QE(.in file). 
