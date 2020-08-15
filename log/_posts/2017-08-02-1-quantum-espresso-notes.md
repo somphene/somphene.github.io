@@ -4,6 +4,7 @@ blog-category: blog
 title: Quantum Espresso examples and notes
 author: Som Phene
 image: 
+tags: [Notes, Quantum, Espresso, Resources, Input] 
 ---
 
 * [Notes](http://hawk.fisica.uminho.pt/ricardo-ribeiro/QEnotes.html) on procedure for bands,DOS, pdos, epsilon, wavefunction. 
