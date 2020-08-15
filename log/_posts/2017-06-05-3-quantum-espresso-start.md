@@ -4,6 +4,7 @@ blog-category: blog
 title: Getting started with Quantum Espresso- input files
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 
 ### Learning Quantum Espresso
