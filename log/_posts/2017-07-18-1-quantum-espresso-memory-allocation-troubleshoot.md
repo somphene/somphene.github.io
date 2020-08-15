@@ -4,9 +4,10 @@ blog-category: blog
 title: Memory allocation troubleshoot
 author: Som Phene
 image: 
+tags: [Memory, Allocation, Troubleshoot, Quantum, Espresso, Resources, Input] 
 ---
 
-### Cant allocate memory troubleshooting
+### Can't allocate memory troubleshooting
 * increase the number of processors .
 * use conjugate-gradient instead of davidson.
 * use another machine with more RAM.
