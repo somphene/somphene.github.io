@@ -4,6 +4,7 @@ blog-category: blog
 title: PHonon code not converging
 author: Som Phene
 image: 
+tags: [Phonon, DFT, Quantum, Espresso, Resources, Input] 
 ---
 
 * Ph.x 100 steps [not converged](http://qe-forge.org/pipermail/pw_forum/2011-July/095752.html)
