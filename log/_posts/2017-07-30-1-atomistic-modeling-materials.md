@@ -4,6 +4,7 @@ blog-category: blog
 title: Atomistic Modeling of Materials Tutorial
 author: Som Phene
 image: 
+tags: [Atomistic, Modeling, Materials, Quantum, Espresso, Resources, Input] 
 ---
 
 * MIT Atomistic Modeling of Materials [video lectures](https://www.youtube.com/watch?v=tynCH4dosA8)
