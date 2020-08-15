@@ -3,7 +3,8 @@ layout: post
 blog-category: blog
 title: Dilemma of Grad school abroad- To go or not to go
 author: Som Phene
-image: 
+image:
+tags: [Dilemma, Grad, School, to, go, Abroad, or, not] 
 ---
 
 Letter to a friend in a reputed US grad school, describing my thoughts on whether to apply abroad for a PhD or not.
