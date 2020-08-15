@@ -4,6 +4,7 @@ blog-category: blog
 title: Intro to PWScf
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 
 Very basic and good [intro to PWScf](http://wolverton.northwestern.edu/classes/458/pwscf-guide)
