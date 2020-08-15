@@ -4,6 +4,7 @@ blog-category: blog
 title: Smearing and K-points
 author: Som Phene
 image: 
+tags: [Smearing, K-points, Quantum, Espresso, Resources, Input] 
 ---
 
 Q. Which degauss value should I use for QUANTUM ESPRESSO input file? [Reference](https://www.researchgate.net/post/Which_degauss_value_should_I_use_for_QUANTUM_ESPRESSO_input_file)
