@@ -4,8 +4,10 @@ blog-category: blog
 title: New year, New semester, New Directions 
 author: Som Phene
 image: 
+tags: [New, Sem, Speech, Class, Representative] 
 ---
-As the Class Representative, here goes my speech for Academics in the new year and semester.
+
+As the Class Representative, here goes my speech for Academics in the new year and semester:
 
 If anyone wants to stand up and say fuck you Som please do so and get done with it. I totally deserve that for treating everyone I know with indifference, and always creating this fake image of self importance which made me think others are less than me. I sincerely apologise for that.
 
