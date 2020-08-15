@@ -4,6 +4,7 @@ blog-category: blog
 title: VNL for simulation of materials growth
 author: Som Phene
 image: 
+tags: [Epitaxial, Growth, Virtual Nanolab, Convergence] 
 ---
 Studying Literature on epitaxial growth and specific phosphide and graphene growth related papers.
 
