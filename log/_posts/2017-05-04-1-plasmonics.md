@@ -4,6 +4,7 @@ blog-category: blog
 title: Plasmonics theory and computation
 author: Som Phene
 image: 
+tags: [Plasmonics, FDTD, Lumerical, Simulate, Diffraction, Electromagnetism, Euler, Calculus, Variation, Integral, Path, Optics] 
 ---
 
 * Stefan Maier's book on Plasmonics.
