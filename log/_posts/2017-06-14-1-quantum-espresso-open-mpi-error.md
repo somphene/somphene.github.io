@@ -4,6 +4,7 @@ blog-category: blog
 title: Quantum Espresso Initialization Open MPI error
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input, Open MPI, Initialization, Error] 
 ---
 
 Q. When we type source Qunatum Espresso 6.0 openmpi it gives this error:
