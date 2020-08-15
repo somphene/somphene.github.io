@@ -4,6 +4,7 @@ blog-category: blog
 title: Quantum espresso training online courses and PW user guide
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 * Videos of [Training](http://www.max-centre.eu/training-and-education/open-online-courses-and-videolectures/)
 
