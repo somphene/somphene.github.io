@@ -4,6 +4,7 @@ blog-category: blog
 title: Operators on Hilbert Spaces Lecture 4
 author: Som Phene
 image: 
+tags: [Weakly, Bounded, Operators, Hilbert, Spaces]
 ---
 
 ### Weakly bounded and bounded operators, their relations. 
