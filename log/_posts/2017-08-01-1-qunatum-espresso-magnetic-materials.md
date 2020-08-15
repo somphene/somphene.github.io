@@ -4,6 +4,7 @@ blog-category: blog
 title: Magnetic materials and related calculations
 author: Som Phene
 image: 
+tags: [Magnetic, Materials, Quantum, Espresso, Resources, Input] 
 ---
 
 * [Magnetism and magnetic materials](http://users.aims.ac.za/~sandro/files/tutorial_magn.html)
