@@ -4,6 +4,7 @@ blog-category: blog
 title: On Aesthetics and Science
 author: Som Phene
 image: 
+tags: [Aesthetics, Science] 
 ---
 
 Discussion with a friend in response to the latter's piece "On Intellect and Emotion in Art", engendered the corresponding dual in science. Here's a few papers, articles closely related to how aesthetics matter in Science as well. 
