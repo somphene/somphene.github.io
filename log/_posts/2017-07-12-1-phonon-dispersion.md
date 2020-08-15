@@ -4,6 +4,7 @@ blog-category: blog
 title: PHonon for dispersion
 author: Som Phene
 image: 
+tags: [Phonon, dispersion, Quantum, Espresso, Resources, Input] 
 ---
 
 * Try to go through as many [example files on github](https://github.com/maxhutch/quantum-espresso/tree/master/PHonon/examples/GRID_example)
