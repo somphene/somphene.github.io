@@ -4,9 +4,10 @@ blog-category: blog
 title: Quantum espresso PWscf
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 
-Anshuman Kumar (then an EP alumnus, PhD student, now Professor at IITB) again: 
+Anshuman Kumar (then an EP alumnus, PhD student, now Professor at IITB) coming to the rescue for me again: 
 "I am providing two approaches, which have generally been mentioned in the other answers. The only place where my answer differs is that it is specific to PWscf.
 Two methods:
 
