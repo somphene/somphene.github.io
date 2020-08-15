@@ -4,6 +4,7 @@ blog-category: blog
 title: Generate Music using Quasicrystals and Cellular Automata 
 author: Som Phene
 image: 
+tags: [Music, Automata, Quasi, Crystals] 
 ---
 
 For my music friends, with many of whom my first discussion was on making algorithms for music- While studying certain mathematical structures called fractals in nonlinear dynamics, I was led to [this applet](http://www.gregegan.net/APPLETS/34/34.html) that creates music from quasicrystals. There's also two series of animated films on youtube on dimensions and chaos which I recommend to appreciate the symmetries of quasicrystals.
