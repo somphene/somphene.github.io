@@ -4,6 +4,7 @@ blog-category: blog
 title: Input files (rx, scf, bands) for Quantum Espresso
 author: Som Phene
 image: 
+tags: [Quantum, Espresso, Resources, Input] 
 ---
 
 The input files used are 
