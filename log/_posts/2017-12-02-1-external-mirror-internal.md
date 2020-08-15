@@ -4,6 +4,7 @@ blog-category: blog
 title: External as mirror to see Internal
 author: Som Phene
 image: 
+tags: [External, Mirror, Internal] 
 ---
 
 I spent all the years of my life searching for meaning and I don't find it anywhere. I never met a person that had an answer. How foolish all of them seemed to me- Ignorant, full of vanity, fooling themselves to being purposeful, but beneath their superficial faces I knew no one was satisfied. In this city, I never saw a person who was really happy. 
