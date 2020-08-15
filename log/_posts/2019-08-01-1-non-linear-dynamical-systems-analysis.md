@@ -4,6 +4,7 @@ blog-category: blog
 title: Nonlinear Dynamical Systems Analysis
 author: Som Phene
 image: 
+tags: [Nonlinear, Dynamical, Systems, Analysis] 
 ---
 
 Another research presentation that I gave for juniors. Topics below were presented via simulations on Mathematica notebooks.
