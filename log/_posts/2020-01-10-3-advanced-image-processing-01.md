@@ -4,6 +4,7 @@ blog-category: blog
 title: Advanced Image Processing
 author: Som Phene
 image: 
+tags: [Compressed, sensing, tomography, learning, image, representations, dictionary, learning, transform, learning, statistics, natural, images, textures, Advanced, Image, Processing, Ajit, Rajwade] 
 ---
 ### [AIP (CS 754)](https://www.cse.iitb.ac.in/~ajitvr/CS754_Spring2020/?fbclid=IwAR3p2SmptN2Yix3XXCwvrEMA3HwsOD7al59tH39faLJtIRbdlbYmXhQHmL4) by [Prof. Ajit Rajwade](https://www.cse.iitb.ac.in/~ajitvr/) 
 
