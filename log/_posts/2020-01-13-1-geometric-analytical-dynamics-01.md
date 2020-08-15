@@ -4,6 +4,7 @@ blog-category: blog
 title: Analytical and Geometric Dynamics
 author: Som Phene
 image: 
+tags: [Geometric, Analytical, Dynamics, Sukumar Srikant, SC 633]
 ---
 ### SC 633 by Prof. S. Srikant
 
