@@ -7,7 +7,13 @@ use-site-title: false
 ---
 
 
-#### It requires no effort to see something new, the difficulty in learning lies in unlearning the biases that block our vision.
+#### It requires no effort to see something new, the effort lies in unlearning the biases ahead of our seeing.
+
+## Student Instructor (Courses at UM)
+I am grateful to have had the opportunity to teach (and relearn) the following courses at UM:
+
+### [Calculus-1](https://somphene.github.io/teaching/calculus-1)
+
 
 ## Teaching Assistant (Courses at IIT Bombay) 
 I am grateful to have had the opportunity to teach (and relearn) the following courses at IITB:
