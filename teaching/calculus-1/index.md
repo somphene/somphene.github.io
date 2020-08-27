@@ -67,6 +67,3 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 * Modern Master gives his exposition [Tao- Analysis](https://terrytao.wordpress.com/books/analysis-i/)
 * [Munkres- Analysis on Manifolds](https://www.amazon.com/Analysis-Manifolds-Advanced-Books-Classics/dp/0201315963) 
 
-
-### Anonymous 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?embedded=true" width="640" height="705" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
