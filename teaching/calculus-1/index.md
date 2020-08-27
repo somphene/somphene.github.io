@@ -9,8 +9,7 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 
 ### Introduction
 
-
-* Live [document](https://docs.google.com/document/edit) which I maintain for this course.
+* Live [document](https://docs.google.com/document/edit) which I maintain for the course.
 
 
 ### Course Policy
@@ -37,6 +36,10 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 * Midterm 2: Nov 9. Correction will be done in the next two days.
 * Master Assessment
 
+## Section 006
+
+* Class meets M/W/F 8:30-10 AM (EST).
+* Office Hours to be scheduled by poll.
 
 ### References:
 
