@@ -8,7 +8,7 @@ use-site-title: true
 
 ### Introduction
 
-Students in my section may refer to the live [document](https://docs.google.com/document/edit) which I maintain for this course. This document is constructed almost entirely out of interactions with students in my tutorial batch: their doubts and from discussing approaches to solving the tutorial sheets of MA 105. Other students may consult their own Instructors before refering to the above document.
+* Live [document](https://docs.google.com/document/edit) which I maintain for this course.
 
 
 ### Course Policy
