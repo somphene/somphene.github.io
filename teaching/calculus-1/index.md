@@ -5,8 +5,10 @@ subtitle: Calculus-1
 use-site-title: true
 
 ---
+Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.edu/courses/115/)
 
 ### Introduction
+
 
 * Live [document](https://docs.google.com/document/edit) which I maintain for this course.
 
@@ -23,7 +25,9 @@ use-site-title: true
 
  - Master Assessment (33%): This time instead of a final exam, we will have students Master Assessments. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day). Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
 
-### [Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will keep updating as the course proceeds.
+### [Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) 
+
+* Will keep updating as the course proceeds.
 
 ### Exams 
 
