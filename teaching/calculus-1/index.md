@@ -25,10 +25,14 @@ Students in my section may refer to the live [document](https://docs.google.com/
 
 ### [Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will keep updating as the course proceeds.
 
-* Short Quiz every week at the start of tutorial Wednesday 2pm, this will be graded and returned to you every week by the next tutrial session.
-* Quiz 1 Sept 11 
-* Midsem Sept 16-21
-* Quiz 2 October 25
+### Exams 
+
+* Short Quiz every week at the start of class on Wednesday, this will be corrected and returned to you every week by the next session.
+* Midterm 1: Oct 5. Correction will be done in the next two days.
+* Master Assessment
+* Midterm 2: Nov 9. Correction will be done in the next two days.
+* Master Assessment
+
 
 ### References:
 
@@ -37,6 +41,15 @@ Students in my section may refer to the live [document](https://docs.google.com/
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
 * Div, curl, grad and all that ()
 * [Gradients and Normals](http://graphics.cs.ucdavis.edu/~joy/ecs277/other-notes/Gradients-and-Normals.pdf)
+
+### Accomodations for Students with Disabilities (SSD forms)
+
+* Accommodations for Students with Disabilities: If you think you need an accommodation for a disability, please let your instructor know as soon as possible. In particular, a Verified Individualized Services and Accommodations (VISA) form must be provided to your instructor at least two weeks prior to the need for a test/quiz accommodation. The Services for Students with Disabilities (SSD) Office (G664 Haven Hall; http://ssd.umich.edu/) issues VISA forms.
+Student Mental Health and Wellbeing: University of Michigan is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, contact Counseling and Psychological Services (CAPS) at (734) 764-8312 and https://caps.umich.edu during and after hours, on weekends and holidays, or through its counselors physically located in schools on both North and Central Campus. You may also consult University Health Service (UHS) at (734) 764-8320 and https://www.uhs.umich.edu/mentalhealthsvcs, or for alcohol or drug concerns, see http://www.uhs.umich.edu/aodresources.
+
+* Form for Extra time on exams provided by the Course coordinator. 
+
+* Talk to your academic advisor for issues related to other courses.
 
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
