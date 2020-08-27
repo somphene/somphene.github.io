@@ -14,6 +14,7 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 * Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
 
 
+
 ### Course Policy
 
 * Learning Component
@@ -25,6 +26,16 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 * Technology: [Desmos Graphing Calculator](https://www.desmos.com/)
 
  - Master Assessment (33%): This time instead of a final exam, we will have students Master Assessments. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day). Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
+
+### Accomodations for Students with Disabilities (SSD forms)
+
+* Accommodations for Students with Disabilities: If you think you need an accommodation for a disability, please let your instructor know as soon as possible. In particular, a Verified Individualized Services and Accommodations (VISA) form must be provided to your instructor at least two weeks prior to the need for a test/quiz accommodation. The Services for Students with Disabilities (SSD) Office (G664 Haven Hall; http://ssd.umich.edu/) issues VISA forms.
+Student Mental Health and Wellbeing: University of Michigan is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, contact Counseling and Psychological Services (CAPS) at (734) 764-8312 and https://caps.umich.edu during and after hours, on weekends and holidays, or through its counselors physically located in schools on both North and Central Campus. You may also consult University Health Service (UHS) at (734) 764-8320 and https://www.uhs.umich.edu/mentalhealthsvcs, or for alcohol or drug concerns, see http://www.uhs.umich.edu/aodresources.
+
+* Form for Extra time on exams provided by the Course coordinator. 
+
+* Talk to your academic advisor for issues related to other courses.
+
 
 ### [Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) 
 
@@ -50,15 +61,6 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
 * Div, curl, grad and all that ()
 * [Gradients and Normals](http://graphics.cs.ucdavis.edu/~joy/ecs277/other-notes/Gradients-and-Normals.pdf)
-
-### Accomodations for Students with Disabilities (SSD forms)
-
-* Accommodations for Students with Disabilities: If you think you need an accommodation for a disability, please let your instructor know as soon as possible. In particular, a Verified Individualized Services and Accommodations (VISA) form must be provided to your instructor at least two weeks prior to the need for a test/quiz accommodation. The Services for Students with Disabilities (SSD) Office (G664 Haven Hall; http://ssd.umich.edu/) issues VISA forms.
-Student Mental Health and Wellbeing: University of Michigan is committed to advancing the mental health and wellbeing of its students. If you or someone you know is feeling overwhelmed, depressed, and/or in need of support, services are available. For help, contact Counseling and Psychological Services (CAPS) at (734) 764-8312 and https://caps.umich.edu during and after hours, on weekends and holidays, or through its counselors physically located in schools on both North and Central Campus. You may also consult University Health Service (UHS) at (734) 764-8320 and https://www.uhs.umich.edu/mentalhealthsvcs, or for alcohol or drug concerns, see http://www.uhs.umich.edu/aodresources.
-
-* Form for Extra time on exams provided by the Course coordinator. 
-
-* Talk to your academic advisor for issues related to other courses.
 
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
