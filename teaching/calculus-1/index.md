@@ -10,6 +10,7 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 ### Introduction
 
 * Live [document](https://docs.google.com/document/edit) which I maintain for the course.
+* Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
 
 
 ### Course Policy
