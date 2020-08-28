@@ -35,6 +35,10 @@ Welcome to this collection of Stories.
  - Technology: [Desmos Graphing Calculator](https://www.desmos.com/)
  - Master Assessment (33% = 5% + 10% + 18%): This time instead of a final exam, we will have students Master Assessments. Derivative Mastery, Integral Mastery and Final Mastery. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day) over a week or two. Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
 
+* Component details | Created by | Graded by | % of Grade
+  Read book, watch video content | Coordinators | - | -
+
+
 ### Accomodations for Students with Disabilities (SSD forms)
 
 * Accommodations for Students with Disabilities: If you think you need an accommodation for a disability, please let your instructor know as soon as possible. In particular, a Verified Individualized Services and Accommodations (VISA) form must be provided to your instructor at least two weeks prior to the need for a test/quiz accommodation. The Services for Students with Disabilities (SSD) Office (G664 Haven Hall; http://ssd.umich.edu/) issues VISA forms.
