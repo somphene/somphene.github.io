@@ -67,7 +67,7 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 * Office Hours to be scheduled by poll.
 
 ### References:
-* [Calculus by Hughes-Hallett, Gleason, et al, 7th edition ISBN 9781119426264. 
+* Calculus by Hughes-Hallett, Gleason, et al, 7th edition ISBN 9781119426264. 
 * [Math Prep UM](https://prep.math.lsa.umich.edu/)
 * [Exam Shop](https://dhsp.math.lsa.umich.edu/examshops.html)
 
