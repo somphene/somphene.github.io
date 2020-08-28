@@ -28,7 +28,7 @@ Welcome to this collection of Stories.
   - Team Homework (3%): 
   - Web homework (6%): Good practice of working together in a team and presenting necessary for any profession. Penalty: Negative grade Exams contain at least one team homework look alike problem.
   
-* Assessment (78%) 
+* Assessment (88%) 
 
  - Midterm Exams (55% = 25% + 30%): Two Midterms. All students take the exams at the same time.
  - No calculators are allowed for the midterm exams. The exams will not require any use of them. 
