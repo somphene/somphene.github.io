@@ -14,6 +14,27 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 * Midsem Sept 16-21
 * Quiz 2 October 25
 
+### Q/A
+
+Question: How many months have 28 days?
+Mathematician's answer: All of them.
+
+Q) This is in response to many queries: how to write answers in exam (so that no mark is cut)?
+
+Here are some suggestions (follow the at your own risk :-) :
+
+Think before you write.
+Write what you thought (you will be evaluated on what you have written, and not what you had in mind).
+Rather than merely make an assertion, say where it comes from. Each step in your answer should be logically correct and well supported by facts.
+In any writing, saying what you mean is important - and difficult. Mathematics is highly symbolic, but using lots of mathematical symbols does not make an argument a mathematical one.Avoid using quantifiers  for "for all", 'for every", "there exists", etc., unless you are sure.
+It is better to write a line or two extra to make your conclusions more clear rather than letting the reader to guess.
+If needed, add a figure, but for reference only.
+Write clearly what is given and what you are trying to prove (Classic geometry proofs are good examples).
+Always proofread your work. Read what you have written, at least your own writing should make sense to you.
+Reading a well written, without too many cuts, arrows, etc.,  document is always a pleasure.
+Reflect on your answer, of course if time permits.
+-Prof. Inder K. Rana
+
 ### References:
 * Prof. Ghorpade's (Course Instructor) [page](http://www.math.iitb.ac.in/~srg/courses/autumn2019/MA105-D1/index.html)
 * Prof. I.K. Rana's [NPTEL Course](https://nptel.ac.in/courses/122/101/122101003/): Single and Multivariable Calculus
@@ -23,6 +44,7 @@ Students in my tutorial batch may refer to the live [document](https://docs.goog
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
 * Div, curl, grad and all that (library reading section 512.9)
 * [Gradients and Normals](http://graphics.cs.ucdavis.edu/~joy/ecs277/other-notes/Gradients-and-Normals.pdf)
+
 ### Further Reading (beyond the scope of this course):
 * [Size of infinities](http://www.gardensofinfinity.com/)
 * [Walter Rudin- Principles of Mathematical Analysis](https://www.amazon.in/Principles-Mathematical-Analysis-Walter-Rudin/dp/1259064786)
