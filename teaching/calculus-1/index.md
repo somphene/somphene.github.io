@@ -26,7 +26,7 @@ Welcome to this collection of Stories.
 * Learning Component (12% = 3% + 3% + 6%)
   - Quizzes (3%):  
   - Team Homework (3%): 
-  - Web homework (6%): Good practice of working together in a team and presenting necessary for any profession. Penalty: Negative grade Exams contain at least one team homework look alike problem.
+  - Web homework (6%): prepwork and homework based on reading and video content provided to you. Good practice of working together in a team and presenting necessary for any profession. Penalty: Negative grade Exams contain at least one team homework look alike problem.
   
 * Assessment (88%) 
 
