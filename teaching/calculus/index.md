@@ -5,6 +5,9 @@ subtitle: Calculus
 use-site-title: true
 
 ---
+
+### Introduction
+
 Students in my tutorial batch may refer to the live [document](https://docs.google.com/document/d/10l6oqrUJ1mfamFQIl7sz8On1pi-cwkyVZKzeHKpMflk/edit) which I maintain for this course. This document is constructed almost entirely out of interactions with students in my tutorial batch: their doubts and from discussing approaches to solving the tutorial sheets of MA 105. Other students may consult their own Teaching Assistants before refering to the above document. Those who are here just to learn the subject, may proceed as they wish.  
 
 [Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will keep updating as the course proceeds.
@@ -26,7 +29,7 @@ Here are some suggestions (follow the at your own risk :-) :
 Think before you write.
 Write what you thought (you will be evaluated on what you have written, and not what you had in mind).
 Rather than merely make an assertion, say where it comes from. Each step in your answer should be logically correct and well supported by facts.
-In any writing, saying what you mean is important - and difficult. Mathematics is highly symbolic, but using lots of mathematical symbols does not make an argument a mathematical one.Avoid using quantifiers  for "for all", 'for every", "there exists", etc., unless you are sure.
+In any writing, saying what you mean is important - and difficult. Mathematics is highly symbolic, but using lots of mathematical symbols does not make an argument a mathematical one. Avoid using quantifiers  for "for all", 'for every", "there exists", etc., unless you are sure.
 It is better to write a line or two extra to make your conclusions more clear rather than letting the reader to guess.
 If needed, add a figure, but for reference only.
 Write clearly what is given and what you are trying to prove (Classic geometry proofs are good examples).
