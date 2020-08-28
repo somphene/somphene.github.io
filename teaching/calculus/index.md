@@ -10,12 +10,20 @@ use-site-title: true
 
 Students in my tutorial batch may refer to the live [document](https://docs.google.com/document/d/10l6oqrUJ1mfamFQIl7sz8On1pi-cwkyVZKzeHKpMflk/edit) which I maintain for this course. This document is constructed almost entirely out of interactions with students in my tutorial batch: their doubts and from discussing approaches to solving the tutorial sheets of MA 105. Other students may consult their own Teaching Assistants before refering to the above document. Those who are here just to learn the subject, may proceed as they wish.  
 
-[Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will keep updating as the course proceeds.
+### Logistics
 
 * Short Quiz every week at the start of tutorial Wednesday 2pm, this will be graded and returned to you every week by the next tutrial session.
 * Quiz 1 Sept 11 
 * Midsem Sept 16-21
 * Quiz 2 October 25
+
+### Notes
+
+* [Notes](https://drive.google.com/file/d/1DC2bB8ZvCodoGofQPYb0SOyWpCfZ986Y/view?usp=sharing) will keep updating as the course proceeds.
+
+* Historical Comments :
+You will be surprised to know that the concept of function is not very old. Till 1837 it was believed
+that every function could be traced with "free motion of the hand". _Gustav Dirichlet_ in 1837 gave the definition of function which we use most often now. He also gave the example of the indicator function of the set of rationals in (0,1). Do you think you can graph the function? 
 
 ### Q/A
 
