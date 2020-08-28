@@ -68,6 +68,10 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 
 ### References:
 * [Calculus by Hughes-Hallett, Gleason, et al, 7th edition ISBN 9781119426264. 
+* [Math Prep UM](https://prep.math.lsa.umich.edu/)
+* [Exam Shop](https://dhsp.math.lsa.umich.edu/examshops.html)
+
+Extra
 * [UBC's Calculus online notebook](http://www.math.ubc.ca/~CLP/)
 * [Stewart](https://www.amazon.com/Calculus-7th-James-Stewart/dp/0538497815)
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
