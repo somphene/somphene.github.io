@@ -8,8 +8,10 @@ use-site-title: true
 Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.edu/courses/115/)
 
 ### Introduction
+ 
+Welcome to this collection of Stories. 
 
-* I call this course Miraculus-1
+* I read the name of this course as Miraculus-1.
 * Live [document](https://docs.google.com/document/edit) which I maintain for the course.
 * Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
 
@@ -18,8 +20,6 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 * Quiz 1 Sept 11 
 * Midsem Sept 16-21
 * Quiz 2 October 25
-
-
 
 ### Course Policy
 
