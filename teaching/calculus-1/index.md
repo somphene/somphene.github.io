@@ -13,19 +13,27 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 * Live [document](https://docs.google.com/document/edit) which I maintain for the course.
 * Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
 
+### Logistics
+* Short Quiz every week at the start of tutorial Wednesday 2pm, this will be graded and returned to you every week by the next tutrial session.
+* Quiz 1 Sept 11 
+* Midsem Sept 16-21
+* Quiz 2 October 25
+
 
 
 ### Course Policy
 
-* Learning Component
-
-  - Team homework (6%): Good practice of working together in a team and presenting necessary for any profession. Penalty: Negative grade Exams contain at least one team homework look alike problem.
+* Learning Component (12% = 3% + 3% + 6%)
+  - Quizzes (3%):  
+  - Team Homework (3%): 
+  - Web homework (6%): Good practice of working together in a team and presenting necessary for any profession. Penalty: Negative grade Exams contain at least one team homework look alike problem.
   
-* All students take the exams at the same time.
-* No calculators are allowed for the midterm exams. The exams will not require any use of them. 
-* Technology: [Desmos Graphing Calculator](https://www.desmos.com/)
+* Assessment (78%) 
 
- - Master Assessment (33%): This time instead of a final exam, we will have students Master Assessments. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day). Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
+ - Midterm Exams (55% = 25% + 30%): Two Midterms. All students take the exams at the same time.
+ - No calculators are allowed for the midterm exams. The exams will not require any use of them. 
+ - Technology: [Desmos Graphing Calculator](https://www.desmos.com/)
+ - Master Assessment (33% = 5% + 10% + 18%): This time instead of a final exam, we will have students Master Assessments. Derivative Mastery, Integral Mastery and Final Mastery. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day) over a week or two. Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
 
 ### Accomodations for Students with Disabilities (SSD forms)
 
@@ -41,7 +49,7 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 
 * Will keep updating as the course proceeds.
 
-### Exams 
+### Exam Dates 
 
 * Short Quiz every week at the start of class on Wednesday, this will be corrected and returned to you every week by the next session.
 * Midterm 1: Oct 5. Correction will be done in the next two days.
