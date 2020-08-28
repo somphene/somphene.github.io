@@ -30,10 +30,10 @@ Welcome to this collection of Stories.
   
 * Assessment (88%) 
 
- - Midterm Exams (55% = 25% + 30%): Two Midterms. All students take the exams at the same time.
- - No calculators are allowed for the midterm exams. The exams will not require any use of them. 
- - Technology: [Desmos Graphing Calculator](https://www.desmos.com/)
- - Master Assessment (33% = 5% + 10% + 18%): This time instead of a final exam, we will have students Master Assessments. Derivative Mastery, Integral Mastery and Final Mastery. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day) over a week or two. Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
+  - Midterm Exams (55% = 25% + 30%): Two Midterms. All students take the exams at the same time.
+  - No calculators are allowed for the midterm exams. The exams will not require any use of them. 
+  - Technology: [Desmos Graphing Calculator](https://www.desmos.com/)
+  - Master Assessment (33% = 5% + 10% + 18%): This time instead of a final exam, we will have students Master Assessments. Derivative Mastery, Integral Mastery and Final Mastery. Available on WeBWorK. Graded online, multiple attempts allowed (2ice per day) over a week or two. Between the two midterm exams Derivatives, rules. Next, post the second exam (after Thanksgiving).   
 
 * Component details | Created by | Graded by | % of Grade
   Read book, watch video content | Coordinators | - | -
