@@ -64,7 +64,7 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 
 ### References:
 
-* [UBC's Calculus online notebook](http://www.math.ubc.ca/~CLP/CLP2/)
+* [UBC's Calculus online notebook](http://www.math.ubc.ca/~CLP/)
 * [Stewart](https://www.amazon.com/Calculus-7th-James-Stewart/dp/0538497815)
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
 * Div, curl, grad and all that ()
