@@ -12,6 +12,7 @@ Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.e
 Welcome to this collection of Stories. 
 
 * I read the name of this course as Miraculus-1.
+* I am taking this course because I do not know one thing about Calculus.
 * Live [document](https://docs.google.com/document/edit) which I maintain for the course.
 * Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
 
