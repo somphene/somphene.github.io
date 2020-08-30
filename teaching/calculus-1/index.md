@@ -13,6 +13,7 @@ Welcome to this collection of Stories.
 
 * I read the name of this course as Miraculus-1.
 * I am taking this course because I do not know one thing about Calculus.
+* To get 1 thing about Calculus, I will make a bridge and then let fall complete the rest.
 * Live [document](https://docs.google.com/document/edit) which I maintain for the course.
 * Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
 
