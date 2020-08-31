@@ -14,14 +14,8 @@ Welcome to this collection of Stories.
 * I read the name of this course as Miraculus-1.
 * I am taking this course because I do not know one thing about Calculus.
 * To get 1 thing about Calculus, I will make a bridge and then let fall complete the rest.
-* Live [document](https://docs.google.com/document/edit) which I maintain for the course.
+* Live [document](https://docs.google.com/document/d/1ZHMYfpQs727izQWgIIxmX7b-0SDeOe7N58IiTthqe4o/edit?usp=sharing).
 * Please feel free to send questions , thoughts by filling the [Anonymous Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdFyv2sUXgi629MTZBHzWM59BvV7uqOJLAZKvsq6k8clEHmsA/viewform?usp=sf_link) form.
-
-### Logistics
-* Short Quiz every week at the start of tutorial Wednesday 2pm, this will be graded and returned to you every week by the next tutrial session.
-* Quiz 1 Sept 11 
-* Midsem Sept 16-21
-* Quiz 2 October 25
 
 ### Course Policy
 
