@@ -5,7 +5,7 @@ published: true
 title: $$\circ$$ Who Running Free
 author: Som Phene 
 bigimg: 
-tags: [Fall, Who, Running, Free, Works, A, 1, 0 0, 0, Worlds, Id, C-Id, Var]
+tags: [FALL, WHO, Running, Free, Works, A, 1, 0 0, 0, Worlds, Id, C-Id, Var]
 ---
 
 ### Reflections on Walking in New Shoes
