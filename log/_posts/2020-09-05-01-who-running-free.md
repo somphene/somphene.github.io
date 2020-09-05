@@ -4,7 +4,7 @@ blog-category: blog
 published: true
 title: $$\circ$$ Who Running Free
 author: Som Phene 
-bigimg: 
+bigimg: log/images/Earth Water shoes.jpg
 tags: [FALL, WHO, Running, Free, Works, A, 1, 0 0, 0, Worlds, Id, C-Id, Var]
 ---
 
