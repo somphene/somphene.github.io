@@ -10,7 +10,7 @@ tags: [FALL, WHO, Running, Free, Works, A, 1, 0 0, 0, Worlds, Id, C-Id, Var]
 
 ### Reflections on Walking in New Shoes
 
-As we transition to new roles, we add new layers to your professional and personal identity. Sometimes a new role can feel like a new pair of shoes: they look great, but they can rub and make our heels sore, but eventually, the shoes become fully ours, fit well, and are a pleasure to wear. Here is a story of a time of shifting roles.
+As we transition to new roles, we add new layers to our professional and personal identity. Sometimes a new role can feel like a new pair of shoes: they look great, but they can rub and make our heels sore, but eventually, the shoes become fully ours, fit well, and are a pleasure to wear. Here is a story of a time of shifting roles.
 
 ### Who Running Free
  
