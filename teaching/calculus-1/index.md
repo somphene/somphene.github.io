@@ -62,6 +62,35 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 * Class meets M/W/F 8:30-10 AM (EST).
 * Office Hours to be scheduled by poll.
 
+### Class 1: Introductions
+
+* Life is a lesson in communication. Communication is introducting Identity. Communication is two ways.
+   - Name, Location, One thing
+   - Name-Location-One
+   - Name: First-Middle-Last
+   - I-Id-Identity
+   - Communication: 0-Explore-1
+   - Mathematics-as-Child
+   - Calculus: Differential-Function-Integral
+   - Games: Qualifiers-Middle-Final
+   - Practice-Repeat-Practice!
+   - Sets: Point1-Collect-Point2
+    - {    |    }
+    - { x | x }
+    - { x , y }
+   - Collection0-Map-Collection1
+   - Relations: X-(x,y)-Y
+   - Functions: Sets-with-Rule
+   - x-function-f(x)
+   - x name-function-one value
+   - n variables-Sum-Mean Valuen
+   - {x1, x2 , x3..., xn}-{x1+ x2 + x3  +...+ xn}- Mean n
+   - Functions-give-one meaning 
+   - {m, m2 , m3..., mn}-{m1R+ m2 R2+...+ mnRn}- Centre of Mass Mean of mass n 
+   - Vertices of n-polygon-Radial Lines- Centre of Polygon
+   - Domain-Map-Range
+   - Root-Line-Intercept
+
 ### References:
 * Calculus by Hughes-Hallett, Gleason, et al, 7th edition ISBN 9781119426264. 
 * [Math Prep UM](https://prep.math.lsa.umich.edu/)
