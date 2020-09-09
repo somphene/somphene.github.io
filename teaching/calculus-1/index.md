@@ -74,6 +74,8 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
    - Calculus: Differential-Function-Integral
    - Games: Qualifiers-Middle-Final
    - Practice-Repeat-Practice!
+   - Alright-Alright-Alright
+   
    - Sets: Point1-Collect-Point2
     - {    |    }
     - { x | x }
