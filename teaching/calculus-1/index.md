@@ -62,7 +62,7 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 * Class meets M/W/F 8:30-10 AM (EST).
 * Office Hours to be scheduled by poll.
 
-### Class 1: Introductions
+### Class: Zoom-meet-1 : Introductions
 
 * Life is a lesson in communication. Communication is introducting Identity. Communication is two ways.
    - Name, Location, One thing
@@ -90,13 +90,32 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
    - Vertices of n-polygon-Radial Lines- Centre of Polygon
    - Domain-Map-Range
    - Root-Line-Intercept
+   
+### Class: Zoom-meet-2 : Party of Functions
+
+Rule of Four : Read in between the lines. It is just one thing! Multiple Identities representing one thing, communicate with each other.
+
+(Name) Symbolic- (Geo)Graphical - NumericalValue
+All of which is Verbal!
+
+Exponential function is one whose rate of increase is itself, making it an expressly fast increasing function. It composes all the polynomials together.
+
+### Class: Zoom-meet-3 : Birth of Functions
+
+How to make new functions from old? Recycle.
+
+ - Transforming Domain
+ - Transforming Range
+ - Composition (gives rise to notion of inverses)
+ - Reflections and rotations (give rise to notion of odd and even functions)
 
 ### References:
 * Calculus by Hughes-Hallett, Gleason, et al, 7th edition ISBN 9781119426264. 
 * [Math Prep UM](https://prep.math.lsa.umich.edu/)
 * [Exam Shop](https://dhsp.math.lsa.umich.edu/examshops.html)
 
-Extra
+ -Extra
+ 
 * [UBC's Calculus online notebook](http://www.math.ubc.ca/~CLP/)
 * [Stewart](https://www.amazon.com/Calculus-7th-James-Stewart/dp/0538497815)
 * [Apostol](https://www.amazon.in/Calculus-One-Variable-Introduction-Linear-Algebra/dp/8126515198)
