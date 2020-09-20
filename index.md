@@ -8,7 +8,7 @@ image: img/me.jpg
 
 ## Identity
 
-Hi! I am named Som Phene (Sōma phēṇē, सोम फेणे, Isomorphism). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon dances around and reflects the Light of Sun to the Earth. My name has many other translations which I express and explore through my life. What is your name and what does it mean?
+Hi! I am named Som Phene (Sōma phēṇē, सोम फेणे, Isomorphene). Som means Moon (Sanskrit: चन्द्र, IAST: Candra, lit. "shining"). Moon dances around and reflects the Light of Sun to the Earth. My name has many other translations which I express and explore through my life. What is your name and what does it mean?
 
 I see.
 
@@ -48,17 +48,15 @@ Increasing use of data analysis, optimization and statistical methods involving 
 
 # [Teaching & Outreach](https://somphene.github.io/teaching/) 
 
-* Vibrational Spectroscopy Notes for the tutorial will be uploaded soon.
-
 # [Notes](https://somphene.github.io/notes/)
 Currently [writing](https://somphene.github.io/log/list/). 
-* [Completed notes](https://somphene.github.io/notes/)
+* [Previous notes](https://somphene.github.io/notes/)
 
 # [Seminars & Talks](https://somphene.github.io/talks/) 
 * Organizing the [Student Seminar](https://student-seminar-math-iitb.github.io/list/), Department of Mathematics, IIT Bombay.
 
 # [Log](https://somphene.github.io/log/)
-* Almost daily Updates, Notes, resources, tutorials, etc. [posted naturally](https://somphene.github.io/log/).
+* Almost Daily Updates, Notes, resources, tutorials, etc. [posted naturally](https://somphene.github.io/log/).
 * लोग क्या कहते है
 
 
