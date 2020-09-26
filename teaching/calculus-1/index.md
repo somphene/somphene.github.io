@@ -5,13 +5,13 @@ subtitle: Calculus-1
 use-site-title: true
 
 ---
-Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.edu/courses/115/)
+Please see [UM official public homepage of Math 115](http://www.math.lsa.umich.edu/courses/115/), [Student Guide](http://www.math.lsa.umich.edu/courses/sg/Math115StudentGuide.html)
 
 ### Introduction
  
 Welcome to this collection of Stories. 
 
-* I read the name of this course as Miraculus-1.
+* I read the Name of this course as Miraculus-1.
 * I am taking this course because I do not know one thing about Calculus.
 * To get 1 thing about Calculus, I will make a bridge and then let fall complete the rest.
 * Live [document](https://docs.google.com/document/d/1ZHMYfpQs727izQWgIIxmX7b-0SDeOe7N58IiTthqe4o/edit?usp=sharing).
@@ -19,9 +19,14 @@ Welcome to this collection of Stories.
 
 ### Course Policy
 
+* Syllabus: I. 
+  -  D.
+  - VarID.
+  - Integration. Different forms in [Modules](https://umich.instructure.com/courses/378861/pages/math-115-course-syllabus?module_item_id=1224399).
+
 * Learning Component (12% = 3% + 3% + 6%)
-  - Quizzes (3%):  
-  - Team Homework (3%): 
+  - Quizzes (3%): Wednesday in class. 
+  - Team Homework (3%): Teams are to jointly create a Google Doc or other document to submit, with every student contributing.  Google Docs allow text, equations, tables, and images, for example to include any handwritten calculations or graphs, or graphs from Desmos. Each team will have one Editor: The editor is responsible for ensuring that the document is complete, well-explained, and proofread, delegating tasks as appropriate, and for submitting the single final version of the homework to be handed in. This is the only set of solutions which will be accepted or graded. Each member of the group will receive the same grade as long as they work with the team. Students who do NOT participate will receive a zero.  We will have ~5 assignments, and you will have ~1.5 weeks to work on each assignment. Good practice of working together in a team and presenting is necessary. Penalty: Negative grade for not participating. Exams contain one or more team homework look-alike problems.Web homework (6%): prepwork, homework based on reading and video content provided to you. Avail
   - Web homework (6%): prepwork and homework based on reading and video content provided to you. Good practice of working together in a team and presenting necessary for any profession. Penalty: Negative grade Exams contain at least one team homework look alike problem.
   
 * Assessment (88%) 
@@ -59,8 +64,11 @@ Student Mental Health and Wellbeing: University of Michigan is committed to adva
 
 ## Section 006
 
-* Class meets M/W/F 8:30-10 AM (EST).
-* Office Hours to be scheduled by poll.
+* Meet & Drive
+  - D Class (M/W/F 8:30-10am) Zoom Meeting link is: Math115-006 (https://umich.zoom.us/j/92560182048)
+  - D Office Hours (Monday 10-11am, Wed 10-11am, 11am-12pm (Math Lab Hour)) Zoom Meeting link is: Office Hours (https://umich.zoom.us/j/6625517853), Math Lab Hour 
+  - D Google Drive folder: Math115 (https://drive.google.com/drive/folders/1rIp-5NphuWZMAh38IZouqgEpPqYBjALq?usp=sharing)
+  - In particular, the Live Document, Jamboard (https://jamboard.google.com/d/1b_OtjQrw2eiostqvrLu03-cfwknlnT4Tb4xrrpP_UkA/edit?usp=sharing).
 
 ### Class: Zoom-meet-1 : Introductions
 
@@ -104,7 +112,7 @@ Exponential function is one whose rate of increase is itself, making it an expre
 
 ### Class: Zoom-meet-3 : Birth of Functions
 
-How to make new functions from old? Recycle.
+How to make new functions from old? Rename. Recycle.
 
  - Transforming Domain
  - Transforming Range
