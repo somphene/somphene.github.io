@@ -12,7 +12,8 @@ use-site-title: false
 ## Student Instructor (Courses at UM)
 I am grateful to have had the opportunity to learn as I teach the following courses at UM:
 
-### [Calculus-1](https://somphene.github.io/teaching/calculus-1)
+### [Calculus-1 FA 2020](https://somphene.github.io/teaching/calculus-1-fa-2020)
+### [Calculus-1 WN 2021](https://somphene.github.io/teaching/calculus-1-wn-2021)
 
 
 ## Teaching Assistant (Courses at IIT Bombay) 
