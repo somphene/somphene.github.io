@@ -24,6 +24,7 @@ I am grateful to have had the opportunity to teach (and relearn) the following c
 ### [Quantum Physics](https://somphene.github.io/teaching/quantumphysics)
 ### [Symmetry and Structure of Crystals](https://somphene.github.io/teaching/symmetrystructurecrystal)  
 ### [Laser Processing and Nanostructures](https://somphene.github.io/teaching/lasernanostruct)
+### [Ceramics and Powder Processing](https://somphene.github.io/2020-02-18-01-ceramics-and-powder-processing-16/)
 
 ## TSC Teaching Assistant (Student Support Services)
 * Concducted Excel sessions in vernacular languages for students having difficulties with English and for those facing severe conceptual difficulties.
