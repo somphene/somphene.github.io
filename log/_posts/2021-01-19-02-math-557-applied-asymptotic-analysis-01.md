@@ -7,7 +7,7 @@ bigimg: log/images/austin-schmid-5Dga0T0x6GY-unsplash.jpg
 tags: [ Applied, Asymptotic, Analysis, Information, Course, Content, Schedule, Policy, Introduction, Series, Convergent, Divergent, Expansion, Euler, $$\Gamma$$, function, Integral, MATH 557, Peter Miller]
 ---
 
-## MATH 526
+## MATH 557
 
 ### Applied Asymptotic Analysis
 
