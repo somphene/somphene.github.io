@@ -12,3 +12,5 @@ tags: [ Applied, Asymptotic, Analysis, Information, Course, Content, Schedule, P
 ### Applied Asymptotic Analysis
 
 Please find linked: [Math 557 Lecture Note 01](https://drive.google.com/file/d/1AxmkjXuJrs4p0xBHbFhhgwL2MWj4CB3M/view?usp=sha)
+
+ - Series 
