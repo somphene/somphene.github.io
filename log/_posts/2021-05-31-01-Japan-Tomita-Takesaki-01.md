@@ -20,4 +20,5 @@ Please find linked:
 ### R
 
  -  [Roberto Longo- University of Rome II - Mathematical Picture Language Seminar - The Information in a Wave](https://www.youtube.com/watch?v=n7svXoev7H0), [arxiv 1906.01707](https://arxiv.org/pdf/1906.01707.pdf) 
+ - Math foundations Topological Quantum Computing (https://web.math.ucsb.edu/~zhenghwa/notes.php)
 
