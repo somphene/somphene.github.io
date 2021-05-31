@@ -4,7 +4,7 @@ blog-category: blog
 title: Quiver Representation
 author: Som Phene
 bigimg: log/images/01.jpg
-tags: [Harm Derksen, Jezry Weyman, Quiver, Representation, Introduction, Gabriel, Kac, Moody, Algebra]
+tags: [Harm Derksen, Jezry Weyman, Quiver, Representation, Introduction, Gabriel, Kac, Moody, Algebra, Ringel, Hall, Will Dana, Summer, Minicourse]
 ---
 
 ## Quiver Representation
