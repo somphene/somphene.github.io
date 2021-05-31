@@ -31,5 +31,5 @@ Please find linked:
     - Information contained in the net of von Neumann Algebra.
     - Entropy for infinite dimensional system: Araki's Relative Entropy between two faithful normal states.    
  - [Zhengan Wang - 06 10 2020 University of California Santa Barbara - Reconstructing CFT from TQFT](https://www.youtube.com/watch?v=75M9rtsnmXA): Anyon statistics generalize Fermion and Boson statistics, [Math foundations Topological Quantum Computing](https://web.math.ucsb.edu/~zhenghwa/notes.php)
- - [Lecture Notes Algebraic QFT](https://unith.desy.de/sites/sites_custom/site_unith/content/e27292/e27308/e78138/e78256/e78287/e78288/SeminarMP-4.pdf)
+ - [Lecture Notes Algebraic QFT](https://unith.desy.de/people/allmembers/fredenha/lectures/seminar)
 
