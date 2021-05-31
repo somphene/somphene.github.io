@@ -3,7 +3,7 @@ layout: post
 blog-category: blog
 title: Quiver Representation
 author: Som Phene
-bigimg: log/images/coin flip.jpg
+bigimg: log/images/01.jpg
 tags: [Tomita, Takesaki, Theory, Toshihiko Masuda, Introduction]
 ---
 
