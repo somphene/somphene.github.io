@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Tomita Takesaki Theory
+title: Tomita-Takesaki Theory
 author: Som Phene
 bigimg: log/images/coin flip.jpg
 tags: [Tomita, Takesaki, Theory, Toshihiko Masuda, Introduction]
