@@ -15,13 +15,18 @@ Please find linked:
  - [Will Dana - 2021 05 31 University of Michigan - Summer Minciourse Representation of Quiver, Lie Algebra Slide](http://www-personal.umich.edu/~willdana/RingelHallSlides.html
 ), [Notes](http://www-personal.umich.edu/~willdana/QuiverNotes.pdf). 
    - Diagram linear map 
-   - Krull-Schmidt Reduction
-   - Root system collects vectors that are closed under reflection, contain no other multiple, crystallographic. 
-   - Simple roots are closest to a hyperplane which span V. They form a basis.
-   - Cartan Matrix for simply laced (same length roots), $$C_{ij}= <\alpha_i, \alpha_j>$$.
+   - Krull-Schmidt Reduction of every quiver representation to direct sum of indecomposable ones.
+   - Root system: vectors closed under reflection, contain no other multiple, crystallographic. 
+   - Simple roots: closest to a hyperplane, span V. Simple roots form a basis.
+   - Cartan matrix for simply laced (same length roots) $$C_{ij}= <\alpha_i, \alpha_j>$$
    - Cartan matrix determines the root system.
      - Example $$A_3$$ Diagonal entry is $$2$$, off-diagonal is either $$0$$ or $$-1$$.
-   - Dynkin diagram has vertices indexed by simple roots and an edge $$i \sim j$$ when $$C_{ij}=-1$$.  
-   - Classification of finite simply laced root systems:$$\hat{A_n}, \hat{D_n}, \hat{E_6}, \hat{E_7}, \hat{E_8}$$. Also $$B_n, C_n$$, exceptional $$F_4, G_2$$. Proof: $$C_{ij}$$ represents the inner product $$<,>$$ in basis $$\alpha_1,\ldots, \alpha_n$$ hence is positive definite.
+   - Dynkin diagram has simple roots as vertices, edge $$i \sim j$$ when $$C_{ij}=-1$$.  
+   - Classification of finite simply laced root systems:$$\hat{A_n}, \hat{D_n}, \hat{E_6}, \hat{E_7}, \hat{E_8}$$. Also $$B_n, C_n$$, exceptional $$F_4, G_2$$. Proof: $$C_{ij}$$ represents the inner product $$<,>$$ in basis $$\alpha_1,\ldots, \alpha_n$$ hence positive definite.
    - Gabriel's Theorem: Dimension vector $${(dimV(x))}_{x \in Q_0}$$ of a quiver representation $$V$$ (seen as a Dynkin diagram) is one-to-one with positive root.
+
+### R
+
+ - Kirillov Quiver Representations and Quiver Varieties
+ - [Humphreys Introduction to Lie Algebras and Representation Theory](https://www.math.uci.edu/~brusso/humphreys.pdf)
 
