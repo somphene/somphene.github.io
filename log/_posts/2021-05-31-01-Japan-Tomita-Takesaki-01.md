@@ -4,10 +4,14 @@ blog-category: blog
 title: Tomita-Takesaki Theory
 author: Som Phene
 bigimg: log/images/coin flip.jpg
-tags: [Tomita, Takesaki, Theory, Toshihiko Masuda, Introduction]
+tags: [Minoru Tomita, Osaka University, Japan, Masamichi Takesaki, Tohoku University, UCLA, Theory, Toshihiko Masuda, Robert Longo, University of Rome II, Zhengan Wang. UCSB, Introduction]
 ---
 
 ## TOMITA-TAKESAKI THEORY 
+
+Minoru Tomita - 1924 02 06 09 10 2015 Japan - 1967 manuscript Theory of modular automorphisms of von Neumann Algebras.
+
+Masamichi Takesaki - 1933 07 18 Sendai, Tohoku University Japan - 1970 Theory of modular Hilbert Algebras and its applications (revision of 1967 Japanese manuscript Theory of modular automorphisms of von Neumann Algebras).
 
 Please find linked: 
  - [Toshihiko Masuda, Math. J. Okayama Univ. 60 (2018), 37–58, TOMITA-TAKESAKI THEORY AND ITS APPLICATION TO THE STRUCTURE THEORY OF FACTORS OF TYPE III](https://www.math.okayama-u.ac.jp/mjou/mjou60/_02_Masuda.pdf)
@@ -15,7 +19,7 @@ Please find linked:
 
 ### Classification of von Neumann Algebra 
 
- - Structure Theory based on factor Type I or Type II or Type III.
+ - Structure Theory based on factor Type I or II or III.
 
 ### R
 
