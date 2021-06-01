@@ -23,5 +23,5 @@ Please find linked:
    - Example $$A_3$$ Diagonal entry is $$2$$, off-diagonal is either $$0$$ or $$-1$$.
   - Dynkin diagram has vertices indexed by simple roots and an edge $$i \sim j$$ when $$C_{ij}=-1$$.  
   - Classification of finite simply laced root systems:$$\hat{A_n}, \hat{D_n}, \hat{E_6}, \hat{E_7}, \hat{E_8}$$. Also $$B_n, C_n$$, exceptional $$F_4, G_2$$. Proof: $$C_{ij}$$ represents the inner product $$<,>$$ in basis $$\alpha_1,\ldots, \alpha_n$$ hence is positive definite.
-  - Gabriel's Theorem: Dimension vector $$\(dimV(x)\)_{x \in Q_0}$$ of a quiver representation $$V$$ (seen as a Dynkin diagram) is one-to one with positive root.
+  - Gabriel's Theorem: Dimension vector $${(dimV(x))}_{x \in Q_0}$$ of a quiver representation $$V$$ (seen as a Dynkin diagram) is one-to-one with positive root.
 
