@@ -4,7 +4,7 @@ blog-category: blog
 title: Tomita-Takesaki Theory
 author: Som Phene
 bigimg: log/images/coin flip.jpg
-tags: [Minoru Tomita, Osaka University, Japan, Masamichi Takesaki, Tohoku University, UCLA, Theory, Toshihiko Masuda, Robert Longo, University of Rome II, Zhengan Wang. UCSB, Introduction]
+tags: [Minoru Tomita, Osaka University, Japan, Masamichi Takesaki, Tohoku University, UCLA, Theory, Toshihiko Masuda, Robert Longo, University of Rome II, Information, Quantum, Field, Klein, Gordon, Hawking, Penrose, von Neumann, Algebra, Hilbert, Epstein, Glaser, Jaffe, Reeh, Schleider, Haag, Hugenoltz, Winnik, Jones, Kawahigashi, Zhengan Wang. UCSB, Anyon, Fermion, Boson, Introduction]
 ---
 
 ## TOMITA-TAKESAKI THEORY 
