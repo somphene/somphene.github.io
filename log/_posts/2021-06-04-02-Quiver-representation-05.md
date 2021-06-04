@@ -1,4 +1,4 @@
-.--
+---
 layout: post
 blog-category: blog
 title: Quiver Representation 05 (How to prove Ringel's Theorem)
