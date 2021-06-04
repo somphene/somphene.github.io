@@ -27,3 +27,13 @@ Please find linked:
    - There is a ordered list of vertices which exhausts all indecomposables exactly once.
    - Simple rep of acyclic quiver are precisely $$S_v$$.
    - Any representations admit a filtration with the whose quotients are representations $$S_v$$.
+- The map $$\phi$$ is injective. Once surjection is done, count dimension to show injective. Cannot do for infinite but break down and do it part by part to finite dimensional pieces.
+  - Poincare-Birkhoff-Witt basis of any given universal enveloping Lie algebra: basis like polynomial ring. So we have a basis of unordered tuples of positive roots. Using that the quiver is finite type: index basis by weights (to dimension vector). Each finite dimensional piece maps to the correspinding one. 
+
+### Further
+
+ - Quantum Enevleoping algebra keep $$q$$ as a parameter of deformation.
+ - 1990 Lusztig canonical basis for enveloping algebra.
+ - Infinite dimensional quivers and Kac-Moody algebras generalize (Kirillov's book).
+ - 2013 Bridgeland Derived categories shifted versions to capture universal enveloping algebras.
+ - Approach Faculty: Thomas Lam.
