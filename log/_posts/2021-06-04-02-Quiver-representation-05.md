@@ -4,15 +4,15 @@ blog-category: blog
 title: Quiver Representation 05 (How to prove Ringel's Theorem)
 author: Som Phene
 bigimg: log/images/01.jpg
-tags: [Harm Derksen, University of Michigan, Jezry Weyman, Quiver, Representation, Introduction, Gabriel, Kac, Moody, Algebra, Ringel, Hall, Will Dana, Summer, Minicourse]
+tags: [Harm Derksen, University of Michigan, Jezry Weyman, Quiver, Representation, Introduction, Gabriel, Kac, Moody, Algebra, Kirillov, Ringel, Hall, Will Dana, Summer, Minicourse, Thomas Lam, Serre, Cartan, Dynkin, Lie, Poincaré, Birkhoff, Witt, Bridgeland, Derived Categories]
 ---
 
-## Rignel's Theorem
+## Ringel's Theorem
 
 Please find linked: 
  - [ Quiver Representation](https://www-am):
  - How many ways to extend the realization of representation. Ringel hall algebra given by basis structure constants.
- - Ringel Hall Algebra is associative but not commutative. (one way product gives both direct sum and a non-trivial but other way is just a direct sum).
+ - Ringel Hall Algebra is associative but not commutative: one way product gives both direct sum and a non-trivial but other way is just a direct sum.
  - Which finite field? No preference. We can treat all together. Define a universal Ringel-Hall Algebra.
  - For Scott Neville's question: The limit specializing to $$q=1$$, the geometric interpretation is via complex numbers (see Kirillov's book).
  - Universal Enveloping Algebra: 'free'-est possible algebra where the Lie Algebra commutator holds (Rep theory of Lie Algebras into Rep theory of Associative Algebras).
@@ -28,7 +28,7 @@ Please find linked:
    - Simple rep of acyclic quiver are precisely $$S_v$$.
    - Any representations admit a filtration with the whose quotients are representations $$S_v$$.
 - The map $$\phi$$ is injective. Once surjection is done, count dimension to show injective. Cannot do for infinite but break down and do it part by part to finite dimensional pieces.
-  - Poincare-Birkhoff-Witt basis of any given universal enveloping Lie algebra: basis like polynomial ring. So we have a basis of unordered tuples of positive roots. Using that the quiver is finite type: index basis by weights (to dimension vector). Each finite dimensional piece maps to the correspinding one. 
+  - Poincaré-Birkhoff-Witt basis of any given universal enveloping Lie algebra: basis like polynomial ring. So we have a basis of unordered tuples of positive roots. Using that the quiver is finite type: index basis by weights (to dimension vector). Each finite dimensional piece maps to the correspinding one. 
 
 ### Further
 
