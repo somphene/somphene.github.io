@@ -10,5 +10,10 @@ tags: [Combinatorics, Count, Probability, Distribution, Jensen, Inequality, Log,
 ## Combinatorics
 
 Please find linked: [Combinatorics 01 I](https://drive.google.com/file/d/15sA0RC4gHk3TeFKq5m57qJD3Gtc1BKrW/view?usp=sharing)
-
+- Counting 
+- Distribution
+- Uniform 
+- Maximize
+- Commute, Non-commute
+- Sequence: Monotone converge
   
