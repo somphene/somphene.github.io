@@ -17,10 +17,10 @@ Please find linked:
 ### Probabibilty 
 
 - Experiment
-  - a) Coin Flip
-  - b) Die Roll
-  - c) Urn ball draw
-  - d) Draw number between 0 and 1
+  - Coin Flip
+  - Die Roll
+  - Urn ball draw
+  - Draw number between 0 and 1
 
 
 - Kolmogorov Axiom: Experiment Model is Probability Space.
@@ -30,10 +30,10 @@ Please find linked:
   - Probabilty measure $$P \colon \mathcal{F} \to [0-1] $$.
 
 - Experiment - Kolmogorov Axiom - Model Probability Space
-  - a) Coin Flip . Sample Space $$\Omega$$, Outcome Set . $${H,T}$$
-  - b) Die Roll . Sample Space $$\Omega$$, Outcome Set . $${1,2,3,4,5,6}$$
-  - c) Urn ball draw . Sample Space $$\Omega$$, Outcome Set . as per condition
-  - d) Draw number between 0 and 1
+  - Coin Flip . Sample Space $$\Omega$$, Outcome Set . $${H,T}$$
+  - Die Roll . Sample Space $$\Omega$$, Outcome Set . $${1,2,3,4,5,6}$$
+  - Urn ball draw . Sample Space $$\Omega$$, Outcome Set . as per condition
+  - Draw number between 0 and 1
    - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . $$[0-1]$$
    - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . rational in $$[0-1]$$
    - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . finite list in $$[0-1]$$
