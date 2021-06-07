@@ -30,8 +30,8 @@ Please find linked:
   - Probabilty measure $$P \colon \mathcal{F} \to [0-1] $$.
 
 - Experiment - Kolmogorov Axiom - Model Probability Space
-  - Coin Flip . Sample Space $$\Omega$$, Outcome Set . $${H,T}$$
-  - Die Roll . Sample Space $$\Omega$$, Outcome Set . $${1,2,3,4,5,6}$$
+  - Coin Flip . Sample Space $$\Omega$$, Outcome Set . $$\{H,T\}$$
+  - Die Roll . Sample Space $$\Omega$$, Outcome Set . $$\{1,2,3,4,5,6\}$$
   - Urn ball draw . Sample Space $$\Omega$$, Outcome Set . as per condition
   - Draw number between 0 and 1
     - Sample Space $$\Omega$$, Outcome Set . $$[0-1]$$
