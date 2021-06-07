@@ -18,7 +18,7 @@ Please find linked:
  - Universal Enveloping Algebra: 'free'-est possible algebra where the Lie Algebra commutator holds (Rep theory of Lie Algebras into Rep theory of Associative Algebras).
  - The map $$\phi$$ is well defined.
    - Sln had strictly upper triangular and strictly lower triangular. Decomposition into Positive, Cartan and Negative.
-   - Corollary Serre relations: Positive part isomorphism with generators $$x_1, \;dots, x_n$$ for simply laced Dynkin diagrams, these fall into two classes.
+   - Corollary Serre relations: Positive part isomorphism with generators $$x_1, \ldots, x_n$$ for simply laced Dynkin diagrams, these fall into two classes.
    - If $$S_i, S_j$$ not adjacent in the quiver, then the extension is two of one dimensional: $$S_i \oplus S_j$$, hence they commute in the Lie Algebra.
    - For adjacent, compute for the quiver $$1 \to 2 $$.
 - The map $$\phi$$ is surjective.
