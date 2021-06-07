@@ -9,8 +9,9 @@ tags: [Combinatorics, Count, Exponential, Log, Correspondence, Commute, Expectat
 
 ## Combinatorics 03 Measure
 
-Please find linked: [Som Phene x Prakhar Patel- Mumbai, India - Combinatorics 01-03 I](https://drive.google.com/file/d/1PIRa3X9rLwvD3ULkBxLn007--BkJ-AtD/view?usp=sharing)
- - [May 22, 2021 06:15 AM Eastern Time (US and Canada) Meeting Recording](https://umich.zoom.us/rec/share/BMWhvGMloIPtT3IsSHexLN3mlRCXpf33R5Rc0HLCrIp4yKX_IKs2qOk5ibLB-jaS.S3wsqnQUnn-kWnS_)
+Please find linked: 
+ - [Som Phene x Prakhar Patel- Mumbai, India - Combinatorics 01-03 I](https://drive.google.com/file/d/1PIRa3X9rLwvD3ULkBxLn007--BkJ-AtD/view?usp=sharing)
+ - [May 22, 2021 06:15 AM Eastern Time (US and Canada) Som Phene x Prakhar Patel Meeting Recording](https://umich.zoom.us/rec/share/BMWhvGMloIPtT3IsSHexLN3mlRCXpf33R5Rc0HLCrIp4yKX_IKs2qOk5ibLB-jaS.S3wsqnQUnn-kWnS_)
  - [2020.08.Som Phene x Prof. Tasho Kaletha x Prof. Jinho Baik - Dept. of Mathematics, University of Michigan, Ann Arbor - Probability Kolmogorov Axioms 0I](https://drive.google.com/file/d/1cKFm03HFrN7tepW4H_nFoa_2QJL0n_7J/view?usp=sharing)
 
 ### Probabibilty 
@@ -27,6 +28,15 @@ Please find linked: [Som Phene x Prakhar Patel- Mumbai, India - Combinatorics 01
   - Sample Space $$\Omega$$, Outcome Set
   - Event Space $$\mathcal{F}$$, $$\sigma$$-Algebra
   - Probabilty measure $$P \colon \mathcal{F} \to [0-1] $$.
+
+- Experiment - Kolmogorov Axiom - Model Probability Space
+  - a) Coin Flip . Sample Space $$\Omega$$, Outcome Set . $${H,T}$$
+  - b) Die Roll . Sample Space $$\Omega$$, Outcome Set . $${1,2,3,4,5,6}$$
+  - c) Urn ball draw . Sample Space $$\Omega$$, Outcome Set . as per condition
+  - d) Draw number between 0 and 1
+  - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . $$[0-1]$$
+  - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . rational in $$[0-1]$$
+  - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . finite list in $$[0,1]$$
 
 
 - Counting Axiom of Choice
