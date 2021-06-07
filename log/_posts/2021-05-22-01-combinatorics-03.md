@@ -10,6 +10,8 @@ tags: [Combinatorics, Count, Probability, Distribution, Random, Experiment, Samp
 ## Combinatorics
 
 Please find linked: [Combinatorics 01-03 I](https://drive.google.com/file/d/1PIRa3X9rLwvD3ULkBxLn007--BkJ-AtD/view?usp=sharing)
+ - [May 22, 2021 06:15 AM Eastern Time (US and Canada) Meeting Recording](https://umich.zoom.us/rec/share/BMWhvGMloIPtT3IsSHexLN3mlRCXpf33R5Rc0HLCrIp4yKX_IKs2qOk5ibLB-jaS.S3wsqnQUnn-kWnS_)
+
 
 ### Probabibilty 
 
