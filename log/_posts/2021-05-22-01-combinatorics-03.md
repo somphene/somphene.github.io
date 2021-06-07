@@ -34,9 +34,9 @@ Please find linked:
   - b) Die Roll . Sample Space $$\Omega$$, Outcome Set . $${1,2,3,4,5,6}$$
   - c) Urn ball draw . Sample Space $$\Omega$$, Outcome Set . as per condition
   - d) Draw number between 0 and 1
-  - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . $$[0-1]$$
-  - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . rational in $$[0-1]$$
-  - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . finite list in $$[0-1]$$
+   - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . $$[0-1]$$
+   - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . rational in $$[0-1]$$
+   - Draw number between 0 and 1 . Sample Space $$\Omega$$, Outcome Set . finite list in $$[0-1]$$
 
 
 - Counting Axiom of Choice
