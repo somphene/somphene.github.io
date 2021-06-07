@@ -9,7 +9,7 @@ tags: [Combinatorics, Count, Probability, Distribution, Jensen, Inequality, Log,
 
 ## Combinatorics
 
-Please find linked: [Combinatorics 01-03 I](https://drive.google.com/file/d/1PIRa3X9rLwvD3ULkBxLn007--BkJ-AtD/view?usp=sharing)
+Please find linked: [Combinatorics 01-02 I](https://drive.google.com/file/d/1PIRa3X9rLwvD3ULkBxLn007--BkJ-AtD/view?usp=sharing)
 
 First Half
 - Week 1(May 13-May 20): Random Variable, Distribution 
