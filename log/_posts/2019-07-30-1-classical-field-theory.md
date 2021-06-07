@@ -4,7 +4,7 @@ blog-category: blog
 title: Classical Field Theory
 author: Som Phene
 image: 
-tags: [Classical, Field, Theory] 
+tags: [Classical, Field, Theory, Marsden, Jackson, Einstein, Maxwell, Boltzmann, V.I. Arnold, Adway Girish, SoS, IITB, Intoduction] 
 ---
 
 ### Preface
