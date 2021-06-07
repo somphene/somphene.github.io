@@ -4,7 +4,7 @@ blog-category: blog
 title: Quantum Field Theory 01
 author: Som Phene
 bigimg: log/images/austin-schmid-5Dga0T0x6GY-unsplash.jpg
-tags: [Quantum, Field, Theory, 0, 1, Schedule, Introduction]
+tags: [Quantum, Field, Theory, 0, 1, Schedule, SoS, IITB, Mahadevan Subramanian, Introduction]
 ---
 
 ### Quantum Field Theory
