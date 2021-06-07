@@ -4,7 +4,7 @@ blog-category: blog
 title: Linear Algebra 01
 author: Som Phene
 bigimg: log/images/Calculus 1 Linear.jpg
-tags: [Linear, Algebra, Content, Schedule, Introduction]
+tags: [Linear, Algebra, Content, Schedule, Ronil Mandavia, SoS, IITB, Introduction]
 ---
 
 ### Linear Algebra
