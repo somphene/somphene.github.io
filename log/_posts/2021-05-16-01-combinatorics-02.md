@@ -13,4 +13,4 @@ Please find linked: [Combinatorics 01-03 I](https://drive.google.com/file/d/1PIR
 
 First Half
 - Week 1(May 13-May 20): Random Variable, Distribution 
-  - [May 16 Recording](ttps://umich.zoom.us/rec/share/RuuGQ9WtJ8OsbA6zPHXx3KJfrdiP03C1AB5v_T2xqtq8q8YQ68n9mRH1Eaw2KZTW.HY6ypoPFukRPHjNj): Counting, Linear, Random Variable, Jensen Concave Inequality, Log, Distribution, Uniform, Maximum, Entropy, PoA
+  - [May 16 Recording](https://umich.zoom.us/rec/share/RuuGQ9WtJ8OsbA6zPHXx3KJfrdiP03C1AB5v_T2xqtq8q8YQ68n9mRH1Eaw2KZTW.HY6ypoPFukRPHjNj): Counting, Linear, Random Variable, Jensen Concave Inequality, Log, Distribution, Uniform, Maximum, Entropy, PoA
