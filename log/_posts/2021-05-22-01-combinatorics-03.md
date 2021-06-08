@@ -4,7 +4,7 @@ blog-category: blog
 title: Combinatorics 03- Measure
 author: Som Phene
 bigimg: log/images/coin flip.jpg
-tags: [Combinatorics, Count, Exponential, Log, Correspondence, Commute, Expectation, Mean, Average, Favourite, Monotone, Indicator, Measurable, Integral, Probability, Distribution, Random, Experiment, Sample, Event, Lebsgue, Measure, Banach, Tarski, Axiom of Choice, Cantor, Coin, Number, Prakhar Patel, IITB, PoA, SoS, Content, Schedule, Introduction]
+tags: [Combinatorics, Count, Exponential, Log, Correspondence, Commute, Expectation, Mean, Average, Favourite, Monotone, Indicator, Measurable, Integral, Probability, Distribution, Random, Experiment, Sample, Event, Lebsgue, Measure, Banach, Tarski, Axiom of Choice, Cantor, Coin, Number, Prakhar Patel, IITB, SoS, Introduction]
 ---
 
 ## Combinatorics 03 Measure
