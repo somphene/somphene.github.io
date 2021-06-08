@@ -37,3 +37,7 @@ Please find linked:
   - The boundary Schubert variety/ Schubert cell is a disjoint union of cells. This gives an affine stratification.
   - The cohomology class is independent of choice of complete flag as they are related by Gl(k) action.
   - Example: set of k-subspaces meeting a given space.
+
+### R
+
+- Swaraj Sridhar Pande refers to [Speyer's Algebraic Geometry course](http://www.math.lsa.umich.edu/~speyer/631/) for interpreting the equations of Plucker embedding to be a projective variety.
