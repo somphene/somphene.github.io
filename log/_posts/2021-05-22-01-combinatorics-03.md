@@ -14,7 +14,7 @@ Please find linked:
  - [May 22, 2021 06:15 AM Eastern Time (US and Canada) Som Phene . Prakhar Patel - Meeting Recording - Counting 03](https://umich.zoom.us/rec/share/BMWhvGMloIPtT3IsSHexLN3mlRCXpf33R5Rc0HLCrIp4yKX_IKs2qOk5ibLB-jaS.S3wsqnQUnn-kWnS_)
  - [2021.05.22 Som Phene . Prof. Tasho Kaletha . Prof. Jinho Baik - Dept. of Mathematics, University of Michigan, Ann Arbor - Probability Kolmogorov Axioms 0I](https://drive.google.com/file/d/1cKFm03HFrN7tepW4H_nFoa_2QJL0n_7J/view?usp=sharing)
 
-### Probabibilty 
+### Probability 
 
 - Experiment
   - Coin Flip
