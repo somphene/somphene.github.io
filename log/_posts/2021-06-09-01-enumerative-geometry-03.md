@@ -15,7 +15,7 @@ tags: [Hermann Schubert, Quang Dao, William Fulton, University of Michigan, Schu
  - Given partitions, how to determine the structure coefficitents?
    - Language of Young Tableaux for Littlewood-Richardson rule.
    
- ### Young Tableaux
+### Young Tableaux
 -  Semi-Standard Young Tableaux for given a partition is 
   - Entries in rows are non-decreasing,
   - Entries in column are strictly increasing.  
@@ -29,7 +29,7 @@ tags: [Hermann Schubert, Quang Dao, William Fulton, University of Michigan, Schu
   - Jdt slide for inner corner makes it an outer corner. Rectification: when Jdt done for all inner corners.
   - Define Jdt product and show it is equivalent to row insertion.
   
- ### Symmetric Polynomials
+### Symmetric Polynomials
 - Elements of invariant ring $$\mathbb{Z}[x_1,\ldots,x_n]^{S_n}= \wedge_n$$where $$S_n$$ acts by permuting elements.
 - Monomial. Elementary (biject column). power-sum. complete homogeneous (biject row). 
 - Schur Polynomial interpolate $$h_k$$ to $$e_k$$
