@@ -1,0 +1,25 @@
+---
+layout: post
+blog-category: blog
+title: Enumerative Geometry 05 Schubert Polynomial
+author: Som Phene
+bigimg: log/images/01.jpg
+tags: [Hermann Schubert, Quang Dao, William Fulton, University of Michigan, Schubert Class, Grassmann, Young, Representation, Prieri, Giambelli, Enumerative, Geometry, Introduction]
+---
+
+## Enumerative Geometry 05 Schubert Polynomial
+
+### Review [04]()
+ - Projection to Grassmannian
+   - What is the image of Schubert class?
+   - Permutation is Grassmanian if it has only one descent.
+ - Given partitions, how to determine the Schubert structure coefficitents?
+   - Prieri's Rule Analogue- Monk's Formula.
+     - Coefficient not positive combinatorial description. 
+     - AJS formula not positive (Open quest).
+   
+### Equivariant Schubert Calculus
+- Equivariant Cohomology
+  - Space with symmetry (action of group) then invariance which accounts for symmetry (action).
+    - $$EG$$ contractible space with free G-Action. The quotient space $$EG \times X$$ identifying action points. Cohomology of this space.
+      - Example: Let $$G= \mathbb{C*}$$. Infinite sphere is contractible.
