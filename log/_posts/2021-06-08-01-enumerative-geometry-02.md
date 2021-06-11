@@ -13,7 +13,7 @@ tags: [Hermann Schubert, Quang Dao, William Fulton, University of Michigan, Schu
  - Stratification Affine- cohomology ring
  - Schubert does not depend on the choice of flag.
  - Grassmannian Gr(2,4)
-   - Fix a falg $$ p \in l \in H$$ in $$P^3$$.
+   - Fix a falg $$ p \subset l \subset H$$ in $$P^3$$.
  - From Cohomology to point counting
    - What does the cup product mean?
    - Product translates to addition of points.
