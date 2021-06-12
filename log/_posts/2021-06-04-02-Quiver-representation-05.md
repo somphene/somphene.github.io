@@ -9,8 +9,7 @@ tags: [Harm Derksen, University of Michigan, Jezry Weyman, Quiver, Representatio
 
 ## Ringel's Theorem
 
-Please find linked: 
- - [ Quiver Representation](https://www-am):
+Please find linked: [Quiver Representation]()
  - How many ways to extend the realization of representation. Ringel hall algebra given by basis structure constants.
  - Ringel Hall Algebra is associative but not commutative: one way product gives both direct sum and a non-trivial but other way is just a direct sum.
  - Which finite field? No preference. We can treat all together. Define a universal Ringel-Hall Algebra.
@@ -36,4 +35,4 @@ Please find linked:
  - 1990 Lusztig canonical basis for enveloping algebra.
  - Infinite dimensional quivers and Kac-Moody algebras generalize (Kirillov's book).
  - 2013 Bridgeland Derived categories shifted versions to capture universal enveloping algebras.
- - Approach Faculty: Thomas Lam.
+ - Approach Faculty: [Thomas Lam](http://www.math.lsa.umich.edu/~tfylam/).
