@@ -34,6 +34,13 @@ Intersection Theory
   - Bezout 
 
 - Alg closed
-- Rational equivalence chow ring
+- Rational equivalence Chow ring
+- Transversal
+- co-dimension
+- degree
+- Bezout 
 
+### Tomorrow
+- 3264 and all that
+- Moduli space
 
