@@ -9,39 +9,35 @@ tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Af
 
 ## Enumerative Geometry 07 Gromov Witten 
 
-### Intro
-- How many points in intersection of two lines?
-- How many points in intersection of two conics?
-- Given $$3d-1$$ points in general position, how many rational curves of degree $$d$$ pass through?
+### Recap
+- Chow ring of algebraic variety is rational equivalence of cycle. 
+  - Algebraic construction of Homology allows perturbation.
+  - The product structure is such that if variety is transverse to another, their product is that of their intersection.
+  - Could work with scheme (eg: double point). 
+  - Chow ring of $$P^n$$ is $$\mathbb{Z}/H^{n+1}$$, where $$H$$ is the class of a hyperplane.
+  - The degree of $$dH^r$$ is $$d$$ and $$r$$ is codimension.
+  - Integral counting points comes from DeRham Cohomology.
+  - To find the degree, find the degree of intersection with a general hyperplane. 
+    - Veronese injective map degree is same as that of preimage.
+    - Bidegree
+    - If map is not injective, mostly work with generally injective: one-to-one on a dense open subset.
 
-Intersection Theory 
-
-### Background
-- Affine Space
-- Projective Space
-- Homogeneous coordinates
-- Algebraic variety in projective space is vanishing of homogeneous polynomial.
-- $$P^2$$ . curve (vanishing polynomial) is a line if degree 1, conic if degree 2, cubic if degree 3, ..., and so on.
+### Moduli Space
+- Parameter Space/variety/scheme/stack for geometric object.
+  - Projective Space $$P^n_k$$ parametrizes line in $$k^{n+1}$$. 
+  - Grassmannian $$Gr_k(r,n) parametrizes r-line in $$k^{n+1}$$.
+  - Quarter plane without interior of origin unit circle parametrize triangle (up to similar).
+  - $$P^5$$ parametrizes conic. 
+- [Conic through point desmos calculator](https://www.desmos.com/calculator/ounqguxjac)
 
 ### QnA
-- Given a polynomial of degree $$n$$, how many points on the number line (could be complex, depending on the algebraically closed field)? 
-  - If some caution, then $$n$$.
+- Given 3 general circles, count tangent circle.
+  - Two points in every circle $$[1:\plusminus i:0]$$.
+  - Define $$[F:G]$$ of interpolation of Pencil $${aF+bG=0}$$ by blowup and then strict transform for the two points.
 - How many points in intersection of two lines?
-  - 1 if considered in $$P^2$$.
-  - The point at infinity is the intersection of two parallel lines.
-- How many points in intersection of two conics?
-  - 0 or 1 or 2 or 3 or 4. Change question slightly: answer always 4.
-  - Bezout 
-
-- Alg closed
-- Cycle : Linear combination of subvariety
-- Rational equivalence Chow ring
-- Transversal
-- co-dimension
-- degree
-- Bezout 
+  - Schubert Calculus studies Chow ring on Grassmannians.
 
 ### Tomorrow
 - 3264 and all that
-- Moduli space
+- Moduli space of curves
 
