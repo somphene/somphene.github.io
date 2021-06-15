@@ -4,7 +4,7 @@ blog-category: blog
 title: Enumerative Geometry 06 Gromov Witten 
 author: Som Phene
 bigimg: log/images/01.jpg
-tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Affine, Projective, Variety, Homogeneous, Polynomial, Transversal, Rational Equivalence, Chow, Ring, Bezout, Intersection, Moduli, Space, Algebraic Geometry, Representation, Enumerative, Geometry, Summer, Michael Muller, Introduction]
+tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Affine, Projective, Variety, Homogeneous, Polynomial, Transversal, Rational Equivalence, Chow, Ring, Bezout, Intersection, Moduli, Space, Algebraic Geometry, Representation, Enumerative, Geometry, Summer, Michael Mueller, Introduction]
 ---
 
 ## Enumerative Geometry 06 Gromov Witten 
