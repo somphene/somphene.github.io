@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Enumerative Geometry 07 Gromov Witten 
+title: Enumerative Geometry 07 Moduli Space
 author: Som Phene
 bigimg: log/images/01.jpg
 tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Affine, Projective, Variety, Homogeneous, Polynomial, Transversal, Rational Equivalence, Chow, Ring, Bezout, Intersection, Moduli, Space, Algebraic Geometry, Representation, Enumerative, Geometry, Summer, Michael Mueller, Introduction]
@@ -25,14 +25,14 @@ tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Af
 ### Moduli Space
 - Parameter Space/variety/scheme/stack for geometric object.
   - Projective Space $$P^n_k$$ parametrizes line in $$k^{n+1}$$. 
-  - Grassmannian $$Gr_k(r,n) parametrizes r-line in $$k^{n+1}$$.
+  - Grassmannian $$Gr_k(r,n)$$ parametrizes $$r-$$line in $$k^{n+1}$$.
   - Quarter plane without interior of origin unit circle parametrize triangle (up to similar).
   - $$P^5$$ parametrizes conic. 
 - [Conic through point desmos calculator](https://www.desmos.com/calculator/ounqguxjac)
 
 ### QnA
 - Given 3 general circles, count tangent circle.
-  - Two points in every circle $$[1:\plusminus i:0]$$.
+  - Two points in every circle $$[1:\pm i:0]$$.
   - Define $$[F:G]$$ of interpolation of Pencil $${aF+bG=0}$$ by blowup and then strict transform for the two points.
 - How many points in intersection of two lines?
   - Schubert Calculus studies Chow ring on Grassmannians.
