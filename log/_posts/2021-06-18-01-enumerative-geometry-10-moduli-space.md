@@ -9,7 +9,6 @@ tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Hi
 
 ## Enumerative Geometry 10 Gromov Witten 
 
-
 ### Recap
 - Moduli space of curves parametrizes genus $$g$$ curve with $$n$$ distinct point.
 - Moduli space of stable curves $$\hat{\mathcal{M}_{g,n}} (X)$$parametrizes genus $$g$$ stable curve with $$n$$ distinct point.
@@ -17,7 +16,10 @@ tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Hi
 
 ### Gromov Witten Invariant
 - Rational Nodal Curve in $$\mathbb{P}^2$$
-- $$\langle{\gamma_1,\ldots,\gamma_n}\rangle_{g, \beta}
+- Invariant $$\langle{\gamma_1,\ldots,\gamma_n}\rangle_{g, \beta}=\int_{[\hat{\mathcal{M}_{g,n}} (X, \beta)]_{vir}} ev^*_1(\gamma_1),\ldots, ev^*_n(\gamma_n)$$
+- The integral may not be a integer. 
+- Application to Physics String theory.
+- Virtual fundamental class
 
 
 ### R
