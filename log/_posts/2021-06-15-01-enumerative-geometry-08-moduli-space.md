@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Enumerative Geometry 07 Moduli Space
+title: Enumerative Geometry 08 Moduli Space
 author: Som Phene
 bigimg: log/images/01.jpg
 tags: [Gromov, Witten, IAS Princeton, William Fulton, University of Michigan, Hilbert, Scheme, Fano, Projective, Variety, Homogeneous, Polynomial, Transversal, Rational Equivalence, Chow, Ring, Bezout, Intersection, Moduli, Space, Algebraic Geometry, Representation, Enumerative, Geometry, Summer, Michael Mueller, Introduction]
