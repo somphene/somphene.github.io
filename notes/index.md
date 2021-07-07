@@ -6,6 +6,14 @@ use-site-title: true
 
 ---
 Notes that are currently being written may be found linked [here](https://somphene.github.io/log/)
+
+| I | Name | Surname | Con | pdf | ReC | ReE |
+|-------|--------|---------|---------|---------|---------|---------|
+| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity | pdf | ReC | ReE |
+| MA 403 | Real Analysis | Sanjoy Pushti . IITB | Completeness Axiom, Ordered Field, Metric Space, Bolzano-Weierstrass, Heine-Borel, Continuity, Uniform Continuity  | [pdf](https://drive.google.com/file/d/1l-UONG02C1mHPHpqfr6DLZJJnocMJCFZ/view?usp=sharing) | ReC | ReE |
+|  | Name | Surname | Con | pdf | ReC | ReE |
+
+
 ### Partial Differential Equations and Homogenization
 * [Modern Theory of Partial Differential Equations (PDEs)](/modern_theory_pde.pdf) based on MA 534 IITB, by [Prof. Mayukh Mukherjee](https://sites.google.com/site/mayukhmukherjeemaths/). [Course content and review](https://drive.google.com/file/d/1Akb8m9Yahf4ED_H7l-UfY6VkcZnpVyHr/view).
 * [Hypoellipticity of Elliptic Operators](https://drive.google.com/file/d/1FYS0SOqnUzm4rJjGoKI800oJAyz5gH7u/view?usp=sharing). Reference: [Prof. Richard Melrose](http://www-math.mit.edu/~rbm/)'s notes on [Differential Analysis](https://math.mit.edu/~rbm/18.155-F16/GradAnal.pdf).
@@ -112,12 +120,6 @@ Notes that are currently being written may be found linked [here](https://somphe
 * [Movie funding argument](https://docs.google.com/document/d/e/2PACX-1vSphcZZjkQoO8m0L77L_akbk7JgFNKInMaMvChy3RLHI4o2WL8XwIPTNNvkWahQ0C-YABUNhMuRgrcp/pub)
 * [Illegal Immigrants argument](https://docs.google.com/document/d/e/2PACX-1vRrSrKS3hk5pdqozqykMfaAbpDG0n5oPC1ZaP59ac9gk0GYkMg9iWPzUOxAUcihlCcMXjioiMWZ4eJY/pub)
 
-
-| I | Name | Surname | Con | pdf |  ReC | ReE |
-|-------|--------|---------|---------|---------|---------|---------|
-| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity | pdf |  ReC | ReE |
-| MA 403 | Real Analysis | Sanjoy Pushti . IITB | Completeness Axiom, Ordered Field, Metric Space, Bolzano-Weierstrass, Heine-Borel, Continuity, Uniform Continuity  | pdf |  ReC | ReE |
-|  | Name | Surname | Con | pdf |  ReC | ReE |
 
 
 
