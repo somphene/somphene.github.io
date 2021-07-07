@@ -9,7 +9,7 @@ Notes that are currently being written may be found linked [here](https://somphe
 
 | I | Name | Surname | Con | pdf | ReC | ReE |
 |-------|--------|---------|---------|---------|---------|---------|
-| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity, Shearer Lemma | [04042021.pdf](https://drive.google.com/drive/folders/1LXIhmiYwqFJLuwWcVm_0VVzycXSaLRfB?usp=sharing) | ReC | ReE |
+| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity, Shearer Lemma | [04042021.pdf](https://drive.google.com/file/d/1l0TGa_igfPLEuuKR3wcL4Le96pV7Kmx9/view?usp=sharing) | ReC | ReE |
 | MA 403 | Real Analysis | Sanjoy Pushti . IITB | Completeness Axiom, Ordered Field, Metric Space, Bolzano-Weierstrass, Heine-Borel, Continuity, Uniform Continuity  | [29062019.pdf](https://drive.google.com/file/d/1l-UONG02C1mHPHpqfr6DLZJJnocMJCFZ/view?usp=sharing) | ReC | ReE |
 |  | Name | Surname | Con | pdf | ReC | ReE |
 
