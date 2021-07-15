@@ -1,7 +1,7 @@
 ---
 layout: post
 blog-category: blog
-title: Logic 03 (Equilibrium)
+title: Logic 04 (Register Machine PR)
 author: Som Phene
 bigimg: log/images/logic.jpg
 tags: [Logic, 04, Register Machine, Primitive Recursion, Zach Norwood, UMich, Ackermann Function, Self, Reflection, Unique, Identity, Game, Equilibrium, Pandurang Deore, IITB, SoS, Introduction]
