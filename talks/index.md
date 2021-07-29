@@ -6,6 +6,19 @@ use-site-title: true
 
 ---
 
+### 
+
+*  I am my bl ndspot, Tedx Talk, Som Phene, TEDxYouth@RNPodar [Bl nd (Youtube)](https://youtu.be/KlgthCFK0Vw), July 17, 2021.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KlgthCFK0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Loss and Recovery, UM Physics Graduate Student Symposium, Som Phene, July 29 2021.
+
+* Complex Dynamics of Self Maps, MREG upcoming. 
+
+* Loss and Recovery, SIAM Student mini-Symposium, Som Phene, July 16, 2021.  
+ 
+
 ### Student Seminar @ Mathematics (SS@M), IIT Bombay
 
 * I organize the Student Seminar @ Mathematics (SS@M), IITB. Any student interested in Mathematics may give a seminar and/or attend seminars by others. The following linked page- [Webpage](https://student-seminar-math-iitb.github.io/), maintained by [Aryaman Maithani](https://aryamanmaithani.github.io/) and me, serves to notify and document the Student Seminar activities.  
