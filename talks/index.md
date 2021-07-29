@@ -6,7 +6,7 @@ use-site-title: true
 
 ---
 
-### 
+### Talk
 
 *  I am my bl ndspot, Tedx Talk, Som Phene, TEDxYouth@RNPodar [Bl nd (Youtube)](https://youtu.be/KlgthCFK0Vw), July 17, 2021.
 
