@@ -8,11 +8,11 @@ use-site-title: true
 
 ### Talk
 
-*  I am my bl ndspot, Tedx Talk, Som Phene, TEDxYouth@RNPodar [Bl nd (Youtube)](https://youtu.be/KlgthCFK0Vw), July 17, 2021.
+* I am my bl ndspot, TEDx Talk, Som Phene, TEDxYouth@RNPodar [Bl nd (Youtube TEDx)](https://youtu.be/KlgthCFK0Vw), July 17, 2021.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KlgthCFK0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-* Loss and Recovery, UM Physics Graduate Student Symposium, Som Phene, July 29 2021.
+* [Loss and Recovery, UM Physics Graduate Student Symposium, Som Phene, July 29 2021](https://youtu.be/37NYLw2aepU).
   <iframe width="560" height="315" src="https://www.youtube.com/embed/37NYLw2aepU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Complex Dynamics of Self Maps, MREG upcoming. 
@@ -30,6 +30,10 @@ use-site-title: true
 
 ### Worskhops
 * [Geometric Ananlysis](https://www.atmschools.org/school/2019/ais/ga), IIT Bombay, 9 Dec 2019 to 28 Dec 2019. This AIS aims to address a range of topics that illustrate the interplay of analysis and geometry / topology in the broad sense, with particular emphasis on the Yamabe problem.
+
+### Summer of Science(SoS, IITB)
+
+* Counting <iframe src="https://drive.google.com/file/d/1AEF5B2kHmSATK2LxwhXOiWd9IomE7Sxt/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ### Undergraduate Seminars and Talks
 
