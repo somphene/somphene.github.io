@@ -7,9 +7,9 @@ use-site-title: true
 ---
 Notes that are currently being written may be found linked [here](https://somphene.github.io/log/)
 
-| I | Name | Surname | Con | pdf | ReC | ReE |
+| I | Name | Surname | C | pdf | ReC | ReE |
 |-------|--------|---------|---------|---------|---------|---------|
-| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity, Shearer Lemma | [04042021I.pdf](https://drive.google.com/file/d/1l0TGa_igfPLEuuKR3wcL4Le96pV7Kmx9/view?usp=sharing) | ReC | ReE |
+| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity, Shearer Lemma | [04042021I.pdf](https://drive.google.com/file/d/1l0TGa_igfPLEuuKR3wcL4Le96pV7Kmx9/view?usp=sharing) | [Google drive link to rec.webm](https://drive.google.com/file/d/1AEF5B2kHmSATK2LxwhXOiWd9IomE7Sxt/view?usp=sharing) | ReE |
 | MA 403 | Real Analysis | Sanjoy Pushti . IITB | Completeness Axiom, Ordered Field, Metric Space, Bolzano-Weierstrass, Heine-Borel, Continuity, Uniform Continuity  | [29062019.pdf](https://drive.google.com/file/d/1l-UONG02C1mHPHpqfr6DLZJJnocMJCFZ/view?usp=sharing) | ReC | ReE |
 | QFTSU21 | I Integral | Som Phene | Ordinary Differential Equation, Conservation | [pdf](https://drive.google.com/file/d/1fadWhY2ywD9FeQTiSdGZzrEk35RzNFWv/view?usp=sharing) | ReC | ReE |
 
