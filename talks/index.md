@@ -13,6 +13,7 @@ use-site-title: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KlgthCFK0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * [Loss and Recovery, UM Physics Graduate Student Symposium, Som Phene, July 29 2021](https://youtu.be/37NYLw2aepU).
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/37NYLw2aepU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 * Complex Dynamics of Self Maps, MREG upcoming. 
