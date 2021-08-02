@@ -42,3 +42,7 @@ Please find linked:
 - Counting Axiom of Choice
   - [2019.08.02 Som Phene . Prof. Sanjoy Pushti - Dept. of Mathematics, IIT Bombay - Finite, Countable, Uncountable](https://drive.google.com/file/d/1cQkJjpGX8BeYTUtFSZhYONLSvqv74OAa/view?usp=sharing)
   - [2012.02.05 Thomas Forester - Philosophy Department University of Auckland - Axiom of Choice and Inference to the Best Explanation](https://drive.google.com/file/d/1mKDWZtPDHjVm-hiB2LDaYRtuCBA6WkNJ/view?usp=sharing)
+
+### R
+
+- Prakhar suggests Introduction to Probability Models by Sheldon Ross.
