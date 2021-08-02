@@ -8,7 +8,7 @@ use-site-title: true
 
 ### Talk
 
-* I am my bl ndspot, TEDx Talk, Som Phene, TEDxYouth@RNPodar [Bl nd (Youtube TEDx)](https://youtu.be/KlgthCFK0Vw), July 17, 2021. [Official TED website link] (https://www.ted.com/talks/som_phene_i_am_my_blindspot).
+* I am my bl ndspot, TEDx Talk, Som Phene, TEDxYouth@RNPodar [Bl nd (Youtube TEDx)](https://youtu.be/KlgthCFK0Vw), July 17, 2021. [Official TED website link](https://www.ted.com/talks/som_phene_i_am_my_blindspot).
 
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KlgthCFK0Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
