@@ -18,7 +18,7 @@ use-site-title: true
 
 * Complex Dynamics of Self Maps, MREG upcoming. 
 
-* [Loss and Recovery, SIAM Student mini-Symposium, Som Phene](https://drive.google.com/file/d/1Z0q3km0xNKjatiblnLu4Ju8qqy703PJI/view?usp=sharing), July 16, 2021. [Slides](https://drive.google.com/file/d/1TG6BdoGZwrhRE3DQgNxBzZwIHtl8Dfa2/view?usp=sharing)  
+* [Loss and Recovery, SIAM Student mini-Symposium, Som Phene](https://drive.google.com/file/d/1Z0q3km0xNKjatiblnLu4Ju8qqy703PJI/view?usp=sharing), July 16, 2021. [Slides](https://drive.google.com/file/d/1TG6BdoGZwrhRE3DQgNxBzZwIHtl8Dfa2/view?usp=sharing), [Handwritten Note](https://drive.google.com/file/d/1nskOp3LuJqjLlFCSjx_YbaimMmrHNhj4/view?usp=sharing).  
 
 ### Student Seminar @ Mathematics (SS@M), IIT Bombay
 
