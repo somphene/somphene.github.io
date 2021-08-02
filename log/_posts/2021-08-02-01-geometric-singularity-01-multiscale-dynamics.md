@@ -42,9 +42,9 @@ For $$a$$ and $$\epsilon$$ (small) positive constants,
 $$ \begin{align}
   \dot{x} &= x - \frac{x^3}{3} + y \quad \textrm{fast}\\
   \dot{y} &= \epsilon \cdot (a - x) \quad \textrm{slow}
-\emd{align}
+\end{align}
 $$
-There is a unique equilibrium point $$p \defeq (a, \frac{a^3}{3})$$ with Jacobian and eigenvalues $$ \lambda = \frac{(1-a^2) \pm ((a^2-1)^2-4\cdot \epsilon)^{\frac{1}{2}}}{2}
+There is a unique equilibrium point $$p := (a, \frac{a^3}{3})$$ with Jacobian and eigenvalues $$ \lambda = \frac{(1-a^2) \pm ((a^2-1)^2-4\cdot \epsilon)^{\frac{1}{2}}}{2}$$
 - Along cubic: differentio-algebraic
 - Away from cubic: parameter
 
