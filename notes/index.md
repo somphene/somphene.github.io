@@ -13,11 +13,13 @@ Notes that are currently being written may be found linked [here](https://somphe
 
 <div class="datatable-begin"></div>
 
-| I | Name | Surname | C | pdf | ReC | ReE | c |
-|-------|--------|---------|--------------|---------|---------|---------|---------|
-| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity, Shearer Lemma | [04042021I.pdf](https://drive.google.com/file/d/1l0TGa_igfPLEuuKR3wcL4Le96pV7Kmx9/view?usp=sharing) | [Google drive link to rec.webm](https://drive.google.com/file/d/1AEF5B2kHmSATK2LxwhXOiWd9IomE7Sxt/view?usp=sharing) | ReE | c |
-| MA 403 | Real Analysis | Sanjoy Pushti . IITB | Completeness Axiom, Ordered Field, Metric Space, Bolzano-Weierstrass, Heine-Borel, Continuity, Uniform Continuity  | [29062019.pdf](https://drive.google.com/file/d/1l-UONG02C1mHPHpqfr6DLZJJnocMJCFZ/view?usp=sharing) | ReC | ReE | c |
-| QFTSU21 | I Integral | Som Phene | Ordinary Differential Equation, Conservation | [pdf](https://drive.google.com/file/d/1fadWhY2ywD9FeQTiSdGZzrEk35RzNFWv/view?usp=sharing) | ReC | ReE | c |
+| I | Name | Sname | C | pdf | c |
+|-------|--------|---------|--------------|---------|---------|
+| I | Bl nd | Som Phene | I | [Bl nd.pdf](https://drive.google.com/file/d/1-oHYaIvfcTZ9y_1kbynaQtIi_5SKikiT/view?usp=sharing) | c |
+| I | Counting | Som Phene . Prakhar Patel | Blind, Number, Entropy, Subadditivity, Shearer Lemma | [04042021I.pdf](https://drive.google.com/file/d/1l0TGa_igfPLEuuKR3wcL4Le96pV7Kmx9/view?usp=sharing) | c |
+| MA 403 | Real Analysis | Sanjoy Pushti . IITB | Completeness Axiom, Ordered Field, Metric Space, Bolzano-Weierstrass, Heine-Borel, Continuity, Uniform Continuity  | [29062019.pdf](https://drive.google.com/file/d/1l-UONG02C1mHPHpqfr6DLZJJnocMJCFZ/view?usp=sharing) | c |
+1.2| Probability Theory | Tasho Kaletha. Som Phene | Kolmogorov Axiom | [01092020.pdf](https://drive.google.com/file/d/1tbRFRsjHwlhHnjXyvPIdhQEr83T6FwFK/view?usp=sharing) | c |
+| QFTSU21 | I Integral | Som Phene | Ordinary Differential Equation, Conservation | [pdf](https://drive.google.com/file/d/1fadWhY2ywD9FeQTiSdGZzrEk35RzNFWv/view?usp=sharing) |  c |
 
 <div class="datatable-end"></div>
 
