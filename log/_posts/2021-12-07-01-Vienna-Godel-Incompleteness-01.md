@@ -49,11 +49,11 @@ Let us try to enocde the statement in Liar Paradox using minimum symbols.
  * For the negation of a property, let negation be denoted by $$\neg$$ and property be denoted by $$P$$. 
  * Given that $$\neg P$$ is a part of the statement, the other part must contain this in order to self refer to the whole sentence.
  * Candidate statement: $$\neg P \neg P$$ does not refer to itself because even though there is self similarity in between the two parts, there is no part of the statement which refers to the whole statement.
- * By defining a contraction of the two self-similar parts, we can have one of the parts recover the whole statement.  Let the inverse of this operation be denoted by the mirror symbol: $$ | $$. Operationally: $$ | X  \defeq  X | X $$.
+ * By defining a contraction of the two self-similar parts, we can have one of the parts recover the whole statement.  Let the inverse of this operation be denoted by the mirror symbol: $$ \vert $$. Operationally: $$ \vert X  \defeq  X \vert X $$.
  * Note that the candidate statement $$\neg P ___ \neg P$$ must be constrained to preserve this self similarity and also be minimal: any asymmetric statement of the form $$\|not P X Y \|not P$$ would not work since any asymmetry can be removed to keep it minimal.
- * Minimal statement: $$\neg P | \neg P$$
-   * Asserts $$| \neg P$$ is $$\neg P$$.
-   * By mirror operation: $$\neg P | \neg P$$ is $$\neg P$$.
+ * Minimal statement: $$\neg P \vert \neg P$$
+   * Asserts $$\vert \neg P$$ is $$\neg P$$.
+   * By mirror operation: $$\neg P \vert \neg P$$ is $$\neg P$$.
    * Asserts "This statment is $$\neg P$$".
    
    
