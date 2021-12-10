@@ -49,8 +49,8 @@ Let us try to enocde the statement in Liar Paradox using minimum symbols.
  * For the negation of a property, let negation be denoted by $$\neg$$ and property be denoted by $$P$$. 
  * Given that $$\neg P$$ is a part of the statement, the other part must contain this in order to self refer to the whole sentence.
  * Candidate statement: $$\neg P \neg P$$ does not refer to itself because even though there is self similarity in between the two parts, there is no part of the statement which refers to the whole statement.
- * By defining a contraction of the two self-similar parts, we can have one of the parts recover the whole statement.  Let the inverse of this operation be denoted by the mirror symbol: $$ \vert $$. Operationally: $$ \vert X  \defeq  X \vert X $$.
- * Note that the candidate statement $$\neg P ___ \neg P$$ must be constrained to preserve this self similarity and also be minimal: any asymmetric statement of the form $$\|not P X Y \|not P$$ would not work since any asymmetry can be removed to keep it minimal.
+ * By defining a contraction of the two self-similar parts, we can have one of the parts recover the whole statement.  Let the inverse of this operation be denoted by the mirror reflection symbol: $$ \vert $$. Operationally the input to the mirror operator is reflected out: $$ \vert X  = X \vert X $$.
+ * Note that the candidate statement $$\neg P __ \neg P $$ must be constrained to preserve this self similarity and also be minimal: any asymmetric statement of the form $$\neg P X Y \neg P$$ would not work since one part must contain the other for self reference and any asymmetry in the larger part can be removed to keep it minimal. 
  * Minimal statement: $$\neg P \vert \neg P$$
    * Asserts $$\vert \neg P$$ is $$\neg P$$.
    * By mirror operation: $$\neg P \vert \neg P$$ is $$\neg P$$.
