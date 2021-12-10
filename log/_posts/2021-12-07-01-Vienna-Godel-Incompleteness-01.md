@@ -54,9 +54,8 @@ Let us try to enocde the statement in Liar Paradox using minimum symbols.
  * Minimal statement: $$\neg P \vert \neg P$$
    * Asserts $$\vert \neg P$$ is $$\neg P$$.
    * By mirror operation: $$\neg P \vert \neg P$$ is $$\neg P$$.
-   * Asserts "This statment is $$\neg P$$".
-   
-   
+   * Asserts "This statment is $$\neg P$$". 
+
 ### Application 
 
 Jeff Paris and Leo Harrington (1977) showed that the strengthened finite Ramsey theorem is unprovable in Peano arithmetic by showing that in Peano arithmetic it implies the consistency of Peano arithmetic itself. 
