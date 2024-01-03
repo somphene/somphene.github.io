@@ -23,7 +23,7 @@ tags: [University, of, Michigan, Morelli, Phillip Augustus Griffiths IV, Mark, G
 - Gross Wilson metric convergence
 
 ### Homology
-- Compute homology of a tetrahedron.
+- Compute homology of a tetrahedron, Maeyer Vietoris sequence.
 - Compute homology as the elliptic fibration converges to the singular tetrahedron in $$P_3$$.
 - If elliptic curves intersect on convergence, it says something about the square but in homology should not show any difference in the entire family?
 - Do we see an integrable system? Local system?
