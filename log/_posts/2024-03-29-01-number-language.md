@@ -19,5 +19,5 @@ Find a number such that adding 3 to it gives 8
       $$x = 5$$                                  |         $$1  = 5$$    
 
 
-   
+In the standard solution we obtain $$x=5$$ as the solution. In the solution we propose the best offer of what we already started with $$1$$ gives us a contradiction. However, in the process of non-invasive testing the offer $$1$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$1$$ with $$5$$. Hence giving us the same answer.    
  
