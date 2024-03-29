@@ -14,8 +14,10 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 
  -  Find a number such that adding 3 to it gives 8
      Let there be $$x$$                          | Let's start with what we have: the best offer $$1$$
-      $$x +3 = 8$$                               |         $$1 +3 = 8$$    
+      $$x +3 = 8$$                               |         $$1 +3 = 8$$
+     $$x +3 = 5+3$$                               |         $$1 +3 = 5+3$$
+      $$x = 5$$                                  |         $$1  = 5$$    
 
 
- 
+   
  
