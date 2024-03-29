@@ -16,10 +16,10 @@ Find a number such that adding 3 to it gives 8
 Standard Solution    |Proposed Solution                        
 --------------------------- | ------------------------------------- 
 Let there be $$x$$                     | Let's start with what we have: the best offer $$1$$
-      $$x +3 = 8$$                               |         $$1 +3 = 8$$
-     $$x +3 = 5+3$$                               |         $$1 +3 = 5+3$$
-      $$x = 5$$                                  |         $$1  = 5$$   
-      Hence $$5$$ is the solution                |         Hence the offer $$1$$ does not satisfy the requirement. However the inequality $$1 \neq 5$$ can be turned to an equality by exchanging $$5$$ for the offer $$1$$
+      $$x +3 = 8$$                     |         $$1 +3 = 8$$
+     $$x +3 = 5+3$$                    |         $$1 +3 = 5+3$$
+      $$x = 5$$                        |         $$1  = 5$$   
+      Hence $$5$$ is the solutio       |         Hence the offer $$1$$ does not satisfy the requirement. However the inequality $$1 \neq 5$$ can be turned to an equality by exchanging $$5$$ for the offer $$1$$
 
 
 In the standard solution we obtain $$x=5$$ as the solution. In the solution we propose the best offer of what we already started with $$1$$ gives us a contradiction. However, in the process of non-invasive testing the offer $$1$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$1$$ with $$5$$. Hence giving us the same answer.    
