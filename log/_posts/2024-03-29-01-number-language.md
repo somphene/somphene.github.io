@@ -20,5 +20,4 @@ Let's start with what we have: the best offer $$224$$
  Hence the offer $$2224$$ does not satisfy the requirement. Please consider that the inequality $$2224 \neq 5$$ would only be an equality if the offer $$2224$$ is exchanged with $$5$$.
 
 
-In the solution we propose, the best offer of what we already started with $$2224$$ gives us a contradiction. However, in the process of non-invasive testing the offer $$2224$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$2224$$ with $$5$$. Hence giving us the same answer.    
- 
+In the solution we propose, the best offer of what we already started with $$2224$$ gives us a contradiction. In the process of non-invasive testing to see if the offer $$2224$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$2224$$ with $$5$$.
