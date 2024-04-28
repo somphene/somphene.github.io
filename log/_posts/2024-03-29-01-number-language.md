@@ -25,3 +25,16 @@ $$
 
 
 In the solution we propose, the best offer of what we already started with $$2224$$ gives us a contradiction. In the process of non-invasive testing to see if the offer $$2224$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$2224$$ with $$5$$.
+
+
+$$
+\begin{array} {|c|c|c|}
+\hline 
+  \cdot & E & I \\ 
+\hline
+  E & E & I \\ 
+\hline 
+  I & I & E \\ 
+\hline
+\end{array}
+$$
