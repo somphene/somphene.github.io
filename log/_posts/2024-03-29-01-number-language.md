@@ -25,7 +25,7 @@ $$
 \hline
  2224 +3 = 5+3  & 2224 +3 = 5+3\\
  \hline
- x +3 -3= 5+3-3  & (2224 = 5) | +3\,\,\textrm{on both sides}\\
+ x +3 -3= 5+3-3  & (2224 = 5) | +3\,\,\textrm{Celebrate similarity on both sides}\\
  \hline
  x +0 = 5  & \\
  \hline
