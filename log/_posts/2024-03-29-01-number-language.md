@@ -18,7 +18,7 @@ $$
 \hline 
   Standard  & Proposal  \\ 
 \hline
- \mathrm{Let there be}\,\, x &   \mathrm{we offer our best}\,\, $$2224$$\\ 
+ \mathrm{Let there be}\,\, x &   \mathrm{we offer our best}\,\, 2224\\ 
 \hline 
  x+3 =8 & 2224 +3 = 8 \\ 
 \hline
@@ -33,11 +33,5 @@ $$
 $$ 
 
  Hence the offer $$2224$$ does not satisfy the requirement. Please consider that the inequality $$2224 \neq 5$$ would only be an equality if the offer $$2224$$ is exchanged with $$5$$.
-
-
 In the propsal, the best offer of what we already started with $$2224$$ gives us a contradiction. In the process of non-invasive testing to see if the offer $$2224$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$2224$$ with $$5$$.
 
-
-
-
-Hence the offer $$2224$$ does not satisfy the requirement. Please consider that the inequality $$2224 \neq 5$$ would only be an equality if the offer $$2224$$ is exchanged with $$5$$.
