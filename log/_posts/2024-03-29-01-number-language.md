@@ -18,7 +18,7 @@ $$ \begin{align}
        2224 +3 &= 8 \\
      2224 +3 &= 5+3\\
        2224  &= 5  
-       \rnd{align}
+       \end{align}
 $$
        
  Hence the offer $$2224$$ does not satisfy the requirement. Please consider that the inequality $$2224 \neq 5$$ would only be an equality if the offer $$2224$$ is exchanged with $$5$$.
@@ -28,13 +28,13 @@ In the solution we propose, the best offer of what we already started with $$222
 
 
 $$
-\begin{array} {|c|c|c|}
+\begin{array} {|c|c|}
 \hline 
-  \cdot & E & I \\ 
+  Standard Solution & Proposed Solution  \\ 
 \hline
-  E & E & I \\ 
+ E & I \\ 
 \hline 
-  I & I & E \\ 
+  I & E \\ 
 \hline
 \end{array}
 $$
