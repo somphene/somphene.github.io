@@ -42,6 +42,6 @@ $$
  \hline
  x +0 = 5  & \\
  \hline
- x &= 5 & 5 is the exchange which makes the equality\\
+ x = 5 & 5 is the exchange which makes the equality\\
 \end{array}
 $$
