@@ -38,7 +38,7 @@ In the propsal, the best offer of what we already started with $$2224$$ gives us
 
 ### Identity (To be or not to be?) 
 
-Proposal goes through without having to introduce the notion of any placeholder. The notion of a variable as a placeholder is also the notion of the identity element $$0$$. HThese are bypassed and so is the notion of an inverse: negative numbers. Instead we introduce the notion of outer number. Outer number may be thought of as an exchange. 
+Proposal goes through without having to introduce the notion of any placeholder. The notion of a variable as a placeholder is also the notion of the identity element $$0$$. Each placeholder is bypassed by a distinguished element. Hence there is never the need of an inverse: negative numbers. Instead we introduce the notion of outer number. Outer number may be thought of as an exchange. 
 
 ### Conclusion
 
@@ -46,7 +46,7 @@ The notion of a variable may be used as an intermediate. The proposal is a direc
 
 ### Implication
 
-We encourage a direct way to Mathematics all as a whole. This means working with positive counting objects.
+We encourage a direct way to Mathematics all as a whole. This means working directly together with the objects. Introducing new symbols may be done if necessary, however keeping the base of reality constantly is our proposal.
 
 
 
