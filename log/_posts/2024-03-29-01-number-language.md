@@ -14,9 +14,13 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 
 Find a number such that adding 3 to it gives 8
 Let's start with what we have: the best offer $$224$$
-       $$2224 +3 = 8$$
-     $$2224 +3 = 5+3$$
-       $$2224  = 5$$   
+$$ \begin{align}
+       2224 +3 &= 8 \\
+     2224 +3 &= 5+3\\
+       2224  &= 5  
+       \rnd{align}
+$$
+       
  Hence the offer $$2224$$ does not satisfy the requirement. Please consider that the inequality $$2224 \neq 5$$ would only be an equality if the offer $$2224$$ is exchanged with $$5$$.
 
 
