@@ -18,7 +18,7 @@ $$
 \hline 
   Standard  & Proposal  \\ 
 \hline
- \mathrm{Let there be}\,\, x &   \mathrm{we offer our best}\,\, 2224\\ 
+ \textrm{Let there be}\,\, x &   \textrm{we offer our best}\,\, 2224\\ 
 \hline 
  x+3 =8 & 2224 +3 = 8 \\ 
 \hline
@@ -28,7 +28,7 @@ $$
  \hline
  x +0 = 5  & \\
  \hline
- x = 5 & 5  \mathrm{is the exchange which makes the equality}\\
+ x = 5 & 5  \textrm{is the exchange which makes the equality}\\
 \end{array}
 $$ 
 
