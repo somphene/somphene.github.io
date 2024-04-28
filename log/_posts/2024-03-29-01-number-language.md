@@ -32,9 +32,16 @@ $$
 \hline 
   Standard Solution & Proposed Solution  \\ 
 \hline
- E & I \\ 
+ Let there be x & \\ 
 \hline 
-  I & E \\ 
+ x+3 =8 & 2224 +3 = 8 \\ 
 \hline
+ 2224 +3 = 5+3  & 2224 +3 = 5+3\\
+ \hline
+ x +3 -3= 5+3-3  & (2224 = 5) | +3\\
+ \hline
+ x +0 = 5  & \\
+ \hline
+ x &= 5 & 5 is the exchange which makes the equality\\
 \end{array}
 $$
