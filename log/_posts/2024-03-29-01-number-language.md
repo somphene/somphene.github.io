@@ -27,7 +27,7 @@ $$
  \hline
  x +3 -3= 5+3-3  & (2224 = 5) | +3\,\,\textrm{Celebrate similarity on both sides}\\
  \hline
- x +0 = 5  & \\
+ x +0 = 5 +0 & \\
  \hline
  x = 5 & 5 \,\, \textrm{is the exchange which makes the equality}\\
 \end{array}
