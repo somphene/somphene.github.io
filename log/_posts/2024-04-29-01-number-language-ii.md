@@ -12,6 +12,6 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 ### Abstract
  Propose conservative flow. Factoring celebrates similarity in both parts. 
 
- ### Positive
+### Positive
 
- Positive numbers. 
+ Positive number. Inner number. Outer number.
