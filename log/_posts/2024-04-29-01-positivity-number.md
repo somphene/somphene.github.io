@@ -30,7 +30,7 @@ $$
  \hline
  x +0 = 5 +0 & \\
  \hline
- x = 5 & 5 \,\, \textrm{to the base 3 makes the equality}\\
+ x = 5 & 5 \,\, \textrm{to the base three makes the equality}\\
 \end{array}
 $$ 
 
