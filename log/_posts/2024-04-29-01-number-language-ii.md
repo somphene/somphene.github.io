@@ -32,6 +32,7 @@ $$
  x = 5 & 5 \,\, \textrm{to the base $$3$$ makes the equality}\\
 \end{array}
 $$ 
+
 Here, please may we note how subtraction or annihilation of terms that are common on both sides may be reinterpreted as a celebration of similarities on both sides by elevating the similarity to a common ground. This encourages the notion of a base number. This moreover keeps the solution conservative in that each number provided in the question is directly maintained face to face contact with until the very end. The solution is read as a pair of numbers: $$5$$ to the base $$3$$.
 
 ### Positive
