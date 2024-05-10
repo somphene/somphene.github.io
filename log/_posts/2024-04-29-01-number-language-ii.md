@@ -14,6 +14,7 @@ Partitions are funny: we may look at two distinct objects while being the same u
 
 ### New Look at the Subtraction in Standard Question
 Find a number such that adding $$3$$ to it gives $$8$$
+Please may we consider newly:
 $$
 \begin{array} {|c|c|}
 \hline 
