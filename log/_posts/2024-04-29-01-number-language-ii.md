@@ -13,7 +13,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 Partitions are funny: we may look at two distinct objects while being the same unique observer. From the previous poost, please may we have a new look at the conservative flow solving the question. Please may we consider factoring to celebrate similarity in both parts. 
 
 ### New Look at the Subtraction in Standard Question
-Find a number such that adding 3 to it gives 8
+Find a number such that adding $$3$$ to it gives $$8$$
 $$
 \begin{array} {|c|c|}
 \hline 
