@@ -13,7 +13,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 Please consider the language of Mathematics as representing an object such as an apple. Counting of apples grew to construction of natural numbers. This expanded to operations like addition and multiplication of numbers, preparing the ground for the birth of algebra. At some point, solving inverse problems in arithmetic, a higher notion of a variable was invented. A variable is now taken to be part of the standard language of mathematics including Algebra and Logic. Here we display a new number language independent of variables. In particular, it bypasses, the notion of an intermediate placeholder, by simply making the best offer of the particular number found by concatenating all given ones. For logic, this means being quatifier free.
 
 ### New Look at the Standard Question
-Find a number such that adding 3 to it gives 8
+Find a number such that adding $$3$$ to it gives $$8$$
 $$
 \begin{array} {|c|c|}
 \hline 
