@@ -19,7 +19,7 @@ $$
 \hline 
   Standard  & New  \\ 
 \hline
- \textrm{Let there be}\,\, x &   \textrm{we offer our best}\,\, 38\\ 
+ \textrm{Let there be}\,\, x &   \textrm{Please may we offer our best}\,\, 38\\ 
 \hline 
  x+3 =8 & 38 +3 = 8 \\ 
 \hline
@@ -45,7 +45,7 @@ The notion of a variable may be used as an intermediate. The new method is a dir
 
 ### Implication
 
-We encourage a direct way to Mathematics all as a whole. This means working directly together with the objects. Introducing new symbols may be done if necessary, however keeping the base of reality constantly is our proposal.
+We encourage a direct way to Mathematics all as a whole. This means working directly together with the objects. Introducing new symbols may be done if necessary, however keeping the base of reality constantly is our new honest suggestion.
 
 
 
