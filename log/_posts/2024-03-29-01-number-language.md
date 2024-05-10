@@ -2,7 +2,7 @@
 layout: post
 blog-category: blog
 published: true
-title: Number Language Proposal for Algebra
+title: Facing Numbers 
 author: Som Phene 
 tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
 ---
@@ -10,22 +10,22 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 ### Language of Mathematics
 
 ### Abstract
- The language of Mathematics represents an object such as an apple. Counting of apples grew to construction of natural numbers. This expanded to operations like addition and multiplication of numbers, preparing the ground for the birth of algebra. At some point, solving inverse problems in arithmetic a higher notion of a variable was invented. A variable is now taken to be part of the standard language of mathematics including Algebra and Logic. Here we propose an alternative number language, which is independent of variables. In particular, it bypasses, the notion of an intermediate placeholder, by simply making the best offer of a particular number.
+Please consider the language of Mathematics as representing an object such as an apple. Counting of apples grew to construction of natural numbers. This expanded to operations like addition and multiplication of numbers, preparing the ground for the birth of algebra. At some point, solving inverse problems in arithmetic, a higher notion of a variable was invented. A variable is now taken to be part of the standard language of mathematics including Algebra and Logic. Here we display a new number language independent of variables. In particular, it bypasses, the notion of an intermediate placeholder, by simply making the best offer of the particular number found by concatenating all given ones. For logic, this means being quatifier free.
 
-### Proposal Application
+### New Look at the Standard Question
 Find a number such that adding 3 to it gives 8
 $$
 \begin{array} {|c|c|}
 \hline 
-  Standard  & Proposal  \\ 
+  Standard  & New  \\ 
 \hline
- \textrm{Let there be}\,\, x &   \textrm{we offer our best}\,\, 2224\\ 
+ \textrm{Let there be}\,\, x &   \textrm{we offer our best}\,\, 38\\ 
 \hline 
- x+3 =8 & 2224 +3 = 8 \\ 
+ x+3 =8 & 38 +3 = 8 \\ 
 \hline
- 2224 +3 = 5+3  & 2224 +3 = 5+3\\
+ 2224 +3 = 5+3  & 38 +3 = 5+3\\
  \hline
- x +3 -3= 5+3-3  & (2224 = 5) | +3\,\,\textrm{Celebrate similarity on both sides}\\
+ x +3 -3= 5+3-3  & (38 = 5) | +3\,\,\textrm{Celebrate similarity on both sides}\\
  \hline
  x +0 = 5 +0 & \\
  \hline
@@ -33,16 +33,15 @@ $$
 \end{array}
 $$ 
 
- Hence the offer $$2224$$ does not satisfy the requirement. Please consider that the inequality $$2224 \neq 5$$ would only be an equality if the offer $$2224$$ is exchanged with $$5$$.
-In the propsal, the best offer of what we already started with $$2224$$ gives us a contradiction. In the process of non-invasive testing to see if the offer $$2224$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$2224$$ with $$5$$.
+Hence the offer $$38$$ effectively gives an equality by exchanging $$38$$ with $$5$$ or effectively reading $$38$$ to have the value $$5$$ to the base $$3$$ (outside). To summarize, in the new way, the best offer of what we already started with $$38$$ gives us a contradiction. In the process of non-invasive testing to see if the offer $$38$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$38$$ with $$5$$.
 
 ### Identity (To be or not to be?) 
 
-Proposal goes through without having to introduce the notion of any placeholder. The notion of a variable as a placeholder is also the notion of the identity element $$0$$. Each placeholder is bypassed by a distinguished element. Hence there is never the need of an inverse: negative numbers. Instead we introduce the notion of outer number. Outer number may be thought of as an exchange. 
+New method celebrates directly being face to face with numbers without having to introduce the notion of any placeholder. Further please may we notice that the notion of a variable as a placeholder is also the notion of the identity element $$0$$. Each placeholder is bypassed by a distinguished element. Hence there is never the need of an inverse: negative numbers. Instead we introduce the notion of outer number. Please may an Outer number be interpreted as an exchange. 
 
 ### Conclusion
 
-The notion of a variable may be used as an intermediate. The proposal is a direct way of doing the same question. Moreover, practically, an immediate solution is provided: the best number that is offered $$22224$$. The only symbols involved in the proposal are arithmetic. 
+The notion of a variable may be used as an intermediate. The new method is a direct way of doing the same question. Moreover, practically, an immediate solution is provided: the best number that is offered $$38$$. The only symbols involved in the proposal are arithmetic. 
 
 ### Implication
 
