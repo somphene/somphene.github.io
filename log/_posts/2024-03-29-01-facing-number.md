@@ -4,7 +4,7 @@ blog-category: blog
 published: true
 title: Facing Numbers 
 author: Som Phene 
-tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
+tags: [Number, Language, Structure, Knowledge, Representation, Rigid, Calculus, Abstract, Record, Theory, Practice, Communication, Interpretation] 
 ---
 
 ### Language of Mathematics
@@ -34,6 +34,8 @@ $$
 $$ 
 
 Hence the offer $$38$$ effectively gives an equality by exchanging $$38$$ with $$5$$ or effectively reading $$38$$ to have the value $$5$$ to the base $$3$$ (outside). To summarize, in the new way, the best offer of what we already started with $$38$$ gives us a contradiction. In the process of non-invasive testing to see if the offer $$38$$ meets the requirement, we find that the requirement would have been satisfied if and only if we exchange the offer $$38$$ with $$5$$.
+
+
 
 ### Identity (To be or not to be?) 
 
