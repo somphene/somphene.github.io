@@ -4,7 +4,7 @@ blog-category: blog
 published: true
 title: Facing Numbers to Square
 author: Som Phene 
-tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, Fluid, Temperature, Differentiation, Condensation, Integration, Evaporation, Phase, Degrees of Freedom, Constraints, Symmetry, Reflection, Approximate, Exact, Analysis, Time, Language of Languages, Thermodynamics, Calculus, Abstract, Record, Theory, Practice, Communication, Misrepresentation, Compression, Interpretation] 
+tags: [Number, Language, Structure, Knowledge, Representation, Rigid, Calculus, Abstract, Record, Theory, Practice, Communication, Interpretation] 
 ---
 
 ### New Look at the Square Question
@@ -44,7 +44,7 @@ $$
 \hline
  x^2-4 =4-4  &  44^2=2^2\\
  \hline
- (x +2)(x-2)= 0  & 44 = 2 | ^2 \,\,\textrm{Celebrating similarity of squaring on both sides} \\
+ (x +2)(x-2)= 0  & 44 = 2 \,\, | ^2 \,\,\textrm{Celebrating similarity of squaring on both sides} \\
  \hline
  x +2 =0 \,\,\textrm{or} x-2= 0 &   \\
  \hline
