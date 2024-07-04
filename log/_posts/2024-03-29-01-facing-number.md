@@ -23,7 +23,7 @@ $$
 \hline 
  x+3 =8 & 38 +3 = 8 \\ 
 \hline
- 2224 +3 = 5+3  & 38 +3 = 5+3\\
+ x +3 = 5+3  & 38 +3 = 5+3\\
  \hline
  x +3 -3= 5+3-3  & (38 = 5) | +3\,\,\textrm{Celebrate similarity on both sides}\\
  \hline
