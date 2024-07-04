@@ -10,7 +10,7 @@ tags: [Language, Structure, Duality, Knowledge, Representation, Rigid, Entropy, 
 ### Language of Mathematics
 
 ### Abstract
-Partitions are funny: we may look at two distinct objects while being the same unique observer. From the previous poost, please may we have a new look at the conservative flow solving the question. Please may we consider factoring to celebrate similarity in both parts. 
+Partitions are to be considered: we may look at two distinct objects while being the same unique observer. From the previous post, please may we have a new look at the conservative flow solving the question. Please may we consider factoring to celebrate similarity in both parts. 
 
 ### New Look at the Subtraction in Standard Question
 Find a number such that adding $$3$$ to it gives $$8$$
