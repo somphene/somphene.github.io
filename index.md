@@ -35,6 +35,5 @@ Currently [writing](https://somphene.github.io/log/list/).
 * Updates, Notes, resources, tutorials [posted naturally](https://somphene.github.io/log/).
 * लोग क्या कहते है
 
-
 ---
 
