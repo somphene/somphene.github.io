@@ -4,7 +4,6 @@ title: Home
 subtitle: 
 use-site-title: true
 image: img/me.jpg
----
 
 ## Identity
 
@@ -37,5 +36,5 @@ Currently [writing](https://somphene.github.io/log/list/).
 * लोग क्या कहते है
 
 
-
+---
 
