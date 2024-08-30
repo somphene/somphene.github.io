@@ -4,7 +4,7 @@ title: Research
 subtitle: 
 use-site-title: true
 
----
+
 
 ## Research Identity
 
@@ -120,4 +120,4 @@ Seeing the following sources:
 * [Uncertainty through Fourier transforms](https://en.wikipedia.org/wiki/Fourier_transform#Uncertainty_principle)
 
 * Defining Measure for Feynman Path Integrals through [Fourier Transform on Compact Groups](https://en.wikipedia.org/wiki/Fourier_transform#Locally_compact_abelian_groups)
-
+---
