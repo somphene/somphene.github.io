@@ -5,7 +5,7 @@ subtitle:
 use-site-title: true
 datatable: true
 
----
+
 Notes that are currently being written may be found linked [here](https://somphene.github.io/log/)
 
 
@@ -128,7 +128,7 @@ Notes that are currently being written may be found linked [here](https://somphe
 * [Self Knowledge](https://docs.google.com/document/d/e/2PACX-1vRPpKV5OeUkmQbk2BhSRDwC9a5MkLFjSdGRdM8304k_fDC4ViWjmuojSmz7kzAbSDRixABoOaYE4YuF/pub)
 * [Movie funding argument](https://docs.google.com/document/d/e/2PACX-1vSphcZZjkQoO8m0L77L_akbk7JgFNKInMaMvChy3RLHI4o2WL8XwIPTNNvkWahQ0C-YABUNhMuRgrcp/pub)
 * [Illegal Immigrants argument](https://docs.google.com/document/d/e/2PACX-1vRrSrKS3hk5pdqozqykMfaAbpDG0n5oPC1ZaP59ac9gk0GYkMg9iWPzUOxAUcihlCcMXjioiMWZ4eJY/pub)
-
+---
 
 
 
